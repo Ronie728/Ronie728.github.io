@@ -1,0 +1,153 @@
+{
+  "updatedAt": "2026-09-15",
+  "lectures": [
+    { "id": "l01", "day": 1, "code": "EN 1002", "type": "Lecture", "start": "15:00", "end": "16:50", "room": "G5-214", "instructor": "", "note": "" },
+    { "id": "l02", "day": 1, "code": "PE 1911", "type": "Lecture", "start": "17:30", "end": "18:20", "room": "Gym (MPH) OBEY-104", "instructor": "", "note": "" },
+    { "id": "l03", "day": 2, "code": "MH 1302", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "ACS-418", "instructor": "", "note": "" },
+    { "id": "l04", "day": 2, "code": "CS 1302", "type": "Lecture", "start": "11:30", "end": "12:20", "room": "LIB-101", "instructor": "", "note": "" },
+    { "id": "l05", "day": 2, "code": "MH 1302", "type": "Tutorial", "start": "14:30", "end": "15:20", "room": "ACS-418", "instructor": "", "note": "" },
+    { "id": "l06", "day": 2, "code": "MH 1302", "type": "Tutorial", "start": "15:30", "end": "16:20", "room": "ACS-418", "instructor": "", "note": "" },
+    { "id": "l07", "day": 2, "code": "ME 1302", "type": "Lecture", "start": "16:30", "end": "17:20", "room": "LIB-101", "instructor": "", "note": "" },
+    { "id": "l08", "day": 2, "code": "GE 1503", "type": "Lecture", "start": "17:30", "end": "18:20", "room": "LIB-101", "instructor": "", "note": "" },
+    { "id": "l09", "day": 3, "code": "CS 1302", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "LIB-401", "instructor": "", "note": "" },
+    { "id": "l10", "day": 3, "code": "CS 1302", "type": "Tutorial", "start": "16:30", "end": "17:20", "room": "AC1-201", "instructor": "", "note": "" },
+    { "id": "l11", "day": 4, "code": "IF 1301", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "AC3-213", "instructor": "", "note": "" },
+    { "id": "l12", "day": 5, "code": "PHY 1201", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "AC5-038", "instructor": "", "note": "" },
+    { "id": "l13", "day": 5, "code": "PHY 1201", "type": "Lecture", "start": "14:00", "end": "14:50", "room": "ACS-318", "instructor": "", "note": "" },
+    { "id": "l14", "day": 5, "code": "PHY 1201", "type": "Tutorial", "start": "15:00", "end": "15:50", "room": "AC5-038", "instructor": "", "note": "" }
+  ],
+  "assignments": [
+    {
+      "id": "a1",
+      "course": "MH 1302",
+      "title": "Problem Set 2",
+      "due": "2026-09-14T23:59:00+08:00",
+      "dueTime": "23:59",
+      "canvasPath": "Canvas → MH 1302 → Assignments → Problem Set 2",
+      "canvasUrl": "#",
+      "note": "示例数据，接入 Canvas 后自动更新",
+      "done": false
+    },
+    {
+      "id": "a2",
+      "course": "GE 1503",
+      "title": "Reading Reflection 1",
+      "due": "2026-09-15T23:59:00+08:00",
+      "dueTime": "23:59",
+      "canvasPath": "Canvas → GE 1503 → Assignments → Reading Reflection 1",
+      "canvasUrl": "#",
+      "note": "",
+      "done": false
+    },
+    {
+      "id": "a3",
+      "course": "CS 1302",
+      "title": "Assignment 1",
+      "due": "2026-09-18T23:59:00+08:00",
+      "dueTime": "23:59",
+      "canvasPath": "Canvas → CS 1302 → Assignments → Assignment 1",
+      "canvasUrl": "#",
+      "note": "",
+      "done": false
+    },
+    {
+      "id": "a4",
+      "course": "ME 1302",
+      "title": "Lab Report 1",
+      "due": "2026-09-21T23:59:00+08:00",
+      "dueTime": "23:59",
+      "canvasPath": "Canvas → ME 1302 → Assignments → Lab Report 1",
+      "canvasUrl": "#",
+      "note": "",
+      "done": false
+    },
+    {
+      "id": "a5",
+      "course": "EN 1002",
+      "title": "Essay Draft Outline",
+      "due": "2026-09-28T23:59:00+08:00",
+      "dueTime": "23:59",
+      "canvasPath": "Canvas → EN 1002 → Assignments → Essay Draft Outline",
+      "canvasUrl": "#",
+      "note": "",
+      "done": false
+    }
+  ],
+  "emails": [
+    {
+      "id": "e1",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "职业发展中心",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": "交流快闪：华为计算研发部（Career Coaching）",
+      "snippet": "华为计算研发部技术专家提供一对一对职业指导，今天 15:00-17:30 在学术楼四座一楼学生事务中心，2027届毕业生为主，其他年级欢迎参加。",
+      "body": "活动形式为一对一咨询：深度交流岗位内容与技术方向、求职答疑（校招流程/要求/技能准备）、简历精准指导（强烈建议携带纸质简历）。报名：学生事务系统 → 日常事务 → 学生活动，或企业微信扫码。正式投递简历仍需通过华为招聘官网 career.huawei.com。语言：中文/英文。",
+      "eventTime": "9月15日（周二）15:00 - 17:30",
+      "location": "学术楼四座一楼 学生事务中心（AC4）",
+      "time": "17:44",
+      "receivedAt": "2026-09-14T17:44:37+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e2",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "Infohub 校园信息平台",
+      "senderEmail": "infohub@cityu-dg.edu.cn",
+      "subject": "电子通讯第94期：近期活动预告",
+      "snippet": "本周多项校园活动：OPPO 校招宣讲会（9/16）、迎新晚会与志愿者招募（9/19）、华为招聘推介会（9/23）等。",
+      "body": "近期活动：① OPPO x 港城莞 2027届全球校园招聘宣讲会：9月16日（周三）17:00-18:30，学术楼五座陈梓红报告厅 AC5-102；② Gala Night 迎新晚会主持人&节目&志愿者招募：9月19日（周六）19:00-21:30，图书馆中央平台；③ 2026年迎新晚会「城势而上 青春当燃」：9月19日（周六）19:00-21:00，图书馆中央平台；④ 华为 x 港城莞 2027届毕业生招聘粤港澳区域岗位推介会：9月23日（周三）14:00-17:00，AC5-102 及一楼大厅；⑤「爱在广东」民族团结进步教育作品征集：截止9月25日 17:30。另有心理咨询服务预约指南与本周餐厅菜单，详见 Infohub。",
+      "eventTime": "9月16日（周三）17:00 - 18:30",
+      "location": "AC5-102 等多个场地",
+      "time": "19:29",
+      "receivedAt": "2026-09-14T19:29:56+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e3",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "IT Service Desk",
+      "senderEmail": "it.servicedesk@cityu-dg.edu.cn",
+      "subject": "国家网络安全宣传周：校园网络安全注意事项提醒",
+      "snippet": "9月14日至20日为国家网络安全宣传周：请合规使用校园网络，禁止私自搭建 VPN 或违规跨境访问工具，注意保护账号信息安全。",
+      "body": "2026年9月14日至20日是国家网络安全宣传周。提醒：合规使用校园网络，禁止私自搭建 VPN 或使用违规的跨境网络访问工具，严禁在校园网内部署内网穿透、隧道穿透等工具；同时注意保护个人信息与账号安全。",
+      "eventTime": "",
+      "location": "",
+      "time": "21:40",
+      "receivedAt": "2026-09-14T21:40:22+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e4",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Canvas · EN 1002",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "New Discussion: Ideas for Independent Learning",
+      "snippet": "EN1002 课程发布了新讨论帖「Ideas for Independent Learning」，可前往 Canvas 参与交流。",
+      "body": "",
+      "eventTime": "",
+      "location": "",
+      "time": "22:20",
+      "receivedAt": "2026-09-14T22:20:23+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e5",
+      "category": "reply",
+      "needsReply": true,
+      "sender": "fjstjtbxgs",
+      "senderEmail": "fjstjtbxgs@163.com",
+      "subject": "来自fjstjtbxgs的邮件",
+      "snippet": "111111",
+      "body": "111111",
+      "eventTime": "",
+      "location": "",
+      "time": "18:14",
+      "receivedAt": "2026-09-14T18:14:59+08:00",
+      "mailUrl": "mailto:fjstjtbxgs@163.com"
+    }
+  ]
+}
