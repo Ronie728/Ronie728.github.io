@@ -1,76 +1,49 @@
 {
   "updatedAt": "2026-09-15",
+  "source": "lectures: SIS View My Classes (Semester A 2026/27, week of 2026-08-31) 逐条核对",
   "lectures": [
-    { "id": "l01", "day": 1, "code": "EN 1002", "type": "Lecture", "start": "15:00", "end": "16:50", "room": "G5-214", "instructor": "", "note": "" },
-    { "id": "l02", "day": 1, "code": "PE 1911", "type": "Lecture", "start": "17:30", "end": "18:20", "room": "Gym (MPH) OBEY-104", "instructor": "", "note": "" },
-    { "id": "l03", "day": 2, "code": "MH 1302", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "ACS-418", "instructor": "", "note": "" },
-    { "id": "l04", "day": 2, "code": "CS 1302", "type": "Lecture", "start": "11:30", "end": "12:20", "room": "LIB-101", "instructor": "", "note": "" },
-    { "id": "l05", "day": 2, "code": "MH 1302", "type": "Tutorial", "start": "14:30", "end": "15:20", "room": "ACS-418", "instructor": "", "note": "" },
-    { "id": "l06", "day": 2, "code": "MH 1302", "type": "Tutorial", "start": "15:30", "end": "16:20", "room": "ACS-418", "instructor": "", "note": "" },
-    { "id": "l07", "day": 2, "code": "ME 1302", "type": "Lecture", "start": "16:30", "end": "17:20", "room": "LIB-101", "instructor": "", "note": "" },
-    { "id": "l08", "day": 2, "code": "GE 1503", "type": "Lecture", "start": "17:30", "end": "18:20", "room": "LIB-101", "instructor": "", "note": "" },
-    { "id": "l09", "day": 3, "code": "CS 1302", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "LIB-401", "instructor": "", "note": "" },
-    { "id": "l10", "day": 3, "code": "CS 1302", "type": "Tutorial", "start": "16:30", "end": "17:20", "room": "AC1-201", "instructor": "", "note": "" },
-    { "id": "l11", "day": 4, "code": "IF 1301", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "AC3-213", "instructor": "", "note": "" },
-    { "id": "l12", "day": 5, "code": "PHY 1201", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "AC5-038", "instructor": "", "note": "" },
-    { "id": "l13", "day": 5, "code": "PHY 1201", "type": "Lecture", "start": "14:00", "end": "14:50", "room": "ACS-318", "instructor": "", "note": "" },
-    { "id": "l14", "day": 5, "code": "PHY 1201", "type": "Tutorial", "start": "15:00", "end": "15:50", "room": "AC5-038", "instructor": "", "note": "" }
+    { "id": "l01", "day": 1, "code": "EN 1002", "title": "English Enhancement Course for Bachelor's Degree Students", "type": "Lecture", "start": "14:00", "end": "16:50", "room": "Classroom AC3-314", "instructor": "", "note": "" },
+    { "id": "l02", "day": 1, "code": "PE 1911", "title": "", "type": "Lecture", "start": "18:30", "end": "20:20", "room": "Outdoor Football Yard OSY-104", "instructor": "", "note": "" },
+    { "id": "l03", "day": 2, "code": "MA 1300", "title": "", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "Lecture Theater AC5-418", "instructor": "", "note": "" },
+    { "id": "l04", "day": 2, "code": "MA 1300", "title": "", "type": "Lecture", "start": "14:00", "end": "14:50", "room": "Lecture Theater AC5-418", "instructor": "", "note": "" },
+    { "id": "l05", "day": 2, "code": "MA 1300", "title": "", "type": "Tutorial", "start": "15:00", "end": "15:50", "room": "Lecture Theater AC5-418", "instructor": "", "note": "" },
+    { "id": "l06", "day": 2, "code": "ME 1921", "title": "", "type": "Lecture", "start": "16:00", "end": "16:50", "room": "Lecture Hall LIB-101", "instructor": "", "note": "" },
+    { "id": "l07", "day": 2, "code": "GE 1632", "title": "", "type": "Lecture", "start": "17:00", "end": "17:50", "room": "Lecture Hall LIB-101", "instructor": "", "note": "" },
+    { "id": "l08", "day": 3, "code": "CS 1302", "title": "", "type": "Lecture", "start": "08:30", "end": "11:20", "room": "Lecture Hall LIB-101", "instructor": "", "note": "" },
+    { "id": "l09", "day": 3, "code": "CS 1302", "title": "", "type": "Tutorial", "start": "11:30", "end": "12:20", "room": "Computer Lab AC1-201", "instructor": "", "note": "" },
+    { "id": "l10", "day": 3, "code": "DISC 1001", "title": "", "type": "Lecture", "start": "18:30", "end": "21:20", "room": "Lecture Theater AC5-514", "instructor": "", "note": "" },
+    { "id": "l11", "day": 4, "code": "IP 1901", "title": "", "type": "Lecture", "start": "08:30", "end": "11:20", "room": "Classroom AC3-213", "instructor": "", "note": "" },
+    { "id": "l12", "day": 4, "code": "GE 2134", "title": "", "type": "Lecture", "start": "18:30", "end": "21:20", "room": "Lecture Theater AC5-511", "instructor": "", "note": "" },
+    { "id": "l13", "day": 5, "code": "PHY 1201", "title": "", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "Lecture Theater AC5-318", "instructor": "", "note": "" },
+    { "id": "l14", "day": 5, "code": "PHY 1201", "title": "", "type": "Lecture", "start": "14:00", "end": "14:50", "room": "Lecture Theater AC5-318", "instructor": "", "note": "" },
+    { "id": "l15", "day": 5, "code": "PHY 1201", "title": "", "type": "Tutorial", "start": "15:00", "end": "15:50", "room": "Lecture Theater AC5-318", "instructor": "", "note": "" }
   ],
   "assignments": [
     {
-      "id": "a1",
-      "course": "MH 1302",
-      "title": "Problem Set 2",
-      "due": "2026-09-14T23:59:00+08:00",
-      "dueTime": "23:59",
-      "canvasPath": "Canvas → MH 1302 → Assignments → Problem Set 2",
-      "canvasUrl": "#",
-      "note": "示例数据，接入 Canvas 后自动更新",
-      "done": false
-    },
-    {
-      "id": "a2",
-      "course": "GE 1503",
-      "title": "Reading Reflection 1",
+      "id": "demo1",
+      "course": "MA 1300（示例）",
+      "title": "示例作业：Problem Set 1",
       "due": "2026-09-15T23:59:00+08:00",
       "dueTime": "23:59",
-      "canvasPath": "Canvas → GE 1503 → Assignments → Reading Reflection 1",
-      "canvasUrl": "#",
+      "requirement": "这是示例内容，用来演示「作业要求」板块。接入真实作业后，这里会用中文写清四件事：① 要你做什么（题型/任务）；② 交付什么（文件格式、命名、字数/页数）；③ 交到哪里、什么时候交；④ 额外要求（是否小组、查重、是否需要引用规范等）。",
+      "requirementSource": "示例",
+      "canvasPath": "Canvas → MA1300 → Assignments",
+      "canvasUrl": "",
       "note": "",
-      "done": false
+      "demo": true
     },
     {
-      "id": "a3",
-      "course": "CS 1302",
-      "title": "Assignment 1",
-      "due": "2026-09-18T23:59:00+08:00",
+      "id": "demo2",
+      "course": "CS 1302（示例）",
+      "title": "示例作业：Lab 1",
+      "due": "2026-09-19T23:59:00+08:00",
       "dueTime": "23:59",
-      "canvasPath": "Canvas → CS 1302 → Assignments → Assignment 1",
-      "canvasUrl": "#",
+      "requirement": "示例内容：真实作业接入后，这里会给出该 Lab 的目标、需要提交的代码文件与报告、评测方式（自动判题/人工批改）、以及常见扣分点提醒。",
+      "requirementSource": "示例",
+      "canvasPath": "Canvas → CS1302 → Assignments",
+      "canvasUrl": "",
       "note": "",
-      "done": false
-    },
-    {
-      "id": "a4",
-      "course": "ME 1302",
-      "title": "Lab Report 1",
-      "due": "2026-09-21T23:59:00+08:00",
-      "dueTime": "23:59",
-      "canvasPath": "Canvas → ME 1302 → Assignments → Lab Report 1",
-      "canvasUrl": "#",
-      "note": "",
-      "done": false
-    },
-    {
-      "id": "a5",
-      "course": "EN 1002",
-      "title": "Essay Draft Outline",
-      "due": "2026-09-28T23:59:00+08:00",
-      "dueTime": "23:59",
-      "canvasPath": "Canvas → EN 1002 → Assignments → Essay Draft Outline",
-      "canvasUrl": "#",
-      "note": "",
-      "done": false
+      "demo": true
     }
   ],
   "emails": [
@@ -132,22 +105,7 @@
       "location": "",
       "time": "22:20",
       "receivedAt": "2026-09-14T22:20:23+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e5",
-      "category": "reply",
-      "needsReply": true,
-      "sender": "fjstjtbxgs",
-      "senderEmail": "fjstjtbxgs@163.com",
-      "subject": "来自fjstjtbxgs的邮件",
-      "snippet": "111111",
-      "body": "111111",
-      "eventTime": "",
-      "location": "",
-      "time": "18:14",
-      "receivedAt": "2026-09-14T18:14:59+08:00",
-      "mailUrl": "mailto:fjstjtbxgs@163.com"
+      "mailUrl": "https://cityu-dg.instructure.com/courses/884/discussion_topics/3956"
     }
   ]
 }
