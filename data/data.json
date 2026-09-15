@@ -94,7 +94,7 @@
       "type": "Lecture",
       "start": "08:30",
       "end": "11:20",
-      "room": "Lecture Hall LIB-101",
+      "room": "Lecture Theater AC5-415",
       "instructor": "",
       "note": ""
     },
@@ -130,7 +130,7 @@
       "type": "Lecture",
       "start": "08:30",
       "end": "11:20",
-      "room": "Classroom AC3-213",
+      "room": "Lecture Theater AC5-416",
       "instructor": "",
       "note": ""
     },
@@ -320,7 +320,16 @@
       "note": "已提交并批改，得分 10 / 10。"
     }
   ],
-  "notes": [],
+  "notes": [
+    {
+      "id": "note:makeup:phy-20260920",
+      "type": "course_change",
+      "title": "9/20（周日）PHY 1201 补课",
+      "detail": "按学校调课安排，9 月 20 日（周日）补 PHY 1201 三节：08:30 Lecture、14:00 Lecture、15:00 Tutorial，地点均为 Lecture Theater AC5-318。",
+      "meta": "Sep 20, 2026",
+      "source": "SIS View My Classes"
+    }
+  ],
   "emails": [
     {
       "id": "e1",
