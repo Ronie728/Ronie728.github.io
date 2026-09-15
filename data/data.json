@@ -1,22 +1,187 @@
 {
   "updatedAt": "2026-09-15",
-  "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要",
+  "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
-    { "id": "l01", "day": 1, "code": "EN 1002", "title": "English Enhancement Course for Bachelor's Degree Students", "type": "Lecture", "start": "14:00", "end": "16:50", "room": "Classroom AC3-314", "instructor": "", "note": "" },
-    { "id": "l02", "day": 1, "code": "PE 1911", "title": "", "type": "Lecture", "start": "18:30", "end": "20:20", "room": "Outdoor Football Yard OSY-104", "instructor": "", "note": "" },
-    { "id": "l03", "day": 2, "code": "MA 1300", "title": "Enhanced Calculus and Linear Algebra I", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "Lecture Theater AC5-418", "instructor": "", "note": "" },
-    { "id": "l04", "day": 2, "code": "MA 1300", "title": "Enhanced Calculus and Linear Algebra I", "type": "Lecture", "start": "14:00", "end": "14:50", "room": "Lecture Theater AC5-418", "instructor": "", "note": "" },
-    { "id": "l05", "day": 2, "code": "MA 1300", "title": "Enhanced Calculus and Linear Algebra I", "type": "Tutorial", "start": "15:00", "end": "15:50", "room": "Lecture Theater AC5-418", "instructor": "", "note": "" },
-    { "id": "l06", "day": 2, "code": "ME 1921", "title": "Freshman Workshop II", "type": "Lecture", "start": "16:00", "end": "16:50", "room": "Lecture Hall LIB-101", "instructor": "", "note": "" },
-    { "id": "l07", "day": 2, "code": "GE 1632", "title": "National Security Education Course", "type": "Lecture", "start": "17:00", "end": "17:50", "room": "Lecture Hall LIB-101", "instructor": "", "note": "" },
-    { "id": "l08", "day": 3, "code": "CS 1302", "title": "Introduction to Computer Programming", "type": "Lecture", "start": "08:30", "end": "11:20", "room": "Lecture Hall LIB-101", "instructor": "", "note": "" },
-    { "id": "l09", "day": 3, "code": "CS 1302", "title": "Introduction to Computer Programming", "type": "Tutorial", "start": "11:30", "end": "12:20", "room": "Computer Lab AC1-201", "instructor": "", "note": "" },
-    { "id": "l10", "day": 3, "code": "DISC 1001", "title": "Introduction to Data Science", "type": "Lecture", "start": "18:30", "end": "21:20", "room": "Lecture Theater AC5-514", "instructor": "", "note": "" },
-    { "id": "l11", "day": 4, "code": "IP 1901", "title": "习近平新时代中国特色社会主义思想概论", "type": "Lecture", "start": "08:30", "end": "11:20", "room": "Classroom AC3-213", "instructor": "", "note": "" },
-    { "id": "l12", "day": 4, "code": "GE 2134", "title": "Critical and Creative Thinking", "type": "Lecture", "start": "18:30", "end": "21:20", "room": "Lecture Theater AC5-511", "instructor": "", "note": "" },
-    { "id": "l13", "day": 5, "code": "PHY 1201", "title": "General Physics I", "type": "Lecture", "start": "08:30", "end": "10:20", "room": "Lecture Theater AC5-318", "instructor": "", "note": "" },
-    { "id": "l14", "day": 5, "code": "PHY 1201", "title": "General Physics I", "type": "Lecture", "start": "14:00", "end": "14:50", "room": "Lecture Theater AC5-318", "instructor": "", "note": "" },
-    { "id": "l15", "day": 5, "code": "PHY 1201", "title": "General Physics I", "type": "Tutorial", "start": "15:00", "end": "15:50", "room": "Lecture Theater AC5-318", "instructor": "", "note": "" }
+    {
+      "id": "l01",
+      "day": 1,
+      "code": "EN 1002",
+      "title": "English Enhancement Course for Bachelor's Degree Students",
+      "type": "Lecture",
+      "start": "14:00",
+      "end": "16:50",
+      "room": "Classroom AC3-314",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l02",
+      "day": 1,
+      "code": "PE 1911",
+      "title": "",
+      "type": "Lecture",
+      "start": "18:30",
+      "end": "20:20",
+      "room": "Outdoor Football Yard OSY-104",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l03",
+      "day": 2,
+      "code": "MA 1300",
+      "title": "Enhanced Calculus and Linear Algebra I",
+      "type": "Lecture",
+      "start": "08:30",
+      "end": "10:20",
+      "room": "Lecture Theater AC5-418",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l04",
+      "day": 2,
+      "code": "MA 1300",
+      "title": "Enhanced Calculus and Linear Algebra I",
+      "type": "Lecture",
+      "start": "14:00",
+      "end": "14:50",
+      "room": "Lecture Theater AC5-418",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l05",
+      "day": 2,
+      "code": "MA 1300",
+      "title": "Enhanced Calculus and Linear Algebra I",
+      "type": "Tutorial",
+      "start": "15:00",
+      "end": "15:50",
+      "room": "Lecture Theater AC5-418",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l06",
+      "day": 2,
+      "code": "ME 1921",
+      "title": "Freshman Workshop II",
+      "type": "Lecture",
+      "start": "16:00",
+      "end": "16:50",
+      "room": "Lecture Hall LIB-101",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l07",
+      "day": 2,
+      "code": "GE 1632",
+      "title": "National Security Education Course",
+      "type": "Lecture",
+      "start": "17:00",
+      "end": "17:50",
+      "room": "Lecture Hall LIB-101",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l08",
+      "day": 3,
+      "code": "CS 1302",
+      "title": "Introduction to Computer Programming",
+      "type": "Lecture",
+      "start": "08:30",
+      "end": "11:20",
+      "room": "Lecture Hall LIB-101",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l09",
+      "day": 3,
+      "code": "CS 1302",
+      "title": "Introduction to Computer Programming",
+      "type": "Tutorial",
+      "start": "11:30",
+      "end": "12:20",
+      "room": "Computer Lab AC1-201",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l10",
+      "day": 3,
+      "code": "DISC 1001",
+      "title": "Introduction to Data Science",
+      "type": "Lecture",
+      "start": "18:30",
+      "end": "21:20",
+      "room": "Lecture Theater AC5-514",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l11",
+      "day": 4,
+      "code": "IP 1901",
+      "title": "习近平新时代中国特色社会主义思想概论",
+      "type": "Lecture",
+      "start": "08:30",
+      "end": "11:20",
+      "room": "Classroom AC3-213",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l12",
+      "day": 4,
+      "code": "GE 2134",
+      "title": "Critical and Creative Thinking",
+      "type": "Lecture",
+      "start": "18:30",
+      "end": "21:20",
+      "room": "Lecture Theater AC5-511",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l13",
+      "day": 5,
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Lecture",
+      "start": "08:30",
+      "end": "10:20",
+      "room": "Lecture Theater AC5-318",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l14",
+      "day": 5,
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Lecture",
+      "start": "14:00",
+      "end": "14:50",
+      "room": "Lecture Theater AC5-318",
+      "instructor": "",
+      "note": ""
+    },
+    {
+      "id": "l15",
+      "day": 5,
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Tutorial",
+      "start": "15:00",
+      "end": "15:50",
+      "room": "Lecture Theater AC5-318",
+      "instructor": "",
+      "note": ""
+    }
   ],
   "assignments": [
     {
@@ -217,5 +382,1632 @@
       "receivedAt": "2026-09-14T22:20:23+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/884/discussion_topics/3956"
     }
-  ]
+  ],
+  "files": [
+    {
+      "id": "f159785",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Anaconda3-2025.12-2-MacOSX-arm64.pkg",
+      "ext": "pkg",
+      "size": 921478978,
+      "folder": "Misc",
+      "updatedAt": "2026-08-27T06:27:19Z",
+      "url": "https://cityu-dg.instructure.com/files/159785/download?download_frd=1&verifier=0fc81001-9d1c-41bc-a9ea-45ce43dd9528"
+    },
+    {
+      "id": "f159786",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Anaconda3-2025.12-2-Windows-x86_64.exe",
+      "ext": "exe",
+      "size": 1200681984,
+      "folder": "Misc",
+      "updatedAt": "2026-08-27T06:32:11Z",
+      "url": "https://cityu-dg.instructure.com/files/159786/download?download_frd=1&verifier=00dbef29-5ce5-4229-8825-52e5b69e0188"
+    },
+    {
+      "id": "f158060",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Fundamentals of Programming Python 2018.pdf",
+      "ext": "pdf",
+      "size": 3460065,
+      "folder": "Misc",
+      "updatedAt": "2026-09-01T11:17:07Z",
+      "url": "https://cityu-dg.instructure.com/files/158060/download?download_frd=1&verifier=90f934ed-d03e-4572-9d44-a75e967cc705"
+    },
+    {
+      "id": "f158775",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week1_Tutorial_anaconda_2026v3.pdf",
+      "ext": "pdf",
+      "size": 1686358,
+      "folder": "Week1/Lab1 Setup",
+      "updatedAt": "2026-08-26T00:42:49Z",
+      "url": "https://cityu-dg.instructure.com/files/158775/download?download_frd=1&verifier=53065bc6-2411-4aec-8119-6bed4f2005bf"
+    },
+    {
+      "id": "f161283",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Introduction_CS1302_2026v2.pdf",
+      "ext": "pdf",
+      "size": 2239337,
+      "folder": "Week1/Lect1 Introduction",
+      "updatedAt": "2026-08-30T07:42:13Z",
+      "url": "https://cityu-dg.instructure.com/files/161283/download?download_frd=1&verifier=49f0047a-0052-469c-a018-2d87f87c05bc"
+    },
+    {
+      "id": "f158062",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week1_exercise_answers_2026.ipynb",
+      "ext": "ipynb",
+      "size": 5780,
+      "folder": "Week1/Lect1 Introduction",
+      "updatedAt": "2026-09-08T06:49:40Z",
+      "url": "https://cityu-dg.instructure.com/files/158062/download?download_frd=1&verifier=266afb47-a6fc-4202-9e0a-c74898835c18"
+    },
+    {
+      "id": "f158063",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week1_exercises_2026.ipynb",
+      "ext": "ipynb",
+      "size": 2423,
+      "folder": "Week1/Lect1 Introduction",
+      "updatedAt": "2026-08-20T03:48:52Z",
+      "url": "https://cityu-dg.instructure.com/files/158063/download?download_frd=1&verifier=4e31ef84-ca23-4481-919a-202d784b5ace"
+    },
+    {
+      "id": "f158064",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week1_lecture_2026.ipynb",
+      "ext": "ipynb",
+      "size": 34877,
+      "folder": "Week1/Lect1 Introduction",
+      "updatedAt": "2026-08-20T03:48:52Z",
+      "url": "https://cityu-dg.instructure.com/files/158064/download?download_frd=1&verifier=65e84159-4358-41a5-a258-26fa1fa8f727"
+    },
+    {
+      "id": "f158065",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week1_lecture_2026.pdf",
+      "ext": "pdf",
+      "size": 10175941,
+      "folder": "Week1/Lect1 Introduction",
+      "updatedAt": "2026-09-01T02:29:50Z",
+      "url": "https://cityu-dg.instructure.com/files/158065/download?download_frd=1&verifier=0aa170a5-dd8c-47bb-9f8d-31899ee25571"
+    },
+    {
+      "id": "f158520",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "week1_supplement_2026.pdf",
+      "ext": "pdf",
+      "size": 299794,
+      "folder": "Week1/Lect1 Introduction",
+      "updatedAt": "2026-08-26T00:42:41Z",
+      "url": "https://cityu-dg.instructure.com/files/158520/download?download_frd=1&verifier=931fc746-5b24-404a-8175-e7d66f1c95f8"
+    },
+    {
+      "id": "f168401",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week2_Tutorial_solution.pptx",
+      "ext": "pptx",
+      "size": 740352,
+      "folder": "Week2/Lab2 Number Systems",
+      "updatedAt": "2026-09-09T15:14:50Z",
+      "url": "https://cityu-dg.instructure.com/files/168401/download?download_frd=1&verifier=a4dfc236-a150-4bf2-b9d3-ee82b70c21e5"
+    },
+    {
+      "id": "f168134",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week2_Tutorial.pptx",
+      "ext": "pptx",
+      "size": 712618,
+      "folder": "Week2/Lab2 Number Systems",
+      "updatedAt": "2026-09-09T01:43:12Z",
+      "url": "https://cityu-dg.instructure.com/files/168134/download?download_frd=1&verifier=44d1a180-f386-4890-9b3a-7fa9f4348fd6"
+    },
+    {
+      "id": "f165634",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week2_exercises_2026.ipynb",
+      "ext": "ipynb",
+      "size": 8099,
+      "folder": "Week2/Lect2 Python Basics",
+      "updatedAt": "2026-09-05T02:12:08Z",
+      "url": "https://cityu-dg.instructure.com/files/165634/download?download_frd=1&verifier=7a66285f-24fc-44d8-aafc-79dfefc008c5"
+    },
+    {
+      "id": "f165636",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week2_Lecture_part1_2026.ipynb",
+      "ext": "ipynb",
+      "size": 96731,
+      "folder": "Week2/Lect2 Python Basics",
+      "updatedAt": "2026-09-05T02:12:10Z",
+      "url": "https://cityu-dg.instructure.com/files/165636/download?download_frd=1&verifier=5f6c25e0-9544-4002-9c40-0e3f8d613b2b"
+    },
+    {
+      "id": "f165637",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week2_Lecture_part2_2026.ipynb",
+      "ext": "ipynb",
+      "size": 16203,
+      "folder": "Week2/Lect2 Python Basics",
+      "updatedAt": "2026-09-05T02:12:11Z",
+      "url": "https://cityu-dg.instructure.com/files/165637/download?download_frd=1&verifier=756990d3-a476-4f6b-afa7-e921f461efe2"
+    },
+    {
+      "id": "f165643",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week2_supplement_2026.pdf",
+      "ext": "pdf",
+      "size": 81704,
+      "folder": "Week2/Lect2 Python Basics",
+      "updatedAt": "2026-09-05T03:27:43Z",
+      "url": "https://cityu-dg.instructure.com/files/165643/download?download_frd=1&verifier=dcdfa9b0-3d8e-4f20-8f86-b04bb53d9567"
+    },
+    {
+      "id": "f169777",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week3_Tutorial_Solutions.pptx",
+      "ext": "pptx",
+      "size": 453574,
+      "folder": "Week3/Lab3 Booleans and Conditionals",
+      "updatedAt": "2026-09-15T09:54:51Z",
+      "url": "https://cityu-dg.instructure.com/files/169777/download?download_frd=1&verifier=4ff12b92-fb9f-49f8-99aa-e2996fe5aaaa"
+    },
+    {
+      "id": "f169778",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week3_Tutorial.pptx",
+      "ext": "pptx",
+      "size": 355904,
+      "folder": "Week3/Lab3 Booleans and Conditionals",
+      "updatedAt": "2026-09-13T06:54:00Z",
+      "url": "https://cityu-dg.instructure.com/files/169778/download?download_frd=1&verifier=90111965-caf8-48f3-9ea8-9ce96cb53961"
+    },
+    {
+      "id": "f169110",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "flowcharts.py",
+      "ext": "py",
+      "size": 1295,
+      "folder": "Week3/Lect3 Conditional Execution",
+      "updatedAt": "2026-09-15T04:12:21Z",
+      "url": "https://cityu-dg.instructure.com/files/169110/download?download_frd=1&verifier=1cef17c2-ea33-414d-8a5f-ef0100323e3a"
+    },
+    {
+      "id": "f169942",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "InstructorIntroduction.pdf",
+      "ext": "pdf",
+      "size": 98280,
+      "folder": "Week3/Lect3 Conditional Execution",
+      "updatedAt": "2026-09-14T01:04:06Z",
+      "url": "https://cityu-dg.instructure.com/files/169942/download?download_frd=1&verifier=28d49e41-88ea-4c97-8aa9-e6ba369cbb47"
+    },
+    {
+      "id": "f169107",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week3_excercise_answers.ipynb",
+      "ext": "ipynb",
+      "size": 11921,
+      "folder": "Week3/Lect3 Conditional Execution",
+      "updatedAt": "2026-09-11T07:56:09Z",
+      "url": "https://cityu-dg.instructure.com/files/169107/download?download_frd=1&verifier=ecc63ee6-5701-4b34-8b2d-e889f5d6c6fe"
+    },
+    {
+      "id": "f169108",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week3_exercises.ipynb",
+      "ext": "ipynb",
+      "size": 7721,
+      "folder": "Week3/Lect3 Conditional Execution",
+      "updatedAt": "2026-09-11T07:56:09Z",
+      "url": "https://cityu-dg.instructure.com/files/169108/download?download_frd=1&verifier=97013bb5-9051-4b70-bf6b-a616b8715a0d"
+    },
+    {
+      "id": "f173199",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week3_Lecture.ipynb",
+      "ext": "ipynb",
+      "size": 76144,
+      "folder": "Week3/Lect3 Conditional Execution",
+      "updatedAt": "2026-09-15T09:42:11Z",
+      "url": "https://cityu-dg.instructure.com/files/173199/download?download_frd=1&verifier=a904efde-3d87-4214-af32-06bd7a70aa30"
+    },
+    {
+      "id": "f163994",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "DSC_1001_additional_tutorial_1.pdf",
+      "ext": "pdf",
+      "size": 109170,
+      "folder": "根目录",
+      "updatedAt": "2026-09-09T10:28:01Z",
+      "url": "https://cityu-dg.instructure.com/files/163994/download?download_frd=1&verifier=1bdaa55b-64ce-4147-84d7-be9a90dca793"
+    },
+    {
+      "id": "f163995",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "DSC_1001_lec_1.pdf",
+      "ext": "pdf",
+      "size": 253397,
+      "folder": "根目录",
+      "updatedAt": "2026-09-09T10:27:12Z",
+      "url": "https://cityu-dg.instructure.com/files/163995/download?download_frd=1&verifier=a1314f69-ec67-4470-9f06-bb757da8133b"
+    },
+    {
+      "id": "f163996",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "Tutorial1.pdf",
+      "ext": "pdf",
+      "size": 5683777,
+      "folder": "根目录",
+      "updatedAt": "2026-09-09T10:27:01Z",
+      "url": "https://cityu-dg.instructure.com/files/163996/download?download_frd=1&verifier=7d291e2c-eaf6-46ca-9029-73cdb3d4a3b7"
+    },
+    {
+      "id": "f168526",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "Tutorial2.pptx",
+      "ext": "pptx",
+      "size": 1304550,
+      "folder": "根目录",
+      "updatedAt": "2026-09-09T13:01:17Z",
+      "url": "https://cityu-dg.instructure.com/files/168526/download?download_frd=1&verifier=63b68ffd-efd9-4d2a-8640-121700b5bd2f"
+    },
+    {
+      "id": "f168525",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "Tutorial3_Chapter2.pdf",
+      "ext": "pdf",
+      "size": 843486,
+      "folder": "根目录",
+      "updatedAt": "2026-09-09T11:55:04Z",
+      "url": "https://cityu-dg.instructure.com/files/168525/download?download_frd=1&verifier=c1bd47c4-b695-49d9-977b-a45493a1c5a4"
+    },
+    {
+      "id": "f157096",
+      "course": "EN1002 · English Enhancement Course for Bachelor's degree Students",
+      "name": "EN1002 - IL Reflective Report assignment.pdf",
+      "ext": "pdf",
+      "size": 335770,
+      "folder": "根目录",
+      "updatedAt": "2026-08-24T07:18:53Z",
+      "url": "https://cityu-dg.instructure.com/files/157096/download?download_frd=1&verifier=908cf3de-a30a-40e7-95ff-c8e4b0e8f4dc"
+    },
+    {
+      "id": "f157106",
+      "course": "EN1002 · English Enhancement Course for Bachelor's degree Students",
+      "name": "EN1002 Presentations.pdf",
+      "ext": "pdf",
+      "size": 277890,
+      "folder": "根目录",
+      "updatedAt": "2026-08-27T06:00:13Z",
+      "url": "https://cityu-dg.instructure.com/files/157106/download?download_frd=1&verifier=816cce7a-dff2-406f-9ea8-2594aa0159fc"
+    },
+    {
+      "id": "f157108",
+      "course": "EN1002 · English Enhancement Course for Bachelor's degree Students",
+      "name": "EN1002 Weekly Schedule.docx",
+      "ext": "docx",
+      "size": 15178,
+      "folder": "根目录",
+      "updatedAt": "2026-08-24T00:59:49Z",
+      "url": "https://cityu-dg.instructure.com/files/157108/download?download_frd=1&verifier=b10cbbdb-bf7f-464a-9273-69a88ef859f7"
+    },
+    {
+      "id": "f157128",
+      "course": "EN1002 · English Enhancement Course for Bachelor's degree Students",
+      "name": "EN1002_Week 5 (1).pdf",
+      "ext": "pdf",
+      "size": 4140802,
+      "folder": "根目录",
+      "updatedAt": "2026-09-12T10:57:50Z",
+      "url": "https://cityu-dg.instructure.com/files/157128/download?download_frd=1&verifier=cd62bb40-0be8-47b1-ae99-d4bc122c07cd"
+    },
+    {
+      "id": "f162266",
+      "course": "EN1002 · English Enhancement Course for Bachelor's degree Students",
+      "name": "EN1002 Week 1 JH.pptx",
+      "ext": "pptx",
+      "size": 1408791,
+      "folder": "EN1002 PPT Jenny",
+      "updatedAt": "2026-08-31T05:55:13Z",
+      "url": "https://cityu-dg.instructure.com/files/162266/download?download_frd=1&verifier=bbb06ca0-1eeb-4be7-867b-0bd1eb5018a5"
+    },
+    {
+      "id": "f164886",
+      "course": "EN1002 · English Enhancement Course for Bachelor's degree Students",
+      "name": "EN1002 Week 2 JH.pptx",
+      "ext": "pptx",
+      "size": 2015696,
+      "folder": "EN1002 PPT Jenny",
+      "updatedAt": "2026-09-07T06:03:54Z",
+      "url": "https://cityu-dg.instructure.com/files/164886/download?download_frd=1&verifier=e7e2236b-4c82-4bde-85f5-74aa83d4e52d"
+    },
+    {
+      "id": "f160642",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "GE2134 Schedule 2026.docx",
+      "ext": "docx",
+      "size": 25994,
+      "folder": "Course Information",
+      "updatedAt": "2026-09-03T07:14:16Z",
+      "url": "https://cityu-dg.instructure.com/files/160642/download?download_frd=1&verifier=f4f30628-a7d8-4da6-81be-904c15058888"
+    },
+    {
+      "id": "f164316",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "GE2134_Syllabus.pdf",
+      "ext": "pdf",
+      "size": 57669,
+      "folder": "Course Information",
+      "updatedAt": "2026-09-04T02:07:10Z",
+      "url": "https://cityu-dg.instructure.com/files/164316/download?download_frd=1&verifier=ca7edeab-bec0-4a13-9179-88248a62f039"
+    },
+    {
+      "id": "f164894",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "An introduction to critical thinking and creativity  think more, think better (Lau, Joe Y. F., 1968-) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "ext": "pdf",
+      "size": 14973528,
+      "folder": "Recommended Readings",
+      "updatedAt": "2026-09-06T06:41:02Z",
+      "url": "https://cityu-dg.instructure.com/files/164894/download?download_frd=1&verifier=4577a50e-2b5b-49d8-9d6c-669760ab3364"
+    },
+    {
+      "id": "f164893",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Creativity for Scientists and Engineers. A practical guide. (Dennis Sherwood) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "ext": "pdf",
+      "size": 80357062,
+      "folder": "Recommended Readings",
+      "updatedAt": "2026-09-10T10:32:36Z",
+      "url": "https://cityu-dg.instructure.com/files/164893/download?download_frd=1&verifier=d9d88839-47ae-49ef-bb71-9517d6d23531"
+    },
+    {
+      "id": "f164895",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Daniel Kahneman-Thinking, Fast and Slow  .pdf",
+      "ext": "pdf",
+      "size": 3675247,
+      "folder": "Recommended Readings",
+      "updatedAt": "2026-09-10T10:32:57Z",
+      "url": "https://cityu-dg.instructure.com/files/164895/download?download_frd=1&verifier=b9b3c44d-72ec-4292-98ad-85c767f11b68"
+    },
+    {
+      "id": "f164410",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "GE2134 Vocab list clean.pdf",
+      "ext": "pdf",
+      "size": 201967,
+      "folder": "Weekly Lessons/Week 1",
+      "updatedAt": "2026-09-14T04:33:39Z",
+      "url": "https://cityu-dg.instructure.com/files/164410/download?download_frd=1&verifier=5cf6227c-9fc9-4f94-b6c5-9b5fefd517ea"
+    },
+    {
+      "id": "f164465",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "GE2134 VOCABULARY LIST.docx",
+      "ext": "docx",
+      "size": 20253,
+      "folder": "Weekly Lessons/Week 1",
+      "updatedAt": "2026-09-10T12:27:36Z",
+      "url": "https://cityu-dg.instructure.com/files/164465/download?download_frd=1&verifier=0000fa53-ef14-4d63-82fa-fbc38f2ddcbc"
+    },
+    {
+      "id": "f166647",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "vandermeer_handwriting.pdf",
+      "ext": "pdf",
+      "size": 1400068,
+      "folder": "Weekly Lessons/Week 1",
+      "updatedAt": "2026-09-10T12:27:45Z",
+      "url": "https://cityu-dg.instructure.com/files/166647/download?download_frd=1&verifier=c4233e69-508c-4ffd-9c21-3e82f41f7a75"
+    },
+    {
+      "id": "f165841",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Week 1.pdf",
+      "ext": "pdf",
+      "size": 1031146,
+      "folder": "Weekly Lessons/Week 1",
+      "updatedAt": "2026-09-07T02:24:06Z",
+      "url": "https://cityu-dg.instructure.com/files/165841/download?download_frd=1&verifier=31557cc7-31ca-4e4d-9be2-fd180415e540"
+    },
+    {
+      "id": "f166628",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Week 1.pptx",
+      "ext": "pptx",
+      "size": 3639588,
+      "folder": "Weekly Lessons/Week 1",
+      "updatedAt": "2026-09-10T10:35:15Z",
+      "url": "https://cityu-dg.instructure.com/files/166628/download?download_frd=1&verifier=43b4e9ed-b9e9-4e54-85ab-3faa13d2c3a6"
+    },
+    {
+      "id": "f169266",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Week 2",
+      "ext": "",
+      "size": 3260198,
+      "folder": "Weekly Lessons/Week 2",
+      "updatedAt": "2026-09-11T02:15:50Z",
+      "url": "https://cityu-dg.instructure.com/files/169266/download?download_frd=1&verifier=be96c578-54d0-455e-b87a-dfcb2d08c664"
+    },
+    {
+      "id": "f163997",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "IP901时间表（周四早上） 2.xlsx",
+      "ext": "xlsx",
+      "size": 53176,
+      "folder": "根目录",
+      "updatedAt": "2026-09-03T03:02:53Z",
+      "url": "https://cityu-dg.instructure.com/files/163997/download?download_frd=1&verifier=81e62c07-ac11-44be-868e-a21159959bf1"
+    },
+    {
+      "id": "f164321",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "习近平新时代中国特色社会主义思想概论 (习近平新时代中国特色社会主义思想概论编写组) .pdf",
+      "ext": "pdf",
+      "size": 82097059,
+      "folder": "根目录",
+      "updatedAt": "2026-09-03T03:34:46Z",
+      "url": "https://cityu-dg.instructure.com/files/164321/download?download_frd=1&verifier=65975141-7fd4-4d12-bf52-3e7dcd5ce87b"
+    },
+    {
+      "id": "f168179",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "第二章以中国式现代化全面推进中华民族伟大复兴.pdf",
+      "ext": "pdf",
+      "size": 19169986,
+      "folder": "根目录",
+      "updatedAt": "2026-09-10T00:33:47Z",
+      "url": "https://cityu-dg.instructure.com/files/168179/download?download_frd=1&verifier=608691e5-3472-439b-938f-74c8f08c5620"
+    },
+    {
+      "id": "f163986",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "“不翻脸即最高的体面”：空间视阈下当代大学生宿舍冲突的运作机理_靖秋.pdf",
+      "ext": "pdf",
+      "size": 1428916,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T09:00:15Z",
+      "url": "https://cityu-dg.instructure.com/files/163986/download?download_frd=1&verifier=f0ecd035-678e-4fa6-b1bf-b080c8ae9e07"
+    },
+    {
+      "id": "f163988",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "“特事特办”：科层运作的例外逻辑_颜昌武.pdf",
+      "ext": "pdf",
+      "size": 1500798,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T09:02:22Z",
+      "url": "https://cityu-dg.instructure.com/files/163988/download?download_frd=1&verifier=f6b199e2-c3a1-409e-bd1c-942f0dfe0d55"
+    },
+    {
+      "id": "f163987",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "“静默动员”_隐性运动式治理及其运作机制研究_孙宗锋.pdf",
+      "ext": "pdf",
+      "size": 1081835,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T09:01:59Z",
+      "url": "https://cityu-dg.instructure.com/files/163987/download?download_frd=1&verifier=05ebc576-a4b0-4e06-8b87-a8496e5836b3"
+    },
+    {
+      "id": "f164317",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "《习近平经济思想概论》.pdf",
+      "ext": "pdf",
+      "size": 372269623,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T07:31:21Z",
+      "url": "https://cityu-dg.instructure.com/files/164317/download?download_frd=1&verifier=e42cea6f-2e30-4943-a133-f0846d2e404e"
+    },
+    {
+      "id": "f163989",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "AI 破晓：生成式AI时代文化产业的重塑、跃迁与守望.pdf",
+      "ext": "pdf",
+      "size": 21922600,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-03T01:47:41Z",
+      "url": "https://cityu-dg.instructure.com/files/163989/download?download_frd=1&verifier=361e452a-be22-4148-bdfb-b8ed729135e1"
+    },
+    {
+      "id": "f164311",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "DeepSeek-R1：通过强化学习激励大语言模型进行推理.pdf",
+      "ext": "pdf",
+      "size": 2735576,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T09:03:23Z",
+      "url": "https://cityu-dg.instructure.com/files/164311/download?download_frd=1&verifier=a371f5f0-6368-45fe-bae4-63e2ef255937"
+    },
+    {
+      "id": "f165906",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "中国民众如何看待贫穷与富裕？——社会地位归因的情境差异.pdf",
+      "ext": "pdf",
+      "size": 1658146,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T01:58:19Z",
+      "url": "https://cityu-dg.instructure.com/files/165906/download?download_frd=1&verifier=8c14cc25-ba50-4f2e-b422-5f7a52b9a0d5"
+    },
+    {
+      "id": "f164375",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "人工智能的决策替代与社会缓冲——以X智能电厂为例.pdf",
+      "ext": "pdf",
+      "size": 1666512,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T00:39:34Z",
+      "url": "https://cityu-dg.instructure.com/files/164375/download?download_frd=1&verifier=dad8af17-1a89-4820-83b5-b1a54eb0758a"
+    },
+    {
+      "id": "f164373",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "人工智能算法何以重构社会治理？——基于中国警务部门算法运作的实证研究.pdf",
+      "ext": "pdf",
+      "size": 2957867,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T07:19:38Z",
+      "url": "https://cityu-dg.instructure.com/files/164373/download?download_frd=1&verifier=b4eb327c-f53f-48f1-8352-f7ca28dbe8a0"
+    },
+    {
+      "id": "f168982",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "从自动化技术到生成式人工智能——技术对劳动者影响的技能异质性研究.pdf",
+      "ext": "pdf",
+      "size": 2094087,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T05:16:55Z",
+      "url": "https://cityu-dg.instructure.com/files/168982/download?download_frd=1&verifier=d3d9ebe9-28a1-452c-9253-b20cb8847423"
+    },
+    {
+      "id": "f168980",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "代际流动视角下的家庭教育投入：影响效应与变化趋势.pdf",
+      "ext": "pdf",
+      "size": 1681126,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T05:16:15Z",
+      "url": "https://cityu-dg.instructure.com/files/168980/download?download_frd=1&verifier=67bb4386-22da-4c52-a268-1a60496bab3a"
+    },
+    {
+      "id": "f165905",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "以自我为企业——过度市场化与研发员工的自我经营.pdf",
+      "ext": "pdf",
+      "size": 2560050,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T08:55:39Z",
+      "url": "https://cityu-dg.instructure.com/files/165905/download?download_frd=1&verifier=ca575aa6-fbf1-486e-bb56-2c63bad4179f"
+    },
+    {
+      "id": "f164310",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "企业家如何影响地方政策过程——基于国家中心的案例分析和类型建构.pdf",
+      "ext": "pdf",
+      "size": 2494498,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-03T03:07:59Z",
+      "url": "https://cityu-dg.instructure.com/files/164310/download?download_frd=1&verifier=1ca3e5a6-7dd8-4667-a7bc-dacc4cc7c36f"
+    },
+    {
+      "id": "f164308",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "共产党宣言.pdf",
+      "ext": "pdf",
+      "size": 499785,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T07:00:05Z",
+      "url": "https://cityu-dg.instructure.com/files/164308/download?download_frd=1&verifier=a356ea45-7da7-422f-9d52-6267f7425977"
+    },
+    {
+      "id": "f165904",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "出身地：高等教育机会与代际流动的省际差异.pdf",
+      "ext": "pdf",
+      "size": 1996489,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T02:03:50Z",
+      "url": "https://cityu-dg.instructure.com/files/165904/download?download_frd=1&verifier=0c24720b-0d2f-4b4f-abda-f44c482c6b09"
+    },
+    {
+      "id": "f163992",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "华为的τ（tau）缩放理论.pdf",
+      "ext": "pdf",
+      "size": 545906,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-03T01:46:54Z",
+      "url": "https://cityu-dg.instructure.com/files/163992/download?download_frd=1&verifier=1c2a1078-513e-447a-aadc-b96dc3a3d675"
+    },
+    {
+      "id": "f164312",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "城市更新中的土地开发权与产权变迁——基于广东、浙江两省半城市化地区的比较研究.pdf",
+      "ext": "pdf",
+      "size": 2678834,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-06T02:38:54Z",
+      "url": "https://cityu-dg.instructure.com/files/164312/download?download_frd=1&verifier=df3e2622-c312-4933-a96a-16ddd69ca46e"
+    },
+    {
+      "id": "f163991",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "外貌如何影响中国官员晋升.pdf",
+      "ext": "pdf",
+      "size": 6256263,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-03T04:16:31Z",
+      "url": "https://cityu-dg.instructure.com/files/163991/download?download_frd=1&verifier=a67af881-7ad1-4e0a-999f-fcb790015b4f"
+    },
+    {
+      "id": "f164372",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "大学层级抑或专业更重要？——中国高等教育水平分层与优势阶层地位获得.pdf",
+      "ext": "pdf",
+      "size": 2443460,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T09:02:52Z",
+      "url": "https://cityu-dg.instructure.com/files/164372/download?download_frd=1&verifier=e52e0681-5377-4b11-b742-47199b8941b7"
+    },
+    {
+      "id": "f164309",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "家、亲密关系与创业——基于T家庭创业史的社会学分析.pdf",
+      "ext": "pdf",
+      "size": 1455880,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-03T04:18:03Z",
+      "url": "https://cityu-dg.instructure.com/files/164309/download?download_frd=1&verifier=40f9e6ec-4d04-4526-b77d-890d3d44e1a4"
+    },
+    {
+      "id": "f168979",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "打开民营企业创业“黑箱”：工业体系和嵌入式创业者.pdf",
+      "ext": "pdf",
+      "size": 2773595,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T05:16:00Z",
+      "url": "https://cityu-dg.instructure.com/files/168979/download?download_frd=1&verifier=b54b59a7-54a4-4980-bd21-685a8ad66956"
+    },
+    {
+      "id": "f164369",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "打造特产：地方政府重塑自然风土的逻辑及实践机制——以Z县乌龙茶产业的发展为例.pdf",
+      "ext": "pdf",
+      "size": 1427417,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T06:58:18Z",
+      "url": "https://cityu-dg.instructure.com/files/164369/download?download_frd=1&verifier=68edd9d3-4c2f-4e16-b9d0-5e9baa4f06f8"
+    },
+    {
+      "id": "f168981",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "注意力危机：“生产性剥削”抑或“消费性陷阱”.pdf",
+      "ext": "pdf",
+      "size": 1581680,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T05:16:42Z",
+      "url": "https://cityu-dg.instructure.com/files/168981/download?download_frd=1&verifier=9aa3d8c0-abf6-4c45-90e1-0a7275a4bde5"
+    },
+    {
+      "id": "f164314",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "科技博弈：中美技术竞争的现状、对比与趋势.pdf",
+      "ext": "pdf",
+      "size": 12225340,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-03T04:17:39Z",
+      "url": "https://cityu-dg.instructure.com/files/164314/download?download_frd=1&verifier=8fc39d83-99b2-4333-b431-7ec91fdba0ea"
+    },
+    {
+      "id": "f163990",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "虚拟化两性互动中的情感体验及生产——以W平台虚拟主播与粉丝的互动为例_贾文娟.pdf",
+      "ext": "pdf",
+      "size": 1310268,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-05T09:03:14Z",
+      "url": "https://cityu-dg.instructure.com/files/163990/download?download_frd=1&verifier=bc987d8f-e124-43ca-baa9-d0791d641ee9"
+    },
+    {
+      "id": "f168186",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "被挤压的市场机会——后发国家技术追赶的结构性困境与消解.pdf",
+      "ext": "pdf",
+      "size": 874205,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T01:36:03Z",
+      "url": "https://cityu-dg.instructure.com/files/168186/download?download_frd=1&verifier=9c906198-85a1-496d-ab6f-07b8293f7c81"
+    },
+    {
+      "id": "f168983",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "隐私权的社会建构：网络相亲中的空间博弈与规范协商.pdf",
+      "ext": "pdf",
+      "size": 1435995,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-10T05:17:22Z",
+      "url": "https://cityu-dg.instructure.com/files/168983/download?download_frd=1&verifier=60a24f5e-dd64-490d-a7c2-0d9b00ea7bf1"
+    },
+    {
+      "id": "f161820",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "Basic_info.pdf",
+      "ext": "pdf",
+      "size": 399905,
+      "folder": "根目录",
+      "updatedAt": "2026-09-08T05:17:25Z",
+      "url": "https://cityu-dg.instructure.com/files/161820/download?download_frd=1&verifier=fc4dc7e5-64c8-4188-a494-cae8727c711f"
+    },
+    {
+      "id": "f162738",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "0. Functions.pdf",
+      "ext": "pdf",
+      "size": 449179,
+      "folder": "PPT",
+      "updatedAt": "2026-09-03T22:43:58Z",
+      "url": "https://cityu-dg.instructure.com/files/162738/download?download_frd=1&verifier=a34c48b1-e56a-4d7b-92dc-c69218274b21"
+    },
+    {
+      "id": "f162747",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "1. Limits.pdf",
+      "ext": "pdf",
+      "size": 651476,
+      "folder": "PPT",
+      "updatedAt": "2026-09-10T14:46:38Z",
+      "url": "https://cityu-dg.instructure.com/files/162747/download?download_frd=1&verifier=4cfbc1e0-4e4f-4081-a9dc-82aab90fd9e1"
+    },
+    {
+      "id": "f171974",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "2. derivatives.pdf",
+      "ext": "pdf",
+      "size": 860467,
+      "folder": "PPT",
+      "updatedAt": "2026-09-14T13:02:44Z",
+      "url": "https://cityu-dg.instructure.com/files/171974/download?download_frd=1&verifier=95292bba-d048-4e5f-8dd2-d9637b002633"
+    },
+    {
+      "id": "f164760",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "0. Functions.pdf",
+      "ext": "pdf",
+      "size": 2955027,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-04T00:54:07Z",
+      "url": "https://cityu-dg.instructure.com/files/164760/download?download_frd=1&verifier=05fb607c-3ff0-430a-8e87-3c81fb74fdcc"
+    },
+    {
+      "id": "f163207",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "09 01",
+      "ext": "",
+      "size": 2626887,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-10T23:30:10Z",
+      "url": "https://cityu-dg.instructure.com/files/163207/download?download_frd=1&verifier=430e907c-1696-4945-b148-06037f86fe4b"
+    },
+    {
+      "id": "f169476",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "09 08",
+      "ext": "",
+      "size": 5108633,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-12T04:05:35Z",
+      "url": "https://cityu-dg.instructure.com/files/169476/download?download_frd=1&verifier=349c48dd-ab9d-4d4f-8bc3-2445d919ddb4"
+    },
+    {
+      "id": "f167756",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "1. Limits.pdf",
+      "ext": "pdf",
+      "size": 5342380,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-14T08:05:03Z",
+      "url": "https://cityu-dg.instructure.com/files/167756/download?download_frd=1&verifier=db5c72c5-0410-4ff3-a521-5c8089c1f80f"
+    },
+    {
+      "id": "f161473",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "James Stewart - Single Variable Calculus 7th Edition.pdf",
+      "ext": "pdf",
+      "size": 39755208,
+      "folder": "Textbook",
+      "updatedAt": "2026-09-01T06:03:01Z",
+      "url": "https://cityu-dg.instructure.com/files/161473/download?download_frd=1&verifier=7b2fd7a1-6bfc-4c8a-af68-78859d0e24f2"
+    },
+    {
+      "id": "f164536",
+      "course": "ME1921 · Freshman Workshop II",
+      "name": "课程考核说明.pptx",
+      "ext": "pptx",
+      "size": 2394640,
+      "folder": "unfiled",
+      "updatedAt": "2026-09-03T09:52:55Z",
+      "url": "https://cityu-dg.instructure.com/files/164536/download?download_frd=1&verifier=bffd565c-c5b8-4090-9358-071c74964e56"
+    },
+    {
+      "id": "f161559",
+      "course": "PHY1201 · General Physics I",
+      "name": "Equations for PHY1201.pdf",
+      "ext": "pdf",
+      "size": 1149352,
+      "folder": "根目录",
+      "updatedAt": "2026-08-31T02:16:58Z",
+      "url": "https://cityu-dg.instructure.com/files/161559/download?download_frd=1&verifier=133410f8-280a-4689-a5c3-dc1b30646af9"
+    },
+    {
+      "id": "f161558",
+      "course": "PHY1201 · General Physics I",
+      "name": "Sample Examination Questions for PHY1201.pdf",
+      "ext": "pdf",
+      "size": 610061,
+      "folder": "根目录",
+      "updatedAt": "2026-08-31T02:16:48Z",
+      "url": "https://cityu-dg.instructure.com/files/161558/download?download_frd=1&verifier=8d1739f0-b433-4618-86fe-0f6d900a5639"
+    },
+    {
+      "id": "f163685",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_01-1.pdf",
+      "ext": "pdf",
+      "size": 415825,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-01T18:16:57Z",
+      "url": "https://cityu-dg.instructure.com/files/163685/download?download_frd=1&verifier=f441852e-0e87-413a-acf4-c5da01f8660e"
+    },
+    {
+      "id": "f163673",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_01.pdf",
+      "ext": "pdf",
+      "size": 415825,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-02T14:30:14Z",
+      "url": "https://cityu-dg.instructure.com/files/163673/download?download_frd=1&verifier=973ffd9a-f756-4d01-bd7c-0ee59d4282eb"
+    },
+    {
+      "id": "f163686",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_02-1.pdf",
+      "ext": "pdf",
+      "size": 936224,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-09T16:18:15Z",
+      "url": "https://cityu-dg.instructure.com/files/163686/download?download_frd=1&verifier=9b12dfb5-60a5-497f-953c-0656f1eb0d43"
+    },
+    {
+      "id": "f163674",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_02.pdf",
+      "ext": "pdf",
+      "size": 936224,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-02T14:30:49Z",
+      "url": "https://cityu-dg.instructure.com/files/163674/download?download_frd=1&verifier=a3305c26-ff36-4e35-82b0-2969c182bbfd"
+    },
+    {
+      "id": "f168732",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_03.pdf",
+      "ext": "pdf",
+      "size": 701427,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-09T16:20:26Z",
+      "url": "https://cityu-dg.instructure.com/files/168732/download?download_frd=1&verifier=eab6010b-42bc-4b0e-ab06-cb04b124bb26"
+    },
+    {
+      "id": "f168733",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_04.pdf",
+      "ext": "pdf",
+      "size": 956229,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-11T07:05:59Z",
+      "url": "https://cityu-dg.instructure.com/files/168733/download?download_frd=1&verifier=7cb3174d-d946-4cb7-9826-2637555fbac4"
+    },
+    {
+      "id": "f168742",
+      "course": "PHY1201 · General Physics I",
+      "name": "Acceleration due to Gravity.pdf",
+      "ext": "pdf",
+      "size": 228852,
+      "folder": "Lab",
+      "updatedAt": "2026-09-10T13:36:56Z",
+      "url": "https://cityu-dg.instructure.com/files/168742/download?download_frd=1&verifier=fe846403-bac7-489c-b041-227d47aec8d3"
+    },
+    {
+      "id": "f168744",
+      "course": "PHY1201 · General Physics I",
+      "name": "Coefficients of Friction.pdf",
+      "ext": "pdf",
+      "size": 548362,
+      "folder": "Lab",
+      "updatedAt": "2026-09-11T00:24:04Z",
+      "url": "https://cityu-dg.instructure.com/files/168744/download?download_frd=1&verifier=996ee0a0-bd57-4a8e-9da7-c00c0972a9e1"
+    },
+    {
+      "id": "f168745",
+      "course": "PHY1201 · General Physics I",
+      "name": "Simple Harmonic Motion.pdf",
+      "ext": "pdf",
+      "size": 302579,
+      "folder": "Lab",
+      "updatedAt": "2026-09-11T00:35:30Z",
+      "url": "https://cityu-dg.instructure.com/files/168745/download?download_frd=1&verifier=d65c1aef-161b-4a1c-8077-1939d0a5ca3f"
+    },
+    {
+      "id": "f168747",
+      "course": "PHY1201 · General Physics I",
+      "name": "Smart Cart - Conservation of Energy.pdf",
+      "ext": "pdf",
+      "size": 220823,
+      "folder": "Lab",
+      "updatedAt": "2026-09-10T23:51:14Z",
+      "url": "https://cityu-dg.instructure.com/files/168747/download?download_frd=1&verifier=c0925450-803c-49c5-b9f4-6601633cd05f"
+    },
+    {
+      "id": "f163677",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_0_Introduction.pdf",
+      "ext": "pdf",
+      "size": 2895697,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-09T16:21:51Z",
+      "url": "https://cityu-dg.instructure.com/files/163677/download?download_frd=1&verifier=2c00e32a-2ba9-42e9-8c75-24bcbd345ef3"
+    },
+    {
+      "id": "f168739",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_1a_Vectors.pdf",
+      "ext": "pdf",
+      "size": 1767065,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-11T02:42:34Z",
+      "url": "https://cityu-dg.instructure.com/files/168739/download?download_frd=1&verifier=83f4689d-2cb1-4202-9ef1-49205c052490"
+    },
+    {
+      "id": "f163681",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_1b_Motion_1.pdf",
+      "ext": "pdf",
+      "size": 2472656,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-09T16:22:11Z",
+      "url": "https://cityu-dg.instructure.com/files/163681/download?download_frd=1&verifier=3a930af4-1527-4f1b-9cef-5da76f3b4842"
+    },
+    {
+      "id": "f167318",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_2a_Motion_2.pdf",
+      "ext": "pdf",
+      "size": 2769391,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-09T16:22:49Z",
+      "url": "https://cityu-dg.instructure.com/files/167318/download?download_frd=1&verifier=a88848c6-00d4-4ff0-b969-9752a4256788"
+    },
+    {
+      "id": "f168740",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_2b_Newton’s Laws of Motion and Applications.pdf",
+      "ext": "pdf",
+      "size": 3765518,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-10T12:23:43Z",
+      "url": "https://cityu-dg.instructure.com/files/168740/download?download_frd=1&verifier=a30ccc83-01e8-48f3-a64a-88ae3c0c6501"
+    },
+    {
+      "id": "f162529",
+      "course": "PHY1201 · General Physics I",
+      "name": "00_PHY1201 Basic information 2025-26Sem A-DG.pdf",
+      "ext": "pdf",
+      "size": 359735,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-01T03:38:35Z",
+      "url": "https://cityu-dg.instructure.com/files/162529/download?download_frd=1&verifier=4cf33282-3027-4991-a09e-5c2f1981693f"
+    },
+    {
+      "id": "f162530",
+      "course": "PHY1201 · General Physics I",
+      "name": "01_Vectors_2025A.pdf",
+      "ext": "pdf",
+      "size": 3187617,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-08-31T12:10:50Z",
+      "url": "https://cityu-dg.instructure.com/files/162530/download?download_frd=1&verifier=00234d20-2c0a-4150-a790-8577d36c1017"
+    },
+    {
+      "id": "f162531",
+      "course": "PHY1201 · General Physics I",
+      "name": "02_motion_2025A.pdf",
+      "ext": "pdf",
+      "size": 4485013,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-04T13:18:42Z",
+      "url": "https://cityu-dg.instructure.com/files/162531/download?download_frd=1&verifier=2def1bc3-c383-48bd-b8d9-13e2f438f38a"
+    },
+    {
+      "id": "f168741",
+      "course": "PHY1201 · General Physics I",
+      "name": "03_Newton's law and Force_2025A.pdf",
+      "ext": "pdf",
+      "size": 3417705,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-11T00:23:08Z",
+      "url": "https://cityu-dg.instructure.com/files/168741/download?download_frd=1&verifier=ba569283-e230-498a-8f5a-5b3b2fbb713e"
+    },
+    {
+      "id": "f163632",
+      "course": "PHY1201 · General Physics I",
+      "name": "00 openstax College Physics 2e frontmatter.pdf",
+      "ext": "pdf",
+      "size": 2001029,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-03T12:17:47Z",
+      "url": "https://cityu-dg.instructure.com/files/163632/download?download_frd=1&verifier=8ea1808d-9ce5-4aab-b2c4-1c70cae440b7"
+    },
+    {
+      "id": "f163633",
+      "course": "PHY1201 · General Physics I",
+      "name": "01 Introduction - The Nature of Science and Physics.pdf",
+      "ext": "pdf",
+      "size": 3162907,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-04T00:48:10Z",
+      "url": "https://cityu-dg.instructure.com/files/163633/download?download_frd=1&verifier=59e5deee-d0bd-4448-ae0c-3f8167745ab0"
+    },
+    {
+      "id": "f163634",
+      "course": "PHY1201 · General Physics I",
+      "name": "02 Kinematics.pdf",
+      "ext": "pdf",
+      "size": 10223350,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-08T04:42:50Z",
+      "url": "https://cityu-dg.instructure.com/files/163634/download?download_frd=1&verifier=cc8b9692-2691-4ce8-aad7-e0e02cb1dc63"
+    },
+    {
+      "id": "f163635",
+      "course": "PHY1201 · General Physics I",
+      "name": "03 Two-Dimensional Kinematics.pdf",
+      "ext": "pdf",
+      "size": 4834843,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-11T06:21:55Z",
+      "url": "https://cityu-dg.instructure.com/files/163635/download?download_frd=1&verifier=8c3c9f33-3b87-4641-8b70-1a09fb024180"
+    },
+    {
+      "id": "f163636",
+      "course": "PHY1201 · General Physics I",
+      "name": "04 Dynamics - Force and Newton's Laws of Motion.pdf",
+      "ext": "pdf",
+      "size": 5340541,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:40:45Z",
+      "url": "https://cityu-dg.instructure.com/files/163636/download?download_frd=1&verifier=81694777-2e51-48c1-823c-bdb82b7d91d1"
+    },
+    {
+      "id": "f163637",
+      "course": "PHY1201 · General Physics I",
+      "name": "05 Further Applications of Newton's Laws - Friction, Drag, and Elasticity.pdf",
+      "ext": "pdf",
+      "size": 4426670,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:40:55Z",
+      "url": "https://cityu-dg.instructure.com/files/163637/download?download_frd=1&verifier=d63ece82-310b-4f10-a0b7-d5eee9c563f4"
+    },
+    {
+      "id": "f163638",
+      "course": "PHY1201 · General Physics I",
+      "name": "06 Uniform Circular Motion and Gravitation.pdf",
+      "ext": "pdf",
+      "size": 6877508,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:41:08Z",
+      "url": "https://cityu-dg.instructure.com/files/163638/download?download_frd=1&verifier=287b552f-2022-4cbe-a905-7fe896b1c726"
+    },
+    {
+      "id": "f163639",
+      "course": "PHY1201 · General Physics I",
+      "name": "07 Work, Energy, and Energy Resources.pdf",
+      "ext": "pdf",
+      "size": 7598586,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-11T00:30:25Z",
+      "url": "https://cityu-dg.instructure.com/files/163639/download?download_frd=1&verifier=0738a358-f15b-4d09-9507-9735079a0236"
+    },
+    {
+      "id": "f163640",
+      "course": "PHY1201 · General Physics I",
+      "name": "08 Linear Momentum and Collisions.pdf",
+      "ext": "pdf",
+      "size": 4101524,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:41:33Z",
+      "url": "https://cityu-dg.instructure.com/files/163640/download?download_frd=1&verifier=c1b86e7e-5d05-4f3b-ba94-2695f6c8d304"
+    },
+    {
+      "id": "f163641",
+      "course": "PHY1201 · General Physics I",
+      "name": "09 Statics and Torque.pdf",
+      "ext": "pdf",
+      "size": 5763385,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:41:44Z",
+      "url": "https://cityu-dg.instructure.com/files/163641/download?download_frd=1&verifier=9a1aa2bb-c6e7-4d1e-86e4-df4f16b72b4b"
+    },
+    {
+      "id": "f163642",
+      "course": "PHY1201 · General Physics I",
+      "name": "10 Rotational Motion and Angular Momentum.pdf",
+      "ext": "pdf",
+      "size": 3686110,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:41:52Z",
+      "url": "https://cityu-dg.instructure.com/files/163642/download?download_frd=1&verifier=8c6c4e63-fe55-4289-98ca-9102794cf651"
+    },
+    {
+      "id": "f163643",
+      "course": "PHY1201 · General Physics I",
+      "name": "11 Fluid Statics.pdf",
+      "ext": "pdf",
+      "size": 8138510,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:42:07Z",
+      "url": "https://cityu-dg.instructure.com/files/163643/download?download_frd=1&verifier=6827803b-b5fc-40c7-aa63-07f3b335b67f"
+    },
+    {
+      "id": "f163644",
+      "course": "PHY1201 · General Physics I",
+      "name": "12 Fluid Dynamics and Its Biological and Medical Applications.pdf",
+      "ext": "pdf",
+      "size": 5864195,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-11T00:30:02Z",
+      "url": "https://cityu-dg.instructure.com/files/163644/download?download_frd=1&verifier=f12d27bd-b44c-4d57-a4a1-c725637024de"
+    },
+    {
+      "id": "f163645",
+      "course": "PHY1201 · General Physics I",
+      "name": "13 Temperature, Kinetic Theory, and the Gas Laws.pdf",
+      "ext": "pdf",
+      "size": 7846297,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:42:35Z",
+      "url": "https://cityu-dg.instructure.com/files/163645/download?download_frd=1&verifier=a83a55a5-ab58-4be9-b9d4-4da9546f055f"
+    },
+    {
+      "id": "f163646",
+      "course": "PHY1201 · General Physics I",
+      "name": "14 Heat and Heat Transfer Methods.pdf",
+      "ext": "pdf",
+      "size": 10917792,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:42:57Z",
+      "url": "https://cityu-dg.instructure.com/files/163646/download?download_frd=1&verifier=8a3e8811-0564-4b41-9acc-292cbe19f8f3"
+    },
+    {
+      "id": "f163647",
+      "course": "PHY1201 · General Physics I",
+      "name": "15 Thermodynamics.pdf",
+      "ext": "pdf",
+      "size": 8430933,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:43:13Z",
+      "url": "https://cityu-dg.instructure.com/files/163647/download?download_frd=1&verifier=1c9ce6d7-44a6-4ed3-b597-bb11306bbf24"
+    },
+    {
+      "id": "f163648",
+      "course": "PHY1201 · General Physics I",
+      "name": "16 Oscillatory Motion and Waves.pdf",
+      "ext": "pdf",
+      "size": 7211724,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-11T00:30:38Z",
+      "url": "https://cityu-dg.instructure.com/files/163648/download?download_frd=1&verifier=ddb59266-8e04-4e7e-b2d8-ff8a2386c0fe"
+    },
+    {
+      "id": "f163649",
+      "course": "PHY1201 · General Physics I",
+      "name": "17 Physics of Hearing.pdf",
+      "ext": "pdf",
+      "size": 11807662,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:43:54Z",
+      "url": "https://cityu-dg.instructure.com/files/163649/download?download_frd=1&verifier=71a031f9-ca51-4e82-b7b0-b744e482645c"
+    },
+    {
+      "id": "f163650",
+      "course": "PHY1201 · General Physics I",
+      "name": "18 Electric Charge and Electric Field.pdf",
+      "ext": "pdf",
+      "size": 7541598,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:44:12Z",
+      "url": "https://cityu-dg.instructure.com/files/163650/download?download_frd=1&verifier=a8a2e279-4d98-4b47-a0c2-a6084face431"
+    },
+    {
+      "id": "f163651",
+      "course": "PHY1201 · General Physics I",
+      "name": "19 Electric Potential and Electric Field.pdf",
+      "ext": "pdf",
+      "size": 7137976,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:44:27Z",
+      "url": "https://cityu-dg.instructure.com/files/163651/download?download_frd=1&verifier=0fdd3b26-f15f-48f7-872a-262c5b9628ec"
+    },
+    {
+      "id": "f163652",
+      "course": "PHY1201 · General Physics I",
+      "name": "20 Electric Current, Resistance, and Ohm's Law.pdf",
+      "ext": "pdf",
+      "size": 8110430,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:44:42Z",
+      "url": "https://cityu-dg.instructure.com/files/163652/download?download_frd=1&verifier=6d78ceb2-a5ab-454b-9540-f17d15433cae"
+    },
+    {
+      "id": "f163653",
+      "course": "PHY1201 · General Physics I",
+      "name": "21 Circuits and DC Instruments.pdf",
+      "ext": "pdf",
+      "size": 8695727,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:44:58Z",
+      "url": "https://cityu-dg.instructure.com/files/163653/download?download_frd=1&verifier=071edee2-2089-4bb5-99a8-5dfdbe01c744"
+    },
+    {
+      "id": "f163654",
+      "course": "PHY1201 · General Physics I",
+      "name": "22 Magnetism.pdf",
+      "ext": "pdf",
+      "size": 11015918,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-11T00:30:59Z",
+      "url": "https://cityu-dg.instructure.com/files/163654/download?download_frd=1&verifier=f7f1857d-9975-44c0-bce1-fb6c1b0c17c2"
+    },
+    {
+      "id": "f163655",
+      "course": "PHY1201 · General Physics I",
+      "name": "23 Electromagnetic Induction, AC Circuits, and Electrical Technologies.pdf",
+      "ext": "pdf",
+      "size": 10262432,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:45:38Z",
+      "url": "https://cityu-dg.instructure.com/files/163655/download?download_frd=1&verifier=79339542-2f9c-49db-a5c6-27c70bd39a47"
+    },
+    {
+      "id": "f163656",
+      "course": "PHY1201 · General Physics I",
+      "name": "24 Electromagnetic Waves.pdf",
+      "ext": "pdf",
+      "size": 7481151,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:45:53Z",
+      "url": "https://cityu-dg.instructure.com/files/163656/download?download_frd=1&verifier=520293a6-92ee-46ce-8194-403b2dc3f3ef"
+    },
+    {
+      "id": "f163657",
+      "course": "PHY1201 · General Physics I",
+      "name": "25 Geometric Optics.pdf",
+      "ext": "pdf",
+      "size": 13821598,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:46:17Z",
+      "url": "https://cityu-dg.instructure.com/files/163657/download?download_frd=1&verifier=204b9670-908f-45b0-83cd-0a43d434d4e1"
+    },
+    {
+      "id": "f163658",
+      "course": "PHY1201 · General Physics I",
+      "name": "26 Vision and Optical Instruments.pdf",
+      "ext": "pdf",
+      "size": 7079135,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:46:31Z",
+      "url": "https://cityu-dg.instructure.com/files/163658/download?download_frd=1&verifier=92f15a89-c50f-4538-a837-590286290cb7"
+    },
+    {
+      "id": "f163659",
+      "course": "PHY1201 · General Physics I",
+      "name": "27 Wave Optics.pdf",
+      "ext": "pdf",
+      "size": 9862583,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:46:50Z",
+      "url": "https://cityu-dg.instructure.com/files/163659/download?download_frd=1&verifier=6734cc89-ea16-456e-96c9-9a472ebb52f8"
+    },
+    {
+      "id": "f163660",
+      "course": "PHY1201 · General Physics I",
+      "name": "28 Special Relativity.pdf",
+      "ext": "pdf",
+      "size": 7714870,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:47:04Z",
+      "url": "https://cityu-dg.instructure.com/files/163660/download?download_frd=1&verifier=da4d9420-852d-49cb-9f29-75c9ceb220aa"
+    },
+    {
+      "id": "f163661",
+      "course": "PHY1201 · General Physics I",
+      "name": "29 Quantum Physics.pdf",
+      "ext": "pdf",
+      "size": 5777712,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:47:16Z",
+      "url": "https://cityu-dg.instructure.com/files/163661/download?download_frd=1&verifier=14097183-b833-4f20-b79a-5bbb5af0359c"
+    },
+    {
+      "id": "f163662",
+      "course": "PHY1201 · General Physics I",
+      "name": "30 Atomic Physics.pdf",
+      "ext": "pdf",
+      "size": 14345375,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:47:41Z",
+      "url": "https://cityu-dg.instructure.com/files/163662/download?download_frd=1&verifier=dc2c91c7-ddf2-4a26-8313-8c30c78b5315"
+    },
+    {
+      "id": "f163663",
+      "course": "PHY1201 · General Physics I",
+      "name": "31 Radioactivity and Nuclear Physics.pdf",
+      "ext": "pdf",
+      "size": 5740351,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:47:52Z",
+      "url": "https://cityu-dg.instructure.com/files/163663/download?download_frd=1&verifier=34b48610-36b9-45d4-b882-4262c1ac23f6"
+    },
+    {
+      "id": "f163664",
+      "course": "PHY1201 · General Physics I",
+      "name": "32 Medical Applications of Nuclear Physics.pdf",
+      "ext": "pdf",
+      "size": 7642059,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:48:08Z",
+      "url": "https://cityu-dg.instructure.com/files/163664/download?download_frd=1&verifier=9a44335e-12b9-4242-84f2-403736f40eb4"
+    },
+    {
+      "id": "f163665",
+      "course": "PHY1201 · General Physics I",
+      "name": "33 Particle Physics.pdf",
+      "ext": "pdf",
+      "size": 4901299,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:48:18Z",
+      "url": "https://cityu-dg.instructure.com/files/163665/download?download_frd=1&verifier=906d6c20-46fe-427c-8c28-cfdbada1e6ee"
+    },
+    {
+      "id": "f163666",
+      "course": "PHY1201 · General Physics I",
+      "name": "34 Frontiers of Physics.pdf",
+      "ext": "pdf",
+      "size": 7244346,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:48:31Z",
+      "url": "https://cityu-dg.instructure.com/files/163666/download?download_frd=1&verifier=5a20a85b-79da-4e72-9ad1-3f03e8d5991b"
+    },
+    {
+      "id": "f163667",
+      "course": "PHY1201 · General Physics I",
+      "name": "35 Appendices.pdf",
+      "ext": "pdf",
+      "size": 438629,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:48:33Z",
+      "url": "https://cityu-dg.instructure.com/files/163667/download?download_frd=1&verifier=9257f222-8737-4f1f-af13-7d461f71e122"
+    },
+    {
+      "id": "f163668",
+      "course": "PHY1201 · General Physics I",
+      "name": "36 Answer Key.pdf",
+      "ext": "pdf",
+      "size": 1828984,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:48:37Z",
+      "url": "https://cityu-dg.instructure.com/files/163668/download?download_frd=1&verifier=250a8e3f-85b2-46cd-94aa-fb6845eceaf4"
+    },
+    {
+      "id": "f163669",
+      "course": "PHY1201 · General Physics I",
+      "name": "38 Index.pdf",
+      "ext": "pdf",
+      "size": 285233,
+      "folder": "openstax College Physics 2e",
+      "updatedAt": "2026-09-01T17:48:38Z",
+      "url": "https://cityu-dg.instructure.com/files/163669/download?download_frd=1&verifier=b8f55d0a-f860-4e83-8598-06a7d0b9a294"
+    },
+    {
+      "id": "f169954",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_01_with_answers.pdf",
+      "ext": "pdf",
+      "size": 12943169,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-15T10:53:45Z",
+      "url": "https://cityu-dg.instructure.com/files/169954/download?download_frd=1&verifier=533e1e68-3848-4446-924d-2a094adff8a7"
+    },
+    {
+      "id": "f167747",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_01_without_answers.pdf",
+      "ext": "pdf",
+      "size": 969176,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-08T08:41:48Z",
+      "url": "https://cityu-dg.instructure.com/files/167747/download?download_frd=1&verifier=b52f00e4-0163-4ec7-a42f-3ab8d410dc89"
+    },
+    {
+      "id": "f172932",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_02_solutions.pdf",
+      "ext": "pdf",
+      "size": 2635082,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-15T10:52:16Z",
+      "url": "https://cityu-dg.instructure.com/files/172932/download?download_frd=1&verifier=3443d9dd-7fed-4146-8936-9cd5ec55a910"
+    },
+    {
+      "id": "f169906",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_02.pdf",
+      "ext": "pdf",
+      "size": 621855,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-11T07:00:30Z",
+      "url": "https://cityu-dg.instructure.com/files/169906/download?download_frd=1&verifier=8529ab1b-4454-48d8-837b-cb7e80ed3bdf"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1155",
+      "course": "PHY1201 · General Physics I",
+      "title": "Quiz 1: Vectors and Motion (Part 1)",
+      "due": "2026-09-17T15:59:59Z",
+      "points": 10,
+      "questionCount": 5,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1155",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-09-05T03:39:54Z",
+      "questions": [
+        {
+          "n": 1,
+          "type": "calculated_question",
+          "text": "A plane leaves the airport in Hong Kong and flies 47.2 km at 69.2 degree east of north (east of north means the direction is between east and north directions and the angle given is between the vector and the north direction) and then changes direction to fly…",
+          "correct": true,
+          "points": 2,
+          "score": 2
+        },
+        {
+          "n": 2,
+          "type": "calculated_question",
+          "text": "Consider the following two vectors in 3D space: A = \">(-4.5) + \">(0.5) + \">(1.3) k \"> B = \">(7.2) + \">(3.3) + \">(2.0) k \"> What is the angle between this two vectors in degrees? (We consider the angle between the two vectors, not from one vector to the other,…",
+          "correct": true,
+          "points": 2,
+          "score": 2
+        },
+        {
+          "n": 3,
+          "type": "calculated_question",
+          "text": "Suppose we have a right-handed 3D Cartesian coordinate system, and we introduce a new right-handed Cartesian coordinate system with the same origin but different axis directions. The unit vectors along the first two axes are e 1 = ( 3 3 , 3 3 , 3 3 ) \">, and …",
+          "correct": true,
+          "points": 2,
+          "score": 2
+        },
+        {
+          "n": 4,
+          "type": "calculated_question",
+          "text": "A baseball left John's hand at a speed of 21.3 ms -1 . If John's hand was in contact with the baseball over a distance of 0.6m and the baseball was having a constant acceleration during this period. Initially both the ball and John's hand were at rest (zero s…",
+          "correct": true,
+          "points": 2,
+          "score": 2
+        },
+        {
+          "n": 5,
+          "type": "calculated_question",
+          "text": "A baseball left John's hand at a speed of 13.3 ms -1 . If John's hand was in contact with the baseball over a distance of 0.6m and the baseball was having a constant acceleration during this period. Initially both the ball and John's hand were at rest (zero s…",
+          "correct": true,
+          "points": 2,
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "q1168",
+      "course": "PHY1201 · General Physics I",
+      "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
+      "due": "2026-09-18T15:59:59Z",
+      "points": 10,
+      "questionCount": 9,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1168",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-09-11T10:42:20Z",
+      "questions": [
+        {
+          "n": 1,
+          "type": "calculated_question",
+          "text": "A cat has the x- and y- coordinates (7.6 m, 12.1 m) at t 1 =0.4 s and coordinates (32.3 m, 31.7 m) at t 2 =2.7 s. For this time interval, find the y-component of the average velocity (the unit is ms -1 )",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 2,
+          "type": "calculated_question",
+          "text": "A boy throws a stone vertically up with a speed 15.3 m/s. Assuming that the stone's motion is affected by the gravitaional acceleration only (acceleration g=9.8ms -2 ). What is the displacement in m between the stone's position at time 3.8 s and its initial p…",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 3,
+          "type": "calculated_question",
+          "text": "The bullet fired from a gun on the ground has a velocity v. The x-component of the velocity is 10 ms -1 and the y-component of the velocity is 1.5 ms -1 . x is the horizontal axis and y is the vertial axis. What is the distance in m between the gun and the po…",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 4,
+          "type": "calculated_question",
+          "text": "A car moves in a circle with a radius of 1.69 km with a constant speed of 12.4 m/s. Find the acceleration for the circular motion in ms -2 .",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 5,
+          "type": "calculated_question",
+          "text": "An object has an initial velocity 0.13 +-3.23 ms -1 . The acceleration is 2.69 +8.43 ms -2 . Find the magnitude of the velocity after time 9.88s in unit of ms -1 .",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 6,
+          "type": "calculated_question",
+          "text": "The position of a particle is 0 t 3 i \">+-4.2 t 4 j \"> m . what is the x component of the acceleration at time 8.9 s in unit of ms -2 ? t denotes time in second.",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 7,
+          "type": "calculated_question",
+          "text": "A force 66 N is accelerating a mass m 1 = 34 kg and m 2 =23kg. There is a string between the two masses. What is the tension in the string? Refer to the figure below. The answer is in unit of N.",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 8,
+          "type": "calculated_question",
+          "text": "A lift is moving upward with an acceleration a=2.9ms -2 . There is a block of mass m=22 kg on the floor of the lift. What is the contact force F between the floor and the block in newton? the acceleration due to gravity is 9.8ms -2 . The answer's unit is N.",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        },
+        {
+          "n": 9,
+          "type": "calculated_question",
+          "text": "Two forces are acting on a 9-kg object that moves with acceleration 8.3 m/s 2 in the positive y -direction. If one of the forces acts in the positive x -direction and has magnitude of 10 N, what is the magnitude of the other force in N?",
+          "correct": true,
+          "points": 1.11,
+          "score": 1.11
+        }
+      ]
+    }
+  ],
+  "canvasSyncedAt": "2026-09-15"
 }
