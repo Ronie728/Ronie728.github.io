@@ -342,7 +342,8 @@
       "title": "9/20（周日）PHY 1201 补课",
       "detail": "按学校调课安排，9 月 20 日（周日）补 PHY 1201 三节：08:30 Lecture、14:00 Lecture、15:00 Tutorial，地点均为 Lecture Theater AC5-318。",
       "meta": "Sep 20, 2026",
-      "source": "SIS View My Classes"
+      "source": "SIS View My Classes",
+      "summary": "周日补 PHY 1201 三节，均在 AC5-318"
     },
     {
       "id": "note:quiz:dsc1001-20260916",
@@ -350,7 +351,8 @@
       "title": "DSC1001 in-class quiz today (Sep 16) — bring your laptop",
       "detail": "The first in-class quiz takes place in today's class. Bring a laptop; expect questions on requesting data from IPUMS. If you have not registered an IPUMS account yet, complete the setup first (under 10 minutes, follow last week's lecture tutorial). Questions may include multiple choice and short answers on variable types, and derived vs raw variables.",
       "meta": "Sep 16, 2026",
-      "source": "Canvas · DSC1001"
+      "source": "Canvas · DSC1001",
+      "summary": "Today's class · bring a laptop for the IPUMS quiz"
     },
     {
       "id": "note:lab:phy1201-20260916",
@@ -358,7 +360,8 @@
       "title": "PHY1201 lab group assigned — first lab session next week",
       "detail": "Lab session assignments are out; check yours on Canvas > People > Groups (Session 2 per the Canvas notification). The first lab session runs next week, so confirm your group in advance. If you need a different session, email the instructor (Michael Cao) and explain your situation.",
       "meta": "Sep 16, 2026",
-      "source": "Canvas · PHY1201"
+      "source": "Canvas · PHY1201",
+      "summary": "Check your group on Canvas · first lab next week"
     }
   ],
   "emails": [
