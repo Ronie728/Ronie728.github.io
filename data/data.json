@@ -396,11 +396,11 @@
     {
       "id": "note:makeup:phy-20260920",
       "type": "course_change",
-      "title": "PHY 1201 makeup classes on Sun Sep 20",
-      "detail": "Three PHY 1201 sessions are moved to Sunday, September 20: 08:30 Lecture, 14:00 Lecture and 15:00 Tutorial, all in Lecture Theater AC5-318. Plan your weekend around these.",
+      "title": "9/20（周日）PHY 1201 补课",
+      "detail": "按学校调课安排，9 月 20 日（周日）补 PHY 1201 三节：08:30 Lecture、14:00 Lecture、15:00 Tutorial，地点均为 Lecture Theater AC5-318。",
       "meta": "Sep 20, 2026",
       "source": "SIS View My Classes",
-      "summary": "Sun Sep 20 · three PHY 1201 sessions in AC5-318"
+      "summary": "周日（9/20）补 PHY 1201 三节，均在 AC5-318"
     },
     {
       "id": "note:quiz:dsc1001-20260916",
