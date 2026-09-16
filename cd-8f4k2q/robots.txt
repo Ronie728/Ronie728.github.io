@@ -1,0 +1,8 @@
+# CampusDesk is a private personal dashboard - keep it out of search engines.
+User-agent: *
+Disallow: /
+
+# Also ask crawlers not to keep cached copies or show snippets/previews.
+Noarchive: /
+Nosnippet: /
+Noimageindex: /
