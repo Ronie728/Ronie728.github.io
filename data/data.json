@@ -96,7 +96,8 @@
       "end": "11:20",
       "room": "Lecture Theater AC5-415",
       "instructor": "",
-      "note": ""
+      "note": "Room updated to AC5-415 for this term.",
+      "flag": "room"
     },
     {
       "id": "l09",
@@ -132,7 +133,8 @@
       "end": "11:20",
       "room": "Lecture Theater AC5-416",
       "instructor": "",
-      "note": ""
+      "note": "Room changed from AC3-213 to AC5-416, effective this week.",
+      "flag": "room"
     },
     {
       "id": "l12",
@@ -181,6 +183,61 @@
       "room": "Lecture Theater AC5-318",
       "instructor": "",
       "note": ""
+    },
+    {
+      "id": "l_mk_20260920_phy_a",
+      "day": 0,
+      "date": "2026-09-20",
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Lecture",
+      "start": "08:30",
+      "end": "10:20",
+      "room": "Lecture Theater AC5-318",
+      "instructor": "",
+      "note": "Makeup session on Sunday Sep 20 (school reschedule).",
+      "flag": "makeup"
+    },
+    {
+      "id": "l_mk_20260920_phy_b",
+      "day": 0,
+      "date": "2026-09-20",
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Lecture",
+      "start": "14:00",
+      "end": "14:50",
+      "room": "Lecture Theater AC5-318",
+      "instructor": "",
+      "note": "Makeup session on Sunday Sep 20 (school reschedule).",
+      "flag": "makeup"
+    },
+    {
+      "id": "l_mk_20260920_phy_c",
+      "day": 0,
+      "date": "2026-09-20",
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Tutorial",
+      "start": "15:00",
+      "end": "15:50",
+      "room": "Lecture Theater AC5-318",
+      "instructor": "",
+      "note": "Makeup session on Sunday Sep 20 (school reschedule).",
+      "flag": "makeup"
+    },
+    {
+      "id": "l_lab_phy1201_s2",
+      "code": "PHY 1201",
+      "title": "General Physics I",
+      "type": "Lab",
+      "start": "",
+      "end": "",
+      "room": "",
+      "instructor": "",
+      "note": "Session 2 · first lab session next week — day and time to be confirmed (per Canvas).",
+      "flag": "lab",
+      "expiresAfter": "2026-09-30"
     }
   ],
   "assignments": [
