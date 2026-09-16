@@ -12,4 +12,25 @@
     </style>
   </head>
   <body>Nothing here.</body>
+  <!--
+    This domain used to host an old build; its service worker was registered at the root scope
+    and keeps hijacking the new app's navigation requests. Whenever this root page is actually
+    served, evict every service worker and cache left behind on this origin.
+  -->
+  <script>
+    (function () {
+      try {
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.getRegistrations().then(function (regs) {
+            return Promise.all(regs.map(function (r) { return r.unregister(); }));
+          }).catch(function () {});
+        }
+        if (window.caches) {
+          caches.keys().then(function (keys) {
+            return Promise.all(keys.map(function (k) { return caches.delete(k); }));
+          }).catch(function () {});
+        }
+      } catch (e) {}
+    })();
+  </script>
 </html>
