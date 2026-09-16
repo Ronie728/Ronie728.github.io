@@ -30,10 +30,61 @@
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="/cd-8f4k2q/icons/splash-1125x2436.png" />
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/cd-8f4k2q/icons/splash-750x1334.png" />
     <title>CampusDesk</title>
-    <script type="module" crossorigin src="/cd-8f4k2q/assets/index-BikpWohg.js"></script>
+    <script type="module" crossorigin src="/cd-8f4k2q/assets/index-DswoWFsj.js"></script>
     <link rel="stylesheet" crossorigin href="/cd-8f4k2q/assets/index-C1Kk1PCW.css">
   <link rel="manifest" href="/cd-8f4k2q/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/cd-8f4k2q/registerSW.js"></script></head>
   <body>
     <div id="root"></div>
+    <!--
+      v1.4.2 自愈脚本：旧网址（ronie728.github.io/）的 PWA 曾把 Service Worker 注册在
+      根作用域，它会连本 App 的导航请求一起截住、返回它自己缓存的旧页面（用户看到
+      v1.2.2 / v1.3.9）。只要本页真的被加载成功，就把一切不属于本路径的 Service Worker
+      和缓存清干净再刷新一次；本机平安无事时它什么也不做（Session 内只跑一次）。
+    -->
+    <script>
+      (function () {
+        var BASE = '/cd-8f4k2q/';
+        try {
+          if (sessionStorage.getItem('wb_cd_cleaned')) return;
+        } catch (e) {}
+        if (!('serviceWorker' in navigator) || location.pathname.indexOf(BASE) !== 0) return;
+        var mine = location.origin + BASE;
+        navigator.serviceWorker
+          .getRegistrations()
+          .then(function (regs) {
+            var foreign = regs.filter(function (r) {
+              return r.scope !== mine;
+            });
+            if (!foreign.length) return false;
+            return Promise.all(
+              foreign.map(function (r) {
+                return r.unregister();
+              })
+            ).then(function () {
+              return true;
+            });
+          })
+          .then(function (dirty) {
+            if (!window.caches) return dirty;
+            return caches.keys().then(function (keys) {
+              return Promise.all(
+                keys.map(function (k) {
+                  return k.indexOf(BASE) === -1 ? caches.delete(k) : Promise.resolve(false);
+                })
+              );
+            }).then(function () {
+              return dirty;
+            });
+          })
+          .then(function (dirty) {
+            if (!dirty) return;
+            try {
+              sessionStorage.setItem('wb_cd_cleaned', '1');
+            } catch (e) {}
+            location.reload();
+          })
+          .catch(function () {});
+      })();
+    </script>
   </body>
 </html>
