@@ -6,6 +6,19 @@
     <meta name="referrer" content="no-referrer" />
     <meta http-equiv="refresh" content="0; url=/cd-8f4k2q/" />
     <title>Nothing here</title>
+    <!--
+      v1.4.8：以前无脑跳回 /cd-8f4k2q/，在 /cd-8f4k2q/lecture 上刷新就被弹回主页。
+      现在保留原路径：https://ronie728.github.io/cd-8f4k2q/lecture → 仍跳到
+      /cd-8f4k2q/lecture（由 Service Worker 的 navigateFallback 接住并渲染对应页）。
+    -->
+    <script>
+      (function () {
+        var BASE = '/cd-8f4k2q/';
+        var p = location.pathname || '/';
+        if (p.indexOf(BASE) === 0) return;
+        location.replace(BASE + p.replace(/^\//, '') + location.search + location.hash);
+      })();
+    </script>
     <style>
       html, body { margin: 0; height: 100%; }
       body { display: flex; align-items: center; justify-content: center; background: #ffffff; color: #9ca3af; font: 500 15px/1.6 -apple-system, "PingFang SC", "Segoe UI", sans-serif; }
