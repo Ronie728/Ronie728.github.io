@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-16",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -318,6 +318,21 @@
       "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 2",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3410",
       "note": "已提交并批改，得分 10 / 10。"
+    },
+    {
+      "id": "cv_3446",
+      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
+      "title": "09/15",
+      "due": "2026-09-15T16:00:00+08:00",
+      "dueTime": "16:00",
+      "status": "submitted",
+      "points": 2,
+      "submittedAt": "2026-09-15T15:52:35+08:00",
+      "requirement": "要你做什么：两道证明题任选其一——\n① 证明集合 {2+1/n² : n 为自然数} 的最大下界（greatest lower bound）是 2；\n② 用 epsilon-delta 定义证明 f(x)=x³ 当 x→1 时的极限为 1。\n\n交付什么：解答上传至 Canvas（在线上传）。\n\n什么时候交：截止 2026-09-15 16:00。\n\n分值：2 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → MA1300 → Assignments → 09/15",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3446",
+      "note": "已于 2026-09-15 提交（得分未出，满分 2）。"
     }
   ],
   "notes": [
