@@ -1229,6 +1229,16 @@
       "url": "https://cityu-dg.instructure.com/files/169476/download?download_frd=1&verifier=349c48dd-ab9d-4d4f-8bc3-2445d919ddb4"
     },
     {
+      "id": "f173357",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "09 15",
+      "ext": "",
+      "size": 18290526,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-15T12:52:23Z",
+      "url": "https://cityu-dg.instructure.com/files/173357/download?download_frd=1&verifier=3c2bceb6-5389-460f-be56-fc8e1f5cac08"
+    },
+    {
       "id": "f167756",
       "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
       "name": "1. Limits.pdf",
@@ -1875,7 +1885,7 @@
       "ext": "pdf",
       "size": 2635082,
       "folder": "Tutorials",
-      "updatedAt": "2026-09-15T10:52:16Z",
+      "updatedAt": "2026-09-15T13:02:41Z",
       "url": "https://cityu-dg.instructure.com/files/172932/download?download_frd=1&verifier=3443d9dd-7fed-4146-8936-9cd5ec55a910"
     },
     {
@@ -2033,5 +2043,5 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-15"
+  "canvasSyncedAt": "2026-09-16"
 }
