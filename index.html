@@ -4,6 +4,20 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#F3EEFA" />
+    <!--
+      防收录 / 防泄露：这是个人私密站点，不希望被搜索引擎、AI 爬虫或
+      预览机器人抓到。noindex 让搜索结果不出现，nofollow 让爬虫不顺着链接爬，
+      noarchive/nosnippet 禁止快照与摘要，noimageindex 禁止图片被收录。
+      robots.txt 里另写了一份给爬虫看的规则；两者一起才稳妥。
+      注意：这只能挡住「守规矩」的爬虫，挡不住知道链接的人直接打开——
+      真正的访问控制仍靠门禁码（src/lib/lock.js）。
+    -->
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex, notranslate" />
+    <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet" />
+    <meta name="bingbot" content="noindex, nofollow, noarchive" />
+    <meta name="slurp" content="noindex, nofollow" />
+    <meta name="duckduckbot" content="noindex, nofollow" />
+    <meta name="referrer" content="no-referrer" />
     <meta name="description" content="My campus desk: lectures, assignments and email." />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -16,8 +30,8 @@
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="/icons/splash-1125x2436.png" />
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/icons/splash-750x1334.png" />
     <title>CampusDesk</title>
-    <script type="module" crossorigin src="/assets/index-CoAaljpN.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-BdQhRYOR.css">
+    <script type="module" crossorigin src="/assets/index-BzANbwTq.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-ByKkbkRH.css">
   <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
   <body>
     <div id="root"></div>
