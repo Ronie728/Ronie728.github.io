@@ -231,13 +231,13 @@
       "code": "PHY 1201",
       "title": "General Physics I",
       "type": "Lab",
-      "start": "",
-      "end": "",
+      "start": "10:30",
+      "end": "12:20",
       "room": "",
       "instructor": "",
-      "note": "Session 2 · first lab session next week — day and time to be confirmed (per Canvas).",
+      "note": "Session 2 lab: Tue 29 Sep, 10:30-12:20 (venue per Canvas).",
       "flag": "lab",
-      "expiresAfter": "2026-09-30"
+      "date": "2026-09-29"
     }
   ],
   "assignments": [
