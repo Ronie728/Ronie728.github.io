@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-17",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -390,6 +390,106 @@
       "canvasPath": "Canvas → MA1300 → Assignments → 09/15",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3446",
       "note": "已于 2026-09-15 提交（得分未出，满分 2）。"
+    },
+    {
+      "id": "cv_3458",
+      "course": "DSC 1001 · Introduction to Data Science",
+      "title": "In-Class Quiz 1",
+      "due": "2026-09-16T09:30:00+08:00",
+      "dueTime": "09:30",
+      "status": "submitted",
+      "points": 18,
+      "score": 0,
+      "submittedAt": "2026-09-16T21:03:24+08:00",
+      "requirement": "要你做什么：第一次随堂测验（In-Class Quiz 1），课上完成，内容涉及向 IPUMS 申请数据、变量类型、derived vs raw 变量等，题型含选择题与简答题。Canvas 该作业页未附更详细文字说明。\n\n交付什么：Canvas 在线测验作答。\n\n什么时候交：课堂进行，Canvas 截止 2026-09-16 09:30。\n\n分值：18 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → DSC1001 → Assignments → In-Class Quiz 1",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/790/assignments/3458",
+      "note": "已于 2026-09-16 提交（Canvas 显示得分 0/18，建议到 Canvas 核对批改状态）。"
+    },
+    {
+      "id": "cv_3461",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 3: Applying Newton's Laws, Work and Kinetic Energy",
+      "due": "2026-09-25T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "requirement": "要你做什么：第 3 次手写解答作业，主题为牛顿定律的应用、功与动能。Canvas 未附文字说明，按前两次 Written Assignment 模式推断：从题库选 3 题手写解答，标明章节与题号、写清推理与计算过程，扫描/拍照（多页合成一个 PDF）上传 Canvas，具体以老师课堂或课程文件说明为准。\n\n什么时候交：Canvas 截止 2026-09-25 23:59。\n\n分值：10 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 3",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3461",
+      "note": ""
+    },
+    {
+      "id": "cv_3462",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
+      "due": "2026-10-02T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "requirement": "要你做什么：第 4 次手写解答作业，主题为功、动能、势能与能量守恒。Canvas 未附文字说明，按前几次 Written Assignment 模式推断：从题库选 3 题手写解答，标明章节与题号、写清推理与计算过程，扫描/拍照（多页合成一个 PDF）上传 Canvas，具体以老师课堂或课程文件说明为准。\n\n什么时候交：Canvas 截止 2026-10-02 23:59。\n\n分值：10 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 4",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3462",
+      "note": ""
+    },
+    {
+      "id": "cv_3463",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Submit Lab Report",
+      "due": "",
+      "dueTime": "",
+      "status": "pending",
+      "points": 30,
+      "requirement": "要你做什么：完成实验课后提交实验报告（Lab Report）。\n\n交付什么：按课程提供的实验报告模板撰写（模板链接见 Canvas 该作业页）。\n\n什么时候交：以本人实验课日期起 2 周内为截止——不同同学实验日期不同，Canvas 页面显示的截止时间不适用；你的第一次实验课为 9 月 29 日（周二）。\n\n额外要求：实验报告占期末总成绩 3%。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Submit Lab Report",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3463",
+      "note": "截止按本人实验日 +2 周计；首次实验课 9/29。"
+    },
+    {
+      "id": "cv_3466",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
+      "due": "2026-09-25T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "requirement": "要你做什么：在线测验，覆盖牛顿运动定律的应用、功与动能。Canvas 未附文字说明，按本课程 Quiz 2 惯例推断：每题 3 次尝试、开始作答后有 3 天时限、数值答案不带单位、±5% 容差、最多 4 位小数（以 Quiz 页面实际说明为准）。\n\n什么时候交：Canvas 截止 2026-09-25 23:59。\n\n分值：10 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 3",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3466",
+      "note": ""
+    },
+    {
+      "id": "cv_3469",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
+      "due": "2026-10-02T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "requirement": "要你做什么：在线测验，覆盖功、动能、势能与能量守恒。Canvas 未附文字说明，按本课程 Quiz 2 惯例推断：每题 3 次尝试、开始作答后有 3 天时限、数值答案不带单位、±5% 容差、最多 4 位小数（以 Quiz 页面实际说明为准）。\n\n什么时候交：Canvas 截止 2026-10-02 23:59。\n\n分值：10 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 4",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3469",
+      "note": ""
+    },
+    {
+      "id": "cv_3468",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Concept Questions on Work and Energy",
+      "due": "",
+      "dueTime": "",
+      "status": "pending",
+      "points": 0,
+      "requirement": "要你做什么：关于功、动能、势能与能量守恒的概念题（concept questions），作为学习资源的选做练习（optional practice quiz）。\n\n说明：官方说明为不计分、不计入总评。\n\n什么时候交：无截止日期。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Concept Questions on Work and Energy",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3468",
+      "note": "选做练习，不计分。"
     }
   ],
   "notes": [
@@ -450,21 +550,6 @@
       "location": "线上 (Online)",
       "time": "09:50",
       "receivedAt": "2026-09-16T09:50:44+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e7",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "DSC1001 Introduction to Data Science",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "In-Class Quiz Reminder: DSC1001 Introduction to Data Science (1072)",
-      "snippet": "提醒：DSC1001 第一次随堂测验就在今天（9 月 16 日），请带笔记本电脑，题目会涉及从 IPUMS 取数。",
-      "body": "第一次 in-class quiz 在今天（9 月 16 日）课上进行。请携带笔记本电脑；预期会出现关于「向 IPUMS 申请数据」的题目，若尚未注册 IPUMS 账号，请按上周课堂教程完成注册（约 10 分钟内可完成）。题型可能包括选择题与简答题，范围涉及变量类型、derived vs raw 变量等。",
-      "eventTime": "9月16日（周三）课上",
-      "location": "",
-      "time": "23:16",
-      "receivedAt": "2026-09-15T23:16:10+08:00",
       "mailUrl": "#"
     },
     {
