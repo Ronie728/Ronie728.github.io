@@ -806,7 +806,7 @@
       "ext": "pptx",
       "size": 355904,
       "folder": "Week3/Lab3 Booleans and Conditionals",
-      "updatedAt": "2026-09-13T06:54:00Z",
+      "updatedAt": "2026-09-16T03:31:08Z",
       "url": "https://cityu-dg.instructure.com/files/169778/download?download_frd=1&verifier=90111965-caf8-48f3-9ea8-9ce96cb53961"
     },
     {
@@ -860,6 +860,146 @@
       "url": "https://cityu-dg.instructure.com/files/173199/download?download_frd=1&verifier=a904efde-3d87-4214-af32-06bd7a70aa30"
     },
     {
+      "id": "f173211",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week4_Tutorial.pdf",
+      "ext": "pdf",
+      "size": 193093,
+      "folder": "Week4/Lab 4 Iteration",
+      "updatedAt": "2026-09-16T07:35:08Z",
+      "url": "https://cityu-dg.instructure.com/files/173211/download?download_frd=1&verifier=ce2f234a-926a-4772-a601-b91ebd931265"
+    },
+    {
+      "id": "f173210",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week4_answers.ipynb",
+      "ext": "ipynb",
+      "size": 8126,
+      "folder": "Week4/Lect4 Iteration",
+      "updatedAt": "2026-09-16T07:35:08Z",
+      "url": "https://cityu-dg.instructure.com/files/173210/download?download_frd=1&verifier=ab91b96b-f8e0-49a9-81e3-d049e12d4906"
+    },
+    {
+      "id": "f173208",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week4_exercises.ipynb",
+      "ext": "ipynb",
+      "size": 7704,
+      "folder": "Week4/Lect4 Iteration",
+      "updatedAt": "2026-09-16T07:35:08Z",
+      "url": "https://cityu-dg.instructure.com/files/173208/download?download_frd=1&verifier=2d827e98-b84c-4117-acc1-a709b55709f6"
+    },
+    {
+      "id": "f174530",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week4_Lecture.ipynb",
+      "ext": "ipynb",
+      "size": 57787,
+      "folder": "Week4/Lect4 Iteration",
+      "updatedAt": "2026-09-16T13:41:14Z",
+      "url": "https://cityu-dg.instructure.com/files/174530/download?download_frd=1&verifier=5520be09-e801-4652-8d37-6a1833408192"
+    },
+    {
+      "id": "f173219",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week5_Tutorial.pdf",
+      "ext": "pdf",
+      "size": 704286,
+      "folder": "Week5/Lab 5 Functions",
+      "updatedAt": "2026-09-16T07:35:48Z",
+      "url": "https://cityu-dg.instructure.com/files/173219/download?download_frd=1&verifier=9c4db334-4260-4132-94f0-1f27fd4ceb0d"
+    },
+    {
+      "id": "f173216",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week5_answers.ipynb",
+      "ext": "ipynb",
+      "size": 5880,
+      "folder": "Week5/Lect 5 Functions",
+      "updatedAt": "2026-09-16T07:35:48Z",
+      "url": "https://cityu-dg.instructure.com/files/173216/download?download_frd=1&verifier=78915b98-76e2-4a76-8c98-de7ec2474c41"
+    },
+    {
+      "id": "f173213",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week5_exercises.ipynb",
+      "ext": "ipynb",
+      "size": 3739,
+      "folder": "Week5/Lect 5 Functions",
+      "updatedAt": "2026-09-16T07:35:48Z",
+      "url": "https://cityu-dg.instructure.com/files/173213/download?download_frd=1&verifier=26af832a-d640-404e-b66b-87f795dbc447"
+    },
+    {
+      "id": "f173214",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week5_Lecture_part1.ipynb",
+      "ext": "ipynb",
+      "size": 140576,
+      "folder": "Week5/Lect 5 Functions",
+      "updatedAt": "2026-09-16T07:35:48Z",
+      "url": "https://cityu-dg.instructure.com/files/173214/download?download_frd=1&verifier=679e7745-b7b8-44cb-ba8f-6a83aa223efa"
+    },
+    {
+      "id": "f173215",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week5_Lecture_part2.ipynb",
+      "ext": "ipynb",
+      "size": 35860,
+      "folder": "Week5/Lect 5 Functions",
+      "updatedAt": "2026-09-16T07:35:48Z",
+      "url": "https://cityu-dg.instructure.com/files/173215/download?download_frd=1&verifier=9f341d86-94d1-4ccf-8bc2-7e9b8fbc8c96"
+    },
+    {
+      "id": "f173222",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week6_Tutorial.pdf",
+      "ext": "pdf",
+      "size": 145178,
+      "folder": "Week6/Lab6 Objects",
+      "updatedAt": "2026-09-16T07:41:53Z",
+      "url": "https://cityu-dg.instructure.com/files/173222/download?download_frd=1&verifier=072bf842-874b-4cde-af5b-004e7dd45825"
+    },
+    {
+      "id": "f174036",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "contact.csv",
+      "ext": "csv",
+      "size": 426,
+      "folder": "Week6/Lect6 Objects",
+      "updatedAt": "2026-09-16T07:41:53Z",
+      "url": "https://cityu-dg.instructure.com/files/174036/download?download_frd=1&verifier=13d0de52-1a7e-418f-9e20-0553ade58c7d"
+    },
+    {
+      "id": "f174033",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week6_answers.ipynb",
+      "ext": "ipynb",
+      "size": 6172,
+      "folder": "Week6/Lect6 Objects",
+      "updatedAt": "2026-09-16T07:41:53Z",
+      "url": "https://cityu-dg.instructure.com/files/174033/download?download_frd=1&verifier=0abc62a6-52d4-479c-ab54-79aa8c9898a3"
+    },
+    {
+      "id": "f174034",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week6_exercises.ipynb",
+      "ext": "ipynb",
+      "size": 4705,
+      "folder": "Week6/Lect6 Objects",
+      "updatedAt": "2026-09-16T07:41:53Z",
+      "url": "https://cityu-dg.instructure.com/files/174034/download?download_frd=1&verifier=9835b739-384c-4d07-8a07-53778d674df6"
+    },
+    {
+      "id": "f174035",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week6_lecture.ipynb",
+      "ext": "ipynb",
+      "size": 79874,
+      "folder": "Week6/Lect6 Objects",
+      "updatedAt": "2026-09-16T07:41:53Z",
+      "url": "https://cityu-dg.instructure.com/files/174035/download?download_frd=1&verifier=d29a4698-29ed-4c25-a793-5402880e2c2f"
+    },
+    {
       "id": "f163994",
       "course": "DSC1001 · Introduction to Data Science",
       "name": "DSC_1001_additional_tutorial_1.pdf",
@@ -876,8 +1016,18 @@
       "ext": "pdf",
       "size": 253397,
       "folder": "根目录",
-      "updatedAt": "2026-09-09T10:27:12Z",
+      "updatedAt": "2026-09-16T09:31:06Z",
       "url": "https://cityu-dg.instructure.com/files/163995/download?download_frd=1&verifier=a1314f69-ec67-4470-9f06-bb757da8133b"
+    },
+    {
+      "id": "f174202",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "DSC_1001_lec3.pdf",
+      "ext": "pdf",
+      "size": 3695060,
+      "folder": "根目录",
+      "updatedAt": "2026-09-16T10:28:52Z",
+      "url": "https://cityu-dg.instructure.com/files/174202/download?download_frd=1&verifier=3555deb6-152c-4a18-b7a3-6d04b6ec8965"
     },
     {
       "id": "f163996",
@@ -896,7 +1046,7 @@
       "ext": "pptx",
       "size": 1304550,
       "folder": "根目录",
-      "updatedAt": "2026-09-09T13:01:17Z",
+      "updatedAt": "2026-09-16T10:29:14Z",
       "url": "https://cityu-dg.instructure.com/files/168526/download?download_frd=1&verifier=63b68ffd-efd9-4d2a-8640-121700b5bd2f"
     },
     {
@@ -906,7 +1056,7 @@
       "ext": "pdf",
       "size": 843486,
       "folder": "根目录",
-      "updatedAt": "2026-09-09T11:55:04Z",
+      "updatedAt": "2026-09-16T10:29:03Z",
       "url": "https://cityu-dg.instructure.com/files/168525/download?download_frd=1&verifier=c1bd47c4-b695-49d9-977b-a45493a1c5a4"
     },
     {
@@ -1086,7 +1236,7 @@
       "ext": "xlsx",
       "size": 53176,
       "folder": "根目录",
-      "updatedAt": "2026-09-03T03:02:53Z",
+      "updatedAt": "2026-09-16T02:03:47Z",
       "url": "https://cityu-dg.instructure.com/files/163997/download?download_frd=1&verifier=81e62c07-ac11-44be-868e-a21159959bf1"
     },
     {
@@ -1566,8 +1716,28 @@
       "ext": "pdf",
       "size": 956229,
       "folder": "Exercise Scan",
-      "updatedAt": "2026-09-11T07:05:59Z",
+      "updatedAt": "2026-09-16T09:17:14Z",
       "url": "https://cityu-dg.instructure.com/files/168733/download?download_frd=1&verifier=7cb3174d-d946-4cb7-9826-2637555fbac4"
+    },
+    {
+      "id": "f174146",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_05.pdf",
+      "ext": "pdf",
+      "size": 457932,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-16T09:32:17Z",
+      "url": "https://cityu-dg.instructure.com/files/174146/download?download_frd=1&verifier=b1e9b636-e543-48f7-8b5d-302cb06ad229"
+    },
+    {
+      "id": "f174151",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_06.pdf",
+      "ext": "pdf",
+      "size": 940080,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-16T09:31:58Z",
+      "url": "https://cityu-dg.instructure.com/files/174151/download?download_frd=1&verifier=465e0f2a-1988-49fb-ae5e-16f35d63df18"
     },
     {
       "id": "f168742",
@@ -1588,6 +1758,16 @@
       "folder": "Lab",
       "updatedAt": "2026-09-11T00:24:04Z",
       "url": "https://cityu-dg.instructure.com/files/168744/download?download_frd=1&verifier=996ee0a0-bd57-4a8e-9da7-c00c0972a9e1"
+    },
+    {
+      "id": "f174165",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lab_Report_Template.docx",
+      "ext": "docx",
+      "size": 840640,
+      "folder": "Lab",
+      "updatedAt": "2026-09-16T09:49:09Z",
+      "url": "https://cityu-dg.instructure.com/files/174165/download?download_frd=1&verifier=9924057a-8449-4f30-9177-6270dfa6ad21"
     },
     {
       "id": "f168745",
@@ -1660,6 +1840,46 @@
       "url": "https://cityu-dg.instructure.com/files/168740/download?download_frd=1&verifier=a30ccc83-01e8-48f3-a64a-88ae3c0c6501"
     },
     {
+      "id": "f174159",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_3a_Examples_of_Applying_Newton's Laws of Motions.pdf",
+      "ext": "pdf",
+      "size": 1706194,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-16T09:30:45Z",
+      "url": "https://cityu-dg.instructure.com/files/174159/download?download_frd=1&verifier=a5398705-a6f6-4c37-93de-bb109fa45874"
+    },
+    {
+      "id": "f174160",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_3b_Work_and_Energy.pdf",
+      "ext": "pdf",
+      "size": 1604740,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-16T09:30:50Z",
+      "url": "https://cityu-dg.instructure.com/files/174160/download?download_frd=1&verifier=81eaa350-03bd-41c1-967f-7177710e18f1"
+    },
+    {
+      "id": "f174161",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_3c_Potential_Energy.pdf",
+      "ext": "pdf",
+      "size": 1493571,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-16T09:30:53Z",
+      "url": "https://cityu-dg.instructure.com/files/174161/download?download_frd=1&verifier=81eb3511-381a-41cd-980a-21f11fd4e40c"
+    },
+    {
+      "id": "f174162",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_3d_Work_KE_PE_Examples.pdf",
+      "ext": "pdf",
+      "size": 1367885,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-16T09:30:57Z",
+      "url": "https://cityu-dg.instructure.com/files/174162/download?download_frd=1&verifier=b3b78649-4c65-46dc-ba86-4dc7318a193b"
+    },
+    {
       "id": "f162529",
       "course": "PHY1201 · General Physics I",
       "name": "00_PHY1201 Basic information 2025-26Sem A-DG.pdf",
@@ -1698,6 +1918,16 @@
       "folder": "Old Lecture Slides",
       "updatedAt": "2026-09-11T00:23:08Z",
       "url": "https://cityu-dg.instructure.com/files/168741/download?download_frd=1&verifier=ba569283-e230-498a-8f5a-5b3b2fbb713e"
+    },
+    {
+      "id": "f174163",
+      "course": "PHY1201 · General Physics I",
+      "name": "04_Work Energy_2025A.pdf",
+      "ext": "pdf",
+      "size": 3517656,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-16T09:35:43Z",
+      "url": "https://cityu-dg.instructure.com/files/174163/download?download_frd=1&verifier=9598aba5-0b2d-4ff9-9504-b8d5806831c2"
     },
     {
       "id": "f163632",
@@ -2122,6 +2352,20 @@
   ],
   "quizzes": [
     {
+      "id": "q1171",
+      "course": "DSC1001 · Introduction to Data Science",
+      "title": "In-Class Quiz 1",
+      "due": "2026-09-16T01:30:00Z",
+      "points": 18,
+      "questionCount": 5,
+      "url": "https://cityu-dg.instructure.com/courses/790/quizzes/1171",
+      "attempted": true,
+      "score": 0,
+      "status": "pending_review",
+      "submittedAt": "2026-09-16T13:03:24Z",
+      "questions": []
+    },
+    {
       "id": "q1155",
       "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
@@ -2262,7 +2506,49 @@
           "score": 1.11
         }
       ]
+    },
+    {
+      "id": "q1172",
+      "course": "PHY1201 · General Physics I",
+      "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
+      "due": "2026-09-25T15:59:59Z",
+      "points": 10,
+      "questionCount": 7,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1172",
+      "attempted": false,
+      "score": null,
+      "status": "unsubmitted",
+      "submittedAt": "",
+      "questions": []
+    },
+    {
+      "id": "q1174",
+      "course": "PHY1201 · General Physics I",
+      "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
+      "due": "2026-10-02T15:59:59Z",
+      "points": 10,
+      "questionCount": 7,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1174",
+      "attempted": false,
+      "score": null,
+      "status": "unsubmitted",
+      "submittedAt": "",
+      "questions": []
+    },
+    {
+      "id": "q1173",
+      "course": "PHY1201 · General Physics I",
+      "title": "Concept Questions on Work and Energy",
+      "due": null,
+      "points": 0,
+      "questionCount": 4,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1173",
+      "attempted": false,
+      "score": null,
+      "status": "unsubmitted",
+      "submittedAt": "",
+      "questions": []
     }
   ],
-  "canvasSyncedAt": "2026-09-16"
+  "canvasSyncedAt": "2026-09-17"
 }
