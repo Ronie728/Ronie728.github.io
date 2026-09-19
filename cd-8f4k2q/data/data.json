@@ -1223,8 +1223,18 @@
       "ext": "",
       "size": 3260198,
       "folder": "Weekly Lessons/Week 2",
-      "updatedAt": "2026-09-11T02:15:50Z",
+      "updatedAt": "2026-09-17T12:46:59Z",
       "url": "https://cityu-dg.instructure.com/files/169266/download?download_frd=1&verifier=be96c578-54d0-455e-b87a-dfcb2d08c664"
+    },
+    {
+      "id": "f175186",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Week 3 BX.pdf",
+      "ext": "pdf",
+      "size": 5865604,
+      "folder": "Weekly Lessons/Week 3",
+      "updatedAt": "2026-09-17T12:46:59Z",
+      "url": "https://cityu-dg.instructure.com/files/175186/download?download_frd=1&verifier=c9b1d863-8165-46af-8264-2612eb63ca16"
     },
     {
       "id": "f163997",
@@ -1553,7 +1563,7 @@
       "ext": "pdf",
       "size": 651476,
       "folder": "PPT",
-      "updatedAt": "2026-09-10T14:46:38Z",
+      "updatedAt": "2026-09-17T22:45:29Z",
       "url": "https://cityu-dg.instructure.com/files/162747/download?download_frd=1&verifier=4cfbc1e0-4e4f-4081-a9dc-82aab90fd9e1"
     },
     {
@@ -1603,7 +1613,7 @@
       "ext": "",
       "size": 18290526,
       "folder": "PPT/Annotated",
-      "updatedAt": "2026-09-15T12:52:23Z",
+      "updatedAt": "2026-09-17T22:45:41Z",
       "url": "https://cityu-dg.instructure.com/files/173357/download?download_frd=1&verifier=3c2bceb6-5389-460f-be56-fc8e1f5cac08"
     },
     {
@@ -1787,6 +1797,16 @@
       "url": "https://cityu-dg.instructure.com/files/168747/download?download_frd=1&verifier=c0925450-803c-49c5-b9f4-6601633cd05f"
     },
     {
+      "id": "f175836",
+      "course": "PHY1201 · General Physics I",
+      "name": "Example_Week_3.pdf",
+      "ext": "pdf",
+      "size": 1044867,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-18T07:28:07Z",
+      "url": "https://cityu-dg.instructure.com/files/175836/download?download_frd=1&verifier=77104261-1467-4fc9-a502-83dad5019d76"
+    },
+    {
       "id": "f163677",
       "course": "PHY1201 · General Physics I",
       "name": "Lecture_0_Introduction.pdf",
@@ -1843,7 +1863,7 @@
       "ext": "pdf",
       "size": 1706194,
       "folder": "Lecture Slides",
-      "updatedAt": "2026-09-16T09:30:45Z",
+      "updatedAt": "2026-09-17T10:23:01Z",
       "url": "https://cityu-dg.instructure.com/files/174159/download?download_frd=1&verifier=a5398705-a6f6-4c37-93de-bb109fa45874"
     },
     {
@@ -1853,7 +1873,7 @@
       "ext": "pdf",
       "size": 1604740,
       "folder": "Lecture Slides",
-      "updatedAt": "2026-09-16T09:30:50Z",
+      "updatedAt": "2026-09-17T10:23:22Z",
       "url": "https://cityu-dg.instructure.com/files/174160/download?download_frd=1&verifier=81eaa350-03bd-41c1-967f-7177710e18f1"
     },
     {
@@ -1863,7 +1883,7 @@
       "ext": "pdf",
       "size": 1493571,
       "folder": "Lecture Slides",
-      "updatedAt": "2026-09-16T09:30:53Z",
+      "updatedAt": "2026-09-17T11:16:04Z",
       "url": "https://cityu-dg.instructure.com/files/174161/download?download_frd=1&verifier=81eb3511-381a-41cd-980a-21f11fd4e40c"
     },
     {
@@ -1873,7 +1893,7 @@
       "ext": "pdf",
       "size": 1367885,
       "folder": "Lecture Slides",
-      "updatedAt": "2026-09-16T09:30:57Z",
+      "updatedAt": "2026-09-17T12:01:24Z",
       "url": "https://cityu-dg.instructure.com/files/174162/download?download_frd=1&verifier=b3b78649-4c65-46dc-ba86-4dc7318a193b"
     },
     {
@@ -1923,7 +1943,7 @@
       "ext": "pdf",
       "size": 3517656,
       "folder": "Old Lecture Slides",
-      "updatedAt": "2026-09-16T09:35:43Z",
+      "updatedAt": "2026-09-18T06:15:28Z",
       "url": "https://cityu-dg.instructure.com/files/174163/download?download_frd=1&verifier=9598aba5-0b2d-4ff9-9504-b8d5806831c2"
     },
     {
@@ -2313,7 +2333,7 @@
       "ext": "pdf",
       "size": 12943169,
       "folder": "Tutorials",
-      "updatedAt": "2026-09-15T10:53:45Z",
+      "updatedAt": "2026-09-18T15:29:23Z",
       "url": "https://cityu-dg.instructure.com/files/169954/download?download_frd=1&verifier=533e1e68-3848-4446-924d-2a094adff8a7"
     },
     {
@@ -2327,14 +2347,14 @@
       "url": "https://cityu-dg.instructure.com/files/167747/download?download_frd=1&verifier=b52f00e4-0163-4ec7-a42f-3ab8d410dc89"
     },
     {
-      "id": "f172932",
+      "id": "f175767",
       "course": "PHY1201 · General Physics I",
       "name": "Tutorial_02_solutions.pdf",
       "ext": "pdf",
-      "size": 2635082,
+      "size": 2661789,
       "folder": "Tutorials",
-      "updatedAt": "2026-09-15T13:02:41Z",
-      "url": "https://cityu-dg.instructure.com/files/172932/download?download_frd=1&verifier=3443d9dd-7fed-4146-8936-9cd5ec55a910"
+      "updatedAt": "2026-09-18T07:02:46Z",
+      "url": "https://cityu-dg.instructure.com/files/175767/download?download_frd=1&verifier=e580d0f2-28ec-4bc2-832e-40a0072d9c88"
     },
     {
       "id": "f169906",
@@ -2345,6 +2365,16 @@
       "folder": "Tutorials",
       "updatedAt": "2026-09-11T07:00:30Z",
       "url": "https://cityu-dg.instructure.com/files/169906/download?download_frd=1&verifier=8529ab1b-4454-48d8-837b-cb7e80ed3bdf"
+    },
+    {
+      "id": "f176205",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_03.pdf",
+      "ext": "pdf",
+      "size": 891179,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-18T15:30:14Z",
+      "url": "https://cityu-dg.instructure.com/files/176205/download?download_frd=1&verifier=20ba0444-7228-4042-b674-8f31b917d21a"
     }
   ],
   "quizzes": [
@@ -2512,11 +2542,68 @@
       "points": 10,
       "questionCount": 7,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1172",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
-      "questions": []
+      "attempted": true,
+      "score": 9,
+      "status": "complete",
+      "submittedAt": "2026-09-18T10:28:29Z",
+      "questions": [
+        {
+          "n": 1,
+          "type": "calculated_question",
+          "text": "A box of mass m = \">12.2kg is pushed upward with an acceleration a = \">9.4 m / s 2 \"> by a horizontal force F \">. The slope on which the box rests makes an angle = \">54 degree, and is assumed to be frictionless. What should be the magnitude of the force F \">?…",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 2,
+          "type": "calculated_question",
+          "text": "A man is pulling two crates up a slope as shown in the figure. The top crate has a mass m 1 = \">2.24kg and the bottom crate has a mass m 2 = \">8.28kg. The dimension of the ramp is given in the figure. The coefficient of kinetic friction between the bottom cra…",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 3,
+          "type": "calculated_question",
+          "text": "A block of mass is suspended from the ceiling by a string as shown in the figure below. Two forces F 1 \"> and F 2 \"> cause the string to bend as shown in the figure. The section A B \"> of the string makes an angle of = \">35.2 degree with the horizontal line. …",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 4,
+          "type": "calculated_question",
+          "text": "A child of mass 26.5 kg is in a roller coaster car that travels in a loop of radius 7.6 m. At point A the speed of the car is 11.8 m/s. Assume the child is not holding on and does not wear a seat belt. What is the force of the car seat on the child at point A…",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 5,
+          "type": "calculated_question",
+          "text": "You push your physics book 1.6 m along a horizontal table top with a horizontal push of 14.4 N while the opposing force of friction is 1.2 N . How much is the net work done on the book? The answer is in the unit of Joule (J): 1 Joule = 1 J = 1 N 1 m = 1 K g 1…",
+          "correct": false,
+          "points": 1.43,
+          "score": 0
+        },
+        {
+          "n": 6,
+          "type": "calculated_question",
+          "text": "A 4.5 kg watermelon is dropped from rest from the roof of a 7.93 m tall building and feels no appreciable air resistance. Just before it hits the ground, what is the speed of the watermelon (unit is m/s)? ( g = 9.8 m / s 2 \">)",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 7,
+          "type": "calculated_question",
+          "text": "Two blocks with different masses m 1 \"> and m 2 \"> ( m_2\" src=\"https://cityu-dg.instructure.com/equation_images/m_1%253Em_2?scale=1\" alt=\"LaTeX: m_1>m_2\" data-equation-content=\"m_1>m_2\" data-ignore-a11y-check=\"\" loading=\"lazy\" x-canvaslms-safe-mathml=\" m 1 > …",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        }
+      ]
     },
     {
       "id": "q1174",
@@ -2526,11 +2613,68 @@
       "points": 10,
       "questionCount": 7,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1174",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
-      "questions": []
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-09-18T10:42:39Z",
+      "questions": [
+        {
+          "n": 1,
+          "type": "calculated_question",
+          "text": "A 63.1 kg skier is moving at 11.4 m/s on a frictionless horizontal, snow covered plateau when she encounters a rough patch 1.7 m long. The coefficient of kinetic friction between this patch and her skis is 0.26. After crossing the rough patch, what is the spe…",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 2,
+          "type": "calculated_question",
+          "text": "Consider a spring with a spring constant of 198 N /m. How much work in J must be done to compress this spring a distance of 17 cm?",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 3,
+          "type": "calculated_question",
+          "text": "In the figure, two identical ideal massless springs have natural lengths of 0.25 m and spring constants of 700 N/m. The springs are attached to a small cube and stretched to a length L of 0.46 m as in Figure A. An external force P pulls the cube a distance D …",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 4,
+          "type": "calculated_question",
+          "text": "Consider a 8kg block sliding on a horizontal frictionless surface toward an ideal massless spring attached to a wall. If the block has an initial speed of 4 m/s, it compresses the spring by a maximum distance of 4 cm. What initial speed, in m/s, would be requ…",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 5,
+          "type": "calculated_question",
+          "text": "Block A (0.40 kg) and block B (1 kg) are on a frictionless table (see figure). Spring ① connects block A to a frictionless pivot at point 0 and spring ② connects block A and block B together. The blocks are in a uniform circular motion around the point 0 , an…",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 6,
+          "type": "calculated_question",
+          "text": "In the figure, two boxes, each of mass 24 kg, are at rest and connected as shown. The coefficient of kinetic friction between the inclined surface and the box is 0.38. Find the speed of the boxes just after they have moved 1.2 m. (in m/s) g=9.8ms -2",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        },
+        {
+          "n": 7,
+          "type": "calculated_question",
+          "text": "In the figure, a ball of mass 2.4kg is attached to a rope of length 4m, which is fixed at a pivot point 0. When the ball is at point A , the rope is horizontal and the ball has an initial downward speed v 0 \">. The ball then moves through three-quarters of a …",
+          "correct": true,
+          "points": 1.43,
+          "score": 1.43
+        }
+      ]
     },
     {
       "id": "q1173",
@@ -2547,5 +2691,5 @@
       "questions": []
     }
   ],
-  "canvasSyncedAt": "2026-09-17"
+  "canvasSyncedAt": "2026-09-19"
 }
