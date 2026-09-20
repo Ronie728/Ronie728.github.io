@@ -963,7 +963,7 @@
       "ext": "csv",
       "size": 426,
       "folder": "Week6/Lect6 Objects",
-      "updatedAt": "2026-09-16T07:41:53Z",
+      "updatedAt": "2026-09-20T02:36:30Z",
       "url": "https://cityu-dg.instructure.com/files/174036/download?download_frd=1&verifier=13d0de52-1a7e-418f-9e20-0553ade58c7d"
     },
     {
@@ -1803,7 +1803,7 @@
       "ext": "pdf",
       "size": 1044867,
       "folder": "Lecture Slides",
-      "updatedAt": "2026-09-18T07:28:07Z",
+      "updatedAt": "2026-09-20T00:35:15Z",
       "url": "https://cityu-dg.instructure.com/files/175836/download?download_frd=1&verifier=77104261-1467-4fc9-a502-83dad5019d76"
     },
     {
@@ -1897,6 +1897,26 @@
       "url": "https://cityu-dg.instructure.com/files/174162/download?download_frd=1&verifier=b3b78649-4c65-46dc-ba86-4dc7318a193b"
     },
     {
+      "id": "f176944",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_4a_Momentum_Impulse_and_Collisions.pdf",
+      "ext": "pdf",
+      "size": 1927502,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-20T00:16:50Z",
+      "url": "https://cityu-dg.instructure.com/files/176944/download?download_frd=1&verifier=6051508d-c49f-4c61-aafc-ed943642cda9"
+    },
+    {
+      "id": "f176945",
+      "course": "PHY1201 · General Physics I",
+      "name": "Lecture_4b_Rotation.pdf",
+      "ext": "pdf",
+      "size": 2954543,
+      "folder": "Lecture Slides",
+      "updatedAt": "2026-09-20T00:27:25Z",
+      "url": "https://cityu-dg.instructure.com/files/176945/download?download_frd=1&verifier=94637e28-e933-4ce4-af7c-94a19d51af15"
+    },
+    {
       "id": "f162529",
       "course": "PHY1201 · General Physics I",
       "name": "00_PHY1201 Basic information 2025-26Sem A-DG.pdf",
@@ -1945,6 +1965,66 @@
       "folder": "Old Lecture Slides",
       "updatedAt": "2026-09-18T06:15:28Z",
       "url": "https://cityu-dg.instructure.com/files/174163/download?download_frd=1&verifier=9598aba5-0b2d-4ff9-9504-b8d5806831c2"
+    },
+    {
+      "id": "f176938",
+      "course": "PHY1201 · General Physics I",
+      "name": "05_Rotation_1_2025A.pdf",
+      "ext": "pdf",
+      "size": 3804857,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-19T19:05:57Z",
+      "url": "https://cityu-dg.instructure.com/files/176938/download?download_frd=1&verifier=be81392b-6f8a-4524-a472-601609c396b5"
+    },
+    {
+      "id": "f176939",
+      "course": "PHY1201 · General Physics I",
+      "name": "06_Rotation_2_2025A.pdf",
+      "ext": "pdf",
+      "size": 3301309,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-19T19:06:03Z",
+      "url": "https://cityu-dg.instructure.com/files/176939/download?download_frd=1&verifier=ce3f5272-b403-42f6-93bc-23a5f4465270"
+    },
+    {
+      "id": "f176940",
+      "course": "PHY1201 · General Physics I",
+      "name": "07_Mechanical Waves.pdf",
+      "ext": "pdf",
+      "size": 3332049,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-19T19:06:13Z",
+      "url": "https://cityu-dg.instructure.com/files/176940/download?download_frd=1&verifier=8bb20c61-5fb3-415c-9b9a-3d3a1b3311b6"
+    },
+    {
+      "id": "f176941",
+      "course": "PHY1201 · General Physics I",
+      "name": "08_Sound Waves.pdf",
+      "ext": "pdf",
+      "size": 5547058,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-19T19:06:24Z",
+      "url": "https://cityu-dg.instructure.com/files/176941/download?download_frd=1&verifier=f1f9d2c3-cdb4-4c86-8dda-a81304053e46"
+    },
+    {
+      "id": "f176942",
+      "course": "PHY1201 · General Physics I",
+      "name": "09_Temperature and Heat 2025A.pdf",
+      "ext": "pdf",
+      "size": 7303342,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-19T19:06:38Z",
+      "url": "https://cityu-dg.instructure.com/files/176942/download?download_frd=1&verifier=21c3ab42-f759-41fc-8a47-2f0c364a3717"
+    },
+    {
+      "id": "f176943",
+      "course": "PHY1201 · General Physics I",
+      "name": "10_Thermal Properties of Matter.pdf",
+      "ext": "pdf",
+      "size": 3597038,
+      "folder": "Old Lecture Slides",
+      "updatedAt": "2026-09-19T19:06:48Z",
+      "url": "https://cityu-dg.instructure.com/files/176943/download?download_frd=1&verifier=20c11724-9409-4759-b62d-58733f870d39"
     },
     {
       "id": "f163632",
@@ -2373,7 +2453,7 @@
       "ext": "pdf",
       "size": 891179,
       "folder": "Tutorials",
-      "updatedAt": "2026-09-18T15:30:14Z",
+      "updatedAt": "2026-09-20T00:33:02Z",
       "url": "https://cityu-dg.instructure.com/files/176205/download?download_frd=1&verifier=20ba0444-7228-4042-b674-8f31b917d21a"
     }
   ],
@@ -2691,5 +2771,5 @@
       "questions": []
     }
   ],
-  "canvasSyncedAt": "2026-09-19"
+  "canvasSyncedAt": "2026-09-20"
 }
