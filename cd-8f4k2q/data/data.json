@@ -651,6 +651,16 @@
   ],
   "files": [
     {
+      "id": "f174929",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Assignment1.ipynb",
+      "ext": "ipynb",
+      "size": 29283,
+      "folder": "Assignments",
+      "updatedAt": "2026-09-20T06:30:00Z",
+      "url": "https://cityu-dg.instructure.com/files/174929/download?download_frd=1&verifier=394a4f9b-9f6e-4177-bc98-c767267ceba1"
+    },
+    {
       "id": "f159785",
       "course": "CS1302 · Introduction to Computer Programming",
       "name": "Anaconda3-2025.12-2-MacOSX-arm64.pkg",
@@ -1141,6 +1151,216 @@
       "url": "https://cityu-dg.instructure.com/files/164886/download?download_frd=1&verifier=e7e2236b-4c82-4bde-85f5-74aa83d4e52d"
     },
     {
+      "id": "f176438",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "国安读本.jpg",
+      "ext": "jpg",
+      "size": 5987,
+      "folder": "根目录",
+      "updatedAt": "2026-09-20T05:51:48Z",
+      "url": "https://cityu-dg.instructure.com/files/176438/download?download_frd=1&verifier=03a62f95-a198-4ac7-afed-10ef2f5a290d"
+    },
+    {
+      "id": "f177267",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "1、总体国家安全观.mp4",
+      "ext": "mp4",
+      "size": 137277461,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:14:53Z",
+      "url": "https://cityu-dg.instructure.com/files/177267/download?download_frd=1&verifier=4fa09746-d721-498a-ade9-c50e13d22504"
+    },
+    {
+      "id": "f177301",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "10、生态安全.mp4",
+      "ext": "mp4",
+      "size": 136241912,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:35:59Z",
+      "url": "https://cityu-dg.instructure.com/files/177301/download?download_frd=1&verifier=4a343a18-0939-462c-b02e-3c511bd8121b"
+    },
+    {
+      "id": "f177304",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "11、资源安全.mp4",
+      "ext": "mp4",
+      "size": 124069474,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:35:59Z",
+      "url": "https://cityu-dg.instructure.com/files/177304/download?download_frd=1&verifier=4e9308c6-0676-44c1-a609-81c26c11061c"
+    },
+    {
+      "id": "f177306",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "12、核安全.mp4",
+      "ext": "mp4",
+      "size": 89781943,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:00Z",
+      "url": "https://cityu-dg.instructure.com/files/177306/download?download_frd=1&verifier=ae6cfdf3-0a0a-4a74-b665-ced19449382b"
+    },
+    {
+      "id": "f177310",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "13、海外利益安全.mp4",
+      "ext": "mp4",
+      "size": 92274398,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:00Z",
+      "url": "https://cityu-dg.instructure.com/files/177310/download?download_frd=1&verifier=25cc468f-ac44-45eb-a1b8-c7324dd10e5b"
+    },
+    {
+      "id": "f177312",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "14、太空安全.mp4",
+      "ext": "mp4",
+      "size": 168338383,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:00Z",
+      "url": "https://cityu-dg.instructure.com/files/177312/download?download_frd=1&verifier=4782810c-5474-43a6-b57a-1417d81bb846"
+    },
+    {
+      "id": "f177313",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "15、深海安全.mp4",
+      "ext": "mp4",
+      "size": 135409090,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:47Z",
+      "url": "https://cityu-dg.instructure.com/files/177313/download?download_frd=1&verifier=caacf214-0ad1-4978-adb7-4c4818665a8a"
+    },
+    {
+      "id": "f177317",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "16、极地安全.mp4",
+      "ext": "mp4",
+      "size": 125188082,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:48Z",
+      "url": "https://cityu-dg.instructure.com/files/177317/download?download_frd=1&verifier=83b52ccd-c9e8-49a5-ad03-c1d01d92c102"
+    },
+    {
+      "id": "f177321",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "17、生物安全.mp4",
+      "ext": "mp4",
+      "size": 116010831,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:49Z",
+      "url": "https://cityu-dg.instructure.com/files/177321/download?download_frd=1&verifier=55cf5758-b642-4e4b-b418-a889094dd2cd"
+    },
+    {
+      "id": "f177324",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "18、人工智能安全.mp4",
+      "ext": "mp4",
+      "size": 141525993,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:50Z",
+      "url": "https://cityu-dg.instructure.com/files/177324/download?download_frd=1&verifier=07dc8959-5c21-436b-bc2f-659c66a0f920"
+    },
+    {
+      "id": "f177326",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "19、网络安全.mp4",
+      "ext": "mp4",
+      "size": 102113724,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:50Z",
+      "url": "https://cityu-dg.instructure.com/files/177326/download?download_frd=1&verifier=0f76e24e-7508-404c-afc3-46d8fd5f6243"
+    },
+    {
+      "id": "f177270",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "2、军事安全.mp4",
+      "ext": "mp4",
+      "size": 146908956,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:14:53Z",
+      "url": "https://cityu-dg.instructure.com/files/177270/download?download_frd=1&verifier=e26ca872-2770-4e22-9208-9084783df2ff"
+    },
+    {
+      "id": "f177331",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "20、数据安全.mp4",
+      "ext": "mp4",
+      "size": 125952609,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:36:50Z",
+      "url": "https://cityu-dg.instructure.com/files/177331/download?download_frd=1&verifier=2d43bfca-ee44-45fe-8a86-d26ea610fcf7"
+    },
+    {
+      "id": "f177277",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "3、国土安全.mp4",
+      "ext": "mp4",
+      "size": 386334392,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:14:53Z",
+      "url": "https://cityu-dg.instructure.com/files/177277/download?download_frd=1&verifier=3d1dc3c9-0de3-49ea-b77f-f700aa5de772"
+    },
+    {
+      "id": "f177278",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "4、经济安全.mp4",
+      "ext": "mp4",
+      "size": 138130091,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:14:53Z",
+      "url": "https://cityu-dg.instructure.com/files/177278/download?download_frd=1&verifier=8c14eabd-93d0-4a0e-bd58-c7699a9e25c1"
+    },
+    {
+      "id": "f177279",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "5、金融安全.mp4",
+      "ext": "mp4",
+      "size": 152451102,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:14:53Z",
+      "url": "https://cityu-dg.instructure.com/files/177279/download?download_frd=1&verifier=c7337760-0696-4aa2-987f-6f5136a70f86"
+    },
+    {
+      "id": "f177285",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "6、文化安全.mp4",
+      "ext": "mp4",
+      "size": 352546732,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:35:57Z",
+      "url": "https://cityu-dg.instructure.com/files/177285/download?download_frd=1&verifier=64ff097a-946d-4316-9a11-20441cab2e05"
+    },
+    {
+      "id": "f177291",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "7、社会安全.mp4",
+      "ext": "mp4",
+      "size": 398411225,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:35:58Z",
+      "url": "https://cityu-dg.instructure.com/files/177291/download?download_frd=1&verifier=050eb324-fa10-49f4-9e6b-edc64e9b3aa7"
+    },
+    {
+      "id": "f177294",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "8、科技安全.mp4",
+      "ext": "mp4",
+      "size": 125718270,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:35:58Z",
+      "url": "https://cityu-dg.instructure.com/files/177294/download?download_frd=1&verifier=849c6fd9-7197-41b0-b9bb-bb70ad260792"
+    },
+    {
+      "id": "f177297",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "name": "9、粮食安全.mp4",
+      "ext": "mp4",
+      "size": 154144237,
+      "folder": "国安视频",
+      "updatedAt": "2026-09-20T07:35:59Z",
+      "url": "https://cityu-dg.instructure.com/files/177297/download?download_frd=1&verifier=d0ee1b94-1482-437b-8481-295695f2de1e"
+    },
+    {
       "id": "f160642",
       "course": "GE2134 · Critical and Creative Thinking",
       "name": "GE2134 Schedule 2026.docx",
@@ -1571,6 +1791,56 @@
       "url": "https://cityu-dg.instructure.com/files/161820/download?download_frd=1&verifier=fc4dc7e5-64c8-4188-a494-cae8727c711f"
     },
     {
+      "id": "f177210",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "practice 1.pdf",
+      "ext": "pdf",
+      "size": 94973,
+      "folder": "Exercises",
+      "updatedAt": "2026-09-20T06:55:50Z",
+      "url": "https://cityu-dg.instructure.com/files/177210/download?download_frd=1&verifier=10b1a799-cfac-4bbd-8798-3578d3eb0f88"
+    },
+    {
+      "id": "f177212",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "practice 2.pdf",
+      "ext": "pdf",
+      "size": 117946,
+      "folder": "Exercises",
+      "updatedAt": "2026-09-20T12:56:09Z",
+      "url": "https://cityu-dg.instructure.com/files/177212/download?download_frd=1&verifier=b8a75af7-0583-4718-b074-6f2893113ea5"
+    },
+    {
+      "id": "f177213",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "practice 3.pdf",
+      "ext": "pdf",
+      "size": 98147,
+      "folder": "Exercises",
+      "updatedAt": "2026-09-20T12:56:19Z",
+      "url": "https://cityu-dg.instructure.com/files/177213/download?download_frd=1&verifier=737f9c54-cfd2-4916-8b3f-37226dd7465c"
+    },
+    {
+      "id": "f177214",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "practice 4.pdf",
+      "ext": "pdf",
+      "size": 116005,
+      "folder": "Exercises",
+      "updatedAt": "2026-09-20T12:56:38Z",
+      "url": "https://cityu-dg.instructure.com/files/177214/download?download_frd=1&verifier=1e86a3eb-f0c5-4ce4-ac28-4db4baa4b47d"
+    },
+    {
+      "id": "f177216",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "practice 5.pdf",
+      "ext": "pdf",
+      "size": 122554,
+      "folder": "Exercises",
+      "updatedAt": "2026-09-20T12:56:39Z",
+      "url": "https://cityu-dg.instructure.com/files/177216/download?download_frd=1&verifier=428e707a-df3f-4c18-a9a5-1af56be86fa1"
+    },
+    {
       "id": "f162738",
       "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
       "name": "0. Functions.pdf",
@@ -1657,7 +1927,7 @@
       "ext": "pdf",
       "size": 39755208,
       "folder": "Textbook",
-      "updatedAt": "2026-09-01T06:03:01Z",
+      "updatedAt": "2026-09-20T06:46:03Z",
       "url": "https://cityu-dg.instructure.com/files/161473/download?download_frd=1&verifier=7b2fd7a1-6bfc-4c8a-af68-78859d0e24f2"
     },
     {
@@ -2469,6 +2739,16 @@
       "folder": "Tutorials",
       "updatedAt": "2026-09-11T07:00:30Z",
       "url": "https://cityu-dg.instructure.com/files/169906/download?download_frd=1&verifier=8529ab1b-4454-48d8-837b-cb7e80ed3bdf"
+    },
+    {
+      "id": "f177352",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_03 - ref_answers.pdf",
+      "ext": "pdf",
+      "size": 2279295,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-20T07:51:45Z",
+      "url": "https://cityu-dg.instructure.com/files/177352/download?download_frd=1&verifier=e58721a5-7b3f-47a4-b634-80141980a385"
     },
     {
       "id": "f176205",
