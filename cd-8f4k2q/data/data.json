@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-20",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -502,36 +502,75 @@
     {
       "id": "note:makeup:phy-20260920",
       "type": "course_change",
-      "title": "9/20（周日）PHY 1201 补课",
-      "detail": "按学校调课安排，9 月 20 日（周日）补 PHY 1201 三节：08:30 Lecture、14:00 Lecture、15:00 Tutorial，地点均为 Lecture Theater AC5-318。",
+      "title": "PHY 1201 makeup classes on Sun Sep 20",
+      "detail": "School rescheduled PHY 1201: two lectures (08:30-10:20 and 14:00-14:50) plus one tutorial (15:00-15:50) run on Sunday Sep 20 in Lecture Theater AC5-318.",
       "meta": "Sep 20, 2026",
       "source": "SIS View My Classes",
-      "summary": "周日（9/20）补 PHY 1201 三节，均在 AC5-318"
+      "summary": "Sun (Sep 20) PHY 1201 makeup: 3 sessions in AC5-318"
     },
     {
       "id": "note:lab:phy1201-20260916",
       "type": "notice",
-      "title": "PHY1201 lab group assigned — first lab session next week",
-      "detail": "Lab session assignments are out; check yours on Canvas > People > Groups (Session 2 per the Canvas notification). The first lab session runs next week, so confirm your group in advance. If you need a different session, email the instructor (Michael Cao) and explain your situation.",
+      "title": "PHY1201 lab group assigned — check Canvas",
+      "detail": "Lab groups were assigned on Canvas (People > Groups). Session 2 lab runs Tue Sep 29, 10:30-12:20; check Canvas for your group and venue before attending.",
       "meta": "Sep 16, 2026",
       "source": "Canvas · PHY1201",
-      "summary": "Check your group on Canvas · first lab next week"
+      "summary": "PHY 1201 first lab Tue Sep 29, 10:30-12:20"
+    },
+    {
+      "id": "note:jobfair:huawei-20260923",
+      "type": "notice",
+      "title": "Huawei job fair moved 2 hours earlier",
+      "summary": "Wed Sep 23, Huawei job fair 12:00-15:00, AC5-102",
+      "detail": "The Huawei × CityUHK(DG) job fair was moved two hours earlier to Wednesday Sep 23, 12:00-15:00 in Chen Zihong Lecture Hall AC5-102. Part 1 (12:00-13:00) is the campus recruitment info session and Part 2 (13:00-15:00) is one-on-one coaching with hiring teams. Register in advance by scanning the QR code via WeChat.",
+      "meta": "Sep 23, 2026",
+      "source": "Career Development Centre email"
     }
   ],
   "emails": [
     {
-      "id": "e5",
+      "id": "e10",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Student Development Office",
+      "senderEmail": "sdo@cityu-dg.edu.cn",
+      "subject": "关于2025-2026学年本科生国家奖学金校评审答辩会的通知 | Notice of the 2025-2026 Academic Year National Scholarship Selection Conference for UG Students",
+      "snippet": "2025-2026学年国家奖学金评选已进入校级评审阶段，欢迎到场观摩候选人答辩风采。",
+      "body": "",
+      "eventTime": "Sep 21, 2026 (Mon) 13:00-14:00",
+      "location": "图书馆一楼阶梯教室 (Library 1/F Lecture Theatre)",
+      "time": "13:00",
+      "receivedAt": "2026-09-20T14:18:56+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e11",
       "category": "activity",
       "needsReply": false,
-      "sender": "学生会 Student Union",
-      "senderEmail": "su@cityu-dg.edu.cn",
-      "subject": "关于迎新晚会搭建、彩排及演出期间可能产生噪音的温馨提示",
-      "snippet": "9 月 16 日至 19 日将在图书馆二楼平台进行迎新晚会舞台搭建、彩排及正式演出，期间可能产生噪音，请附近区域同学留意。",
-      "body": "安排：9 月 16 日至 18 日舞台搭建及相关准备工作；9 月 18 日迎新晚会彩排；9 月 19 日上午彩排、晚上正式演出（2026 年迎新晚会）。地点：图书馆二楼平台。期间舞台搭建、设备调试、彩排及演出可能产生一定噪音，校方向附近区域师生致歉并请理解。",
-      "eventTime": "9月16日 - 9月19日",
-      "location": "图书馆二楼平台 (Library 2/F Platform)",
-      "time": "10:00",
-      "receivedAt": "2026-09-16T10:00:50+08:00",
+      "sender": "Career Development Centre",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": "【重要通知：活动时间提前两小时】华为 x 香港城市大学（东莞）专场招聘会 | Job Fair: Huawei × CityUHK(DG)",
+      "snippet": "招聘会时间提前两小时：9月23日（周三）12:00–15:00，AC5-102 陈梓红报告厅。12:00–13:00 校招宣讲，13:00–15:00 与招聘团队一对一交流，需扫码报名。",
+      "body": "",
+      "eventTime": "Sep 23, 2026 (Wed) 12:00-15:00 (moved 2 hours earlier)",
+      "location": "Chen Zihong Lecture Hall AC5-102",
+      "time": "12:00",
+      "receivedAt": "2026-09-20T13:29:15+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e12",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "Student Development Office",
+      "senderEmail": "sdo@cityu-dg.edu.cn",
+      "subject": "【邀请观摩】“城创杯”创新创业大赛路演（9月21日 14:00）Invitation: CityInno Cup Roadshow（9.21 14:00）",
+      "snippet": "第一届「城创杯」创新创业大赛校赛路演，9月21日（周一）14:00–17:00，AC5 陈梓红报告厅，无需报名自由入场，展示人工智能、信息科技等领域项目。",
+      "body": "",
+      "eventTime": "Sep 21, 2026 (Mon) 14:00-17:00",
+      "location": "Chen Zihong Lecture Theatre, AC5",
+      "time": "14:00",
+      "receivedAt": "2026-09-20T13:27:34+08:00",
       "mailUrl": "#"
     },
     {
@@ -577,21 +616,6 @@
       "location": "",
       "time": "18:58",
       "receivedAt": "2026-09-15T18:58:16+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e2",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "Infohub 校园信息平台",
-      "senderEmail": "infohub@cityu-dg.edu.cn",
-      "subject": "电子通讯第94期：近期活动预告",
-      "snippet": "本周多项校园活动：OPPO 校招宣讲会（9/16）、迎新晚会与志愿者招募（9/19）、华为招聘推介会（9/23）等。",
-      "body": "近期活动：① OPPO x 港城莞 2027届全球校园招聘宣讲会：9月16日（周三）17:00-18:30，学术楼五座陈梓红报告厅 AC5-102；② Gala Night 迎新晚会主持人&节目&志愿者招募：9月19日（周六）19:00-21:30，图书馆中央平台；③ 2026年迎新晚会「城势而上 青春当燃」：9月19日（周六）19:00-21:00，图书馆中央平台；④ 华为 x 港城莞 2027届毕业生招聘粤港澳区域岗位推介会：9月23日（周三）14:00-17:00，AC5-102 及一楼大厅；⑤「爱在广东」民族团结进步教育作品征集：截止9月25日 17:30。另有心理咨询服务预约指南与本周餐厅菜单，详见 Infohub。",
-      "eventTime": "9月16日（周三）17:00 - 18:30",
-      "location": "AC5-102 等多个场地",
-      "time": "19:29",
-      "receivedAt": "2026-09-14T19:29:56+08:00",
       "mailUrl": "#"
     },
     {
