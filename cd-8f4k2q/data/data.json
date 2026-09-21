@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-21",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -183,48 +183,6 @@
       "room": "Lecture Theater AC5-318",
       "instructor": "",
       "note": ""
-    },
-    {
-      "id": "l_mk_20260920_phy_a",
-      "day": 0,
-      "date": "2026-09-20",
-      "code": "PHY 1201",
-      "title": "General Physics I",
-      "type": "Lecture",
-      "start": "08:30",
-      "end": "10:20",
-      "room": "Lecture Theater AC5-318",
-      "instructor": "",
-      "note": "Makeup session on Sunday Sep 20 (school reschedule).",
-      "flag": "makeup"
-    },
-    {
-      "id": "l_mk_20260920_phy_b",
-      "day": 0,
-      "date": "2026-09-20",
-      "code": "PHY 1201",
-      "title": "General Physics I",
-      "type": "Lecture",
-      "start": "14:00",
-      "end": "14:50",
-      "room": "Lecture Theater AC5-318",
-      "instructor": "",
-      "note": "Makeup session on Sunday Sep 20 (school reschedule).",
-      "flag": "makeup"
-    },
-    {
-      "id": "l_mk_20260920_phy_c",
-      "day": 0,
-      "date": "2026-09-20",
-      "code": "PHY 1201",
-      "title": "General Physics I",
-      "type": "Tutorial",
-      "start": "15:00",
-      "end": "15:50",
-      "room": "Lecture Theater AC5-318",
-      "instructor": "",
-      "note": "Makeup session on Sunday Sep 20 (school reschedule).",
-      "flag": "makeup"
     },
     {
       "id": "l_lab_phy1201_s2",
@@ -525,6 +483,24 @@
       "detail": "The Huawei × CityUHK(DG) job fair was moved two hours earlier to Wednesday Sep 23, 12:00-15:00 in Chen Zihong Lecture Hall AC5-102. Part 1 (12:00-13:00) is the campus recruitment info session and Part 2 (13:00-15:00) is one-on-one coaching with hiring teams. Register in advance by scanning the QR code via WeChat.",
       "meta": "Sep 23, 2026",
       "source": "Career Development Centre email"
+    },
+    {
+      "id": "note:scholarship-conf:20260921",
+      "type": "notice",
+      "title": "National Scholarship selection conference today 13:00-14:00",
+      "summary": "Mon 13:00-14:00 · Scholarship selection conf. open to attend",
+      "detail": "The 2025-2026 National Scholarship selection conference for undergraduate students is held today, Mon Sep 21, 13:00-14:00 at (Library 1/F Lecture Theatre). Attendance is open; arrive a few minutes early. It ends right before your EN 1002 lecture (14:00, AC3-314), so plan the walk.",
+      "meta": "Sep 21, 2026",
+      "source": "Campus email · National Scholarship Selection Conference"
+    },
+    {
+      "id": "note:cityinno:20260921",
+      "type": "notice",
+      "title": "CityInno Cup roadshow today 14:00-17:00",
+      "summary": "Mon 14:00-17:00 · CityInno Cup roadshow, observation open",
+      "detail": "The CityInno Cup innovation & entrepreneurship roadshow runs today, Mon Sep 21, 14:00-17:00 at Chen Zihong Lecture Theatre, AC5. Observation is invited and it is a good chance to collect project/team ideas. It overlaps your EN 1002 lecture (14:00-16:50), so drop by around it if you want to watch.",
+      "meta": "Sep 21, 2026",
+      "source": "Campus email · CityInno Cup Roadshow"
     }
   ],
   "emails": [
@@ -571,21 +547,6 @@
       "location": "Chen Zihong Lecture Theatre, AC5",
       "time": "14:00",
       "receivedAt": "2026-09-20T13:27:34+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e6",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "学生事务处（职业发展）",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": "[Career Event Notice] 求职训练营（秋季）Job Search Training Camp (Fall)",
-      "snippet": "秋招求职训练营：9 月 19 日（周六）三场线上中文讲座 + 9 月 20 日（周日）一对一/一对多面试辅导，微信群扫码报名。",
-      "body": "面向 2027 届（研二）、2028 届（研一/大三）毕业生，其他年级也欢迎。场次（均为线上、中文）：① 9/19（周六）10:00-11:00 校招应对攻略、网申及简历通关；② 9/19（周六）14:00-15:00 结构化/半结构化面试辅导；③ 9/19（周六）19:00-20:00 大厂/国企/外企主流岗位常见面试问题精讲；④ 9/20（周日）09:00-21:00 一对一/一对多面试辅导（时段任选，工作坊形式）。报名方式：微信扫描邮件内二维码入群，名额有限的场次将在群内开放报名通道，请留意群公告。咨询：sdo.career@cityu-dg.edu.cn。",
-      "eventTime": "9月19日（周六）- 9月20日（周日）",
-      "location": "线上 (Online)",
-      "time": "09:50",
-      "receivedAt": "2026-09-16T09:50:44+08:00",
       "mailUrl": "#"
     },
     {
