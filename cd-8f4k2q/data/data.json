@@ -1017,7 +1017,7 @@
       "ext": "pdf",
       "size": 145178,
       "folder": "Week6/Lab6 Objects",
-      "updatedAt": "2026-09-16T07:41:53Z",
+      "updatedAt": "2026-09-21T16:27:36Z",
       "url": "https://cityu-dg.instructure.com/files/173222/download?download_frd=1&verifier=072bf842-874b-4cde-af5b-004e7dd45825"
     },
     {
@@ -1809,6 +1809,16 @@
       "folder": "reading materials",
       "updatedAt": "2026-09-10T05:17:22Z",
       "url": "https://cityu-dg.instructure.com/files/168983/download?download_frd=1&verifier=60a24f5e-dd64-490d-a7c2-0d9b00ea7bf1"
+    },
+    {
+      "id": "f179065",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "Sol 1.pdf",
+      "ext": "pdf",
+      "size": 134674,
+      "folder": "(in-class) HW solutions",
+      "updatedAt": "2026-09-22T00:31:56Z",
+      "url": "https://cityu-dg.instructure.com/files/179065/download?download_frd=1&verifier=98239afa-78b0-414d-a318-ace82279d459"
     },
     {
       "id": "f161820",
@@ -3105,5 +3115,5 @@
       "questions": []
     }
   ],
-  "canvasSyncedAt": "2026-09-21"
+  "canvasSyncedAt": "2026-09-22"
 }
