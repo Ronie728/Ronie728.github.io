@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-22",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -501,6 +501,15 @@
       "detail": "The CityInno Cup innovation & entrepreneurship roadshow runs today, Mon Sep 21, 14:00-17:00 at Chen Zihong Lecture Theatre, AC5. Observation is invited and it is a good chance to collect project/team ideas. It overlaps your EN 1002 lecture (14:00-16:50), so drop by around it if you want to watch.",
       "meta": "Sep 21, 2026",
       "source": "Campus email · CityInno Cup Roadshow"
+    },
+    {
+      "id": "note:ge1632quiz:20260922",
+      "type": "notice",
+      "title": "GE1632 in-class mini quiz this afternoon (Sep 22)",
+      "summary": "Sep 22 afternoon: GE1632 in-class quiz on National Security video",
+      "detail": "The first in-class mini quiz for GE1632 takes place in the afternoon of Sep 22, 2026, covering the video course 'A Holistic Approach to National Security'. Watch the assigned videos in Files before class and bring a laptop or phone for the quiz, as instructed by the course.",
+      "meta": "Sep 22, 2026",
+      "source": "Canvas · GE1632"
     }
   ],
   "emails": [
@@ -608,6 +617,66 @@
       "time": "22:20",
       "receivedAt": "2026-09-14T22:20:23+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/884/discussion_topics/3956"
+    },
+    {
+      "id": "e13",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "In-class mini quiz on Sep 22 (afternoon)",
+      "snippet": "First in-class quiz on Sep 22 afternoon; scope: video course 'A Holistic Approach to National Security'.",
+      "body": "Canvas announcement for GE1632 (1195): the first in-class mini quiz takes place on the afternoon of Sep 22, 2026. Scope: the video course 'A Holistic Approach to National Security'. Review the online lecture videos in Files before class.",
+      "eventTime": "2026-09-22T14:00:00+08:00",
+      "location": "Classroom (GE1632)",
+      "time": "Sep 22, 2026 afternoon",
+      "receivedAt": "2026-09-21",
+      "mailUrl": ""
+    },
+    {
+      "id": "e14",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Online course videos uploaded to Files",
+      "snippet": "Online learning content is now in Files. Watch at least two course videos each week; progress is checked by in-class quizzes.",
+      "body": "Canvas announcement for GE1632 (1195): the online learning content has been uploaded to Files. Watch and study it in time. Each week you should complete at least two course video lectures; completion is checked through in-class quizzes (Quiz).",
+      "eventTime": "2026-09-29T23:59:00+08:00",
+      "location": "",
+      "time": "Weekly · at least 2 videos",
+      "receivedAt": "2026-09-21",
+      "mailUrl": ""
+    },
+    {
+      "id": "e15",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Campus Development Office",
+      "senderEmail": "cdo@cityu-dg.edu.cn",
+      "subject": "Construction: UPS room for the AI Computing Center (Sep 23 – Nov 07)",
+      "snippet": "UPS room construction between AC3 and AC4 (B2 car park), Sep 23 – Nov 07, 09:00-18:00; expect noise and dust.",
+      "body": "CDO notice: a new UPS room will be built in the B2 car park area between Academic Building 3 and Academic Building 4 to support the AI Computing Center. Construction runs from Sep 23, 2026 to Nov 07, 2026, 09:00-18:00 daily. Expect noise and dust; please plan your routes accordingly.",
+      "eventTime": "2026-11-07T18:00:00+08:00",
+      "location": "B2 car park between AC3 and AC4",
+      "time": "Sep 23 – Nov 07, 2026 · 09:00-18:00",
+      "receivedAt": "2026-09-21",
+      "mailUrl": ""
+    },
+    {
+      "id": "e16",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "IT Service Desk",
+      "senderEmail": "it.servicedesk@cityu-dg.edu.cn",
+      "subject": "LED screen installation at AC5 lobby (Sep 25-27, Oct 1-7)",
+      "snippet": "LED display installation in the AC5 lobby during the Mid-Autumn and National Day holidays; work 08:00-20:00.",
+      "body": "IT Service Desk notice: an LED display screen will be installed in the lobby of Academic Building 5 (AC5). To minimise disruption to teaching and research, the work is scheduled during the Mid-Autumn Festival (Sep 25-27, 2026) and the National Day holidays (Oct 1-7, 2026), daily 08:00-20:00. The AC5 lobby may be partially blocked; allow extra time when passing through.",
+      "eventTime": "2026-10-07T20:00:00+08:00",
+      "location": "AC5 lobby",
+      "time": "Sep 25-27 & Oct 1-7, 2026 · 08:00-20:00",
+      "receivedAt": "2026-09-21",
+      "mailUrl": ""
     }
   ],
   "files": [
