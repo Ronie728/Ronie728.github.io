@@ -905,14 +905,24 @@
       "url": "https://cityu-dg.instructure.com/files/173199/download?download_frd=1&verifier=a904efde-3d87-4214-af32-06bd7a70aa30"
     },
     {
-      "id": "f173211",
+      "id": "f180059",
       "course": "CS1302 · Introduction to Computer Programming",
-      "name": "Week4_Tutorial.pdf",
+      "name": "Week4_Tutorial_Agenda.pdf",
       "ext": "pdf",
-      "size": 193093,
+      "size": 338812,
       "folder": "Week4/Lab 4 Iteration",
-      "updatedAt": "2026-09-16T07:35:08Z",
-      "url": "https://cityu-dg.instructure.com/files/173211/download?download_frd=1&verifier=ce2f234a-926a-4772-a601-b91ebd931265"
+      "updatedAt": "2026-09-22T14:21:14Z",
+      "url": "https://cityu-dg.instructure.com/files/180059/download?download_frd=1&verifier=612fc84f-fcc2-4fd9-bb87-acbeda27ba2e"
+    },
+    {
+      "id": "f179810",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Lec4StartingPresentation.pdf",
+      "ext": "pdf",
+      "size": 179453,
+      "folder": "Week4/Lect4 Iteration",
+      "updatedAt": "2026-09-22T13:52:51Z",
+      "url": "https://cityu-dg.instructure.com/files/179810/download?download_frd=1&verifier=25bd9f97-af13-4c88-af18-e5bfe698863c"
     },
     {
       "id": "f173210",
@@ -1045,6 +1055,46 @@
       "url": "https://cityu-dg.instructure.com/files/174035/download?download_frd=1&verifier=d29a4698-29ed-4c25-a793-5402880e2c2f"
     },
     {
+      "id": "f174119",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week8_Tutorial.pdf",
+      "ext": "pdf",
+      "size": 246358,
+      "folder": "Week8/Lab8 Lists",
+      "updatedAt": "2026-09-23T00:40:16Z",
+      "url": "https://cityu-dg.instructure.com/files/174119/download?download_frd=1&verifier=eba0e2f8-62fc-40cf-ad90-1479ba697753"
+    },
+    {
+      "id": "f174112",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week8_answers.ipynb",
+      "ext": "ipynb",
+      "size": 8996,
+      "folder": "Week8/Lect8 Lists and Tuples",
+      "updatedAt": "2026-09-22T11:10:34Z",
+      "url": "https://cityu-dg.instructure.com/files/174112/download?download_frd=1&verifier=6eb5708f-dfaa-4963-9b72-f7c9aff3cf67"
+    },
+    {
+      "id": "f174113",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week8_exericses.ipynb",
+      "ext": "ipynb",
+      "size": 6766,
+      "folder": "Week8/Lect8 Lists and Tuples",
+      "updatedAt": "2026-09-22T11:10:34Z",
+      "url": "https://cityu-dg.instructure.com/files/174113/download?download_frd=1&verifier=c53e4dcc-2cc9-443d-8927-7f57cecd9946"
+    },
+    {
+      "id": "f174111",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week8_lecture.ipynb",
+      "ext": "ipynb",
+      "size": 73542,
+      "folder": "Week8/Lect8 Lists and Tuples",
+      "updatedAt": "2026-09-22T11:10:34Z",
+      "url": "https://cityu-dg.instructure.com/files/174111/download?download_frd=1&verifier=f4a2b261-ed10-4383-9181-1a6f48d97015"
+    },
+    {
       "id": "f163994",
       "course": "DSC1001 · Introduction to Data Science",
       "name": "DSC_1001_additional_tutorial_1.pdf",
@@ -1071,7 +1121,7 @@
       "ext": "pdf",
       "size": 3695060,
       "folder": "根目录",
-      "updatedAt": "2026-09-16T10:28:52Z",
+      "updatedAt": "2026-09-22T05:45:28Z",
       "url": "https://cityu-dg.instructure.com/files/174202/download?download_frd=1&verifier=3555deb6-152c-4a18-b7a3-6d04b6ec8965"
     },
     {
@@ -1081,7 +1131,7 @@
       "ext": "pdf",
       "size": 5683777,
       "folder": "根目录",
-      "updatedAt": "2026-09-09T10:27:01Z",
+      "updatedAt": "2026-09-23T05:11:31Z",
       "url": "https://cityu-dg.instructure.com/files/163996/download?download_frd=1&verifier=7d291e2c-eaf6-46ca-9029-73cdb3d4a3b7"
     },
     {
@@ -1091,7 +1141,7 @@
       "ext": "pptx",
       "size": 1304550,
       "folder": "根目录",
-      "updatedAt": "2026-09-16T10:29:14Z",
+      "updatedAt": "2026-09-23T05:12:01Z",
       "url": "https://cityu-dg.instructure.com/files/168526/download?download_frd=1&verifier=63b68ffd-efd9-4d2a-8640-121700b5bd2f"
     },
     {
@@ -1101,7 +1151,7 @@
       "ext": "pdf",
       "size": 843486,
       "folder": "根目录",
-      "updatedAt": "2026-09-16T10:29:03Z",
+      "updatedAt": "2026-09-23T05:12:18Z",
       "url": "https://cityu-dg.instructure.com/files/168525/download?download_frd=1&verifier=c1bd47c4-b695-49d9-977b-a45493a1c5a4"
     },
     {
@@ -1493,6 +1543,56 @@
       "folder": "Weekly Lessons/Week 3",
       "updatedAt": "2026-09-17T12:46:59Z",
       "url": "https://cityu-dg.instructure.com/files/175186/download?download_frd=1&verifier=c9b1d863-8165-46af-8264-2612eb63ca16"
+    },
+    {
+      "id": "f180584",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "Sycophantic_AI_Decreases_Prosocial_Intentions_and_.pdf",
+      "ext": "pdf",
+      "size": 5416796,
+      "folder": "感兴趣的话",
+      "updatedAt": "2026-09-23T03:48:03Z",
+      "url": "https://cityu-dg.instructure.com/files/180584/download?download_frd=1&verifier=17e2e7a4-c691-48e5-bae9-c8a8fc3fa707"
+    },
+    {
+      "id": "f180589",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "共产党宣言.pdf",
+      "ext": "pdf",
+      "size": 499785,
+      "folder": "感兴趣的话",
+      "updatedAt": "2026-09-23T03:48:37Z",
+      "url": "https://cityu-dg.instructure.com/files/180589/download?download_frd=1&verifier=037cdfeb-90d9-43cd-98b4-ec881147a551"
+    },
+    {
+      "id": "f180585",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "冯军旗-中县干部-北大博士论文.pdf",
+      "ext": "pdf",
+      "size": 1860587,
+      "folder": "感兴趣的话",
+      "updatedAt": "2026-09-23T03:48:15Z",
+      "url": "https://cityu-dg.instructure.com/files/180585/download?download_frd=1&verifier=5b7d10ed-3b6f-4915-b066-d352e18d67ac"
+    },
+    {
+      "id": "f180586",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "国家机构级别对应表.docx",
+      "ext": "docx",
+      "size": 22532,
+      "folder": "感兴趣的话",
+      "updatedAt": "2026-09-23T03:48:20Z",
+      "url": "https://cityu-dg.instructure.com/files/180586/download?download_frd=1&verifier=98314877-8cb9-4311-9a96-15a25ce82de4"
+    },
+    {
+      "id": "f180598",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "青年的选择.docx",
+      "ext": "docx",
+      "size": 17068,
+      "folder": "感兴趣的话",
+      "updatedAt": "2026-09-23T03:49:14Z",
+      "url": "https://cityu-dg.instructure.com/files/180598/download?download_frd=1&verifier=d6ed7056-46b2-4298-a7b2-1cfd389ad7cf"
     },
     {
       "id": "f163997",
@@ -1933,6 +2033,16 @@
       "folder": "PPT/Annotated",
       "updatedAt": "2026-09-17T22:45:41Z",
       "url": "https://cityu-dg.instructure.com/files/173357/download?download_frd=1&verifier=3c2bceb6-5389-460f-be56-fc8e1f5cac08"
+    },
+    {
+      "id": "f179590",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "09 20 (friday)",
+      "ext": "",
+      "size": 15372643,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-22T11:11:53Z",
+      "url": "https://cityu-dg.instructure.com/files/179590/download?download_frd=1&verifier=4dc88f0e-795c-4488-abf1-9265859e4540"
     },
     {
       "id": "f167756",
@@ -2788,7 +2898,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC 1001 · Introduction to Data Science",
+      "course": "DSC1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -2802,7 +2912,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -2816,7 +2926,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -2871,7 +2981,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -2958,7 +3068,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3029,7 +3139,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3100,7 +3210,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
