@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -405,7 +405,7 @@
       "title": "Assignment 1 - Number Conversion",
       "due": "2026-10-14T08:30:00+08:00",
       "points": 10,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3473",
       "dueTime": "08:30"
     },
@@ -530,6 +530,16 @@
       "detail": "The first in-class mini quiz for GE1632 takes place in the afternoon of Sep 22, 2026, covering the video course 'A Holistic Approach to National Security'. Watch the assigned videos in Files before class and bring a laptop or phone for the quiz, as instructed by the course.",
       "meta": "Sep 22, 2026",
       "source": "Canvas · GE1632"
+    },
+    {
+      "id": "note:email_sync:20260923",
+      "type": "notice",
+      "title": "School email sync unavailable today",
+      "summary": "Email sync failed Sep 23 - check QQ Mail connector",
+      "detail": "The afternoon email refresh could not run: the QQ Mail connector is not linked, so only the Agent Mail system inbox was reachable and no campus mail was read. Canvas assignments and quizzes synced normally, so task and quiz data are current. Reconnect QQ Mail and the next run will backfill school emails.",
+      "meta": "Sep 23, 2026",
+      "source": "CampusDesk sync",
+      "createdAt": "2026-09-23"
     }
   ],
   "emails": [
@@ -3149,6 +3159,6 @@
       "questions": []
     }
   ],
-  "canvasSyncedAt": "2026-09-22",
-  "canvasSyncedTs": "2026-09-22T20:38:13+08:00"
+  "canvasSyncedAt": "2026-09-23",
+  "canvasSyncedTs": "2026-09-23T13:33:32+08:00"
 }
