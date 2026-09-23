@@ -539,6 +539,24 @@
       "meta": "Sep 23, 2026",
       "source": "CampusDesk sync",
       "createdAt": "2026-09-23"
+    },
+    {
+      "id": "note:energy-craft:20260924",
+      "type": "notice",
+      "title": "Energy major craft night: sign up by Sep 24",
+      "summary": "Register by Sep 24 17:00 for Sep 29 energy craft night",
+      "detail": "能源与动力工程专业双节同庆非遗手作体验：9 月 29 日（周二）18:30-20:30 于 AC5-512，面向全体大一新生。名额有限，须在 9 月 24 日 17:00 前扫码填问卷报名才能参加；含非遗手作（手工扇/宋锦葫芦灯笼二选一，成品可带走）、专业教授分享与茶歇。",
+      "meta": "Sep 24, 2026",
+      "source": "QQ Mail: haley.li@cityu-dg.edu.cn"
+    },
+    {
+      "id": "note:quiz:dsc1001-20260923",
+      "type": "notice",
+      "title": "DSC1001 in-class quiz 2 today",
+      "summary": "Sep 23: DSC1001 in-class quiz (lectures 2-4) in today's lecture",
+      "detail": "DSC1001 第二次随堂测验 9 月 23 日课上发放纸质题，覆盖 lecture 2、3 及部分 lecture 4；10 道选择/简答题，时长 30 分钟。考点含变量类型、分布描述等（不限于此）。",
+      "meta": "Sep 23, 2026",
+      "source": "Canvas: DSC1001 course announcement"
     }
   ],
   "emails": [
@@ -660,6 +678,66 @@
       "location": "AC5 lobby",
       "time": "Sep 25-27 & Oct 1-7, 2026 · 08:00-20:00",
       "receivedAt": "2026-09-21",
+      "mailUrl": ""
+    },
+    {
+      "id": "e18",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "DSC1001 Introduction to Data Science (1072)",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "In-Class Quiz Reminder: DSC1001 Introduction to Data Science (1072)",
+      "snippet": "DSC1001 in-class quiz 2 today (Sep 23): printed questions in lecture, 10 Q, 30 min.",
+      "body": "DSC1001 第二次随堂测验于 9 月 23 日课上以纸质形式发放，覆盖 lecture 2、3 及部分 lecture 4（slides 稍后上传）；共 10 道选择题与简答题，时长 30 分钟。可能考点包括变量类型、分布描述等（不限于此）。",
+      "eventTime": "Sep 23, 2026 (in lecture)",
+      "location": "DSC1001 lecture",
+      "time": "",
+      "receivedAt": "2026-09-23T00:52:40+08:00",
+      "mailUrl": ""
+    },
+    {
+      "id": "e19",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "infohub",
+      "senderEmail": "infohub@cityu-dg.edu.cn",
+      "subject": "香港城市大学（东莞）电子通讯第96期 / CityUHK (DG) Newsletter Issue 96",
+      "snippet": "Newsletter 96: scholarship results, canteen menus, events incl. Huawei fair.",
+      "body": "校方电子通讯第 96 期：2025-2026 学年度国家奖学金评审结果公示、学生餐厅与趣食营地一周菜单（09/21-09/27）、赵毅书记“思政第一课”；活动预告含佰维 2027 届校园招聘宣讲会（9/22 17:00-18:00，AC5-418）与华为 × 港城莞 粤港澳区域岗位推介会。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-22T19:49:14+08:00",
+      "mailUrl": ""
+    },
+    {
+      "id": "e20",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "党支部 The Party Unit",
+      "senderEmail": "partyunit@cityu-dg.edu.cn",
+      "subject": "关于东莞市市、镇两级人民代表大会换届选举工作的推进——选民信息登记工作",
+      "snippet": "Voter registration (Dongguan): form due to lihong.lin@cityu-dg.edu.cn by Sep 23 12:00.",
+      "body": "东莞市市、镇两级人大换届选举选民信息登记：符合条件者为 2008-11-25 及之前出生、中国国籍且属东莞市松山湖户籍（东莞其他镇区户籍者亦可自愿在松山湖登记）的教职工、家属、在校学生或学生家长。符合条件者需填写附件2《选民登记表》，并于 2026-09-23 12:00 前以邮件反馈至 lihong.lin@cityu-dg.edu.cn；附件信息仅用于松山湖片区选举工作小组对点反馈。咨询可联系党支部林丽虹老师。",
+      "eventTime": "deadline Sep 23, 2026 12:00",
+      "location": "email to lihong.lin@cityu-dg.edu.cn",
+      "time": "",
+      "receivedAt": "2026-09-22T17:38:31+08:00",
+      "mailUrl": ""
+    },
+    {
+      "id": "e21",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "Haley LI 李丽",
+      "senderEmail": "haley.li@cityu-dg.edu.cn",
+      "subject": "月圆国盛，能动未来｜能源专业双节同庆非遗手作体验",
+      "snippet": "Energy major craft night Sep 29 18:30-20:30 (AC5-512); sign up by Sep 24 17:00.",
+      "body": "能源与动力工程专业双节同庆活动：9 月 29 日（周二）18:30-20:30，AC5-512，面向全体大一新生。内容含非遗手作体验（手工扇或宋锦葫芦灯笼二选一，成品可带走）、能源专业教授现场分享、零食茶歇交流。名额有限，须在 9 月 24 日 17:00 前扫描二维码填写问卷报名方可参与。",
+      "eventTime": "Sep 29, 2026 (Tue) 18:30-20:30",
+      "location": "AC5-512",
+      "time": "18:30-20:30",
+      "receivedAt": "2026-09-22T16:12:07+08:00",
       "mailUrl": ""
     }
   ],
