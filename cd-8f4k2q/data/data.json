@@ -410,7 +410,7 @@
       "dueTime": "08:30",
       "requirement": "①在 Assignment1.ipynb 中标注 “#your code here” 处作答，不得增删/复制单元格或改动其他文字与代码，否则该题 0 分；②交付：作答处删掉 pass，代码须通过题下方 #tests 测试单元格（无报错即对），上传该 ipynb 文件；③交到 Canvas→Assignments→Assignment 1，截止 10-14 08:30，逾期 0 分；④共 10 分、每题无部分分，批改时加隐藏测试（仅过可见测试仍可能 0 分）；可查资料，但直接复制他人（含 AI）代码属抄袭，双方均 0 分。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "courses/898/assignments/3473",
+      "canvasPath": "Canvas → CS1302 → Assignments → Assignment 1 - Number Conversion",
       "note": "已于 2026-09-22 提交（成绩未出）"
     },
     {
@@ -452,7 +452,7 @@
       "dueTime": "",
       "requirement": "在线测试（Canvas Quiz），无文字说明。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "courses/783/assignments/3429",
+      "canvasPath": "Canvas → GE1632 → Assignments → 总体国家安全观测试题",
       "note": "已于 2026-09-22 提交（得分 10/10）"
     },
     {
