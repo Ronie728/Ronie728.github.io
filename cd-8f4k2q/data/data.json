@@ -407,7 +407,11 @@
       "points": 10,
       "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3473",
-      "dueTime": "08:30"
+      "dueTime": "08:30",
+      "requirement": "①在 Assignment1.ipynb 中标注 “#your code here” 处作答，不得增删/复制单元格或改动其他文字与代码，否则该题 0 分；②交付：作答处删掉 pass，代码须通过题下方 #tests 测试单元格（无报错即对），上传该 ipynb 文件；③交到 Canvas→Assignments→Assignment 1，截止 10-14 08:30，逾期 0 分；④共 10 分、每题无部分分，批改时加隐藏测试（仅过可见测试仍可能 0 分）；可查资料，但直接复制他人（含 AI）代码属抄袭，双方均 0 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "courses/898/assignments/3473",
+      "note": "已于 2026-09-22 提交（成绩未出）"
     },
     {
       "id": "cv_3319",
@@ -445,7 +449,11 @@
       "points": 10,
       "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3429",
-      "dueTime": ""
+      "dueTime": "",
+      "requirement": "在线测试（Canvas Quiz），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "courses/783/assignments/3429",
+      "note": "已于 2026-09-22 提交（得分 10/10）"
     },
     {
       "id": "cv_3468",
@@ -477,15 +485,6 @@
     }
   ],
   "notes": [
-    {
-      "id": "note:makeup:phy-20260920",
-      "type": "course_change",
-      "title": "PHY 1201 makeup classes on Sun Sep 20",
-      "detail": "School rescheduled PHY 1201: two lectures (08:30-10:20 and 14:00-14:50) plus one tutorial (15:00-15:50) run on Sunday Sep 20 in Lecture Theater AC5-318.",
-      "meta": "Sep 20, 2026",
-      "source": "SIS View My Classes",
-      "summary": "Sun (Sep 20) PHY 1201 makeup: 3 sessions in AC5-318"
-    },
     {
       "id": "note:lab:phy1201-20260916",
       "type": "notice",
@@ -544,21 +543,6 @@
   ],
   "emails": [
     {
-      "id": "e10",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Student Development Office",
-      "senderEmail": "sdo@cityu-dg.edu.cn",
-      "subject": "关于2025-2026学年本科生国家奖学金校评审答辩会的通知 | Notice of the 2025-2026 Academic Year National Scholarship Selection Conference for UG Students",
-      "snippet": "2025-2026学年国家奖学金评选已进入校级评审阶段，欢迎到场观摩候选人答辩风采。",
-      "body": "",
-      "eventTime": "Sep 21, 2026 (Mon) 13:00-14:00",
-      "location": "图书馆一楼阶梯教室 (Library 1/F Lecture Theatre)",
-      "time": "13:00",
-      "receivedAt": "2026-09-20T14:18:56+08:00",
-      "mailUrl": "#"
-    },
-    {
       "id": "e11",
       "category": "activity",
       "needsReply": false,
@@ -571,21 +555,6 @@
       "location": "Chen Zihong Lecture Hall AC5-102",
       "time": "12:00",
       "receivedAt": "2026-09-20T13:29:15+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e12",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "Student Development Office",
-      "senderEmail": "sdo@cityu-dg.edu.cn",
-      "subject": "【邀请观摩】“城创杯”创新创业大赛路演（9月21日 14:00）Invitation: CityInno Cup Roadshow（9.21 14:00）",
-      "snippet": "第一届「城创杯」创新创业大赛校赛路演，9月21日（周一）14:00–17:00，AC5 陈梓红报告厅，无需报名自由入场，展示人工智能、信息科技等领域项目。",
-      "body": "",
-      "eventTime": "Sep 21, 2026 (Mon) 14:00-17:00",
-      "location": "Chen Zihong Lecture Theatre, AC5",
-      "time": "14:00",
-      "receivedAt": "2026-09-20T13:27:34+08:00",
       "mailUrl": "#"
     },
     {
@@ -647,21 +616,6 @@
       "time": "22:20",
       "receivedAt": "2026-09-14T22:20:23+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/884/discussion_topics/3956"
-    },
-    {
-      "id": "e13",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 大学生国家安全教育课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "In-class mini quiz on Sep 22 (afternoon)",
-      "snippet": "First in-class quiz on Sep 22 afternoon; scope: video course 'A Holistic Approach to National Security'.",
-      "body": "Canvas announcement for GE1632 (1195): the first in-class mini quiz takes place on the afternoon of Sep 22, 2026. Scope: the video course 'A Holistic Approach to National Security'. Review the online lecture videos in Files before class.",
-      "eventTime": "2026-09-22T14:00:00+08:00",
-      "location": "Classroom (GE1632)",
-      "time": "Sep 22, 2026 afternoon",
-      "receivedAt": "2026-09-21",
-      "mailUrl": ""
     },
     {
       "id": "e14",
