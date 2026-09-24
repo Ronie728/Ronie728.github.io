@@ -461,7 +461,7 @@
       "title": "Concept Questions on Work and Energy",
       "due": "",
       "dueTime": "",
-      "status": "pending",
+      "status": "submitted",
       "points": 0,
       "requirement": "要你做什么：关于功、动能、势能与能量守恒的概念题（concept questions），作为学习资源的选做练习（optional practice quiz）。\n\n说明：官方说明为不计分、不计入总评。\n\n什么时候交：无截止日期。",
       "requirementSource": "Canvas 同步",
@@ -485,6 +485,15 @@
     }
   ],
   "notes": [
+    {
+      "id": "note:email_sync:20260924",
+      "type": "notice",
+      "title": "School email sync unavailable",
+      "summary": "Email sync failed Sep 24 - reconnect QQ Mail",
+      "detail": "The afternoon sync could not read school email: the QQ Mail connector is offline and only the Agent Mail alias is reachable, so no campus mail was imported. Canvas assignments and quizzes synced normally. Reconnect QQ Mail in connector settings and rerun the email step.",
+      "meta": "Sep 24, 2026",
+      "source": "CampusDesk sync"
+    },
     {
       "id": "note:lab:phy1201-20260916",
       "type": "notice",
@@ -2911,7 +2920,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC1001 · Introduction to Data Science",
+      "course": "DSC 1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -2925,7 +2934,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -2939,7 +2948,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -2994,7 +3003,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3081,7 +3090,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3152,7 +3161,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3223,7 +3232,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
@@ -3270,5 +3279,5 @@
     }
   ],
   "canvasSyncedAt": "2026-09-24",
-  "canvasSyncedTs": "2026-09-23T13:33:32+08:00"
+  "canvasSyncedTs": "2026-09-24T13:01:15+08:00"
 }
