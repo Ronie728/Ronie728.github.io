@@ -1108,13 +1108,33 @@
       "url": "https://cityu-dg.instructure.com/files/163995/download?download_frd=1&verifier=a1314f69-ec67-4470-9f06-bb757da8133b"
     },
     {
+      "id": "f180872",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "DSC_1001_lec_4_tutorial.pdf",
+      "ext": "pdf",
+      "size": 202619,
+      "folder": "根目录",
+      "updatedAt": "2026-09-23T13:27:39Z",
+      "url": "https://cityu-dg.instructure.com/files/180872/download?download_frd=1&verifier=cbc66dc1-19a5-427b-8081-9120de03e05b"
+    },
+    {
+      "id": "f180874",
+      "course": "DSC1001 · Introduction to Data Science",
+      "name": "DSC_1001_lec_4.pdf",
+      "ext": "pdf",
+      "size": 906477,
+      "folder": "根目录",
+      "updatedAt": "2026-09-23T10:34:47Z",
+      "url": "https://cityu-dg.instructure.com/files/180874/download?download_frd=1&verifier=3691dff2-5983-48c2-a1d0-470da508bfdc"
+    },
+    {
       "id": "f174202",
       "course": "DSC1001 · Introduction to Data Science",
       "name": "DSC_1001_lec3.pdf",
       "ext": "pdf",
       "size": 3695060,
       "folder": "根目录",
-      "updatedAt": "2026-09-22T05:45:28Z",
+      "updatedAt": "2026-09-23T10:32:09Z",
       "url": "https://cityu-dg.instructure.com/files/174202/download?download_frd=1&verifier=3555deb6-152c-4a18-b7a3-6d04b6ec8965"
     },
     {
@@ -3209,13 +3229,46 @@
       "points": 0,
       "questionCount": 4,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1173",
-      "attempted": false,
+      "attempted": true,
       "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
-      "questions": []
+      "status": "complete",
+      "submittedAt": "2026-09-23T07:30:43Z",
+      "questions": [
+        {
+          "n": 1,
+          "type": "multiple_choice_question",
+          "text": "An elevator supported by a single cable descends a shaft at a constant speed. The only forces acting on the elevator are the tension in the cable and the gravitational force. Which one of the following statements is true?",
+          "correct": true,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "n": 2,
+          "type": "multiple_choice_question",
+          "text": "Block A has a mass m and block B has a mass 2 m . Block A is pressed against a spring to compress the spring by a distance x . It is then released such that the block eventually separates from the spring and it slides across a surface where the friction coeff…",
+          "correct": false,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "n": 3,
+          "type": "multiple_choice_question",
+          "text": "Two identical balls are thrown from the same height from the roof of a building. One ball is thrown upward with an initial speed v . The second ball is thrown downward with the same initial speed v . When the balls reach the ground, how do the kinetic energie…",
+          "correct": true,
+          "points": 0,
+          "score": 0
+        },
+        {
+          "n": 4,
+          "type": "multiple_choice_question",
+          "text": "Suppose you want to ride your mountain bike up a steep hill. Two paths lead from the base to the top, one twice as long as the other. Compared to the average force you would exert if you took the short path, the average force you exert along the longer path is",
+          "correct": true,
+          "points": 0,
+          "score": 0
+        }
+      ]
     }
   ],
-  "canvasSyncedAt": "2026-09-23",
+  "canvasSyncedAt": "2026-09-24",
   "canvasSyncedTs": "2026-09-23T13:33:32+08:00"
 }
