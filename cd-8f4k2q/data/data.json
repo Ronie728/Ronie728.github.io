@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-09-24",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -467,7 +467,7 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Concept Questions on Work and Energy",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3468",
-      "note": "选做练习，不计分。"
+      "note": "已于 2026-09-23 提交（练习性质，不计分）"
     },
     {
       "id": "cv_3463",
@@ -495,78 +495,16 @@
       "summary": "PHY 1201 first lab Tue Sep 29, 10:30-12:20"
     },
     {
-      "id": "note:jobfair:huawei-20260923",
+      "id": "note:energy-craft-signup:20260924",
       "type": "notice",
-      "title": "Huawei job fair moved 2 hours earlier",
-      "summary": "Wed Sep 23, Huawei job fair 12:00-15:00, AC5-102",
-      "detail": "The Huawei × CityUHK(DG) job fair was moved two hours earlier to Wednesday Sep 23, 12:00-15:00 in Chen Zihong Lecture Hall AC5-102. Part 1 (12:00-13:00) is the campus recruitment info session and Part 2 (13:00-15:00) is one-on-one coaching with hiring teams. Register in advance by scanning the QR code via WeChat.",
-      "meta": "Sep 23, 2026",
-      "source": "Career Development Centre email"
-    },
-    {
-      "id": "note:scholarship-conf:20260921",
-      "type": "notice",
-      "title": "National Scholarship selection conference today 13:00-14:00",
-      "summary": "Mon 13:00-14:00 · Scholarship selection conf. open to attend",
-      "detail": "The 2025-2026 National Scholarship selection conference for undergraduate students is held today, Mon Sep 21, 13:00-14:00 at (Library 1/F Lecture Theatre). Attendance is open; arrive a few minutes early. It ends right before your EN 1002 lecture (14:00, AC3-314), so plan the walk.",
-      "meta": "Sep 21, 2026",
-      "source": "Campus email · National Scholarship Selection Conference"
-    },
-    {
-      "id": "note:cityinno:20260921",
-      "type": "notice",
-      "title": "CityInno Cup roadshow today 14:00-17:00",
-      "summary": "Mon 14:00-17:00 · CityInno Cup roadshow, observation open",
-      "detail": "The CityInno Cup innovation & entrepreneurship roadshow runs today, Mon Sep 21, 14:00-17:00 at Chen Zihong Lecture Theatre, AC5. Observation is invited and it is a good chance to collect project/team ideas. It overlaps your EN 1002 lecture (14:00-16:50), so drop by around it if you want to watch.",
-      "meta": "Sep 21, 2026",
-      "source": "Campus email · CityInno Cup Roadshow"
-    },
-    {
-      "id": "note:ge1632quiz:20260922",
-      "type": "notice",
-      "title": "GE1632 in-class mini quiz this afternoon (Sep 22)",
-      "summary": "Sep 22 PM: GE1632 in-class quiz on National Security",
-      "detail": "The first in-class mini quiz for GE1632 takes place in the afternoon of Sep 22, 2026, covering the video course 'A Holistic Approach to National Security'. Watch the assigned videos in Files before class and bring a laptop or phone for the quiz, as instructed by the course.",
-      "meta": "Sep 22, 2026",
-      "source": "Canvas · GE1632"
-    },
-    {
-      "id": "note:dsc1001_quiz:20260923",
-      "type": "notice",
-      "title": "DSC1001 in-class quiz today",
-      "summary": "DSC1001 Quiz 2 in today's lecture - review L2-L4",
-      "detail": "The second DSC1001 in-class quiz is today, Sep 23, handed out as printed questions during the lecture. It has 10 multiple-choice and short-answer questions and lasts 30 minutes. It covers lectures 2 and 3 plus parts of lecture 4, with variables and describing distributions as likely topics. Review those slides before class.",
-      "meta": "Sep 23, 2026",
-      "source": "Canvas notification · DSC1001",
-      "createdAt": "2026-09-23"
-    },
-    {
-      "id": "note:energy_craft_signup:20260923",
-      "type": "notice",
-      "summary": "Sign up by Sep 24, 17:00 for the Sep 29 craft night",
-      "title": "Energy programme craft night - register by Sep 24",
-      "detail": "The Energy and Power Engineering programme hosts a heritage craft night on Sep 29, 18:30-20:30 at AC5-512, open to all first-year students. Seats are limited and you must register by scanning the QR code in the email and filling in the form before 17:00 on Sep 24. You make a hand fan or a Song-brocade lantern and can talk with the professors.",
-      "meta": "Sep 23, 2026",
-      "source": "haley.li@cityu-dg.edu.cn",
-      "createdAt": "2026-09-23"
+      "title": "Energy craft night - sign-up closes today",
+      "summary": "Register by today 17:00 for the Sep 29 energy craft night",
+      "detail": "Energy programme Mid-Autumn / National Day craft workshop: Tue Sep 29, 18:30-20:30 at AC5-512. Registration closes today, Sep 24 at 17:00. Scan the QR code in the email or contact the organiser to sign up.",
+      "meta": "Sep 24, 2026",
+      "source": "email"
     }
   ],
   "emails": [
-    {
-      "id": "e11",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "Career Development Centre",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": "【重要通知：活动时间提前两小时】华为 x 香港城市大学（东莞）专场招聘会 | Job Fair: Huawei × CityUHK(DG)",
-      "snippet": "招聘会时间提前两小时：9月23日（周三）12:00–15:00，AC5-102 陈梓红报告厅。12:00–13:00 校招宣讲，13:00–15:00 与招聘团队一对一交流，需扫码报名。",
-      "body": "",
-      "eventTime": "Sep 23, 2026 (Wed) 12:00-15:00 (moved 2 hours earlier)",
-      "location": "Chen Zihong Lecture Hall AC5-102",
-      "time": "12:00",
-      "receivedAt": "2026-09-20T13:29:15+08:00",
-      "mailUrl": "#"
-    },
     {
       "id": "e8",
       "category": "notice",
@@ -595,21 +533,6 @@
       "location": "",
       "time": "18:58",
       "receivedAt": "2026-09-15T18:58:16+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e3",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "IT Service Desk",
-      "senderEmail": "it.servicedesk@cityu-dg.edu.cn",
-      "subject": "国家网络安全宣传周：校园网络安全注意事项提醒",
-      "snippet": "9月14日至20日为国家网络安全宣传周：请合规使用校园网络，禁止私自搭建 VPN 或违规跨境访问工具，注意保护账号信息安全。",
-      "body": "2026年9月14日至20日是国家网络安全宣传周。提醒：合规使用校园网络，禁止私自搭建 VPN 或使用违规的跨境网络访问工具，严禁在校园网内部署内网穿透、隧道穿透等工具；同时注意保护个人信息与账号安全。",
-      "eventTime": "",
-      "location": "",
-      "time": "21:40",
-      "receivedAt": "2026-09-14T21:40:22+08:00",
       "mailUrl": "#"
     },
     {
@@ -671,21 +594,6 @@
       "time": "Sep 25-27 & Oct 1-7, 2026 · 08:00-20:00",
       "receivedAt": "2026-09-21",
       "mailUrl": ""
-    },
-    {
-      "id": "e18",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "DSC1001 Introduction to Data Science",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "In-Class Quiz Reminder: DSC1001 Introduction to Data Science (1072)",
-      "snippet": "Second in-class quiz on Sep 23: printed questions handed out during the lecture, 10 multiple-choice and short-answer questions, 30 minutes.",
-      "body": "The second DSC1001 in-class quiz takes place on Sep 23. It is distributed in the lecture as printed questions. It has 10 multiple-choice and short-answer questions and lasts 30 minutes. Coverage: lectures 2 and 3, plus parts of lecture 4 (slides to be uploaded shortly). Likely topics include types of variables and describing distributions of variables.",
-      "eventTime": "2026-09-23T23:59:00+08:00",
-      "location": "In the lecture (printed questions)",
-      "time": "Sep 23, 2026 · in class · 30 min",
-      "receivedAt": "2026-09-23T00:52:40+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e19",
