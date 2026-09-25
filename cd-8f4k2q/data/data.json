@@ -904,7 +904,7 @@
       "ext": "pdf",
       "size": 338812,
       "folder": "Week4/Lab 4 Iteration",
-      "updatedAt": "2026-09-22T14:21:14Z",
+      "updatedAt": "2026-09-24T08:22:05Z",
       "url": "https://cityu-dg.instructure.com/files/180059/download?download_frd=1&verifier=612fc84f-fcc2-4fd9-bb87-acbeda27ba2e"
     },
     {
@@ -1444,7 +1444,7 @@
       "ext": "docx",
       "size": 25994,
       "folder": "Course Information",
-      "updatedAt": "2026-09-03T07:14:16Z",
+      "updatedAt": "2026-09-24T10:28:47Z",
       "url": "https://cityu-dg.instructure.com/files/160642/download?download_frd=1&verifier=f4f30628-a7d8-4da6-81be-904c15058888"
     },
     {
@@ -1454,7 +1454,7 @@
       "ext": "pdf",
       "size": 57669,
       "folder": "Course Information",
-      "updatedAt": "2026-09-04T02:07:10Z",
+      "updatedAt": "2026-09-24T10:28:21Z",
       "url": "https://cityu-dg.instructure.com/files/164316/download?download_frd=1&verifier=ca7edeab-bec0-4a13-9179-88248a62f039"
     },
     {
@@ -1494,7 +1494,7 @@
       "ext": "pdf",
       "size": 201967,
       "folder": "Weekly Lessons/Week 1",
-      "updatedAt": "2026-09-14T04:33:39Z",
+      "updatedAt": "2026-09-24T12:07:53Z",
       "url": "https://cityu-dg.instructure.com/files/164410/download?download_frd=1&verifier=5cf6227c-9fc9-4f94-b6c5-9b5fefd517ea"
     },
     {
@@ -1558,13 +1558,33 @@
       "url": "https://cityu-dg.instructure.com/files/175186/download?download_frd=1&verifier=c9b1d863-8165-46af-8264-2612eb63ca16"
     },
     {
+      "id": "f181919",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "GE2134 Wk 4 lesson BX.pdf",
+      "ext": "pdf",
+      "size": 4243969,
+      "folder": "Weekly Lessons/Week 4",
+      "updatedAt": "2026-09-24T13:03:30Z",
+      "url": "https://cityu-dg.instructure.com/files/181919/download?download_frd=1&verifier=fb39f1d2-c80b-4250-88f0-f34c578b38d3"
+    },
+    {
+      "id": "f157239",
+      "course": "GE2134 · Critical and Creative Thinking",
+      "name": "Language & Time.mp4",
+      "ext": "mp4",
+      "size": 8019025,
+      "folder": "Weekly Lessons/Week 4",
+      "updatedAt": "2026-09-24T13:03:30Z",
+      "url": "https://cityu-dg.instructure.com/files/157239/download?download_frd=1&verifier=0813ca81-0e55-4fb4-bcc5-4b6ffd165909"
+    },
+    {
       "id": "f180584",
       "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
       "name": "Sycophantic_AI_Decreases_Prosocial_Intentions_and_.pdf",
       "ext": "pdf",
       "size": 5416796,
       "folder": "感兴趣的话",
-      "updatedAt": "2026-09-23T03:48:03Z",
+      "updatedAt": "2026-09-24T05:59:54Z",
       "url": "https://cityu-dg.instructure.com/files/180584/download?download_frd=1&verifier=17e2e7a4-c691-48e5-bae9-c8a8fc3fa707"
     },
     {
@@ -1604,7 +1624,7 @@
       "ext": "docx",
       "size": 17068,
       "folder": "感兴趣的话",
-      "updatedAt": "2026-09-23T03:49:14Z",
+      "updatedAt": "2026-09-25T03:50:53Z",
       "url": "https://cityu-dg.instructure.com/files/180598/download?download_frd=1&verifier=d6ed7056-46b2-4298-a7b2-1cfd389ad7cf"
     },
     {
@@ -1696,6 +1716,16 @@
       "folder": "reading materials",
       "updatedAt": "2026-09-05T09:03:23Z",
       "url": "https://cityu-dg.instructure.com/files/164311/download?download_frd=1&verifier=a371f5f0-6368-45fe-bae4-63e2ef255937"
+    },
+    {
+      "id": "f181643",
+      "course": "IP1901 · 习近平新时代中国特色社会主义思想概论",
+      "name": "HealthGradientsAndIntergenerationalT_preview.pdf",
+      "ext": "pdf",
+      "size": 9768113,
+      "folder": "reading materials",
+      "updatedAt": "2026-09-25T03:51:37Z",
+      "url": "https://cityu-dg.instructure.com/files/181643/download?download_frd=1&verifier=5e9771fd-a19f-45df-8631-c825f1f9f156"
     },
     {
       "id": "f165906",
@@ -2911,7 +2941,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC 1001 · Introduction to Data Science",
+      "course": "DSC1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -2925,7 +2955,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -2939,7 +2969,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -2994,7 +3024,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3081,7 +3111,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3152,7 +3182,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3223,7 +3253,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
