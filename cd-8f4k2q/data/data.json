@@ -486,15 +486,6 @@
   ],
   "notes": [
     {
-      "id": "note:email_sync:20260924",
-      "type": "notice",
-      "title": "School email sync unavailable",
-      "summary": "Email sync failed Sep 24 - reconnect QQ Mail",
-      "detail": "The afternoon sync could not read school email: the QQ Mail connector is offline and only the Agent Mail alias is reachable, so no campus mail was imported. Canvas assignments and quizzes synced normally. Reconnect QQ Mail in connector settings and rerun the email step.",
-      "meta": "Sep 24, 2026",
-      "source": "CampusDesk sync"
-    },
-    {
       "id": "note:lab:phy1201-20260916",
       "type": "notice",
       "title": "PHY1201 lab group assigned — check Canvas",
@@ -502,6 +493,15 @@
       "meta": "Sep 16, 2026",
       "source": "Canvas · PHY1201",
       "summary": "PHY 1201 first lab Tue Sep 29, 10:30-12:20"
+    },
+    {
+      "id": "note:email_sync:20260925",
+      "type": "notice",
+      "title": "Email sync unavailable on Sep 25",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "The afternoon email check on Sep 25 could not run because the QQ Mail connector is disconnected, so no campus mail was read. Reconnect QQ Mail in connector settings, then rerun the sync. Assignments and quizzes above are still current.",
+      "meta": "Sep 25, 2026",
+      "source": "CampusDesk sync"
     }
   ],
   "emails": [
@@ -594,21 +594,6 @@
       "time": "Sep 25-27 & Oct 1-7, 2026 · 08:00-20:00",
       "receivedAt": "2026-09-21",
       "mailUrl": ""
-    },
-    {
-      "id": "e19",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "infohub",
-      "senderEmail": "infohub@cityu-dg.edu.cn",
-      "subject": "香港城市大学（东莞）电子通讯第96期 / CityUHK (DG) Newsletter Issue 96",
-      "snippet": "Issue 96: Huawei GBA job talk (Sep 23, 12:00-15:00, AC5-102), Psychological Growth Centre October programme (Oct 1 - Nov 1), two submission calls closing Sep 25 and Oct 8, weekly canteen menus.",
-      "body": "Campus newsletter issue 96. Upcoming items: Huawei x CityUHK(DG) Greater Bay Area job talk on Sep 23, 12:00-15:00 at AC5-102; Psychological Growth Centre October activities running Oct 1 - Nov 1 on campus; the 2026 'Love in Guangdong' ethnic-unity education works collection closes Sep 25, 17:30 (send your work plus the recommendation form to partyunit@cityu-dg.edu.cn); the 'Qingfeng' knowledge quiz and works collection closes Oct 8, 17:30 (same email). Also links to this week's student canteen and Qushi camp menus.",
-      "eventTime": "2026-09-23T15:00:00+08:00",
-      "location": "AC5-102 and on campus",
-      "time": "Sep 23, 2026 · deadlines Sep 25 and Oct 8",
-      "receivedAt": "2026-09-22T19:49:14+08:00",
-      "mailUrl": "https://infohub.cityu-dg.edu.cn/"
     },
     {
       "id": "e20",
