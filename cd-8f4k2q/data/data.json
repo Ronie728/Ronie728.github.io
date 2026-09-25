@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -502,15 +502,6 @@
       "meta": "Sep 16, 2026",
       "source": "Canvas · PHY1201",
       "summary": "PHY 1201 first lab Tue Sep 29, 10:30-12:20"
-    },
-    {
-      "id": "note:energy-craft-signup:20260924",
-      "type": "notice",
-      "title": "Energy craft night - sign-up closes today",
-      "summary": "Register by today 17:00 for the Sep 29 energy craft night",
-      "detail": "Energy programme Mid-Autumn / National Day craft workshop: Tue Sep 29, 18:30-20:30 at AC5-512. Registration closes today, Sep 24 at 17:00. Scan the QR code in the email or contact the organiser to sign up.",
-      "meta": "Sep 24, 2026",
-      "source": "email"
     }
   ],
   "emails": [
@@ -3278,6 +3269,6 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-24",
-  "canvasSyncedTs": "2026-09-24T13:01:15+08:00"
+  "canvasSyncedAt": "2026-09-25",
+  "canvasSyncedTs": "2026-09-25T15:16:27+08:00"
 }
