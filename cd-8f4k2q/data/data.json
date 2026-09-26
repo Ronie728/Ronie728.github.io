@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -486,22 +486,11 @@
   ],
   "notes": [
     {
-      "id": "note:lab:phy1201-20260916",
-      "type": "notice",
-      "title": "PHY1201 lab group assigned — check Canvas",
-      "detail": "Lab groups were assigned on Canvas (People > Groups). Session 2 lab runs Tue Sep 29, 10:30-12:20; check Canvas for your group and venue before attending.",
-      "meta": "Sep 16, 2026",
-      "source": "Canvas · PHY1201",
-      "summary": "PHY 1201 first lab Tue Sep 29, 10:30-12:20"
-    },
-    {
       "id": "note:email_sync:20260925",
       "type": "notice",
       "title": "Email sync unavailable on Sep 25",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "The afternoon email check on Sep 25 could not run because the QQ Mail connector is disconnected, so no campus mail was read. Reconnect QQ Mail in connector settings, then rerun the sync. Assignments and quizzes above are still current.",
-      "meta": "Sep 25, 2026",
-      "source": "CampusDesk sync"
+      "summary": "Sep 25: email sync unavailable; campus mail check skipped",
+      "detail": "The mail connector was unavailable during the Sep 25 run, so the 24-hour campus email window could not be pulled. Previous email summaries remain in effect. The next successful sync will catch up."
     }
   ],
   "emails": [
