@@ -3286,5 +3286,6 @@
     }
   ],
   "canvasSyncedAt": "2026-09-26",
-  "canvasSyncedTs": "2026-09-26T13:16:44+08:00"
+  "canvasSyncedTs": "2026-09-26T13:16:44+08:00",
+  "canvasTokenExpiresAt": "2026-12-14"
 }
