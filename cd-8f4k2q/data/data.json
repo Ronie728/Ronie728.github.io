@@ -486,11 +486,23 @@
   ],
   "notes": [
     {
-      "id": "note:email_sync:20260925",
+      "id": "note:lunch:20260926",
+      "title": "12:30 出去吃饭",
+      "summary": "今天 12:30 出去吃午饭",
+      "detail": "今天中午 12:30 出去吃饭。",
+      "meta": "Today 12:30",
+      "source": "Pinned by you",
+      "to": "",
+      "type": "reminder"
+    },
+    {
+      "id": "note:email_sync:20260926",
       "type": "notice",
-      "title": "Email sync unavailable on Sep 25",
-      "summary": "Sep 25: email sync unavailable; campus mail check skipped",
-      "detail": "The mail connector was unavailable during the Sep 25 run, so the 24-hour campus email window could not be pulled. Previous email summaries remain in effect. The next successful sync will catch up."
+      "title": "Email sync unavailable on Sep 26",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account (3516992821@qq.com / cityu_72600669@qq.com) and re-run the sync to pick up new school email.",
+      "meta": "Sep 26, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -3274,5 +3286,5 @@
     }
   ],
   "canvasSyncedAt": "2026-09-26",
-  "canvasSyncedTs": "2026-09-26T08:52:20+08:00"
+  "canvasSyncedTs": "2026-09-26T13:16:44+08:00"
 }
