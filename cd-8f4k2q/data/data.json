@@ -2915,7 +2915,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC1001 · Introduction to Data Science",
+      "course": "DSC 1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -2929,7 +2929,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -2943,7 +2943,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -2998,7 +2998,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3085,7 +3085,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3156,7 +3156,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3227,7 +3227,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
@@ -3274,5 +3274,5 @@
     }
   ],
   "canvasSyncedAt": "2026-09-26",
-  "canvasSyncedTs": "2026-09-25T15:16:27+08:00"
+  "canvasSyncedTs": "2026-09-26T08:52:20+08:00"
 }
