@@ -1,0 +1,6 @@
+import{c}from"./index-BEQK24xZ.js";/**
+ * @license lucide-react v0.453.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const u=c("CalendarClock",[["path",{d:"M21 7.5V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.5",key:"1osxxc"}],["path",{d:"M16 2v4",key:"4m81vk"}],["path",{d:"M8 2v4",key:"1cmpym"}],["path",{d:"M3 10h5",key:"r794hk"}],["path",{d:"M17.5 17.5 16 16.3V14",key:"akvzfd"}],["circle",{cx:"16",cy:"16",r:"6",key:"qoo3c4"}]]),o=[{week:6,date:"2026-10-15",zh:"文献报告",en:"Literature report"},{week:9,date:"2026-11-05",zh:"无领导小组讨论",en:"Leaderless group discussion"}];function s(e){return new Date(`${e.date}T23:59:59`).getTime()}function D(e=new Date){const t=e.getTime();return o.filter(n=>s(n)>=t)}function h(e){if(!(e instanceof Date)||Number.isNaN(e.getTime()))return[];const t=e.getTime(),n=new Date(t);n.setHours(0,0,0,0);const a=n.getTime()+6*864e5+86399e3;return o.filter(i=>{const r=new Date(`${i.date}T12:00:00`).getTime();return r>=n.getTime()&&r<=a})}function k(e){const t=new Date(`${e.date}T12:00:00`),n=t.toLocaleString("en-US",{weekday:"short"}),a=t.toLocaleString("en-US",{month:"short"});return`${n}, ${a} ${t.getDate()}`}function l(e){const t=new Date(`${e.date}T12:00:00`);return`${t.getMonth()+1}/${t.getDate()}`}export{u as C,k as a,D as b,l as c,h as i};
