@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <meta name="referrer" content="no-referrer" />
+    <title>CampusDesk · Reset cached data</title>
+    <style>
+      html, body { margin: 0; min-height: 100%; background: #f3eefa; color: #2b2440; font: 500 15px/1.7 -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", sans-serif; }
+      .wrap { max-width: 420px; margin: 0 auto; padding: 40px 22px calc(40px + env(safe-area-inset-bottom, 0px)); }
+      h1 { font-size: 20px; margin: 0 0 6px; }
+      .sub { color: #6b6382; font-size: 13px; margin: 0 0 22px; }
+      .card { background: #fff; border-radius: 16px; padding: 16px 18px; box-shadow: 0 2px 14px rgba(60, 45, 100, 0.07); }
+      .row { display: flex; align-items: center; gap: 10px; padding: 9px 0; border-bottom: 1px solid #f0ecf6; font-size: 14px; }
+      .row:last-child { border-bottom: 0; }
+      .dot { width: 18px; height: 18px; border-radius: 50%; flex: 0 0 18px; background: #e5dfee; display: flex; align-items: center; justify-content: center; }
+      .dot.done { background: #2f9e63; }
+      .dot.fail { background: #c2410c; }
+      .dot svg { display: none; }
+      .dot.done svg { display: block; }
+      .note { margin-top: 18px; font-size: 13px; color: #6b6382; }
+      .note b { color: #2b2440; }
+      a.btn { display: block; margin-top: 22px; text-align: center; background: #5b4bd6; color: #fff; text-decoration: none; padding: 13px; border-radius: 12px; font-weight: 600; }
+      a.btn:active { filter: brightness(0.94); }
+      .hidden { display: none; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>Reset cached data</h1>
+      <p class="sub">Fixes a blank screen caused by a stale offline copy.</p>
+
+      <div class="card">
+        <div class="row"><span class="dot" id="d1"><svg width="10" height="10" viewBox="0 0 10 10"><path d="M1 5.2 3.6 8 9 2.4" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Service workers removed</span></div>
+        <div class="row"><span class="dot" id="d2"><svg width="10" height="10" viewBox="0 0 10 10"><path d="M1 5.2 3.6 8 9 2.4" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Offline cache cleared</span></div>
+        <div class="row"><span class="dot" id="d3"><svg width="10" height="10" viewBox="0 0 10 10"><path d="M1 5.2 3.6 8 9 2.4" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Reloading CampusDesk</span></div>
+      </div>
+
+      <p class="note" id="note">Running…</p>
+      <p class="note"><b>Your timers and notes are kept.</b> Only the offline cache is dropped — saved sessions, logs and settings stay on this device.</p>
+
+      <a class="btn hidden" id="manual" href="/cd-8f4k2q/">Open CampusDesk now</a>
+    </div>
+
+    <script>
+      (function () {
+        var BASE = '/cd-8f4k2q/';
+        var note = document.getElementById('note');
+        var manual = document.getElementById('manual');
+
+        function mark(id, state) {
+          var el = document.getElementById(id);
+          if (el) el.className = 'dot ' + state;
+        }
+
+        var swDone = false;
+        var cacheCount = 0;
+
+        function step1() {
+          var p = Promise.resolve(0);
+          if ('serviceWorker' in navigator && navigator.serviceWorker.getRegistrations) {
+            p = navigator.serviceWorker
+              .getRegistrations()
+              .then(function (regs) {
+                return Promise.all(regs.map(function (r) { return r.unregister(); }));
+              })
+              .then(function (r) { return r.length; })
+              .catch(function () { return -1; });
+          }
+          return p.then(function (n) {
+            swDone = true;
+            mark('d1', n < 0 ? 'fail' : 'done');
+            return n;
+          });
+        }
+
+        function step2() {
+          var p = Promise.resolve(0);
+          if (window.caches && caches.keys) {
+            p = caches
+              .keys()
+              .then(function (keys) {
+                cacheCount = keys.length;
+                return Promise.all(keys.map(function (k) { return caches.delete(k); }));
+              })
+              .then(function (r) { return r.length; })
+              .catch(function () { return -1; });
+          }
+          return p.then(function (n) {
+            mark('d2', n < 0 ? 'fail' : 'done');
+            return n;
+          });
+        }
+
+        step1()
+          .then(step2)
+          .then(function () {
+            mark('d3', 'done');
+            note.textContent = 'Done. Opening CampusDesk…';
+            setTimeout(function () {
+              location.replace(BASE + '?reset=1');
+            }, 1200);
+          })
+          .catch(function (e) {
+            note.textContent = 'Something went wrong. Use the button below, or clear website data in Safari settings.';
+            manual.className = 'btn';
+          });
+
+        // 兜底：万一自动跳转没发生，5 秒后把按钮放出来
+        setTimeout(function () {
+          if (manual.className.indexOf('hidden') >= 0) manual.className = 'btn';
+        }, 5000);
+      })();
+    </script>
+  </body>
+</html>
