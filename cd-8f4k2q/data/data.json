@@ -2239,6 +2239,46 @@
       "url": "https://cityu-dg.instructure.com/files/174151/download?download_frd=1&verifier=465e0f2a-1988-49fb-ae5e-16f35d63df18"
     },
     {
+      "id": "f182678",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_07_Remade.pdf",
+      "ext": "pdf",
+      "size": 258815,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-26T12:07:09Z",
+      "url": "https://cityu-dg.instructure.com/files/182678/download?download_frd=1&verifier=915f8f7b-e56a-49f1-83ef-655fd9486ce8"
+    },
+    {
+      "id": "f182662",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_07.pdf",
+      "ext": "pdf",
+      "size": 1042819,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-26T09:41:01Z",
+      "url": "https://cityu-dg.instructure.com/files/182662/download?download_frd=1&verifier=ea494775-7182-48d2-8f6b-dab40ae40553"
+    },
+    {
+      "id": "f182682",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_08_Remade.pdf",
+      "ext": "pdf",
+      "size": 127862,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-26T10:08:04Z",
+      "url": "https://cityu-dg.instructure.com/files/182682/download?download_frd=1&verifier=b34ad8cc-fc52-49d5-aa34-a9d52735270d"
+    },
+    {
+      "id": "f182663",
+      "course": "PHY1201 · General Physics I",
+      "name": "Exercise_Chapter_08.pdf",
+      "ext": "pdf",
+      "size": 875533,
+      "folder": "Exercise Scan",
+      "updatedAt": "2026-09-26T09:36:49Z",
+      "url": "https://cityu-dg.instructure.com/files/182663/download?download_frd=1&verifier=32a472a9-0452-415c-bf70-fb000ecd8092"
+    },
+    {
       "id": "f168742",
       "course": "PHY1201 · General Physics I",
       "name": "Acceleration due to Gravity.pdf",
@@ -2962,7 +3002,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC 1001 · Introduction to Data Science",
+      "course": "DSC1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -2976,7 +3016,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -2990,7 +3030,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -3045,7 +3085,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3132,7 +3172,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3203,7 +3243,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3274,7 +3314,7 @@
     },
     {
       "id": "q1182",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 5: Rotation of Rigid Bodies",
       "due": "2026-10-09T15:59:59Z",
       "points": 10,
@@ -3288,7 +3328,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
