@@ -9,8 +9,14 @@
     <!--
       这个 404 页是 GitHub Pages 唯一的 SPA 兜底，两个站点共用：
       - /cd-8f4k2q/ 前缀 → 交回 CampusDesk（meta refresh 负责，删掉会让深链接刷新白屏）
-      - 其余路径        → 属于根站点，由下面的同步脚本抢在 meta refresh 之前跳走
+      - 其余路径    → 属于根站点，由下面的同步脚本抢在 meta refresh 之前跳走
+
+      下面两条 preload 由 sync_404.mjs 按当前 dist 自动生成：
+      跳转前先把 App 的入口 JS/CSS 拉进 HTTP 缓存，刷新深链接时首屏省一个往返。
+      hash 过期只会多下一次无用文件，不影响正确性（meta refresh 兜底不受影响）。
     -->
+    <link rel="modulepreload" as="script" href="/cd-8f4k2q/assets/index-BozBJJ9_.js" />
+    <link rel="preload" as="style" href="/cd-8f4k2q/assets/index-DvZtudIU.css" />
     <script>
       (function () {
         var BASE = '/cd-8f4k2q/';
