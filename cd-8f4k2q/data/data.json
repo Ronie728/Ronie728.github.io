@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -398,6 +398,26 @@
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3462",
       "note": "已于 2026-09-18 提交（得分待批改，满分 10）",
       "submittedAt": "2026-09-18T18:12:13+08:00"
+    },
+    {
+      "id": "cv_3537",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 5: Rotation of Rigid Bodies",
+      "due": "2026-10-09T23:59:59+08:00",
+      "points": 10,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537",
+      "dueTime": "23:59"
+    },
+    {
+      "id": "cv_3536",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 5: Momentum. Impulse, Collisions and Rotation of Rigid Bodies",
+      "due": "2026-10-09T23:59:59+08:00",
+      "points": 10,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3536",
+      "dueTime": "23:59"
     },
     {
       "id": "cv_3473",
@@ -3238,6 +3258,20 @@
       ]
     },
     {
+      "id": "q1182",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 5: Rotation of Rigid Bodies",
+      "due": "2026-10-09T15:59:59Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1182",
+      "attempted": false,
+      "score": null,
+      "status": "unsubmitted",
+      "submittedAt": "",
+      "questions": []
+    },
+    {
       "id": "q1173",
       "course": "PHY 1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
@@ -3285,7 +3319,7 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-26",
-  "canvasSyncedTs": "2026-09-26T13:16:44+08:00",
+  "canvasSyncedAt": "2026-09-27",
+  "canvasSyncedTs": "2026-09-27T12:14:01+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
