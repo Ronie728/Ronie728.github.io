@@ -407,7 +407,10 @@
       "points": 10,
       "status": "pending",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537",
-      "dueTime": "23:59"
+      "dueTime": "23:59",
+      "requirement": "在线小测，占期末总成绩 1%，10 月 9 日 23:59 截止。每题 3 次作答机会；数值题不要带单位；允许 ±5% 误差，最多填 4 位小数。一旦开始作答有 3 天（4320 分钟）时限，到期 Canvas 自动提交，务必在截止前完成。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 4"
     },
     {
       "id": "cv_3536",
@@ -417,7 +420,10 @@
       "points": 10,
       "status": "pending",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3536",
-      "dueTime": "23:59"
+      "dueTime": "23:59",
+      "requirement": "手写完成 3 道题：题目从第 7 章全部习题和第 8 章全部习题的题库中选，且每章至少选 1 道。写清章号和题号，展示推理与计算过程（不能只写答案），字迹清晰、独立完成。可下节课当面交给老师/TA，或拍照/扫描（多页合成一个 PDF）上传 Canvas，10 月 9 日 23:59 前提交。占期末总成绩 1%。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 4"
     },
     {
       "id": "cv_3473",
@@ -523,6 +529,15 @@
       "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account (redacted@example.invalid / redacted@example.invalid) and re-run the sync to pick up new school email.",
       "meta": "Sep 26, 2026",
       "source": "CampusDesk afternoon sync"
+    },
+    {
+      "id": "note:lab:phy1201-20260929",
+      "type": "notice",
+      "title": "PHY1201 lab session on Sep 29",
+      "summary": "Sep 29 10:30-12:20: PHY1201 lab; report due 2 weeks after",
+      "detail": "PHY1201 lab session is scheduled for Tuesday, Sep 29, 10:30-12:20. Attend on time and complete the experiment. The lab report (worth 3% of the final grade) is due within two weeks of your own lab session.",
+      "meta": "Sep 29, 2026",
+      "source": "PHY1201 Canvas / Lab Session Preference survey"
     }
   ],
   "emails": [
