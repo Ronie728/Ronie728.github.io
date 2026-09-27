@@ -544,21 +544,6 @@
   ],
   "emails": [
     {
-      "id": "e27",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "PHY1201 General Physics I",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Written Assignment 1: Vectors and Motion (Part 1)",
-      "snippet": "作业1 已出分：10 / 10 分（满分）。",
-      "body": "Canvas 通知：PHY1201 General Physics I (1240) 的 Written Assignment 1: Vectors and Motion (Part 1) 已批改。评分时间 2026-09-27 00:54（香港时间）。本次得分 10 / 10 分（满分）。你此前已于 2026-09-06 提前提交。可在 Canvas 作业页查看批改反馈。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-09-27T01:55:10+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3309"
-    },
-    {
       "id": "e26",
       "category": "notice",
       "needsReply": false,
@@ -572,6 +557,21 @@
       "time": "",
       "receivedAt": "2026-09-27T02:39:00+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3409"
+    },
+    {
+      "id": "e27",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Written Assignment 1: Vectors and Motion (Part 1)",
+      "snippet": "作业1 已出分：10 / 10 分（满分）。",
+      "body": "Canvas 通知：PHY1201 General Physics I (1240) 的 Written Assignment 1: Vectors and Motion (Part 1) 已批改。评分时间 2026-09-27 00:54（香港时间）。本次得分 10 / 10 分（满分）。你此前已于 2026-09-06 提前提交。可在 Canvas 作业页查看批改反馈。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-27T01:55:10+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3309"
     },
     {
       "id": "e8",
