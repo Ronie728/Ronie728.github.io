@@ -412,7 +412,7 @@
       "dueTime": "23:59",
       "requirement": "在线小测，占期末总成绩 1%，10 月 9 日 23:59 截止。每题 3 次作答机会；数值题不要带单位；允许 ±5% 误差，最多填 4 位小数。一旦开始作答有 3 天（4320 分钟）时限，到期 Canvas 自动提交，务必在截止前完成。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 4"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 5"
     },
     {
       "id": "cv_3536",
@@ -425,7 +425,7 @@
       "dueTime": "23:59",
       "requirement": "手写完成 3 道题：题目从第 7 章全部习题和第 8 章全部习题的题库中选，且每章至少选 1 道。写清章号和题号，展示推理与计算过程（不能只写答案），字迹清晰、独立完成。可下节课当面交给老师/TA，或拍照/扫描（多页合成一个 PDF）上传 Canvas，10 月 9 日 23:59 前提交。占期末总成绩 1%。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 4"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 5"
     },
     {
       "id": "cv_3473",
