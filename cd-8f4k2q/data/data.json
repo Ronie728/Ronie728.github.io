@@ -274,7 +274,8 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 1",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3309",
-      "note": "已于 2026-09-06 提前提交（老师建议 9/11 前完成）。"
+      "note": "已于 2026-09-06 提前提交；2026-09-27 已出分 10/10（满分）。",
+      "score": 10
     },
     {
       "id": "cv_3409",
@@ -289,7 +290,8 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 2",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3409",
-      "note": "已于 2026-09-11 提前提交。"
+      "note": "已于 2026-09-11 提前提交；2026-09-27 已出分 0/10，Canvas 批改状态为 incomplete，建议找老师/TA 核对。",
+      "score": 0
     },
     {
       "id": "cv_3410",
@@ -541,6 +543,36 @@
     }
   ],
   "emails": [
+    {
+      "id": "e27",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Written Assignment 1: Vectors and Motion (Part 1)",
+      "snippet": "作业1 已出分：10 / 10 分（满分）。",
+      "body": "Canvas 通知：PHY1201 General Physics I (1240) 的 Written Assignment 1: Vectors and Motion (Part 1) 已批改。评分时间 2026-09-27 00:54（香港时间）。本次得分 10 / 10 分（满分）。你此前已于 2026-09-06 提前提交。可在 Canvas 作业页查看批改反馈。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-27T01:55:10+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3309"
+    },
+    {
+      "id": "e26",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Written Assignment 2: 2D/3D-Motion and Newton's Law",
+      "snippet": "作业2 已出分：0 / 10 分（Canvas 标记 incomplete）——建议尽快找老师或 TA 核对。",
+      "body": "Canvas 通知：PHY1201 General Physics I (1240) 的 Written Assignment 2: 2D/3D-Motion and Newton's Law 已批改。评分时间 2026-09-27 01:38（香港时间）。本次得分 0 / 10 分，Canvas 批改状态标记为 incomplete。你此前已于 2026-09-11 提前提交；若认为评分有误，建议尽快联系任课老师或 TA 核对（该作业占期末总成绩 1%）。可在 Canvas 作业页查看批改反馈。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-27T02:39:00+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3409"
+    },
     {
       "id": "e8",
       "category": "notice",
