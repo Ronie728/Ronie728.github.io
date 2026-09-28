@@ -30,13 +30,20 @@
           （v1.6.0 曾放行云同步数据面 campusdesk.app.workbuddy.host；v1.6.1 收回——
           云服务端只接受其自有发布域名的跨域请求，GitHub Pages 登录必被 CORS 拦，
           入口已撤，域名不再放行，保持白名单最小化。）
+      ⚠️ v2.1.9 补的两个云同步域名必须留着，否则「登录」永远失败：
+          CloudBase SDK 会拼**两个**端点：用户名密码登录走
+          `https://<env>.<region>.tcb-api.tencentcloudapi.com`；云函数 `records`
+          的调用、以及云函数拿 JWT 去换 uid 的 `/auth/v1/user/me` 走
+          `https://<env>.api.tcloudbasegateway.com`。
+          以前只放行了后者，于是浏览器把登录请求静默拦掉（控制台报 CSP 违规，界面
+          上看不到任何原因），表现就是「怎么都登不进去」。
       ⚠️ script-src / style-src 必须留 'unsafe-inline'：本文件底部有一段自愈内联脚本，
       React 也会写内联 style，去掉它们会直接白屏。
       ⚠️ frame-ancestors 在 meta 里是无效的（CSP 规范如此），要防嵌套只能靠响应头。
     -->
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://api.open-meteo.com https://cityu-dg.instructure.com https://*.api.tcloudbasegateway.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://api.open-meteo.com https://cityu-dg.instructure.com https://*.tcb-api.tencentcloudapi.com https://*.tcloudbasegateway.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'"
     />
     <meta name="description" content="My campus desk: lectures, assignments and email." />
     <meta name="mobile-web-app-capable" content="yes" />
@@ -50,7 +57,7 @@
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="/cd-8f4k2q/icons/splash-1125x2436.png" />
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/cd-8f4k2q/icons/splash-750x1334.png" />
     <title>CampusDesk</title>
-    <script type="module" crossorigin src="/cd-8f4k2q/assets/index-Dginm08R.js"></script>
+    <script type="module" crossorigin src="/cd-8f4k2q/assets/index-CBXBBPcW.js"></script>
     <link rel="modulepreload" crossorigin href="/cd-8f4k2q/assets/react-D-7q0-fY.js">
     <link rel="modulepreload" crossorigin href="/cd-8f4k2q/assets/motion-DJZeiQzz.js">
     <link rel="stylesheet" crossorigin href="/cd-8f4k2q/assets/index-DPi4F7xT.css">
