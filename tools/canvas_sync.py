@@ -8,7 +8,8 @@ CampusDesk — Canvas 事实同步（GitHub Actions 版）
                   保留 requirement / requirementSource / canvasPath / note（人工补充）
   - quizzes     : 标题 / 课程 / 截止 / 分值 / 题数 / 是否已作答 / 得分 / 状态
                   保留 questions（逐题明细，拉取开销大，只在首次作答时补）
-  - canvasSyncedAt : 香港时间当天日期
+  - canvasSyncedAt : 香港时间当天日期（给人看的）
+  - canvasSyncedTs : 香港时间完整时刻（给 push_data.mjs 判断「谁更新的」用）
 
 绝不触碰：lectures（SIS 人工核对）/ notes / emails / files / updatedAt（邮件同步时间）
 
@@ -357,19 +358,28 @@ def main():
     assignments, chg_a = merge_assignments(data.get("assignments") or [], rows_a)
     quizzes, chg_q = merge_quizzes(data.get("quizzes") or [], rows_q, True, args.full)
 
-    stamp = datetime.now(HK).strftime("%Y-%m-%d")
-    chg_sync = data.get("canvasSyncedAt") != stamp
+    now_hk = datetime.now(HK)
+    stamp = now_hk.strftime("%Y-%m-%d")
+    ts = now_hk.strftime("%Y-%m-%dT%H:%M:%S+08:00")
+    # canvasSyncedTs 的语义必须是「最后一次真的去 Canvas 拉过、并且成功了」的时刻，
+    # 不能是「最后一次拉出了新内容」的时刻。
+    # 2026-09-28 修：原来只在内容有变化时才写文件，于是每天第一趟跑完之后，
+    # 后面每 30 分钟的成功拉取都不落时间戳，网页端那条同步状态就卡在昨天显示失败，
+    # 用户手动点了 retry 也一样失败（他确实同步成功了，只是没被记录）。
+    # 只要这一趟成功取到了课程列表，就已经完成了一次真实同步 -> 刷新时间戳。
+    chg_sync = True
 
     data["assignments"] = assignments
     data["quizzes"] = quizzes
     data["canvasSyncedAt"] = stamp
+    data["canvasSyncedTs"] = ts
 
     changed = chg_a or chg_q or chg_sync or (
         json.dumps(data, ensure_ascii=False, sort_keys=True) != before
     )
     log(
-        "assignments=%d (changed=%s) quizzes=%d (changed=%s) canvasSyncedAt=%s"
-        % (len(assignments), chg_a, len(quizzes), chg_q, stamp)
+        "assignments=%d (changed=%s) quizzes=%d (changed=%s) canvasSyncedTs=%s"
+        % (len(assignments), chg_a, len(quizzes), chg_q, ts)
     )
 
     if changed:
