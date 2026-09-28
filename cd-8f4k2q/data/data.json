@@ -526,7 +526,7 @@
       "source": "PHY1201 Canvas / Lab Session Preference survey"
     },
     {
-      "id": "note:email_sync:20260927",
+      "id": "note:email_sync:20260928",
       "type": "notice",
       "title": "Email sync unavailable on Sep 26",
       "summary": "QQ Mail offline - reconnect to sync campus mail",
@@ -3536,6 +3536,6 @@
     }
   ],
   "canvasSyncedAt": "2026-09-28",
-  "canvasSyncedTs": "2026-09-28T10:41:34+08:00",
+  "canvasSyncedTs": "2026-09-28T17:23:32+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
