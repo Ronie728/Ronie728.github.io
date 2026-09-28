@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -407,12 +407,13 @@
       "title": "Quiz 5: Rotation of Rigid Bodies",
       "due": "2026-10-09T23:59:59+08:00",
       "points": 10,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537",
       "dueTime": "23:59",
-      "requirement": "在线小测，占期末总成绩 1%，10 月 9 日 23:59 截止。每题 3 次作答机会；数值题不要带单位；允许 ±5% 误差，最多填 4 位小数。一旦开始作答有 3 天（4320 分钟）时限，到期 Canvas 自动提交，务必在截止前完成。",
+      "requirement": "在线小测，占期末总成绩 1%，10 月 9 日 23:59 截止。每题 3 次作答机会；数值题不要带单位，允许 ±5% 容差、最多保留 4 位小数；开始作答后 3 天内必须完成，到期 Canvas 会自动提交。Why: 刚体转动章节小测，需提前复习。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 5"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 5",
+      "note": "已于 2026-09-27 提交（得分 10/10）"
     },
     {
       "id": "cv_3536",
@@ -420,12 +421,13 @@
       "title": "Written Assignment 5: Momentum. Impulse, Collisions and Rotation of Rigid Bodies",
       "due": "2026-10-09T23:59:59+08:00",
       "points": 10,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3536",
       "dueTime": "23:59",
-      "requirement": "手写完成 3 道题：题目从第 7 章全部习题和第 8 章全部习题的题库中选，且每章至少选 1 道。写清章号和题号，展示推理与计算过程（不能只写答案），字迹清晰、独立完成。可下节课当面交给老师/TA，或拍照/扫描（多页合成一个 PDF）上传 Canvas，10 月 9 日 23:59 前提交。占期末总成绩 1%。",
+      "requirement": "①要你做什么：从题库中自选 3 道题手写作答，题库范围为第 7 章全部习题与第 8 章全部习题，且两章至少各选 1 道。②交付什么：手写解答，每题需标明章节与习题号、写出推导过程与计算步骤（不只写答案）；答卷多页时建议合并为单个 PDF，页面清晰、方向正确。③交到哪、何时：10 月 9 日 23:59 前，上传到 Canvas 本作业，或下次上课/辅导课时直接交给老师或 TA。④额外要求：作业占期末总成绩 1%；必须提交本人作答；手写作业主要看完成度与认真程度而非逐题细批，但仍需失误率低。Why: 第 7–8 章题目在新增后需要预留时间完成。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 5"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 5",
+      "note": "已于 2026-09-27 提交（成绩未出，满分 10）"
     },
     {
       "id": "cv_3473",
@@ -513,16 +515,6 @@
     }
   ],
   "notes": [
-    {
-      "id": "note:lunch:20260926",
-      "title": "12:30 出去吃饭",
-      "summary": "今天 12:30 出去吃午饭",
-      "detail": "今天中午 12:30 出去吃饭。",
-      "meta": "Today 12:30",
-      "source": "Pinned by you",
-      "to": "",
-      "type": "reminder"
-    },
     {
       "id": "note:lab:phy1201-20260929",
       "type": "notice",
