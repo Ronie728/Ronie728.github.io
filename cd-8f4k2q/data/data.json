@@ -290,8 +290,8 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 2",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3409",
-      "note": "已于 2026-09-11 提前提交；2026-09-27 已出分 0/10，Canvas 批改状态为 incomplete，建议找老师/TA 核对。",
-      "score": 0
+      "note": "已于 2026-09-27 补交并与 WU Junhao 合交；2026-09-27 出分 10/10（满分），grade=complete。（此前误记为 0/incomplete，已按 Canvas API 更正）",
+      "score": 10
     },
     {
       "id": "cv_3410",
@@ -413,7 +413,8 @@
       "requirement": "在线小测，占期末总成绩 1%，10 月 9 日 23:59 截止。每题 3 次作答机会；数值题不要带单位，允许 ±5% 容差、最多保留 4 位小数；开始作答后 3 天内必须完成，到期 Canvas 会自动提交。Why: 刚体转动章节小测，需提前复习。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 5",
-      "note": "已于 2026-09-27 提交（得分 10/10）"
+      "note": "2026-09-27 完成并出分 10/10（满分）；截止 2026-10-09 23:59，已提前完成（Quiz 5：刚体转动）。",
+      "score": 10
     },
     {
       "id": "cv_3536",
@@ -535,6 +536,51 @@
     }
   ],
   "emails": [
+    {
+      "id": "e30",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Instructure Canvas（每日汇总）",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Recent Canvas Notifications",
+      "snippet": "PHY1201 老师 CAO XUAN MICHAEL 给作业2 留了批改评语，可用 Canvas 查看。",
+      "body": "Canvas 每日通知汇总（9 月 27 日）：PHY1201 General Physics I (1240) 任课老师 CAO XUAN MICHAEL 对 WU Junhao 提交的 Written Assignment 2: 2D/3D-Motion and Newton’s Law 新增了一条提交评语（Submission Comment）。该作业同批出分 10 / 10，评语多为批改反馈，建议登录 Canvas 作业页阅读，确认是否夹带需要修改或补充说明的要求。无需回复邮件。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-27T19:00:03+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3409"
+    },
+    {
+      "id": "e29",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Quiz 5: Rotation of Rigid Bodies, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 Quiz 5（刚体转动）已出分：10 / 10 分（满分）。",
+      "body": "Canvas 通知：PHY1201 General Physics I (1240) 的 Quiz 5: Rotation of Rigid Bodies（小测5：刚体转动）已批改。批改时间 2026-09-27 15:06（香港时间），得 10 / 10 分（满分）。已在 Canvas API 核实：score=10、workflow_state=graded、非迟交。该小测截止时间 2026-10-09 23:59，已提前完成。可在 Canvas 测验页查看答题反馈。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-27T16:07:35+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537"
+    },
+    {
+      "id": "e28",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Written Assignment 2: 2D/3D-Motion and Newton’s Law, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 作业2 已出分：10 / 10 分（满分）。",
+      "body": "Canvas 通知：PHY1201 General Physics I (1240) 的 Written Assignment 2: 2D/3D-Motion and Newton’s Law （书面作业2：二维/三维运动与牛顿定律）已批改。批改时间 2026-09-27 20:02（香港时间），得 10 / 10 分（满分）。已在 Canvas API 核实：score=10、grade=complete、workflow_state=graded。该作业截止时间 2026-09-18 17:00，你与 WU Junhao 的合交版本于 2026-09-27 13:50 补交（标记 late），分数未受影响。可在 Canvas 作业页查看批改评语。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-27T21:03:08+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3409"
+    },
     {
       "id": "e26",
       "category": "notice",
