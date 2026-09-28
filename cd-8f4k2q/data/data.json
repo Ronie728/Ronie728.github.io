@@ -1045,7 +1045,7 @@
       "ext": "pdf",
       "size": 704286,
       "folder": "Week5/Lab 5 Functions",
-      "updatedAt": "2026-09-16T07:35:48Z",
+      "updatedAt": "2026-09-27T07:11:47Z",
       "url": "https://cityu-dg.instructure.com/files/173219/download?download_frd=1&verifier=9c4db334-4260-4132-94f0-1f27fd4ceb0d"
     },
     {
@@ -2315,7 +2315,7 @@
       "ext": "pdf",
       "size": 258815,
       "folder": "Exercise Scan",
-      "updatedAt": "2026-09-26T12:07:09Z",
+      "updatedAt": "2026-09-27T04:54:57Z",
       "url": "https://cityu-dg.instructure.com/files/182678/download?download_frd=1&verifier=915f8f7b-e56a-49f1-83ef-655fd9486ce8"
     },
     {
@@ -2335,7 +2335,7 @@
       "ext": "pdf",
       "size": 127862,
       "folder": "Exercise Scan",
-      "updatedAt": "2026-09-26T10:08:04Z",
+      "updatedAt": "2026-09-27T05:35:17Z",
       "url": "https://cityu-dg.instructure.com/files/182682/download?download_frd=1&verifier=b34ad8cc-fc52-49d5-aa34-a9d52735270d"
     },
     {
@@ -3055,7 +3055,7 @@
       "ext": "pdf",
       "size": 2279295,
       "folder": "Tutorials",
-      "updatedAt": "2026-09-20T07:51:45Z",
+      "updatedAt": "2026-09-27T08:49:34Z",
       "url": "https://cityu-dg.instructure.com/files/177352/download?download_frd=1&verifier=e58721a5-7b3f-47a4-b634-80141980a385"
     },
     {
@@ -3067,12 +3067,22 @@
       "folder": "Tutorials",
       "updatedAt": "2026-09-20T00:33:02Z",
       "url": "https://cityu-dg.instructure.com/files/176205/download?download_frd=1&verifier=20ba0444-7228-4042-b674-8f31b917d21a"
+    },
+    {
+      "id": "f183150",
+      "course": "PHY1201 · General Physics I",
+      "name": "Tutorial_04_and_solutions.pdf",
+      "ext": "pdf",
+      "size": 2645473,
+      "folder": "Tutorials",
+      "updatedAt": "2026-09-27T08:48:03Z",
+      "url": "https://cityu-dg.instructure.com/files/183150/download?download_frd=1&verifier=eba1f2d8-8416-4e96-add8-cdac39ea6f1a"
     }
   ],
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC 1001 · Introduction to Data Science",
+      "course": "DSC1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -3086,7 +3096,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -3100,7 +3110,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -3155,7 +3165,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3242,7 +3252,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3313,7 +3323,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3384,21 +3394,102 @@
     },
     {
       "id": "q1182",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 5: Rotation of Rigid Bodies",
       "due": "2026-10-09T15:59:59Z",
       "points": 10,
       "questionCount": 10,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1182",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
-      "questions": []
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-09-27T07:06:41Z",
+      "questions": [
+        {
+          "n": 1,
+          "type": "calculated_question",
+          "text": "At t=0 a grinding wheel has an angular velocity of 37.9 rad/s. It has a constant angular acceleration of 21.2 rad/s 2 until the power is cut off at t=2.00s, i.e. zero acceleration at t=2.00s. From then on, it turns through 432 rad as it goes to a stop at cons…",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 2,
+          "type": "calculated_question",
+          "text": "A uniform bar has two small balls glued to its ends. The bar is 2.3 m long and has mass 1.9 kg, while the balls each have mass 0.5 kg and can be treated as point masses. Find the moment of inertia of this combination about an axis perpendicular to the bar and…",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 3,
+          "type": "calculated_question",
+          "text": "A thin, light wire is wrapped around the rim of a wheel, as shown in the figure below. The wheel rotates without friction about a stationary horizontal axis that passes through the center of the wheel. The wheel is a uniform disk with radius 0.8 m . An object…",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 4,
+          "type": "calculated_question",
+          "text": "What is the linear speed in km/hour of a point on Earth’s surface at latitude 25.7° N. Take the radius of the Earth to be 6309 km.",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 5,
+          "type": "calculated_question",
+          "text": "A baseball pitcher throws the ball in a motion where there is rotation of the forearm about the elbow joint as well as other movements. If the linear velocity of the ball relative to the elbow joint is 23.9 m/s at a distance of 0.4 m from the joint and the mo…",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 6,
+          "type": "calculated_question",
+          "text": "A 4.50-kg wheel that is 34.5 cm in diameter rotates through an angle of 14.3 rad as it slows down uniformly from 25.7 rad/s to 18.9 rad/s. What is the magnitude of the angular acceleration of the wheel? (in rad/s 2 )",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 7,
+          "type": "calculated_question",
+          "text": "A turbine blade rotates with angular velocity ω( t ) = 2.00 rad/s - 2.10 rad/s 3 t 2 . What is the angular acceleration of the blade at t= 3.1 s? The answer may have a negative sign and is in unit of rad/s 2",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 8,
+          "type": "calculated_question",
+          "text": "While spinning down from 456 rpm to rest, a solid uniform flywheel does 6,733 J of work. If the radius of the disk is 3 m what is its mass in kg?",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 9,
+          "type": "numerical_question",
+          "text": "At any angular speed, a certain uniform solid sphere of diameter D has half as much rotational kinetic energy as a certain uniform thin-walled hollow sphere of the same diameter when both are spinning about an axis through their centers. If the mass of the so…",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        },
+        {
+          "n": 10,
+          "type": "calculated_question",
+          "text": "In the figure, two blocks, of masses 2.00 kg and 3 kg, are connected by a light string that passes over a frictionless pulley of the moment of inertia 0.00400 kg · m 2 and radius 5.00 cm. The coefficient of friction for the tabletop is 0.4 . The blocks are re…",
+          "correct": true,
+          "points": 1,
+          "score": 1
+        }
+      ]
     },
     {
       "id": "q1173",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
@@ -3444,7 +3535,7 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-27",
+  "canvasSyncedAt": "2026-09-28",
   "canvasSyncedTs": "2026-09-27T13:21:23+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
