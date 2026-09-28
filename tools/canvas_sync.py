@@ -42,7 +42,28 @@ TIMEOUT = 45
 
 
 def log(msg):
-    print(msg, flush=True)
+    """所有输出都过一遍脱敏闸。
+
+    🔴 2026-09-28：异常回溯里可能夹着请求详情（含 Authorization 头 / token 串），
+    一旦直接 print，凭据就会落到 Actions 日志里 —— 那是公开仓库，谁都能看。
+    所以打印前统一打码，宁可日志少一点信息，也不能泄露。
+    """
+    print(redact(msg), flush=True)
+
+
+# 常见凭据形态：Bearer 串、URL 里的 access_token、Canvas 的 1234~xxxxxxxx 形态
+_SECRET_PATTERNS = (
+    re.compile(r"(Bearer\s+)[A-Za-z0-9._\-]{8,}", re.I),
+    re.compile(r"([?&](?:access_token|api_key|token)=)[^&\s'\"]+", re.I),
+    re.compile(r"\b\d{3,}~[A-Za-z0-9._\-]{8,}\b"),
+)
+
+
+def redact(msg):
+    s = msg if isinstance(msg, str) else str(msg)
+    for p in _SECRET_PATTERNS:
+        s = p.sub(lambda m: (m.group(1) + "<redacted>") if m.groups() else "<redacted>", s)
+    return s
 
 
 def api(path, token):
@@ -401,5 +422,5 @@ if __name__ == "__main__":
     try:
         sys.exit(main())
     except Exception as exc:  # noqa: BLE001
-        print("FATAL %s: %s" % (type(exc).__name__, exc), flush=True)
+        print(redact("FATAL %s: %s" % (type(exc).__name__, exc)), flush=True)
         sys.exit(1)
