@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -536,6 +536,36 @@
     }
   ],
   "emails": [
+    {
+      "id": "e31",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "教务处 Academic Regulations and Records Office",
+      "senderEmail": "arro@cityu-dg.edu.cn",
+      "subject": "【形势与政策讲座通知】《中华人民共和国民族团结进步促进法》专题宣讲",
+      "snippet": "10/8 14:30 形势与政策讲座（图书馆一楼阶梯教室），现场扫码计考勤。",
+      "body": "教务处通知：作为「形势与政策」课程专题讲座，学校邀请东莞理工学院特聘教授谢敏，于 2026 年 10 月 8 日（周四，国庆假期结束返校当天）14:30–16:00 在图书馆一楼阶梯教室开展《中华人民共和国民族团结进步促进法》专题宣讲（中文）。该法已于 2026 年 7 月 1 日起施行；讲座面向 2026 级新生入学后的多元校园环境，主题为了解法律、增进民族团结进步认知。⚠️ 本科生**计考勤**：考勤以讲座过程中或结束后的现场二维码扫码记录，**不可代签、不设补签**；须提前 10 分钟入场，讲座期间电子设备静音、息屏或关闭。时间正好是 10/8 返校日，请提前安排返校行程以免冲突。无需回复邮件。",
+      "eventTime": "2026-10-08T14:30:00+08:00",
+      "location": "图书馆一楼阶梯教室",
+      "time": "2026年10月8日（周四）14:30–16:00",
+      "receivedAt": "2026-09-28T13:40:36+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e32",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课 National Security Education Course (1195)",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "第二次课堂小测: GE1632 大学生国家安全教育课 National Security Education Course (1195)",
+      "snippet": "GE1632 今日（9/29）下午课堂小测，范围《军事安全》《国土安全》。",
+      "body": "Canvas 课程通知（GE1632 大学生国家安全教育课，1195 班）：**9 月 29 日（周二）下午**进行第二次课堂小测，考查范围是两段视频课程——《军事安全》与《国土安全》。小测在课堂内进行，通知未给出具体时段与教室，按平时上课安排参加即可。建议课前把这两个视频过一遍（重点记军事安全的内涵与领域、国土安全的概念与构成）。无需回复邮件。",
+      "eventTime": "2026-09-29T00:00:00+08:00",
+      "location": "",
+      "time": "2026年9月29日（周二）下午（课堂内进行）",
+      "receivedAt": "2026-09-28T13:40:20+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/announcements"
+    },
     {
       "id": "e30",
       "category": "notice",
