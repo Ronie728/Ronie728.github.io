@@ -537,10 +537,10 @@
     {
       "id": "note:email_sync:20260929",
       "type": "notice",
-      "title": "Email sync unavailable on Sep 26",
+      "title": "Email sync unavailable on Sep 29",
       "summary": "QQ Mail offline - reconnect to sync campus mail",
       "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account (redacted@example.invalid / redacted@example.invalid) and re-run the sync to pick up new school email.",
-      "meta": "Sep 26, 2026",
+      "meta": "Sep 29, 2026",
       "source": "CampusDesk afternoon sync"
     }
   ],
