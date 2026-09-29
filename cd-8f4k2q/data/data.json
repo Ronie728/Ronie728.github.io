@@ -517,6 +517,15 @@
   ],
   "notes": [
     {
+      "id": "note:ge1632quiz2:20260929",
+      "type": "notice",
+      "title": "GE1632 In-Class Quiz 2 today",
+      "summary": "Sep 29: GE1632 quiz 2 on military & homeland security",
+      "detail": "GE1632 second in-class quiz takes place this afternoon (Sep 29), covering the Military Security and Homeland Security sections. Check the course announcement for the exact time and room before class.",
+      "meta": "Sep 29, 2026",
+      "source": "Canvas announcement (email e32)"
+    },
+    {
       "id": "note:lab:phy1201-20260929",
       "type": "notice",
       "title": "PHY1201 lab session on Sep 29",
@@ -825,7 +834,7 @@
       "ext": "pdf",
       "size": 1686358,
       "folder": "Week1/Lab1 Setup",
-      "updatedAt": "2026-08-26T00:42:49Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/158775/download?download_frd=1&verifier=53065bc6-2411-4aec-8119-6bed4f2005bf"
     },
     {
@@ -835,7 +844,7 @@
       "ext": "pdf",
       "size": 2239337,
       "folder": "Week1/Lect1 Introduction",
-      "updatedAt": "2026-08-30T07:42:13Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/161283/download?download_frd=1&verifier=49f0047a-0052-469c-a018-2d87f87c05bc"
     },
     {
@@ -845,7 +854,7 @@
       "ext": "ipynb",
       "size": 5780,
       "folder": "Week1/Lect1 Introduction",
-      "updatedAt": "2026-09-08T06:49:40Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/158062/download?download_frd=1&verifier=266afb47-a6fc-4202-9e0a-c74898835c18"
     },
     {
@@ -855,7 +864,7 @@
       "ext": "ipynb",
       "size": 2423,
       "folder": "Week1/Lect1 Introduction",
-      "updatedAt": "2026-08-20T03:48:52Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/158063/download?download_frd=1&verifier=4e31ef84-ca23-4481-919a-202d784b5ace"
     },
     {
@@ -865,7 +874,7 @@
       "ext": "ipynb",
       "size": 34877,
       "folder": "Week1/Lect1 Introduction",
-      "updatedAt": "2026-08-20T03:48:52Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/158064/download?download_frd=1&verifier=65e84159-4358-41a5-a258-26fa1fa8f727"
     },
     {
@@ -875,7 +884,7 @@
       "ext": "pdf",
       "size": 10175941,
       "folder": "Week1/Lect1 Introduction",
-      "updatedAt": "2026-09-01T02:29:50Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/158065/download?download_frd=1&verifier=0aa170a5-dd8c-47bb-9f8d-31899ee25571"
     },
     {
@@ -885,7 +894,7 @@
       "ext": "pdf",
       "size": 299794,
       "folder": "Week1/Lect1 Introduction",
-      "updatedAt": "2026-08-26T00:42:41Z",
+      "updatedAt": "2026-09-29T00:26:07Z",
       "url": "https://cityu-dg.instructure.com/files/158520/download?download_frd=1&verifier=931fc746-5b24-404a-8175-e7d66f1c95f8"
     },
     {
@@ -1125,7 +1134,7 @@
       "ext": "pdf",
       "size": 145178,
       "folder": "Week6/Lab6 Objects",
-      "updatedAt": "2026-09-21T16:27:36Z",
+      "updatedAt": "2026-09-29T00:43:35Z",
       "url": "https://cityu-dg.instructure.com/files/173222/download?download_frd=1&verifier=072bf842-874b-4cde-af5b-004e7dd45825"
     },
     {
@@ -1207,6 +1216,46 @@
       "folder": "Week8/Lect8 Lists and Tuples",
       "updatedAt": "2026-09-22T11:10:34Z",
       "url": "https://cityu-dg.instructure.com/files/174111/download?download_frd=1&verifier=f4a2b261-ed10-4383-9181-1a6f48d97015"
+    },
+    {
+      "id": "f179828",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week9_tutorial.pdf",
+      "ext": "pdf",
+      "size": 307916,
+      "folder": "Week9/Lab9",
+      "updatedAt": "2026-09-29T00:43:21Z",
+      "url": "https://cityu-dg.instructure.com/files/179828/download?download_frd=1&verifier=6f3cd464-e98a-4d0e-a6d2-67eead7dc5f5"
+    },
+    {
+      "id": "f179818",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week9_answers.ipynb",
+      "ext": "ipynb",
+      "size": 6440,
+      "folder": "Week9/Lect9 Dictionaries and Sets",
+      "updatedAt": "2026-09-29T00:43:21Z",
+      "url": "https://cityu-dg.instructure.com/files/179818/download?download_frd=1&verifier=243368d0-0309-4fce-abc2-34ff014ef073"
+    },
+    {
+      "id": "f179816",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week9_exercises.ipynb",
+      "ext": "ipynb",
+      "size": 4469,
+      "folder": "Week9/Lect9 Dictionaries and Sets",
+      "updatedAt": "2026-09-29T00:43:21Z",
+      "url": "https://cityu-dg.instructure.com/files/179816/download?download_frd=1&verifier=60f25c61-7e94-4818-aa9d-f8da6235af35"
+    },
+    {
+      "id": "f179817",
+      "course": "CS1302 · Introduction to Computer Programming",
+      "name": "Week9_lecture.ipynb",
+      "ext": "ipynb",
+      "size": 129338,
+      "folder": "Week9/Lect9 Dictionaries and Sets",
+      "updatedAt": "2026-09-29T00:43:21Z",
+      "url": "https://cityu-dg.instructure.com/files/179817/download?download_frd=1&verifier=795770cf-b96e-49ed-84e3-ac598f8955a9"
     },
     {
       "id": "f163994",
@@ -2085,7 +2134,7 @@
       "ext": "pdf",
       "size": 94973,
       "folder": "Exercises",
-      "updatedAt": "2026-09-20T06:55:50Z",
+      "updatedAt": "2026-09-28T21:46:17Z",
       "url": "https://cityu-dg.instructure.com/files/177210/download?download_frd=1&verifier=10b1a799-cfac-4bbd-8798-3578d3eb0f88"
     },
     {
@@ -2095,7 +2144,7 @@
       "ext": "pdf",
       "size": 117946,
       "folder": "Exercises",
-      "updatedAt": "2026-09-20T12:56:09Z",
+      "updatedAt": "2026-09-28T21:47:03Z",
       "url": "https://cityu-dg.instructure.com/files/177212/download?download_frd=1&verifier=b8a75af7-0583-4718-b074-6f2893113ea5"
     },
     {
@@ -2105,7 +2154,7 @@
       "ext": "pdf",
       "size": 98147,
       "folder": "Exercises",
-      "updatedAt": "2026-09-20T12:56:19Z",
+      "updatedAt": "2026-09-28T21:48:01Z",
       "url": "https://cityu-dg.instructure.com/files/177213/download?download_frd=1&verifier=737f9c54-cfd2-4916-8b3f-37226dd7465c"
     },
     {
@@ -2115,7 +2164,7 @@
       "ext": "pdf",
       "size": 116005,
       "folder": "Exercises",
-      "updatedAt": "2026-09-20T12:56:38Z",
+      "updatedAt": "2026-09-28T21:48:24Z",
       "url": "https://cityu-dg.instructure.com/files/177214/download?download_frd=1&verifier=1e86a3eb-f0c5-4ce4-ac28-4db4baa4b47d"
     },
     {
@@ -2125,7 +2174,7 @@
       "ext": "pdf",
       "size": 122554,
       "folder": "Exercises",
-      "updatedAt": "2026-09-20T12:56:39Z",
+      "updatedAt": "2026-09-28T21:44:41Z",
       "url": "https://cityu-dg.instructure.com/files/177216/download?download_frd=1&verifier=428e707a-df3f-4c18-a9a5-1af56be86fa1"
     },
     {
@@ -2157,6 +2206,16 @@
       "folder": "PPT",
       "updatedAt": "2026-09-14T13:02:44Z",
       "url": "https://cityu-dg.instructure.com/files/171974/download?download_frd=1&verifier=95292bba-d048-4e5f-8dd2-d9637b002633"
+    },
+    {
+      "id": "f183892",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "3. applications.pdf",
+      "ext": "pdf",
+      "size": 1136143,
+      "folder": "PPT",
+      "updatedAt": "2026-09-28T09:31:24Z",
+      "url": "https://cityu-dg.instructure.com/files/183892/download?download_frd=1&verifier=9d50e398-51a1-47ec-a4c0-2970e7cbecd3"
     },
     {
       "id": "f164760",
@@ -3112,7 +3171,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC 1001 · Introduction to Data Science",
+      "course": "DSC1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -3126,7 +3185,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -3140,7 +3199,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -3195,7 +3254,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3282,7 +3341,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3353,7 +3412,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3424,7 +3483,7 @@
     },
     {
       "id": "q1182",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 5: Rotation of Rigid Bodies",
       "due": "2026-10-09T15:59:59Z",
       "points": 10,
@@ -3519,7 +3578,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
@@ -3565,7 +3624,7 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-28",
+  "canvasSyncedAt": "2026-09-29",
   "canvasSyncedTs": "2026-09-28T17:23:32+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
