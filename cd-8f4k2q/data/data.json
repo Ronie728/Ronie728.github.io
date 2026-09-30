@@ -989,44 +989,44 @@
       "url": "https://cityu-dg.instructure.com/files/173219/download?download_frd=1&verifier=9c4db334-4260-4132-94f0-1f27fd4ceb0d"
     },
     {
-      "id": "f173216",
+      "id": "f184712",
       "course": "CS1302 · Introduction to Computer Programming",
       "name": "Week5_answers.ipynb",
       "ext": "ipynb",
-      "size": 5880,
+      "size": 8047,
       "folder": "Week5/Lect 5 Functions",
-      "updatedAt": "2026-09-16T07:35:48Z",
-      "url": "https://cityu-dg.instructure.com/files/173216/download?download_frd=1&verifier=78915b98-76e2-4a76-8c98-de7ec2474c41"
+      "updatedAt": "2026-09-29T05:44:55Z",
+      "url": "https://cityu-dg.instructure.com/files/184712/download?download_frd=1&verifier=318b2d83-f4d0-4489-a349-f40c8311076c"
     },
     {
-      "id": "f173213",
+      "id": "f184713",
       "course": "CS1302 · Introduction to Computer Programming",
       "name": "Week5_exercises.ipynb",
       "ext": "ipynb",
-      "size": 3739,
+      "size": 5620,
       "folder": "Week5/Lect 5 Functions",
-      "updatedAt": "2026-09-16T07:35:48Z",
-      "url": "https://cityu-dg.instructure.com/files/173213/download?download_frd=1&verifier=26af832a-d640-404e-b66b-87f795dbc447"
+      "updatedAt": "2026-09-29T05:44:56Z",
+      "url": "https://cityu-dg.instructure.com/files/184713/download?download_frd=1&verifier=eb9cc5ff-f2c8-4211-b95d-b8552ba1729d"
     },
     {
-      "id": "f173214",
+      "id": "f184710",
       "course": "CS1302 · Introduction to Computer Programming",
       "name": "Week5_Lecture_part1.ipynb",
       "ext": "ipynb",
-      "size": 140576,
+      "size": 144790,
       "folder": "Week5/Lect 5 Functions",
-      "updatedAt": "2026-09-16T07:35:48Z",
-      "url": "https://cityu-dg.instructure.com/files/173214/download?download_frd=1&verifier=679e7745-b7b8-44cb-ba8f-6a83aa223efa"
+      "updatedAt": "2026-09-29T05:44:53Z",
+      "url": "https://cityu-dg.instructure.com/files/184710/download?download_frd=1&verifier=01868729-095e-4b56-9d93-57025972fbde"
     },
     {
-      "id": "f173215",
+      "id": "f184711",
       "course": "CS1302 · Introduction to Computer Programming",
       "name": "Week5_Lecture_part2.ipynb",
       "ext": "ipynb",
-      "size": 35860,
+      "size": 47729,
       "folder": "Week5/Lect 5 Functions",
-      "updatedAt": "2026-09-16T07:35:48Z",
-      "url": "https://cityu-dg.instructure.com/files/173215/download?download_frd=1&verifier=9f341d86-94d1-4ccf-8bc2-7e9b8fbc8c96"
+      "updatedAt": "2026-09-29T05:44:54Z",
+      "url": "https://cityu-dg.instructure.com/files/184711/download?download_frd=1&verifier=1f4f1f92-659e-4568-a222-e63360c63bb3"
     },
     {
       "id": "f173222",
@@ -2169,6 +2169,16 @@
       "url": "https://cityu-dg.instructure.com/files/179590/download?download_frd=1&verifier=4dc88f0e-795c-4488-abf1-9265859e4540"
     },
     {
+      "id": "f185091",
+      "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
+      "name": "09 29",
+      "ext": "",
+      "size": 9524696,
+      "folder": "PPT/Annotated",
+      "updatedAt": "2026-09-29T14:38:34Z",
+      "url": "https://cityu-dg.instructure.com/files/185091/download?download_frd=1&verifier=8422be56-4833-455b-8285-657560b741eb"
+    },
+    {
       "id": "f167756",
       "course": "MA1300 · Enhanced Calculus and Linear Algebra I",
       "name": "1. Limits.pdf",
@@ -3072,7 +3082,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC 1001 · Introduction to Data Science",
+      "course": "DSC1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -3086,7 +3096,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -3100,7 +3110,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -3155,7 +3165,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3242,7 +3252,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3313,7 +3323,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3384,7 +3394,7 @@
     },
     {
       "id": "q1182",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Quiz 5: Rotation of Rigid Bodies",
       "due": "2026-10-09T15:59:59Z",
       "points": 10,
@@ -3479,7 +3489,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY 1201 · General Physics I",
+      "course": "PHY1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
@@ -3525,7 +3535,7 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-29",
+  "canvasSyncedAt": "2026-09-30",
   "canvasSyncedTs": "2026-09-29T13:04:48+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
