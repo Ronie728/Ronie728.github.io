@@ -460,6 +460,34 @@
       "note": ""
     },
     {
+      "id": "cv_3543",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "军事安全测试题",
+      "due": "",
+      "points": 10,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3543",
+      "dueTime": "",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 军事安全测试题",
+      "note": "已于 2026-09-29 提交（得分 10/10）"
+    },
+    {
+      "id": "cv_3547",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "国土安全测试题",
+      "due": "",
+      "points": 10,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547",
+      "dueTime": "",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 国土安全测试题",
+      "note": "已于 2026-09-29 提交（得分 10/10）"
+    },
+    {
       "id": "cv_3429",
       "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
@@ -500,34 +528,6 @@
       "canvasPath": "Canvas → PHY1201 → Assignments → Submit Lab Report",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3463",
       "note": "截止按本人实验日 +2 周计；首次实验课 9/29。"
-    },
-    {
-      "id": "cv_3543",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "军事安全测试题",
-      "due": "",
-      "points": 10,
-      "status": "submitted",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3543",
-      "dueTime": "",
-      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 军事安全测试题",
-      "note": "已于 2026-09-29 提交（得分 10/10）"
-    },
-    {
-      "id": "cv_3547",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "国土安全测试题",
-      "due": "",
-      "points": 10,
-      "status": "submitted",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547",
-      "dueTime": "",
-      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 国土安全测试题",
-      "note": "已于 2026-09-29 提交（得分 10/10）"
     }
   ],
   "notes": [
@@ -610,21 +610,6 @@
       "time": "18:06",
       "receivedAt": "2026-09-15T18:06:05+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/announcements/3964"
-    },
-    {
-      "id": "e14",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 大学生国家安全教育课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Online course videos uploaded to Files",
-      "snippet": "Online learning content is now in Files. Watch at least two course videos each week; progress is checked by in-class quizzes.",
-      "body": "Canvas announcement for GE1632 (1195): the online learning content has been uploaded to Files. Watch and study it in time. Each week you should complete at least two course video lectures; completion is checked through in-class quizzes (Quiz).",
-      "eventTime": "2026-09-29T23:59:00+08:00",
-      "location": "",
-      "time": "Weekly · at least 2 videos",
-      "receivedAt": "2026-09-21",
-      "mailUrl": ""
     },
     {
       "id": "e15",
@@ -3082,7 +3067,7 @@
   "quizzes": [
     {
       "id": "q1171",
-      "course": "DSC1001 · Introduction to Data Science",
+      "course": "DSC 1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
       "due": "2026-09-16T01:30:00Z",
       "points": 18,
@@ -3096,7 +3081,7 @@
     },
     {
       "id": "q1170",
-      "course": "GE1632 · 大学生国家安全教育课 National Security Education Course",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
       "due": null,
       "points": 10,
@@ -3110,7 +3095,7 @@
     },
     {
       "id": "q1155",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 1: Vectors and Motion (Part 1)",
       "due": "2026-09-17T15:59:59Z",
       "points": 10,
@@ -3165,7 +3150,7 @@
     },
     {
       "id": "q1168",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
       "due": "2026-09-18T15:59:59Z",
       "points": 10,
@@ -3252,7 +3237,7 @@
     },
     {
       "id": "q1172",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
       "due": "2026-09-25T15:59:59Z",
       "points": 10,
@@ -3323,7 +3308,7 @@
     },
     {
       "id": "q1174",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
       "due": "2026-10-02T15:59:59Z",
       "points": 10,
@@ -3394,7 +3379,7 @@
     },
     {
       "id": "q1182",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Quiz 5: Rotation of Rigid Bodies",
       "due": "2026-10-09T15:59:59Z",
       "points": 10,
@@ -3489,7 +3474,7 @@
     },
     {
       "id": "q1173",
-      "course": "PHY1201 · General Physics I",
+      "course": "PHY 1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
       "due": null,
       "points": 0,
@@ -3536,6 +3521,6 @@
     }
   ],
   "canvasSyncedAt": "2026-09-30",
-  "canvasSyncedTs": "2026-09-29T13:04:48+08:00",
+  "canvasSyncedTs": "2026-09-30T08:51:48+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
