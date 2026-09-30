@@ -183,19 +183,6 @@
       "room": "Lecture Theater AC5-318",
       "instructor": "",
       "note": ""
-    },
-    {
-      "id": "l_lab_phy1201_s2",
-      "code": "PHY 1201",
-      "title": "General Physics I",
-      "type": "Lab",
-      "start": "10:30",
-      "end": "12:20",
-      "room": "",
-      "instructor": "",
-      "note": "Session 2 lab: Tue 29 Sep, 10:30-12:20 (venue per Canvas).",
-      "flag": "lab",
-      "date": "2026-09-29"
     }
   ],
   "assignments": [
@@ -513,18 +500,37 @@
       "canvasPath": "Canvas → PHY1201 → Assignments → Submit Lab Report",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3463",
       "note": "截止按本人实验日 +2 周计；首次实验课 9/29。"
+    },
+    {
+      "id": "cv_3543",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "军事安全测试题",
+      "due": "",
+      "points": 10,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3543",
+      "dueTime": "",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 军事安全测试题",
+      "note": "已于 2026-09-29 提交（得分 10/10）"
+    },
+    {
+      "id": "cv_3547",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "国土安全测试题",
+      "due": "",
+      "points": 10,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547",
+      "dueTime": "",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 国土安全测试题",
+      "note": "已于 2026-09-29 提交（得分 10/10）"
     }
   ],
   "notes": [
-    {
-      "id": "note:ge1632quiz2:20260929",
-      "type": "notice",
-      "title": "GE1632 In-Class Quiz 2 today",
-      "summary": "Sep 29: GE1632 quiz 2 on military & homeland security",
-      "detail": "GE1632 second in-class quiz takes place this afternoon (Sep 29), covering the Military Security and Homeland Security sections. Check the course announcement for the exact time and room before class.",
-      "meta": "Sep 29, 2026",
-      "source": "Canvas announcement (email e32)"
-    },
     {
       "id": "note:lab:phy1201-20260929",
       "type": "notice",
@@ -589,21 +595,6 @@
       "time": "2026年10月8日（周四）14:30–16:00",
       "receivedAt": "2026-09-28T13:40:36+08:00",
       "mailUrl": "#"
-    },
-    {
-      "id": "e32",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "第二次课堂小测: GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 今日（9/29）下午课堂小测，范围《军事安全》《国土安全》。",
-      "body": "Canvas 课程通知（GE1632 大学生国家安全教育课，1195 班）：**9 月 29 日（周二）下午**进行第二次课堂小测，考查范围是两段视频课程——《军事安全》与《国土安全》。小测在课堂内进行，通知未给出具体时段与教室，按平时上课安排参加即可。建议课前把这两个视频过一遍（重点记军事安全的内涵与领域、国土安全的概念与构成）。无需回复邮件。",
-      "eventTime": "2026-09-29T00:00:00+08:00",
-      "location": "",
-      "time": "2026年9月29日（周二）下午（课堂内进行）",
-      "receivedAt": "2026-09-28T13:40:20+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/announcements"
     },
     {
       "id": "e8",
@@ -678,21 +669,6 @@
       "location": "",
       "time": "Campus-wide collection",
       "receivedAt": "2026-09-22T17:38:31+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e21",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "Haley LI 李丽",
-      "senderEmail": "haley.li@cityu-dg.edu.cn",
-      "subject": "月圆国盛，能动未来｜能源专业双节同庆非遗手作体验",
-      "snippet": "Heritage craft night for the Energy and Power Engineering programme: make a traditional fan or Song-brocade lantern, meet the professors, snacks included.",
-      "body": "Mid-Autumn and National Day craft session hosted by the Energy and Power Engineering programme. You make a traditional hand fan or a Song-brocade gourd lantern (choose one, take it home), hear professors explain what the major covers and the careers it leads to, and talk over snacks and tea. Open to all first-year students. Seats are limited and registration is required: scan the QR code and fill in the form before 17:00 on Sep 24.",
-      "eventTime": "2026-09-29T18:30:00+08:00",
-      "location": "AC5-512",
-      "time": "Sep 29, 2026 (Tue) 18:30-20:30 · register by Sep 24, 17:00",
-      "receivedAt": "2026-09-22T16:12:07+08:00",
       "mailUrl": "#"
     },
     {
