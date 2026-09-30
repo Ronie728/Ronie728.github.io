@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -545,6 +545,36 @@
     }
   ],
   "emails": [
+    {
+      "id": "e33",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "学生事务处 College Student Affairs",
+      "senderEmail": "college_student@cityu-dg.edu.cn",
+      "subject": " 上海・杭州科技研学营预报名通知 Pre-registration Notice: Shanghai & Hangzhou Technology Study Tour",
+      "snippet": "沪杭科技研学营预报名 12/23 起 7 天，自费约 4 千，10/10 截止。",
+      "body": "学生事务处预报名通知：学校联合组织「上海・杭州科技研学营」，时间约 12 月 23 日起、为期 7 天（含往返），目的地杭州 + 上海。行程含浙江大学、上海交通大学校园参访，阿里巴巴、宇树科技、云深处、特斯拉等企业实地探访，郑强、肖俊等教授面对面授课，完成研学可获浙江大学结业证书（官网可查）。费用参考约 8 千元，学校承担 50%、学生自费约 4 千元（以实际支付为准），含交通住宿与培训费、不含个人餐饮。名额有限，优先未参与过研学的同学。⚠️ 本次为预报名（仅统计用途，不等于报名成功），预报名截止 10 月 10 日，链接 https://v.wjx.cn/vm/ww7BkEz.aspx# 。有意向尽早填，避免占用国庆假期后名额。此件仅需自行决定是否报名，非必须回复。",
+      "eventTime": "2026-12-23T00:00:00+08:00",
+      "location": "杭州 + 上海",
+      "time": "2026年12月23日左右起，为期7天（含往返）",
+      "receivedAt": "2026-09-29T10:45:25+08:00",
+      "mailUrl": "https://v.wjx.cn/vm/ww7BkEz.aspx#"
+    },
+    {
+      "id": "e34",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "infohub 校园电子通讯",
+      "senderEmail": "infohub@cityu-dg.edu.cn",
+      "subject": "香港城市大学（东莞）电子通讯第97期 / CityUHK (DG) Newsletter Issue 97",
+      "snippet": "秋季关怀活动 9/29-9/30 10:00-17:00 学生事务中心，另有 10/8 作品征集截止。",
+      "body": "学校电子通讯第 97 期要点：① 「PALSI 新学期回归」学业发展支持项目已开放；② 今日可参与的活动——秋季关怀活动/心理成长中心开放，9 月 29 日至 30 日 10:00–17:00 在学术楼四座一楼学生事务中心（原文以「重庆活动/秋季关怀」类推送呈现，请以现场为准）；③ 10 月 1 日–11 月 1 日心理成长中心十月活动预告；④ 「清风伴读」知识问答与「清风润心」作品征集（党支部主办），材料电子版发至 partyunit@cityu-dg.edu.cn，截止 10 月 8 日 17:30；⑤ 国庆假期生活配套服务营业时间安排已公布（学生餐厅 / 趣食营地 9/28–10/04 菜单）。本期为资讯汇总，无强制行动项；第 ④ 项若有意参加需在 10/8 17:30 前提交。",
+      "eventTime": "",
+      "location": "学术楼四座一楼学生事务中心",
+      "time": "",
+      "receivedAt": "2026-09-29T19:49:25+08:00",
+      "mailUrl": "#"
+    },
     {
       "id": "e31",
       "category": "activity",
