@@ -551,6 +551,127 @@
       "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account (redacted@example.invalid / redacted@example.invalid) and re-run the sync to pick up new school email.",
       "meta": "Sep 30, 2026",
       "source": "CampusDesk afternoon sync"
+    },
+    {
+      "id": "cv:783:4075",
+      "type": "quiz",
+      "title": "第二次课堂小测",
+      "summary": "Online quiz in GE1632 — open it on Canvas.",
+      "detail": "This one has no body text on Canvas — open it to read the original.",
+      "meta": "GE1632",
+      "source": "Canvas · GE1632",
+      "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4075",
+      "postedAt": "2026-09-28"
+    },
+    {
+      "id": "cv:759:4036",
+      "type": "notice",
+      "title": "Please check your lab session assignments!",
+      "summary": "Dear students, I noticed today that some of you mixed up…",
+      "detail": "Dear students, I noticed today that some of you mixed up your assigned date of your lab session. Do notice that you only need to attend one session, and your assigned session can be found on Canvas > People > Groups . In case you come to a session earlier than your designated one, you can do the lab provided there being enough capacity. In case you forget your lab, please email me, and I will try to put you into a later session provided there being enough capacity in later sessions. Regards, Michael Cao",
+      "meta": "PHY1201",
+      "source": "Canvas · PHY1201",
+      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/4036",
+      "postedAt": "2026-09-22"
+    },
+    {
+      "id": "cv:790:4048",
+      "type": "quiz",
+      "title": "In-Class Quiz Reminder",
+      "summary": "Dear students, I hope this email finds you well!",
+      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our second in-class quiz tomorrow (23rd). The quiz will be distributed in the lecture (i.e., printed questions). The quiz will cover materials from lectures 2, 3, and parts of lecture 4 (the slides will be uploaded shortly). The quiz consists of 10 multiple-choice and short-answer questions, and the duration is 30 minutes. Possible topics are (but not limited to) types of variables, describing distributions of variables, simple calculation of summary statistics, and some common irregularities found in data. The quiz will be closed-book, and all answers must be in English. best, Bowen Tan",
+      "meta": "DSC1001",
+      "source": "Canvas · DSC1001",
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4048",
+      "postedAt": "2026-09-22"
+    },
+    {
+      "id": "cv:783:4027",
+      "type": "notice",
+      "title": "线上课程学习内容",
+      "summary": "各位同学： 线上课程学习内容已上传到Files，请及时观看学习。学习完成时间与国家安全教育课程学习时间同步。",
+      "detail": "各位同学： 线上课程学习内容已上传到Files，请及时观看学习。学习完成时间与国家安全教育课程学习时间同步。 各位同学每周应完成至少两个课程视频的观看学习任务，学习任务完成情况将以课堂小测（Quiz）的形式进行检验。",
+      "meta": "GE1632",
+      "source": "Canvas · GE1632",
+      "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4027",
+      "postedAt": "2026-09-21"
+    },
+    {
+      "id": "cv:783:4028",
+      "type": "quiz",
+      "title": "第一次课堂小测",
+      "summary": "Online quiz in GE1632 — open it on Canvas.",
+      "detail": "This one has no body text on Canvas — open it to read the original.",
+      "meta": "GE1632",
+      "source": "Canvas · GE1632",
+      "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4028",
+      "postedAt": "2026-09-21"
+    },
+    {
+      "id": "cv:936:3973",
+      "type": "course_change",
+      "title": "教室变更通知",
+      "summary": "亲爱的同学， IP1901课程的上课教室已从AC3-213变更为 AC5-416…",
+      "detail": "亲爱的同学， IP1901课程的上课教室已从AC3-213变更为 AC5-416 ，自本周起生效。请登录SIS查看详细信息。 上课教室不是同一栋楼了哦，大家明天早上别跑错～",
+      "meta": "IP1901",
+      "source": "Canvas · IP1901",
+      "href": "https://cityu-dg.instructure.com/courses/936/discussion_topics/3973",
+      "postedAt": "2026-09-16"
+    },
+    {
+      "id": "cv:790:3978",
+      "type": "notice",
+      "title": "Guidelines for the Group Project",
+      "summary": "Dear students, I hope this email finds you well!",
+      "detail": "Dear students, I hope this email finds you well! I am writing to provide a few notes on the final group project. Group size limit - the group project may be completed by groups of no more than six students. Due Date - TBA . You may submit it early, and you may make multiple submission attempts before the deadline. You may also submit late, but there will be a penalty (10%) for each day passed. The presentation will be organized in our last lecture of the semester. Word limit of the report - the hard upper limit is 2,500 words excluding title, abstract, verbal descriptions for tables and figures, and references. A recommended word count is around 2,000 words. Format of the presentation - Each group should prepare to present for about 20 minutes, then take questions from the audience. The recommended number of slides is between 10 and 15. You may not directly read off the notes during the ",
+      "meta": "DSC1001",
+      "source": "Canvas · DSC1001",
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/3978",
+      "postedAt": "2026-09-16"
+    },
+    {
+      "id": "cv:759:3964",
+      "type": "notice",
+      "title": "Lab Session Assignments",
+      "summary": "Dear Students, Thank you for participating in the lab…",
+      "detail": "Dear Students, Thank you for participating in the lab session preference survey. You have now been assigned to different lab sessions based on your preferences. As many students preferred the earlier sessions, unfortunately, we were not able to accommodate everyone's first choice. Please check your lab session assignments on Canvas > People > Groups . If you have exceptional circumstances that require you to change an assigned session, please email me and explain your situation. Please also note that the first lab session will take place next week , so make sure to check your assignment in advance. Regards, Michael Cao",
+      "meta": "PHY1201",
+      "source": "Canvas · PHY1201",
+      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/3964",
+      "postedAt": "2026-09-15"
+    },
+    {
+      "id": "cv:790:3968",
+      "type": "quiz",
+      "title": "In-Class Quiz Reminder",
+      "summary": "Dear students, I hope this email finds you well!",
+      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our first in-class quiz tomorrow (16th). Please bring your laptops to class as you can expect some questions on requesting data from IPUMS. If you have not registered an account on IPUMS yet, please follow the tutorial from last week's lecture (which takes less than 10 minutes). You may also expect multiple choices questions and/or short answers questions regarding, for example, the types of variables, derived vs. raw data, underfitted vs. overfitted models, etc. See you all in tomorrow's class! best, Bowen Tan",
+      "meta": "DSC1001",
+      "source": "Canvas · DSC1001",
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/3968",
+      "postedAt": "2026-09-15"
+    },
+    {
+      "id": "cv:759:3933",
+      "type": "course_change",
+      "title": "Lecture Start Time Adjusted to 2:10 PM",
+      "summary": "Dear Students, Please note that this afternoon's lecture…",
+      "detail": "Dear Students, Please note that this afternoon's lecture will begin 10 minutes later than scheduled, at 2:10 PM. I was held up longer than expected at an eyeglasses shop for an eye exam. Thank you for your understanding. Regards, Michael Cao",
+      "meta": "PHY1201",
+      "source": "Canvas · PHY1201",
+      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/3933",
+      "postedAt": "2026-09-11"
+    },
+    {
+      "id": "cv:759:3921",
+      "type": "notice",
+      "title": "Action Required: Submit Your Lab Session Preferences",
+      "summary": "Dear Students, As previously announced, each student will…",
+      "detail": "Dear Students, As previously announced, each student will participate in one laboratory session and complete a corresponding lab report. After discussions with the laboratory managers and ARRO, and after reviewing the experimental content, we have decided to shorten each laboratory session to 110 minutes . All sessions will therefore be scheduled on Tuesday mornings from 10:30 AM to 12:20 PM and will take place in the Dry Lab (AC2-201) . There are four possible experiments offered across eight sessions. You are required to attend only one session : Acceleration Due to Gravity: 22 and 29 September Coefficients of Friction: 13 and 20 October Smart Cart - Conservation of Energy: 27 October and 3 November Simple Harmonic Motion: 10 and 17 November Each session can accommodate up to 24 students . However, 2 places per session will be reserved for exceptional circumstances , so the normal allo",
+      "meta": "PHY1201",
+      "source": "Canvas · PHY1201",
+      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/3921",
+      "postedAt": "2026-09-10"
     }
   ],
   "emails": [
@@ -1148,5 +1269,308 @@
   ],
   "canvasSyncedAt": "2026-10-01",
   "canvasSyncedTs": "2026-10-01T10:54:28+08:00",
-  "canvasTokenExpiresAt": "2026-12-14"
+  "canvasTokenExpiresAt": "2026-12-14",
+  "syllabus": [
+    {
+      "code": "CS1302",
+      "courseId": 898,
+      "title": "Introduction to Computer Programming (1159)",
+      "instructor": "",
+      "summary": "No syllabus text is published on Canvas for this course yet.",
+      "keyPoints": [],
+      "chars": 0,
+      "hash": "da39a3ee5e6b4b0d",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "DSC1001",
+      "courseId": 790,
+      "title": "Introduction to Data Science (1072)",
+      "instructor": "",
+      "summary": "No syllabus text is published on Canvas for this course yet.",
+      "keyPoints": [],
+      "chars": 0,
+      "hash": "da39a3ee5e6b4b0d",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "EN1002",
+      "courseId": 884,
+      "title": "English Enhancement Course for Bachelor's degree Students (1080)",
+      "instructor": "",
+      "summary": "No syllabus text is published on Canvas for this course yet.",
+      "keyPoints": [],
+      "chars": 0,
+      "hash": "da39a3ee5e6b4b0d",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "GE1632",
+      "courseId": 783,
+      "title": "大学生国家安全教育课 National Security Education Course (1195)",
+      "instructor": "",
+      "summary": "No syllabus text is published on Canvas for this course yet.",
+      "keyPoints": [],
+      "chars": 0,
+      "hash": "da39a3ee5e6b4b0d",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "GE2134",
+      "courseId": 909,
+      "title": "Critical and Creative Thinking (1197)",
+      "instructor": "",
+      "summary": "No syllabus text is published on Canvas for this course yet.",
+      "keyPoints": [],
+      "chars": 0,
+      "hash": "da39a3ee5e6b4b0d",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "IP1901",
+      "courseId": 936,
+      "title": "习近平新时代中国特色社会主义思想概论 (1213)",
+      "instructor": "",
+      "summary": "The course syllabus is published on Canvas as a PDF rather than as text, so it is not summarised here - open the file to read the assessment breakdown and schedule.",
+      "keyPoints": [
+        "Syllabus published as a PDF on Canvas"
+      ],
+      "chars": 19,
+      "hash": "50baa231e1fa928b",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "MA1300",
+      "courseId": 938,
+      "title": "Enhanced Calculus and Linear Algebra I (1227)",
+      "instructor": "Xuan YU",
+      "summary": "First of two calculus courses for maths/engineering students: limits, techniques of differentiation and formal mathematical language, plus the linear-algebra half. Coursework 30% = midterm test 20% (in class, tentatively week 7, covering weeks 1-6) + in-class assignments 10%; final exam 70%, and you must score at least 30% in the final to pass. Textbook: Stewart, Single Variable Calculus (Metric, 7E/8E/9E).",
+      "keyPoints": [
+        "Midterm test 20% - in class, tentatively week 7, covers weeks 1-6",
+        "In-class assignments 10%",
+        "Final exam 70% - need at least 30% in the final to pass",
+        "Textbook: Stewart, Single Variable Calculus (Metric, 7E/8E/9E)"
+      ],
+      "chars": 922,
+      "hash": "39f9bcc8b21d35af",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "ME1921",
+      "courseId": 750,
+      "title": "Freshman Workshop II (1172)",
+      "instructor": "",
+      "summary": "No syllabus text is published on Canvas for this course yet.",
+      "keyPoints": [],
+      "chars": 0,
+      "hash": "da39a3ee5e6b4b0d",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "code": "PHY1201",
+      "courseId": 759,
+      "title": "General Physics I (1240)",
+      "instructor": "",
+      "summary": "Mechanics, heat and gases, waves and optics. Assessment: assignments 27% + laboratory report 3% + final examination 70%, and you must get at least 30% of the exam mark to pass. Teaching is 3 h lecture + 1 h tutorial per week, and you attend only one laboratory session for the whole semester. Textbook: Sears and Zemansky's University Physics - A Concise Course (English adaptation, 13th ed., China Machine Press), first 14 chapters. Generative AI may not be used in any assessment.",
+      "keyPoints": [
+        "Assignments 27% - Lab report 3% - Final exam 70% (need >=30% in the exam to pass)",
+        "Lectures 3 h + tutorial 1 h per week",
+        "One lab session only for the whole semester",
+        "Textbook: University Physics, A Concise Course (13th ed.), chapters 1-14",
+        "GenAI not allowed in assessments"
+      ],
+      "chars": 6347,
+      "hash": "905dc0bd4dd9f94e",
+      "stale": false,
+      "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
+      "updatedAt": "2026-10-01"
+    }
+  ],
+  "canvasEvents": [
+    {
+      "id": "cv-ev:1171:2026-09-16",
+      "date": "2026-09-16",
+      "time": "09:30",
+      "title": "In-Class Quiz 1",
+      "course": "DSC1001",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:1155:2026-09-17",
+      "date": "2026-09-17",
+      "time": "23:59",
+      "title": "Quiz 1: Vectors and Motion (Part 1)",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:1168:2026-09-18",
+      "date": "2026-09-18",
+      "time": "23:59",
+      "title": "Quiz 2: Motion (Part 2) and Newton's Laws of Motion",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-09-22Lab Session 1: Acceleration due to Gravity",
+      "date": "2026-09-22",
+      "time": "10:30",
+      "title": "Lab Session 1: Acceleration due to Gravity",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:1172:2026-09-25",
+      "date": "2026-09-25",
+      "time": "23:59",
+      "title": "Quiz 3: Application of Newton's Laws of Motion & Work and Energy",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-09-29Lab Session 2: Acceleration due to Gravity",
+      "date": "2026-09-29",
+      "time": "10:30",
+      "title": "Lab Session 2: Acceleration due to Gravity",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:1174:2026-10-02",
+      "date": "2026-10-02",
+      "time": "23:59",
+      "title": "Quiz 4: Work, Kinetic Energy, Potential Energy and Energy Conservation",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:1182:2026-10-09",
+      "date": "2026-10-09",
+      "time": "23:59",
+      "title": "Quiz 5: Rotation of Rigid Bodies",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-syl:938:exam:7",
+      "date": "2026-10-12",
+      "endDate": "2026-10-18",
+      "time": "",
+      "title": "MA1300 Midterm test (week 7, tentative)",
+      "course": "MA1300",
+      "kind": "exam",
+      "source": "Canvas · syllabus",
+      "url": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
+      "est": true,
+      "note": "Derived from the syllabus wording (\"week 7\") - week 7 runs 2026-10-12 to 2026-10-18. Tentative."
+    },
+    {
+      "id": "cv-ev:cal:759:2026-10-13Lab Session 3: Coefficients of Friction",
+      "date": "2026-10-13",
+      "time": "10:30",
+      "title": "Lab Session 3: Coefficients of Friction",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-10-20Lab Session 4: Coefficients of Friction",
+      "date": "2026-10-20",
+      "time": "10:30",
+      "title": "Lab Session 4: Coefficients of Friction",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-10-27Lab Session 5: Smart Cart - Conservation of Energy",
+      "date": "2026-10-27",
+      "time": "10:30",
+      "title": "Lab Session 5: Smart Cart - Conservation of Energy",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-11-03Lab Session 6: Smart Cart - Conservation of Energy",
+      "date": "2026-11-03",
+      "time": "10:30",
+      "title": "Lab Session 6: Smart Cart - Conservation of Energy",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-11-10Lab Session 7: Simple Harmonic Motion",
+      "date": "2026-11-10",
+      "time": "10:30",
+      "title": "Lab Session 7: Simple Harmonic Motion",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    },
+    {
+      "id": "cv-ev:cal:759:2026-11-17Lab Session 8: Simple Harmonic Motion",
+      "date": "2026-11-17",
+      "time": "10:30",
+      "title": "Lab Session 8: Simple Harmonic Motion",
+      "course": "PHY1201",
+      "kind": "lab",
+      "source": "Canvas · calendar",
+      "url": "",
+      "est": false
+    }
+  ],
+  "canvasInsightsSyncedAt": "2026-10-01",
+  "canvasInsightsSyncedTs": "2026-10-01T11:28:30+08:00"
 }
