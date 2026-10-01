@@ -665,13 +665,13 @@
       "postedAt": "2026-09-10"
     },
     {
-      "id": "note:email_sync:20261001",
+      "id": "note:holiday-services:20261001",
       "type": "notice",
-      "title": "Email sync unavailable on Oct 1",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account (redacted@example.invalid / redacted@example.invalid) and re-run the sync to pick up new school email.",
+      "title": "Holiday hours for library and campus services",
+      "summary": "Oct 1-7 holiday hours: library 8:00-20:00, L6 closed",
+      "detail": "Two campus notices cover the National Day holiday, Oct 1-7, 2026. The University Library is open 8:00-20:00, the L2 service desk runs 8:30-12:00 and 13:30-17:30, and the L6 service desk is closed. Catering outlets and other campus services also switch to holiday hours - those timetables only exist inside the images of the Campus Operation Office email, so check the original mail before heading out.",
       "meta": "Oct 1, 2026",
-      "source": "CampusDesk afternoon sync"
+      "source": "CityU (DG) Library & Campus Operation Office"
     }
   ],
   "emails": [
@@ -809,6 +809,36 @@
       "time": "Effective from Sep 22, 2026 · daily",
       "receivedAt": "2026-09-23T14:09:32+08:00",
       "mailUrl": "#"
+    },
+    {
+      "id": "e36",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Library",
+      "senderEmail": "library@cityu-dg.edu.cn",
+      "subject": "National Day Holiday Library Opening Hours (Oct 1-7)",
+      "snippet": "Library open 8:00-20:00 during the holiday; L2 desk 8:30-12:00 & 13:30-17:30; L6 desk closed.",
+      "body": "Library notice: opening hours are adjusted for the National Day holiday, Oct 1-7, 2026. University Library: 8:00-20:00. L2 Service Desk: 8:30-12:00 and 13:30-17:30. L6 Service Desk: closed. The library says it will review the hours further if needed.",
+      "eventTime": "2026-10-07T20:00:00+08:00",
+      "location": "University Library",
+      "time": "Oct 1-7, 2026 · Library 8:00-20:00",
+      "receivedAt": "2026-09-30",
+      "mailUrl": ""
+    },
+    {
+      "id": "e37",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Campus Operation Office",
+      "senderEmail": "operation@cityu-dg.edu.cn",
+      "subject": "National Day holidays - Operating Hours of Campus Services",
+      "snippet": "Catering and other campus services run on adjusted holiday hours Oct 1-7; exact times are in the notice images.",
+      "body": "Campus Operation Office notice: for the National Day holiday (Oct 1-7, 2026) the operating hours of campus services are adjusted - this covers the catering outlets and their service windows, plus other daily-life services. The exact timetables are published only inside two images embedded in the email, so they are not reproduced here; open the original mail to read them. For any problem, go to the 24-hour Property Service Station (B1, Student Residence Hall 2) or call the 24-hour campus service line 0769-21183199.",
+      "eventTime": "2026-10-07T20:00:00+08:00",
+      "location": "Campus-wide",
+      "time": "Oct 1-7, 2026 · see notice images",
+      "receivedAt": "2026-09-30",
+      "mailUrl": ""
     }
   ],
   "quizzes": [
