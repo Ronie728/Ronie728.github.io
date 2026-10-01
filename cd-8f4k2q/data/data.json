@@ -555,6 +555,21 @@
   ],
   "emails": [
     {
+      "id": "e35",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "DSC1001 Introduction to Data Science",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Recent Canvas Notifications",
+      "snippet": "DSC1001 已将你加入课程小组「intl students」，留意组内任务分工。",
+      "body": "Canvas 每日汇总（Sep 30）通知：你已被加入 DSC1001 Introduction to Data Science（1072）的一个课程小组，组名为「intl students」。这是课程分组的结果通知，本身不要求你回复或提交任何东西；但意味着该课程后续的小组作业 / 课堂协作会按这个分组进行。建议：到 Canvas 的 DSC1001 → People → Groups 查看组内成员，并留意组内是否已有分工或待办。此件为信息同步，无截止时间。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-09-30T18:52:49+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/790/groups"
+    },
+    {
       "id": "e33",
       "category": "activity",
       "needsReply": false,
