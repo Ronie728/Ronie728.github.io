@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -1131,7 +1131,7 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-09-30",
-  "canvasSyncedTs": "2026-09-30T13:01:39+08:00",
+  "canvasSyncedAt": "2026-10-01",
+  "canvasSyncedTs": "2026-10-01T10:54:28+08:00",
   "canvasTokenExpiresAt": "2026-12-14"
 }
