@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -672,6 +672,15 @@
       "detail": "Two campus notices cover the National Day holiday, Oct 1-7, 2026. The University Library is open 8:00-20:00, the L2 service desk runs 8:30-12:00 and 13:30-17:30, and the L6 service desk is closed. Catering outlets and other campus services also switch to holiday hours - those timetables only exist inside the images of the Campus Operation Office email, so check the original mail before heading out.",
       "meta": "Oct 1, 2026",
       "source": "CityU (DG) Library & Campus Operation Office"
+    },
+    {
+      "id": "note:email_sync:20261002",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 2",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 2, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
