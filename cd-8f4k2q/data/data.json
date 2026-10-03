@@ -471,7 +471,8 @@
       "requirement": "在线测试（Canvas 外部工具），无文字说明。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → GE1632 → Assignments → 军事安全测试题",
-      "note": "已于 2026-09-29 提交（得分 10/10）"
+      "note": "已于 2026-09-29 提交（得分 10/10） 军事安全测试题已出分 10/10（Canvas API 核实，评分时间 2026-09-29）。",
+      "score": 10
     },
     {
       "id": "cv_3547",
@@ -485,7 +486,8 @@
       "requirement": "在线测试（Canvas 外部工具），无文字说明。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → GE1632 → Assignments → 国土安全测试题",
-      "note": "已于 2026-09-29 提交（得分 10/10）"
+      "note": "已于 2026-09-29 提交（得分 10/10） 国土安全测试题已出分 10/10（Canvas API 核实，评分时间 2026-09-29）。",
+      "score": 10
     },
     {
       "id": "cv_3429",
@@ -662,6 +664,66 @@
     }
   ],
   "emails": [
+    {
+      "id": "e38",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - Written Assignment 5: Momentum. Impulse, Collisions and Rotation of Rigid Bodies, PHY1201",
+      "snippet": "PHY1201 作业5（动量・冲量・碰撞・刚体转动）10/9 23:59 截止，现已提交待评分。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：PHY1201 General Physics I 新增作业「Written Assignment 5: Momentum. Impulse, Collisions and Rotation of Rigid Bodies」（动量、冲量、碰撞与刚体转动），满分 10 分，截止 2026 年 10 月 9 日 23:59。经 Canvas API 核实：该作业当前状态为已提交（submitted），尚未评分。建议：留意批改结果；若发现提交内容有误，需在 10/9 23:59 前重新提交。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "2026年10月9日 23:59 截止",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3536"
+    },
+    {
+      "id": "e39",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - Quiz 5: Rotation of Rigid Bodies, PHY1201",
+      "snippet": "PHY1201 小测5（刚体转动）10/9 23:59 截止，已出分 10/10。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：PHY1201 General Physics I 的「Quiz 5: Rotation of Rigid Bodies」（刚体转动）截止时间为 2026 年 10 月 9 日 23:59。经 Canvas API 核实：该测验已评分，得分 10/10（graded，评分时间 2026 年 9 月 27 日），无需再作答。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "2026年10月9日 23:59 截止",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537"
+    },
+    {
+      "id": "e40",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - 军事安全测试题, GE1632 大学生国家安全教育课",
+      "snippet": "GE1632 军事安全测试题已出分 10/10（无截止日期）。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：GE1632 大学生国家安全教育课新增「军事安全测试题」，**无截止日期**。经 Canvas API 核实：该测试题已评分，得分 10/10（graded，评分时间 2026 年 9 月 29 日）。此类「只发公告、不设截止日期」的测试题最容易被漏掉，已确认完成为满分，无需再操作。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3543"
+    },
+    {
+      "id": "e41",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - 国土安全测试题, GE1632 大学生国家安全教育课",
+      "snippet": "GE1632 国土安全测试题已出分 10/10（无截止日期）。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：GE1632 大学生国家安全教育课新增「国土安全测试题」，**无截止日期**。经 Canvas API 核实：该测试题已评分，得分 10/10（graded，评分时间 2026 年 9 月 29 日）。与「军事安全测试题」同批发布，两题均已满分完成。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547"
+    },
     {
       "id": "e35",
       "category": "notice",
