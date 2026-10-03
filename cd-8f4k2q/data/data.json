@@ -544,6 +544,24 @@
       "to": "/assignment/cv_3463"
     },
     {
+      "id": "note:holiday-services:20261001",
+      "type": "notice",
+      "title": "Holiday hours for library and campus services",
+      "summary": "Oct 1-7 holiday hours: library 8:00-20:00, L6 closed",
+      "detail": "Two campus notices cover the National Day holiday, Oct 1-7, 2026. The University Library is open 8:00-20:00, the L2 service desk runs 8:30-12:00 and 13:30-17:30, and the L6 service desk is closed. Catering outlets and other campus services also switch to holiday hours - those timetables only exist inside the images of the Campus Operation Office email, so check the original mail before heading out.",
+      "meta": "Oct 1, 2026",
+      "source": "CityU (DG) Library & Campus Operation Office"
+    },
+    {
+      "id": "note:email_sync:20261002",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 2",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 2, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -641,46 +659,6 @@
       "source": "Canvas · DSC1001",
       "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/3968",
       "postedAt": "2026-09-15"
-    },
-    {
-      "id": "cv:759:3933",
-      "type": "course_change",
-      "title": "Lecture Start Time Adjusted to 2:10 PM",
-      "summary": "Dear Students, Please note that this afternoon's lecture…",
-      "detail": "Dear Students, Please note that this afternoon's lecture will begin 10 minutes later than scheduled, at 2:10 PM. I was held up longer than expected at an eyeglasses shop for an eye exam. Thank you for your understanding. Regards, Michael Cao",
-      "meta": "PHY1201",
-      "source": "Canvas · PHY1201",
-      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/3933",
-      "postedAt": "2026-09-11"
-    },
-    {
-      "id": "cv:759:3921",
-      "type": "notice",
-      "title": "Action Required: Submit Your Lab Session Preferences",
-      "summary": "Dear Students, As previously announced, each student will…",
-      "detail": "Dear Students, As previously announced, each student will participate in one laboratory session and complete a corresponding lab report. After discussions with the laboratory managers and ARRO, and after reviewing the experimental content, we have decided to shorten each laboratory session to 110 minutes . All sessions will therefore be scheduled on Tuesday mornings from 10:30 AM to 12:20 PM and will take place in the Dry Lab (AC2-201) . There are four possible experiments offered across eight sessions. You are required to attend only one session : Acceleration Due to Gravity: 22 and 29 September Coefficients of Friction: 13 and 20 October Smart Cart - Conservation of Energy: 27 October and 3 November Simple Harmonic Motion: 10 and 17 November Each session can accommodate up to 24 students . However, 2 places per session will be reserved for exceptional circumstances , so the normal allo",
-      "meta": "PHY1201",
-      "source": "Canvas · PHY1201",
-      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/3921",
-      "postedAt": "2026-09-10"
-    },
-    {
-      "id": "note:holiday-services:20261001",
-      "type": "notice",
-      "title": "Holiday hours for library and campus services",
-      "summary": "Oct 1-7 holiday hours: library 8:00-20:00, L6 closed",
-      "detail": "Two campus notices cover the National Day holiday, Oct 1-7, 2026. The University Library is open 8:00-20:00, the L2 service desk runs 8:30-12:00 and 13:30-17:30, and the L6 service desk is closed. Catering outlets and other campus services also switch to holiday hours - those timetables only exist inside the images of the Campus Operation Office email, so check the original mail before heading out.",
-      "meta": "Oct 1, 2026",
-      "source": "CityU (DG) Library & Campus Operation Office"
-    },
-    {
-      "id": "note:email_sync:20261002",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 2",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 2, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1321,7 +1299,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "DSC1001",
@@ -1334,7 +1312,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "EN1002",
@@ -1347,7 +1325,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "GE1632",
@@ -1360,7 +1338,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "GE2134",
@@ -1373,7 +1351,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "IP1901",
@@ -1388,7 +1366,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "MA1300",
@@ -1406,7 +1384,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "ME1921",
@@ -1419,7 +1397,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     },
     {
       "code": "PHY1201",
@@ -1438,7 +1416,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-03"
     }
   ],
   "canvasEvents": [
@@ -1610,6 +1588,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-01",
-  "canvasInsightsSyncedTs": "2026-10-01T11:28:30+08:00"
+  "canvasInsightsSyncedAt": "2026-10-03",
+  "canvasInsightsSyncedTs": "2026-10-03T17:12:30+08:00"
 }
