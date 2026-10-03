@@ -725,21 +725,6 @@
       "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547"
     },
     {
-      "id": "e35",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "DSC1001 Introduction to Data Science",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Recent Canvas Notifications",
-      "snippet": "DSC1001 已将你加入课程小组「intl students」，留意组内任务分工。",
-      "body": "Canvas 每日汇总（Sep 30）通知：你已被加入 DSC1001 Introduction to Data Science（1072）的一个课程小组，组名为「intl students」。这是课程分组的结果通知，本身不要求你回复或提交任何东西；但意味着该课程后续的小组作业 / 课堂协作会按这个分组进行。建议：到 Canvas 的 DSC1001 → People → Groups 查看组内成员，并留意组内是否已有分工或待办。此件为信息同步，无截止时间。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-09-30T18:52:49+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/790/groups"
-    },
-    {
       "id": "e33",
       "category": "activity",
       "needsReply": false,
@@ -753,21 +738,6 @@
       "time": "2026年12月23日左右起，为期7天（含往返）",
       "receivedAt": "2026-09-29T10:45:25+08:00",
       "mailUrl": "https://v.wjx.cn/vm/ww7BkEz.aspx#"
-    },
-    {
-      "id": "e34",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "infohub 校园电子通讯",
-      "senderEmail": "infohub@cityu-dg.edu.cn",
-      "subject": "香港城市大学（东莞）电子通讯第97期 / CityUHK (DG) Newsletter Issue 97",
-      "snippet": "秋季关怀活动 9/29-9/30 10:00-17:00 学生事务中心，另有 10/8 作品征集截止。",
-      "body": "学校电子通讯第 97 期要点：① 「PALSI 新学期回归」学业发展支持项目已开放；② 今日可参与的活动——秋季关怀活动/心理成长中心开放，9 月 29 日至 30 日 10:00–17:00 在学术楼四座一楼学生事务中心（原文以「重庆活动/秋季关怀」类推送呈现，请以现场为准）；③ 10 月 1 日–11 月 1 日心理成长中心十月活动预告；④ 「清风伴读」知识问答与「清风润心」作品征集（党支部主办），材料电子版发至 partyunit@cityu-dg.edu.cn，截止 10 月 8 日 17:30；⑤ 国庆假期生活配套服务营业时间安排已公布（学生餐厅 / 趣食营地 9/28–10/04 菜单）。本期为资讯汇总，无强制行动项；第 ④ 项若有意参加需在 10/8 17:30 前提交。",
-      "eventTime": "",
-      "location": "学术楼四座一楼学生事务中心",
-      "time": "",
-      "receivedAt": "2026-09-29T19:49:25+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e31",
@@ -1346,8 +1316,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-02",
-  "canvasSyncedTs": "2026-10-02T21:51:29+08:00",
+  "canvasSyncedAt": "2026-10-03",
+  "canvasSyncedTs": "2026-10-03T17:16:12+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
