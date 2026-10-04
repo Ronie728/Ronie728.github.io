@@ -555,15 +555,6 @@
       "source": "CityU (DG) Library & Campus Operation Office"
     },
     {
-      "id": "note:email_sync:20261002",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 2",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 2, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -661,6 +652,15 @@
       "source": "Canvas · DSC1001",
       "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/3968",
       "postedAt": "2026-09-15"
+    },
+    {
+      "id": "note:email_sync:20261004",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 4",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 4, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
