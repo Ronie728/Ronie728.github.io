@@ -555,15 +555,6 @@
       "source": "CityU (DG) Library & Campus Operation Office"
     },
     {
-      "id": "note:email_sync:20261004",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 4",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 4, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -661,6 +652,15 @@
       "source": "Canvas · DSC1001",
       "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/3968",
       "postedAt": "2026-09-15"
+    },
+    {
+      "id": "note:email_sync:20261005",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 5",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 5, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -693,6 +693,36 @@
       "time": "2026年10月9日 23:59 截止",
       "receivedAt": "2026-10-03T15:56:42+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537"
+    },
+    {
+      "id": "e40",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - 军事安全测试题, GE1632 大学生国家安全教育课",
+      "snippet": "GE1632 军事安全测试题已出分 10/10（无截止日期）。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：GE1632 大学生国家安全教育课新增「军事安全测试题」，**无截止日期**。经 Canvas API 核实：该测试题已评分，得分 10/10（graded，评分时间 2026 年 9 月 29 日）。此类「只发公告、不设截止日期」的测试题最容易被漏掉，已确认完成为满分，无需再操作。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3543"
+    },
+    {
+      "id": "e41",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - 国土安全测试题, GE1632 大学生国家安全教育课",
+      "snippet": "GE1632 国土安全测试题已出分 10/10（无截止日期）。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：GE1632 大学生国家安全教育课新增「国土安全测试题」，**无截止日期**。经 Canvas API 核实：该测试题已评分，得分 10/10（graded，评分时间 2026 年 9 月 29 日）。与「军事安全测试题」同批发布，两题均已满分完成。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547"
     },
     {
       "id": "e33",
@@ -1287,7 +1317,7 @@
     }
   ],
   "canvasSyncedAt": "2026-10-05",
-  "canvasSyncedTs": "2026-10-05T14:59:26+08:00",
+  "canvasSyncedTs": "2026-10-05T15:02:38+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
