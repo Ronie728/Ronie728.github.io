@@ -40,14 +40,10 @@
       ⚠️ script-src / style-src 必须留 'unsafe-inline'：本文件底部有一段自愈内联脚本，
       React 也会写内联 style，去掉它们会直接白屏。
       ⚠️ frame-ancestors 在 meta 里是无效的（CSP 规范如此），要防嵌套只能靠响应头。
-      ⚠️ v2.4.3 必须放 `media-src 'self' blob:`：锁屏计时的背景音是用 JS 现场合成
-          的一段 WAV（Blob URL，见 lib/lockScreen.js 的 makeToneWav）——
-          没有 media-src 就回落到 default-src 'self'，blob: 被拒，音频根本播不出来，
-          iOS 那边就是「锁屏什么都不显示」。这一条是 e2e 跑出来的，不是猜的。
     -->
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; media-src 'self' blob:; connect-src 'self' https://api.open-meteo.com https://cityu-dg.instructure.com https://*.tcb-api.tencentcloudapi.com https://*.tcloudbasegateway.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://api.open-meteo.com https://cityu-dg.instructure.com https://*.tcb-api.tencentcloudapi.com https://*.tcloudbasegateway.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'"
     />
     <meta name="description" content="My campus desk: lectures, assignments and email." />
     <meta name="mobile-web-app-capable" content="yes" />
@@ -61,10 +57,10 @@
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="/cd-8f4k2q/icons/splash-1125x2436.png" />
     <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/cd-8f4k2q/icons/splash-750x1334.png" />
     <title>CampusDesk</title>
-    <script type="module" crossorigin src="/cd-8f4k2q/assets/index-mNZmFf0s.js"></script>
+    <script type="module" crossorigin src="/cd-8f4k2q/assets/index-C_ZkR6Rg.js"></script>
     <link rel="modulepreload" crossorigin href="/cd-8f4k2q/assets/react-IIdt_xui.js">
     <link rel="modulepreload" crossorigin href="/cd-8f4k2q/assets/motion-CGkn6dzR.js">
-    <link rel="stylesheet" crossorigin href="/cd-8f4k2q/assets/index-DOYLW4k8.css">
+    <link rel="stylesheet" crossorigin href="/cd-8f4k2q/assets/index-B7C5zCjA.css">
   <link rel="manifest" href="/cd-8f4k2q/manifest.webmanifest"></head>
   <body>
     <div id="root"></div>
