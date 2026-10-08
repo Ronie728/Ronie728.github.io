@@ -545,6 +545,15 @@
       "source": "CityU (DG) Library & Campus Operation Office"
     },
     {
+      "id": "note:email_sync:20261007",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 7",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 7, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -598,37 +607,6 @@
       "source": "Canvas · GE1632",
       "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4028",
       "postedAt": "2026-09-21"
-    },
-    {
-      "id": "cv:790:3978",
-      "type": "notice",
-      "title": "Guidelines for the Group Project",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! I am writing to provide a few notes on the final group project. Group size limit - the group project may be completed by groups of no more than six students. Due Date - TBA . You may submit it early, and you may make multiple submission attempts before the deadline. You may also submit late, but there will be a penalty (10%) for each day passed. The presentation will be organized in our last lecture of the semester. Word limit of the report - the hard upper limit is 2,500 words excluding title, abstract, verbal descriptions for tables and figures, and references. A recommended word count is around 2,000 words. Format of the presentation - Each group should prepare to present for about 20 minutes, then take questions from the audience. The recommended number of slides is between 10 and 15. You may not directly read off the notes during the ",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/3978",
-      "postedAt": "2026-09-16"
-    },
-    {
-      "id": "cv:936:3973",
-      "type": "course_change",
-      "title": "教室变更通知",
-      "summary": "亲爱的同学， IP1901课程的上课教室已从AC3-213变更为 AC5-416…",
-      "detail": "亲爱的同学， IP1901课程的上课教室已从AC3-213变更为 AC5-416 ，自本周起生效。请登录SIS查看详细信息。 上课教室不是同一栋楼了哦，大家明天早上别跑错～",
-      "meta": "IP1901",
-      "source": "Canvas · IP1901",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/936/discussion_topics/3973",
-      "postedAt": "2026-09-16"
-    },
-    {
-      "id": "note:email_sync:20261007",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 7",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 7, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1299,7 +1277,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "DSC1001",
@@ -1312,7 +1290,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "EN1002",
@@ -1325,7 +1303,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "GE1632",
@@ -1338,7 +1316,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "GE2134",
@@ -1351,7 +1329,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "IP1901",
@@ -1366,7 +1344,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "MA1300",
@@ -1384,7 +1362,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "ME1921",
@@ -1397,7 +1375,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     },
     {
       "code": "PHY1201",
@@ -1416,7 +1394,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-07"
+      "updatedAt": "2026-10-08"
     }
   ],
   "canvasEvents": [
@@ -1588,6 +1566,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-07",
-  "canvasInsightsSyncedTs": "2026-10-07T13:21:23+08:00"
+  "canvasInsightsSyncedAt": "2026-10-08",
+  "canvasInsightsSyncedTs": "2026-10-08T09:28:47+08:00"
 }
