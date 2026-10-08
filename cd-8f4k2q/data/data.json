@@ -630,36 +630,6 @@
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537"
     },
     {
-      "id": "e40",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 大学生国家安全教育课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Created - 军事安全测试题, GE1632 大学生国家安全教育课",
-      "snippet": "GE1632 军事安全测试题已出分 10/10（无截止日期）。",
-      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：GE1632 大学生国家安全教育课新增「军事安全测试题」，**无截止日期**。经 Canvas API 核实：该测试题已评分，得分 10/10（graded，评分时间 2026 年 9 月 29 日）。此类「只发公告、不设截止日期」的测试题最容易被漏掉，已确认完成为满分，无需再操作。此件为课程通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-03T15:56:42+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3543"
-    },
-    {
-      "id": "e41",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 大学生国家安全教育课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Created - 国土安全测试题, GE1632 大学生国家安全教育课",
-      "snippet": "GE1632 国土安全测试题已出分 10/10（无截止日期）。",
-      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：GE1632 大学生国家安全教育课新增「国土安全测试题」，**无截止日期**。经 Canvas API 核实：该测试题已评分，得分 10/10（graded，评分时间 2026 年 9 月 29 日）。与「军事安全测试题」同批发布，两题均已满分完成。此件为课程通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-03T15:56:42+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3547"
-    },
-    {
       "id": "e33",
       "category": "activity",
       "needsReply": false,
