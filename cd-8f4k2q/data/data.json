@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -355,7 +355,7 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → ME1921 → Assignments → 大学生如何在履行国防义务中发挥作用？",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/750/assignments/3402",
-      "note": "已于 2026-09-10 提交，等待批改。"
+      "note": "已于 2026-09-10 提交，已出分 9/10。"
     },
     {
       "id": "cv_3469",
@@ -529,21 +529,12 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Submit Lab Report",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3463",
-      "note": "截止按本人实验日 +2 周推算；本人实验课 2026-09-29（周二）10:30–12:20 → 预计 2026-10-13 12:20 前提交（Canvas 未设截止）。",
+      "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
     }
   ],
   "notes": [
-    {
-      "id": "note:holiday-services:20261001",
-      "type": "notice",
-      "title": "Holiday hours for library and campus services",
-      "summary": "Oct 1-7 holiday hours: library 8:00-20:00, L6 closed",
-      "detail": "Two campus notices cover the National Day holiday, Oct 1-7, 2026. The University Library is open 8:00-20:00, the L2 service desk runs 8:30-12:00 and 13:30-17:30, and the L6 service desk is closed. Catering outlets and other campus services also switch to holiday hours - those timetables only exist inside the images of the Campus Operation Office email, so check the original mail before heading out.",
-      "meta": "Oct 1, 2026",
-      "source": "CityU (DG) Library & Campus Operation Office"
-    },
     {
       "id": "note:email_sync:20261008",
       "type": "notice",
@@ -607,6 +598,15 @@
       "source": "Canvas · GE1632",
       "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4028",
       "postedAt": "2026-09-21"
+    },
+    {
+      "id": "note:study-tour-signup:20261010",
+      "type": "notice",
+      "title": "Shanghai & Hangzhou study tour: pre-registration closes Oct 10",
+      "summary": "Pre-register by Oct 10: Shanghai-Hangzhou tech tour",
+      "detail": "The College Student Affairs Office is collecting pre-registrations for the joint Shanghai & Hangzhou Technology Study Tour (about 7 days from Dec 23, with campus visits to Zhejiang University and SJTU plus company visits such as Alibaba, Unitree, DEEP Robotics and Tesla; a Zhejiang University certificate is issued on completion). Cost is about CNY 8,000, of which the university covers 50%, so the student share is roughly CNY 4,000. Pre-registration is for headcount only and does not secure a place, and seats are limited (priority to students who have not joined a study tour before). If you are interested, submit the pre-registration form before Oct 10 - the link is in the original campus email.",
+      "meta": "Oct 10, 2026",
+      "source": "College Student Affairs Office"
     }
   ],
   "emails": [
@@ -654,21 +654,6 @@
       "time": "2026年12月23日左右起，为期7天（含往返）",
       "receivedAt": "2026-09-29T10:45:25+08:00",
       "mailUrl": "https://v.wjx.cn/vm/ww7BkEz.aspx#"
-    },
-    {
-      "id": "e31",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "教务处 Academic Regulations and Records Office",
-      "senderEmail": "arro@cityu-dg.edu.cn",
-      "subject": "【形势与政策讲座通知】《中华人民共和国民族团结进步促进法》专题宣讲",
-      "snippet": "10/8 14:30 形势与政策讲座（图书馆一楼阶梯教室），现场扫码计考勤。",
-      "body": "教务处通知：作为「形势与政策」课程专题讲座，学校邀请东莞理工学院特聘教授谢敏，于 2026 年 10 月 8 日（周四，国庆假期结束返校当天）14:30–16:00 在图书馆一楼阶梯教室开展《中华人民共和国民族团结进步促进法》专题宣讲（中文）。该法已于 2026 年 7 月 1 日起施行；讲座面向 2026 级新生入学后的多元校园环境，主题为了解法律、增进民族团结进步认知。⚠️ 本科生**计考勤**：考勤以讲座过程中或结束后的现场二维码扫码记录，**不可代签、不设补签**；须提前 10 分钟入场，讲座期间电子设备静音、息屏或关闭。时间正好是 10/8 返校日，请提前安排返校行程以免冲突。无需回复邮件。",
-      "eventTime": "2026-10-08T14:30:00+08:00",
-      "location": "图书馆一楼阶梯教室",
-      "time": "2026年10月8日（周四）14:30–16:00",
-      "receivedAt": "2026-09-28T13:40:36+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e8",
