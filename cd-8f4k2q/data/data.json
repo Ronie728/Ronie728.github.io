@@ -523,7 +523,7 @@
       "title": "Submit Lab Report",
       "due": "",
       "dueTime": "",
-      "status": "pending",
+      "status": "submitted",
       "points": 30,
       "requirement": "要你做什么：完成实验课后提交实验报告（Lab Report）。\n\n交付什么：按课程提供的实验报告模板撰写（模板链接见 Canvas 该作业页）。\n\n什么时候交：以本人实验课日期起 2 周内为截止——不同同学实验日期不同，Canvas 页面显示的截止时间不适用；你的第一次实验课为 9 月 29 日（周二）。\n\n额外要求：实验报告占期末总成绩 3%。",
       "requirementSource": "Canvas 同步",
@@ -1172,8 +1172,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-08",
-  "canvasSyncedTs": "2026-10-08T13:21:01+08:00",
+  "canvasSyncedAt": "2026-10-09",
+  "canvasSyncedTs": "2026-10-09T08:51:42+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
