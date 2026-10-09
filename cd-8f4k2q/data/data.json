@@ -545,6 +545,15 @@
       "source": "CityU (DG) Library & Campus Operation Office"
     },
     {
+      "id": "note:email_sync:20261008",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 8",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 8, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -589,13 +598,15 @@
       "postedAt": "2026-09-21"
     },
     {
-      "id": "note:email_sync:20261008",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 8",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 8, 2026",
-      "source": "CampusDesk afternoon sync"
+      "id": "cv:783:4028",
+      "type": "quiz",
+      "title": "第一次课堂小测",
+      "summary": "Online quiz in GE1632 — open it on Canvas.",
+      "detail": "This one has no body text on Canvas — open it to read the original.",
+      "meta": "GE1632",
+      "source": "Canvas · GE1632",
+      "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4028",
+      "postedAt": "2026-09-21"
     }
   ],
   "emails": [
@@ -1191,7 +1202,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "DSC1001",
@@ -1204,7 +1215,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "EN1002",
@@ -1217,7 +1228,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "GE1632",
@@ -1230,7 +1241,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "GE2134",
@@ -1243,7 +1254,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "IP1901",
@@ -1258,7 +1269,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "MA1300",
@@ -1276,7 +1287,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "ME1921",
@@ -1289,7 +1300,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     },
     {
       "code": "PHY1201",
@@ -1308,7 +1319,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-09"
     }
   ],
   "canvasEvents": [
@@ -1480,6 +1491,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-08",
-  "canvasInsightsSyncedTs": "2026-10-08T09:28:47+08:00"
+  "canvasInsightsSyncedAt": "2026-10-09",
+  "canvasInsightsSyncedTs": "2026-10-09T08:42:27+08:00"
 }
