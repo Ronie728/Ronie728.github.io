@@ -536,15 +536,6 @@
   ],
   "notes": [
     {
-      "id": "note:email_sync:20261008",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 8",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 8, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -607,6 +598,15 @@
       "detail": "The College Student Affairs Office is collecting pre-registrations for the joint Shanghai & Hangzhou Technology Study Tour (about 7 days from Dec 23, with campus visits to Zhejiang University and SJTU plus company visits such as Alibaba, Unitree, DEEP Robotics and Tesla; a Zhejiang University certificate is issued on completion). Cost is about CNY 8,000, of which the university covers 50%, so the student share is roughly CNY 4,000. Pre-registration is for headcount only and does not secure a place, and seats are limited (priority to students who have not joined a study tour before). If you are interested, submit the pre-registration form before Oct 10 - the link is in the original campus email.",
       "meta": "Oct 10, 2026",
       "source": "College Student Affairs Office"
+    },
+    {
+      "id": "note:email_sync:20261009",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 9",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 9, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1173,7 +1173,7 @@
     }
   ],
   "canvasSyncedAt": "2026-10-09",
-  "canvasSyncedTs": "2026-10-09T08:51:42+08:00",
+  "canvasSyncedTs": "2026-10-09T13:17:29+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
