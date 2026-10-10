@@ -536,6 +536,35 @@
   ],
   "notes": [
     {
+      "id": "note:study-tour-signup:20261010",
+      "type": "notice",
+      "title": "Shanghai & Hangzhou study tour: pre-registration closes Oct 10",
+      "summary": "Pre-register by Oct 10: Shanghai-Hangzhou tech tour",
+      "detail": "The College Student Affairs Office is collecting pre-registrations for the joint Shanghai & Hangzhou Technology Study Tour (about 7 days from Dec 23, with campus visits to Zhejiang University and SJTU plus company visits such as Alibaba, Unitree, DEEP Robotics and Tesla; a Zhejiang University certificate is issued on completion). Cost is about CNY 8,000, of which the university covers 50%, so the student share is roughly CNY 4,000. Pre-registration is for headcount only and does not secure a place, and seats are limited (priority to students who have not joined a study tour before). If you are interested, submit the pre-registration form before Oct 10 - the link is in the original campus email.",
+      "meta": "Oct 10, 2026",
+      "source": "College Student Affairs Office"
+    },
+    {
+      "id": "note:email_sync:20261009",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 9",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 9, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
+      "id": "cv:898:4134",
+      "type": "notice",
+      "title": "Reminder about Assignment 1 due date and Announcement about tutorial next week",
+      "summary": "Dear All, The tutorial next week we will be going over…",
+      "detail": "Dear All, The tutorial next week we will be going over the format of the midterm exam and looking at some practice questions, so it is very important that you attend. This is a reminder that the first assignment is due BEFORE class on Wednesday. Many have already submitted but there are still quiet a few who have not. Again, please remember when submitting the assignment to make sure to only write the code where you are supposed to without changing anything else in the notebook. Please make sure you: 1) Do not change the function names 2) Do not have test code in your submission. Espeically do not have inputs or calling the test functions with your solution (see image below of what not to do). 3) Check edge cases and make sure you aren't trying to add an int and str together in all possible cases. Check indentation, typos, missing operators, etc. Good luck and see you in class next Wedne",
+      "meta": "CS1302",
+      "source": "Canvas · CS1302",
+      "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
+      "postedAt": "2026-10-10"
+    },
+    {
       "id": "cv:783:4075",
       "type": "quiz",
       "title": "第二次课堂小测",
@@ -589,24 +618,6 @@
       "source": "Canvas · GE1632",
       "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4028",
       "postedAt": "2026-09-21"
-    },
-    {
-      "id": "note:study-tour-signup:20261010",
-      "type": "notice",
-      "title": "Shanghai & Hangzhou study tour: pre-registration closes Oct 10",
-      "summary": "Pre-register by Oct 10: Shanghai-Hangzhou tech tour",
-      "detail": "The College Student Affairs Office is collecting pre-registrations for the joint Shanghai & Hangzhou Technology Study Tour (about 7 days from Dec 23, with campus visits to Zhejiang University and SJTU plus company visits such as Alibaba, Unitree, DEEP Robotics and Tesla; a Zhejiang University certificate is issued on completion). Cost is about CNY 8,000, of which the university covers 50%, so the student share is roughly CNY 4,000. Pre-registration is for headcount only and does not secure a place, and seats are limited (priority to students who have not joined a study tour before). If you are interested, submit the pre-registration form before Oct 10 - the link is in the original campus email.",
-      "meta": "Oct 10, 2026",
-      "source": "College Student Affairs Office"
-    },
-    {
-      "id": "note:email_sync:20261009",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 9",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 9, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1187,7 +1198,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "DSC1001",
@@ -1200,7 +1211,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "EN1002",
@@ -1213,7 +1224,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "GE1632",
@@ -1226,7 +1237,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "GE2134",
@@ -1239,7 +1250,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "IP1901",
@@ -1254,7 +1265,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "MA1300",
@@ -1272,7 +1283,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "ME1921",
@@ -1285,7 +1296,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     },
     {
       "code": "PHY1201",
@@ -1304,7 +1315,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-10"
     }
   ],
   "canvasEvents": [
@@ -1476,6 +1487,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-09",
-  "canvasInsightsSyncedTs": "2026-10-09T08:42:27+08:00"
+  "canvasInsightsSyncedAt": "2026-10-10",
+  "canvasInsightsSyncedTs": "2026-10-10T13:06:07+08:00"
 }
