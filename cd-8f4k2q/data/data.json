@@ -559,15 +559,6 @@
       "source": "College Student Affairs Office"
     },
     {
-      "id": "note:email_sync:20261009",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 9",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 9, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:898:4134",
       "type": "notice",
       "title": "Reminder about Assignment 1 due date and Announcement about tutorial next week",
@@ -632,9 +623,48 @@
       "source": "Canvas · GE1632",
       "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4028",
       "postedAt": "2026-09-21"
+    },
+    {
+      "id": "note:email_sync:20261010",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 10",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 10, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
+    {
+      "id": "e38",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - Written Assignment 5: Momentum. Impulse, Collisions and Rotation of Rigid Bodies, PHY1201",
+      "snippet": "PHY1201 作业5（动量・冲量・碰撞・刚体转动）10/9 23:59 截止，现已提交待评分。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：PHY1201 General Physics I 新增作业「Written Assignment 5: Momentum. Impulse, Collisions and Rotation of Rigid Bodies」（动量、冲量、碰撞与刚体转动），满分 10 分，截止 2026 年 10 月 9 日 23:59。经 Canvas API 核实：该作业当前状态为已提交（submitted），尚未评分。建议：留意批改结果；若发现提交内容有误，需在 10/9 23:59 前重新提交。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "2026年10月9日 23:59 截止",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3536"
+    },
+    {
+      "id": "e39",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Created - Quiz 5: Rotation of Rigid Bodies, PHY1201",
+      "snippet": "PHY1201 小测5（刚体转动）10/9 23:59 截止，已出分 10/10。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 3 日）通知：PHY1201 General Physics I 的「Quiz 5: Rotation of Rigid Bodies」（刚体转动）截止时间为 2026 年 10 月 9 日 23:59。经 Canvas API 核实：该测验已评分，得分 10/10（graded，评分时间 2026 年 9 月 27 日），无需再作答。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "2026年10月9日 23:59 截止",
+      "receivedAt": "2026-10-03T15:56:42+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537"
+    },
     {
       "id": "e33",
       "category": "activity",
@@ -651,6 +681,21 @@
       "mailUrl": "https://v.wjx.cn/vm/ww7BkEz.aspx#"
     },
     {
+      "id": "e8",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Lab Session Assignments: PHY1201 General Physics I (1240)",
+      "snippet": "实验时段已按偏好分配完毕，请到 Canvas > People > Groups 查看自己的实验组；第一次实验课在下周。",
+      "body": "感谢填写实验时段偏好问卷。实验时段已按偏好分配，因较多同学选择较早时段，无法完全满足第一志愿。请在 Canvas > People > Groups 查看自己的实验组分配（当前系统显示为 Session 2）。如确有特殊情况需要更换时段，请直接发邮件给老师说明情况。请注意第一次实验课将在下周进行，请提前确认自己的组别。发件人：Michael Cao。",
+      "eventTime": "下周（第一次实验课）",
+      "location": "Canvas > People > Groups（查看组别）",
+      "time": "18:06",
+      "receivedAt": "2026-09-15T18:06:05+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/announcements/3964"
+    },
+    {
       "id": "e15",
       "category": "notice",
       "needsReply": false,
@@ -664,6 +709,36 @@
       "time": "Sep 23 – Nov 07, 2026 · 09:00-18:00",
       "receivedAt": "2026-09-21",
       "mailUrl": ""
+    },
+    {
+      "id": "e20",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "党支部 The Party Unit",
+      "senderEmail": "partyunit@cityu-dg.edu.cn",
+      "subject": " 关于东莞市市、镇两级人民代表大会换届选举工作的推进——选民信息登记工作",
+      "snippet": "The university is collecting voter-registration details for the Dongguan people's congress election; check whether the eligibility criteria apply to you.",
+      "body": "The Party Unit is running the voter information registration drive for the Dongguan city and town people's congress elections. Registration mainly concerns Chinese citizens born on or before Nov 25, 2008 who are registered residents of the local precinct. If the criteria apply to you, check the attachment and follow the instructions to submit your details through the campus channel.",
+      "eventTime": "",
+      "location": "",
+      "time": "Campus-wide collection",
+      "receivedAt": "2026-09-22T17:38:31+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e25",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Campus Operation Office",
+      "senderEmail": "operation@cityu-dg.edu.cn",
+      "subject": "【校园运维处】学生宿舍 2-4 座洗衣房设备运行时间调整及加装闭门器事宜",
+      "snippet": "Dorm laundry rooms (blocks 2-4) now shut off at 22:30 daily; door closers by Oct 10.",
+      "body": "校园运维处通知：自 2026-09-22 起，学生宿舍 2-4 座（二座 1F-9F、三座 2F-10F、四座 2F-11F）分散式洗衣房所有洗烘设备每日 22:30 定时关停，22:30 后无法启动，请提前安排洗衣。另每间洗衣房房门将加装闭门器（保持常闭、减少噪音），10 月 10 日前完成安装，安装期间可能短时噪音。疑问可邮件 weidai.xu@cityu-dg.edu.cn。",
+      "eventTime": "",
+      "location": "Laundry rooms, Student Residence Hall #2-4",
+      "time": "Effective from Sep 22, 2026 · daily",
+      "receivedAt": "2026-09-23T14:09:32+08:00",
+      "mailUrl": "#"
     }
   ],
   "quizzes": [
@@ -1123,7 +1198,7 @@
     }
   ],
   "canvasSyncedAt": "2026-10-10",
-  "canvasSyncedTs": "2026-10-10T13:08:57+08:00",
+  "canvasSyncedTs": "2026-10-10T13:09:58+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
