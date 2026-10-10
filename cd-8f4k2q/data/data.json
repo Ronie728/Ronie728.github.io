@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -402,6 +402,20 @@
       "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 5",
       "note": "2026-09-27 完成并出分 10/10（满分）；截止 2026-10-09 23:59，已提前完成（Quiz 5：刚体转动）。",
       "score": 10
+    },
+    {
+      "id": "cv_3615",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 6: Dynamics of Rotation",
+      "due": "2026-10-16T23:59:59+08:00",
+      "points": 10,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3537",
+      "dueTime": "23:59",
+      "requirement": "①从题池中自选 3 道题，手写在纸上完成（Chapter 9 全部；Chapter 10 全部为选做）。②交付：手写解答，可当面交给老师/助教或扫描、拍照上传；电子提交时每页须清晰、方向正确，多页建议合成单个 PDF。③交到 Canvas 本作业，截止 2026-10-16 23:59（HK 时间）。④占期末总评 1%；课程作业政策提示：尽量当面交或通过 Canvas 提交，邮寄或无人代投风险自负，事后声称已交但老师未收到的一律不受理，迟交/缺交按课程通用作业政策处理。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 6: Dynamics of Rotation",
+      "note": ""
     },
     {
       "id": "cv_3536",
