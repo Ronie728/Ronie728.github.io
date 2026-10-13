@@ -559,6 +559,15 @@
       "source": "College Student Affairs Office"
     },
     {
+      "id": "note:email_sync:20261012",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 12",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 12, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:909:4160",
       "type": "notice",
       "title": "GE2134 Argument Map",
@@ -592,17 +601,6 @@
       "postedAt": "2026-09-28"
     },
     {
-      "id": "cv:759:4036",
-      "type": "notice",
-      "title": "Please check your lab session assignments!",
-      "summary": "Dear students, I noticed today that some of you mixed up…",
-      "detail": "Dear students, I noticed today that some of you mixed up your assigned date of your lab session. Do notice that you only need to attend one session, and your assigned session can be found on Canvas > People > Groups . In case you come to a session earlier than your designated one, you can do the lab provided there being enough capacity. In case you forget your lab, please email me, and I will try to put you into a later session provided there being enough capacity in later sessions. Regards, Michael Cao",
-      "meta": "PHY1201",
-      "source": "Canvas · PHY1201",
-      "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/4036",
-      "postedAt": "2026-09-22"
-    },
-    {
       "id": "cv:790:4048",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
@@ -614,24 +612,15 @@
       "postedAt": "2026-09-22"
     },
     {
-      "id": "cv:783:4027",
+      "id": "cv:759:4036",
       "type": "notice",
-      "title": "线上课程学习内容",
-      "summary": "各位同学： 线上课程学习内容已上传到Files，请及时观看学习。学习完成时间与国家安全教育课程学习时间同步。",
-      "detail": "各位同学： 线上课程学习内容已上传到Files，请及时观看学习。学习完成时间与国家安全教育课程学习时间同步。 各位同学每周应完成至少两个课程视频的观看学习任务，学习任务完成情况将以课堂小测（Quiz）的形式进行检验。",
-      "meta": "GE1632",
-      "source": "Canvas · GE1632",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/783/discussion_topics/4027",
-      "postedAt": "2026-09-21"
-    },
-    {
-      "id": "note:email_sync:20261012",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 12",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 12, 2026",
-      "source": "CampusDesk afternoon sync"
+      "title": "Please check your lab session assignments!",
+      "summary": "Dear students, I noticed today that some of you mixed up…",
+      "detail": "Dear students, I noticed today that some of you mixed up your assigned date of your lab session. Do notice that you only need to attend one session, and your assigned session can be found on Canvas > People > Groups . In case you come to a session earlier than your designated one, you can do the lab provided there being enough capacity. In case you forget your lab, please email me, and I will try to put you into a later session provided there being enough capacity in later sessions. Regards, Michael Cao",
+      "meta": "PHY1201",
+      "source": "Canvas · PHY1201",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/759/discussion_topics/4036",
+      "postedAt": "2026-09-22"
     }
   ],
   "emails": [
@@ -1212,7 +1201,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "DSC1001",
@@ -1225,7 +1214,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "EN1002",
@@ -1238,7 +1227,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "GE1632",
@@ -1251,7 +1240,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "GE2134",
@@ -1264,7 +1253,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "IP1901",
@@ -1279,7 +1268,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "MA1300",
@@ -1297,7 +1286,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "ME1921",
@@ -1310,7 +1299,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     },
     {
       "code": "PHY1201",
@@ -1329,7 +1318,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-13"
     }
   ],
   "canvasEvents": [
@@ -1501,6 +1490,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-12",
-  "canvasInsightsSyncedTs": "2026-10-12T09:49:06+08:00"
+  "canvasInsightsSyncedAt": "2026-10-13",
+  "canvasInsightsSyncedTs": "2026-10-13T08:36:12+08:00"
 }
