@@ -446,6 +446,19 @@
       "note": "已于 2026-10-10 提交（成绩未出，满分 10）"
     },
     {
+      "id": "cv_3634",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "总体国家安全观案例分析作业",
+      "due": "2026-10-31T23:59:59+08:00",
+      "dueTime": "23:59",
+      "points": 100,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3634",
+      "requirement": "要你做什么：阅读案例材料，运用总体国家安全观的相关知识，简要说明内部安全与外部安全之间是如何相互影响的；结合修例风波、香港国安法、涉疆对外斗争的案例，谈谈我国应当如何统筹好内部安全和外部安全。\n\n交付什么：上传到 Canvas 提交（online upload）；需使用课程提供的模板「总体国家安全观案例分析作业.docx」，可参考「分档评价参考-1.docx」的评分分档。\n\n什么时候交：2026-10-31 23:59（Canvas 显示）。满分 100 分。\n\n额外要求（Canvas 原文）：1. 理论联系材料案例，厉清内外安全之间的逻辑关系，避免单纯复述材料；2. 对策部分要有现实针对性，忌空泛口号，提出的建议需要具备可行性；3. 可结合总体国家安全观其他重要维度（政治安全、非传统安全、共同安全等）展开；4. 作答以题干给定材料为依据，不使用网络非官方来源信息；5. 字数不少于 800 字。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 总体国家安全观案例分析作业"
+    },
+    {
       "id": "cv_3319",
       "course": "IP 1901 · 习近平新时代中国特色社会主义思想概论",
       "title": "课堂参与一",
@@ -518,34 +531,19 @@
       "note": "已于 2026-09-22 提交（得分 10/10）"
     },
     {
-      "id": "cv_3468",
-      "course": "PHY 1201 · General Physics I",
-      "title": "Concept Questions on Work and Energy",
+      "id": "cv_3623",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "文化安全测试题",
       "due": "",
       "dueTime": "",
+      "points": 10,
       "status": "submitted",
-      "points": 0,
-      "requirement": "要你做什么：关于功、动能、势能与能量守恒的概念题（concept questions），作为学习资源的选做练习（optional practice quiz）。\n\n说明：官方说明为不计分、不计入总评。\n\n什么时候交：无截止日期。",
+      "score": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3623",
+      "requirement": "在线测试（Canvas Quiz），无文字说明。",
+      "note": "已于 2026-10-13 提交（得分 10/10）",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Concept Questions on Work and Energy",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3468",
-      "note": "已于 2026-09-23 提交（练习性质，不计分）"
-    },
-    {
-      "id": "cv_3463",
-      "course": "PHY 1201 · General Physics I",
-      "title": "Submit Lab Report",
-      "due": "",
-      "dueTime": "",
-      "status": "submitted",
-      "points": 30,
-      "requirement": "要你做什么：完成实验课后提交实验报告（Lab Report）。\n\n交付什么：按课程提供的实验报告模板撰写（模板链接见 Canvas 该作业页）。\n\n什么时候交：以本人实验课日期起 2 周内为截止——不同同学实验日期不同，Canvas 页面显示的截止时间不适用；你的第一次实验课为 9 月 29 日（周二）。\n\n额外要求：实验报告占期末总成绩 3%。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Submit Lab Report",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3463",
-      "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
-      "dueAssumed": "2026-10-13T12:20:00+08:00",
-      "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
+      "canvasPath": "Canvas → GE1632 → Assignments → 文化安全测试题"
     },
     {
       "id": "cv_3620",
@@ -578,32 +576,34 @@
       "canvasPath": "Canvas → GE1632 → Assignments → 金融安全测试题"
     },
     {
-      "id": "cv_3623",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "文化安全测试题",
+      "id": "cv_3468",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Concept Questions on Work and Energy",
       "due": "",
       "dueTime": "",
-      "points": 10,
       "status": "submitted",
-      "score": 10,
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3623",
-      "requirement": "在线测试（Canvas Quiz），无文字说明。",
-      "note": "已于 2026-10-13 提交（得分 10/10）",
+      "points": 0,
+      "requirement": "要你做什么：关于功、动能、势能与能量守恒的概念题（concept questions），作为学习资源的选做练习（optional practice quiz）。\n\n说明：官方说明为不计分、不计入总评。\n\n什么时候交：无截止日期。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 文化安全测试题"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Concept Questions on Work and Energy",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3468",
+      "note": "已于 2026-09-23 提交（练习性质，不计分）"
     },
     {
-      "id": "cv_3634",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "总体国家安全观案例分析作业",
-      "due": "2026-10-31T23:59:59+08:00",
-      "dueTime": "23:59",
-      "points": 100,
-      "status": "pending",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3634",
-      "requirement": "要你做什么：阅读案例材料，运用总体国家安全观的相关知识，简要说明内部安全与外部安全之间是如何相互影响的；结合修例风波、香港国安法、涉疆对外斗争的案例，谈谈我国应当如何统筹好内部安全和外部安全。\n\n交付什么：上传到 Canvas 提交（online upload）；需使用课程提供的模板「总体国家安全观案例分析作业.docx」，可参考「分档评价参考-1.docx」的评分分档。\n\n什么时候交：2026-10-31 23:59（Canvas 显示）。满分 100 分。\n\n额外要求（Canvas 原文）：1. 理论联系材料案例，厉清内外安全之间的逻辑关系，避免单纯复述材料；2. 对策部分要有现实针对性，忌空泛口号，提出的建议需要具备可行性；3. 可结合总体国家安全观其他重要维度（政治安全、非传统安全、共同安全等）展开；4. 作答以题干给定材料为依据，不使用网络非官方来源信息；5. 字数不少于 800 字。",
+      "id": "cv_3463",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Submit Lab Report",
+      "due": "",
+      "dueTime": "",
+      "status": "submitted",
+      "points": 30,
+      "requirement": "要你做什么：完成实验课后提交实验报告（Lab Report）。\n\n交付什么：按课程提供的实验报告模板撰写（模板链接见 Canvas 该作业页）。\n\n什么时候交：以本人实验课日期起 2 周内为截止——不同同学实验日期不同，Canvas 页面显示的截止时间不适用；你的第一次实验课为 9 月 29 日（周二）。\n\n额外要求：实验报告占期末总成绩 3%。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 总体国家安全观案例分析作业"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Submit Lab Report",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3463",
+      "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
+      "dueAssumed": "2026-10-13T12:20:00+08:00",
+      "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
     }
   ],
   "notes": [
@@ -804,6 +804,48 @@
       "score": 10,
       "status": "complete",
       "submittedAt": "2026-09-22T09:06:24Z",
+      "questions": []
+    },
+    {
+      "id": "q1195",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "经济安全测试题",
+      "due": null,
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1195",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-13T08:57:58Z",
+      "questions": []
+    },
+    {
+      "id": "q1196",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "金融安全测试题",
+      "due": null,
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1196",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-13T09:00:32Z",
+      "questions": []
+    },
+    {
+      "id": "q1197",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "文化安全测试题",
+      "due": null,
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1197",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-13T09:02:51Z",
       "questions": []
     },
     {
@@ -1233,8 +1275,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-13",
-  "canvasSyncedTs": "2026-10-13T13:01:41+08:00",
+  "canvasSyncedAt": "2026-10-14",
+  "canvasSyncedTs": "2026-10-14T13:51:51+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
