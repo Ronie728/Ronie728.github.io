@@ -657,17 +657,6 @@
       "source": "Canvas · GE1632",
       "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4075",
       "postedAt": "2026-09-28"
-    },
-    {
-      "id": "cv:790:4048",
-      "type": "quiz",
-      "title": "In-Class Quiz Reminder",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our second in-class quiz tomorrow (23rd). The quiz will be distributed in the lecture (i.e., printed questions). The quiz will cover materials from lectures 2, 3, and parts of lecture 4 (the slides will be uploaded shortly). The quiz consists of 10 multiple-choice and short-answer questions, and the duration is 30 minutes. Possible topics are (but not limited to) types of variables, describing distributions of variables, simple calculation of summary statistics, and some common irregularities found in data. The quiz will be closed-book, and all answers must be in English. best, Bowen Tan",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/4048",
-      "postedAt": "2026-09-22"
     }
   ],
   "emails": [
@@ -1290,7 +1279,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "DSC1001",
@@ -1303,7 +1292,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "EN1002",
@@ -1316,7 +1305,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "GE1632",
@@ -1329,7 +1318,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "GE2134",
@@ -1342,7 +1331,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "IP1901",
@@ -1357,7 +1346,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "MA1300",
@@ -1375,7 +1364,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "ME1921",
@@ -1388,7 +1377,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "code": "PHY1201",
@@ -1407,7 +1396,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     }
   ],
   "canvasEvents": [
@@ -1579,6 +1568,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-14",
-  "canvasInsightsSyncedTs": "2026-10-14T08:42:11+08:00"
+  "canvasInsightsSyncedAt": "2026-10-15",
+  "canvasInsightsSyncedTs": "2026-10-15T09:18:29+08:00"
 }
