@@ -464,7 +464,7 @@
       "title": "课堂参与一",
       "due": "2026-12-04T23:59:59+08:00",
       "dueTime": "23:59",
-      "status": "pending",
+      "status": "submitted",
       "points": 30,
       "requirement": "要你做什么：从四种课堂参与形式中任选两种完成（本学期共两次，对应「课堂参与一」「课堂参与二」）——\n① 文献报告：从课程 reading materials 中选一篇实证论文做报告，围绕「问题意识 / 文献综述 / 研究方法 / 研究结果 / 讨论」五个问题谈自己的体会与评论；\n②「谁不说俺家乡好」：以家乡为样本，用中国式现代化理论分析一个具体变化案例（一项政策、一个产业或一种文化现象）；\n③ 辩论赛：题目「人工智能发展是加剧还是缓解了社会不平等？」，需总结辩词；\n④ 无领导小组讨论：50 分钟流程（教师宣布规则 3 分钟 → 独立思考 5 分钟 → 自由讨论约 30 分钟 → 形成共识并总结约 5 分钟），需总结讨论内容。\n\n交付什么：① ② 需制作 PPT，课堂报告 15–20 分钟，课后把 PPT 上传 Canvas；③ ④ 需把辩词 / 讨论总结整理成 Word，课后上传 Canvas。\n\n什么时候交：Canvas 截止 2026-12-04 23:59（实际按课堂展示安排进行，早完成更主动）。\n\n分值：30 分，占总评比重较大。",
       "requirementSource": "Canvas 同步",
@@ -617,15 +617,6 @@
       "source": "College Student Affairs Office"
     },
     {
-      "id": "note:email_sync:20261013",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 13",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 13, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:909:4160",
       "type": "notice",
       "title": "GE2134 Argument Map",
@@ -657,6 +648,15 @@
       "source": "Canvas · GE1632",
       "href": "https://cityu-dg.instructure.com/courses/783/discussion_topics/4075",
       "postedAt": "2026-09-28"
+    },
+    {
+      "id": "note:email_sync:20261015",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 15",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 15, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1265,7 +1265,7 @@
     }
   ],
   "canvasSyncedAt": "2026-10-15",
-  "canvasSyncedTs": "2026-10-15T09:16:42+08:00",
+  "canvasSyncedTs": "2026-10-15T14:08:02+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
