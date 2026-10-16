@@ -355,7 +355,8 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → ME1921 → Assignments → 大学生如何在履行国防义务中发挥作用？",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/750/assignments/3402",
-      "note": "已于 2026-09-10 提交，已出分 9/10。"
+      "note": "已于 2026-09-10 提交，已出分 9/10（Canvas API 核实，评分时间 2026-10-08）。",
+      "score": 9
     },
     {
       "id": "cv_3469",
@@ -429,7 +430,8 @@
       "requirement": "①在 Assignment1.ipynb 中标注 “#your code here” 处作答，不得增删/复制单元格或改动其他文字与代码，否则该题 0 分；②交付：作答处删掉 pass，代码须通过题下方 #tests 测试单元格（无报错即对），上传该 ipynb 文件；③交到 Canvas→Assignments→Assignment 1，截止 10-14 08:30，逾期 0 分；④共 10 分、每题无部分分，批改时加隐藏测试（仅过可见测试仍可能 0 分）；可查资料，但直接复制他人（含 AI）代码属抄袭，双方均 0 分。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → CS1302 → Assignments → Assignment 1 - Number Conversion",
-      "note": "已于 2026-09-22 提交（成绩未出）"
+      "note": "已于 2026-09-22 提交。CS1302 作业1「Number Conversion」已出分 10/10（Canvas API 核实，评分时间 2026-10-15 10:46）。",
+      "score": 10
     },
     {
       "id": "cv_3615",
@@ -528,7 +530,8 @@
       "requirement": "在线测试（Canvas Quiz），无文字说明。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → GE1632 → Assignments → 总体国家安全观测试题",
-      "note": "已于 2026-09-22 提交（得分 10/10）"
+      "note": "已于 2026-09-22 提交（得分 10/10）。总体国家安全观测试题已出分 10/10（Canvas API 核实，评分时间 2026-09-22）。",
+      "score": 10
     },
     {
       "id": "cv_3623",
@@ -699,6 +702,126 @@
     }
   ],
   "emails": [
+    {
+      "id": "e47",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "CS1302 Introduction to Computer Programming",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Submission Posted: Assignment 1 - Number Conversion, CS1302 Introduction to Computer Programming (1159)",
+      "snippet": "CS1302 作业1（进制转换）已出分 10/10，10/15 10:46 完成批改。",
+      "body": "Canvas 通知：CS1302 Introduction to Computer Programming 的「Assignment 1 - Number Conversion」（进制转换）已发布成绩与批注，评分时间 2026-10-15 10:46。经 Canvas API 核实：得分 10/10（满分 10），状态 graded，于 2026-10-11 提交、未迟交。CampusDesk 的 assignments 中 cs1302 该记录此前未记分数，本次已补为 10。可到 Canvas 查看教师批注。此件为成绩通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-16T00:11:49+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3473"
+    },
+    {
+      "id": "e46",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "PE Teaching Team 体育教学组",
+      "senderEmail": "peteam@cityu-dg.edu.cn",
+      "subject": "【活动邀请】2026“奔跑吧・少年” 暨 “点亮粤港澳・活力大湾区” 线上快乐跑活动 | 2026 'Running・Youth' & 'Light up Guangdong-Hong Kong-Macao, Vibrant Greater Bay Area' Online Fun Run Invitation",
+      "snippet": "线上快乐跑 10/1–12/31：每日 3 公里打卡点亮站点，小程序自行注册，可拿证书。",
+      "body": "体育教学组邀请：2026 年「奔跑吧・少年」儿童青少年主题健身暨「点亮粤港澳・活力大湾区」线上快乐跑，面向全校教职工与同学。活动时间 2026-10-01 至 2026-12-31（共 92 天），参赛组别为高等院校组；打卡规则为每日累计完成 3 公里、点亮 1 个线上虚拟站点（当日超额里程不计入下一站）。学校层面的单位报名已由体育教学组统一完成，个人只需在微信公众号／小程序【广东青少年体育】菜单栏【体育活动】→【点亮粤港澳】进入活动页，在【个人中心】填写信息、选择「学生」完成个人注册，随后自行选择安全场地跑步并在活动页记录里程、阅读体育科普知识。证书激励：点亮 21 站得半马挑战达人电子证书；42 站得全马挑战达人电子纪念证书；每月站点排行榜前 100 名得大湾区月度领跑电子证书；总排行前 100 名得年度领跑电子证书 + 实物纪念品（邮寄）。奖项评选将于 2027-01-15 前完成，证书在平台自动发放。可个人参赛也可自由组队，属自愿参与，无需回复。",
+      "eventTime": "",
+      "location": "线上（微信公众号/小程序：广东青少年体育）",
+      "time": "2026年10月1日–12月31日（共92天，每日3公里打卡）",
+      "receivedAt": "2026-10-15T11:05:32+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e45",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "StudentUnion 学生会",
+      "senderEmail": "su@cityu-dg.edu.cn",
+      "subject": " 2026年松山湖“食安校园”大学生食品安全知识科普宣传活动志愿者招募 | Volunteer Recruitment for the 2026 Songshan Lake Food Safety on Campus Awareness Event for University Students",
+      "snippet": "食品安全科普志愿招募14人（10/23 16:00–19:00），报名截止 10/17 17:00。",
+      "body": "校学生会招募：面向本校同学招募 14 名志愿者，协助松山湖商务与投资促进局开展 2026 年松山湖「食安校园」大学生食品安全知识科普宣传活动。服务时间 2026 年 10 月 23 日（周五）16:00–19:00，地点在香港城市大学（东莞）宿舍楼下区域，每人预计服务 3 小时。岗位及人数：签到岗 2 人、兑奖岗 2 人、游戏岗 8 人、科普岗 2 人。报名截止 2026 年 10 月 17 日（周六）17:00，需扫描邮件内二维码报名；若尚未注册为服务队志愿者，需先按注册指引（公众号推文）完成注册再报名。注意：英文版说明中提到报名图片上标注的起始时间为 15:00，与正文 16:00 不一致，以正文 16:00–19:00 为准。活动联系人及电话见原邮件。属自愿报名，需在截止前决定。",
+      "eventTime": "2026-10-23T16:00:00+08:00",
+      "location": "香港城市大学（东莞）宿舍楼下区域",
+      "time": "2026年10月23日（周五）16:00–19:00",
+      "receivedAt": "2026-10-15T08:41:43+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e44",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "Career Development Centre 学生事务处（职业发展）",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": "【往返大巴报名】近期招聘会大巴报名 | Round-Trip Shuttle Bus Arrangements for the Recent Job Fairs",
+      "snippet": "两场招聘会往返大巴报名截止 10/19 12:00（学工系统，先到先得）。",
+      "body": "学生事务处（职业发展）通知：为两场近期招聘活动提供往返大巴，报名于 2026-10-14 开放，报名截止 2026 年 10 月 19 日（周一）12:00。①「千行万业人才招聘会」2027 届毕业生招聘会（综合类），2026-10-23（周五）在华南理工大学（广州）举行，大巴名额 40，活动时间待通知；②「百万英才汇南粤」2026 年东莞市招聘会，2026-10-25–26 在大湾区大学（东莞）举行（10-25 9:00–16:30、10-26 9:00–14:00），大巴名额 80，10-25 9:00 从香港城市大学（东莞）东门发车、16:30 返程。两场均面向全体学生（2027/2028/2029 届为重点对象），大巴需报名满 15 人及以上才发车，名额先到先得。报名路径：学生事务系统 → 日常事务 → 学生活动，或用企业微信扫码。成功报名者会在活动前两天被拉群，未被拉群视为未成功；乘坐大巴请预留全天时间、勿爽约，否则计入诚信管理名单。有意向需在 10/19 12:00 前通过学工系统确认。",
+      "eventTime": "",
+      "location": "大巴乘车点：香港城市大学（东莞）东门",
+      "time": "报名截止 2026年10月19日（周一）12:00；活动 10/23 广州、10/25–26 东莞",
+      "receivedAt": "2026-10-14T16:36:55+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e43",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE1632 大学生国家安全教育课 National Security Education Course",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: 经济安全测试题 / 金融安全测试题 / 文化安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
+      "snippet": "GE1632 经济/金融/文化安全测试题已出分，各 10/10（10/13 批改）。",
+      "body": "Canvas 通知：GE1632 大学生国家安全教育课三份测试题已评分 —— 经济安全测试题（2026-10-13 16:57 批改）、金融安全测试题（2026-10-13 17:00 批改）、文化安全测试题（2026-10-13 17:02 批改）。经 Canvas API 核实：三项得分均为 10/10（满分 10），状态 graded，均未迟交。CampusDesk 的 assignments 中三项对应记录的分数已为 10，无需再改；可到 Canvas 查看批注。此件为成绩通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-13T18:03:28+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3620"
+    },
+    {
+      "id": "e42",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "GE2134 Critical and Creative Thinking",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "GE2134 Argument Map: GE2134 Critical and Creative Thinking (1197)",
+      "snippet": "GE2134 老师上传 argument map 范例，10/22 课堂内作业与之类似。",
+      "body": "Canvas 公告：GE2134 Critical and Creative Thinking 授课教师已将议论文「School Day Should Not Be Lengthened」的 argument map（论证图）范例上传到课程的 Week 5 文件夹，供同学参考。教师在公告中说明，该任务与 2026-10-22（周四）即将进行的课堂内作业（in-class assignment）形式相似，建议提前熟悉 argument map 的写法。邮件未给出 10/22 的具体上课时间，以课程表／Canvas 公告为准。此件为课程公告，无需回复。",
+      "eventTime": "2026-10-22T00:00:00+08:00",
+      "location": "",
+      "time": "2026年10月22日（周四）课堂内，具体时间见课程安排",
+      "receivedAt": "2026-10-12T00:10:36+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/909/announcements"
+    },
+    {
+      "id": "e41",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Instructure Canvas",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Recent Canvas Notifications",
+      "snippet": "PHY1201 WA6（刚体转动）10/16 23:59 截止，已于 10/10 提交待评分。",
+      "body": "Canvas 每周汇总（覆盖至 10 月 10 日）通知：PHY1201 General Physics I 新增作业「Written Assignment 6: Dynamics of Rotation」（刚体转动动力学），满分 10 分，截止 2026 年 10 月 16 日 23:59。经 Canvas API 核实：该作业状态为已提交（submitted，提交时间 2026-10-10）、尚未评分，未迟交。CampusDesk 的 assignments 已有对应记录，无需新增。建议：留意批改结果；若发现提交内容有误，需在 10/16 23:59 前重新提交。此件为课程通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "2026年10月16日 23:59 截止",
+      "receivedAt": "2026-10-10T17:06:08+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3615"
+    },
+    {
+      "id": "e40",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "Research Office 科研管理处",
+      "senderEmail": "research@cityu-dg.edu.cn",
+      "subject": " 关于第二十届广东省科普作品创作大赛的通知 Notice on the 20th Guangdong Science Popularization Works Creation Competition",
+      "snippet": "广东省科普作品创作大赛（高校组）10/30 前上传作品，免费，含 AIGC 赛道。",
+      "body": "科研管理处通知：广东省科协联合省教育厅、省科技厅举办第二十届广东省科普作品创作大赛，主题「智绘十五五·科普创未来」，面向全省科技工作者及师生（含港澳籍），可个人或组队参赛（每队不超过 5 人），在校学生参加高校组，东莞属第一赛区。赛项两类：①「科普+」创作赛，从农业科技与乡村振兴／生命健康与公共安全／趣味科学与生活科普／绿色发展与生态保护四个方向选一创作；②AIGC 创作分享赛，分线上命题创作与线下答辩两环节，用 AI 工具创作科普短剧，各赛区综合评分前 15 名进入线下答辩。奖项设一、二、三等奖及优秀奖，一等奖创作者有机会纳入「青年科学主理人」队伍。赛程：9–10 月宣传征集、10–11 月评选、11–12 月展览应用。大赛不收报名费、参赛费，需于 2026-10-30 前在「粤科普创作平台」上传报名材料与作品，每人/每队每个赛项最多报送 1 份。有意参赛需在 10/30 前完成上传；咨询方式见原邮件。",
+      "eventTime": "",
+      "location": "线上（粤科普创作平台）",
+      "time": "报名材料与作品上传截止 2026年10月30日",
+      "receivedAt": "2026-10-09T11:10:14+08:00",
+      "mailUrl": "#"
+    },
     {
       "id": "e38",
       "category": "notice",
