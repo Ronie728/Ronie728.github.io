@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -604,6 +604,45 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
+    },
+    {
+      "id": "cv_3643",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 7: Mechanical Waves",
+      "due": "2026-10-23T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3643",
+      "requirement": "①要你做什么：从题池中自选 3 道题，手写在纸上完成。题池范围为第 11 章全部（Chapter 11: All），扫描版习题页 Exercise_Chapter_11 见 Canvas 本作业页。\n\n②交付什么：手写解答，每题须标明章节与习题号，写出推理与计算过程（不能只写最终答案），字迹要能看清，必须独立完成；多页时建议合并成单个 PDF，电子提交需保证每页清晰、方向正确。\n\n③交到哪、什么时候交：2026-10-23 23:59 前，可当堂直接交给老师或助教，也可扫描/拍照后通过 Canvas 本作业提交。\n\n④额外要求：占期末总成绩 1%；手写作业主要检查完成度与认真程度而非逐行精批，仍鼓励认真作答；邮寄或无人代投风险自负，事后声称已交但老师未收到的一律不受理，迟交/缺交按课程通用作业政策处理。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 7: Mechanical Waves"
+    },
+    {
+      "id": "cv_3651",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 6: Dynamics of Rotation",
+      "due": "2026-10-23T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3651",
+      "requirement": "要你做什么：在线小测，覆盖刚体转动动力学（Dynamics of Rotation）。Canvas 原文只给出计分与答题规则，未附题目范围之外的说明。\n\n答题规则：每题 3 次尝试机会；开始作答后有 3 天（4320 分钟）时限，超时 Canvas 会自动提交；到截止时间仍未手动提交，Canvas 也会自动提交。数值答案不要带单位；允许 ±5% 容差，最多填 4 位小数（多填会被自动四舍五入）。\n\n什么时候交：Canvas 截止 2026-10-23 23:59。\n\n分值：占期末总成绩 1%（Canvas 原文：This quiz is worth 1% of your final grade）。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 6: Dynamics of Rotation"
+    },
+    {
+      "id": "cv_3652",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 7: Mechanical Waves",
+      "due": "2026-10-23T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3652",
+      "requirement": "要你做什么：在线小测，覆盖机械波（Mechanical Waves）。Canvas 原文只给出计分与答题规则，未附题目范围之外的说明。\n\n答题规则：每题 3 次尝试机会；开始作答后有 3 天（4320 分钟）时限，超时 Canvas 会自动提交；到截止时间仍未手动提交，Canvas 也会自动提交。数值答案不要带单位；允许 ±5% 容差，最多填 4 位小数（多填会被自动四舍五入）。\n\n什么时候交：Canvas 截止 2026-10-23 23:59。\n\n分值：占期末总成绩 1%（Canvas 原文：This quiz is worth 1% of your final grade）。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 7: Mechanical Waves"
     }
   ],
   "notes": [
