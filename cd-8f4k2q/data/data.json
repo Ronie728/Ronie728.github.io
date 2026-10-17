@@ -483,7 +483,7 @@
       "title": "Written Assignment 7: Mechanical Waves",
       "due": "2026-10-23T23:59:59+08:00",
       "dueTime": "23:59",
-      "status": "pending",
+      "status": "submitted",
       "points": 10,
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3643",
       "requirement": "①要你做什么：从题池中自选 3 道题，手写在纸上完成。题池范围为第 11 章全部（Chapter 11: All），扫描版习题页 Exercise_Chapter_11 见 Canvas 本作业页。\n\n②交付什么：手写解答，每题须标明章节与习题号，写出推理与计算过程（不能只写最终答案），字迹要能看清，必须独立完成；多页时建议合并成单个 PDF，电子提交需保证每页清晰、方向正确。\n\n③交到哪、什么时候交：2026-10-23 23:59 前，可当堂直接交给老师或助教，也可扫描/拍照后通过 Canvas 本作业提交。\n\n④额外要求：占期末总成绩 1%；手写作业主要检查完成度与认真程度而非逐行精批，仍鼓励认真作答；邮寄或无人代投风险自负，事后声称已交但老师未收到的一律不受理，迟交/缺交按课程通用作业政策处理。",
@@ -738,66 +738,6 @@
       "id": "e49"
     },
     {
-      "category": "notice",
-      "needsReply": false,
-      "sender": "infohub 校园电子通讯",
-      "senderEmail": "infohub@cityu-dg.edu.cn",
-      "subject": "香港城市大学（东莞）电子通讯第100期 / CityUHK (DG) Newsletter Issue 100",
-      "snippet": "电子通讯100期：3D打印培训10/19、HK Tech 300决赛10/21、心理活动至11/1。",
-      "body": "学校电子通讯第 100 期，本期「活动预告」列出三项：\n① 心理成长中心十月活动：2026 年 10 月 1 日–11 月 1 日，地点校内；\n② 3D 打印专题培训第 4 期：2026 年 10 月 19 日（周一）10:00–11:00，图书馆 2 楼大厅；\n③ 第四届 HK Tech 300 全国创新创业千万大赛（东莞赛区）决赛：2026 年 10 月 21 日（周三）08:30–17:20，学术楼五座陈梓红报告厅 AC5-102。\n\n另含「大学要闻」「媒体报道」栏目（如本校 41 位学者入选 2026 年全球前 2% 顶尖科学家榜单等），属资讯汇总。3D 打印培训的报名细节另见图书馆同日发出的专项通知（已单独入库）。本期为周期性通讯，无单次活动日期，故不设 eventTime。无需回复。",
-      "eventTime": "",
-      "location": "校内 / 图书馆2楼大厅 / 学术楼五座 AC5-102",
-      "time": "",
-      "receivedAt": "2026-10-16T18:02:13+08:00",
-      "mailUrl": "#",
-      "id": "e50"
-    },
-    {
-      "category": "notice",
-      "needsReply": false,
-      "sender": "PHY1201 General Physics I",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Quiz 7: Mechanical Waves, PHY1201 General Physics I (1240)",
-      "snippet": "PHY1201 Quiz 7（机械波）已出分 10/10，满分。",
-      "body": "Canvas 通知：PHY1201 General Physics I 的「Quiz 7: Mechanical Waves」（机械波）已批改，评分时间 2026-10-16 19:08。经 Canvas API 核实：得分 10/10（满分 10），状态 graded，2026-10-16 提交，第 1 次作答即完成。CampusDesk 的 assignments 中该记录此前为「已提交、成绩未出」，本次已补 score=10 并更新备注。此件为成绩通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-16T20:09:07+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3652",
-      "id": "e51"
-    },
-    {
-      "category": "notice",
-      "needsReply": false,
-      "sender": "PHY1201 General Physics I",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Quiz 6: Dynamics of Rotation, PHY1201 General Physics I (1240)",
-      "snippet": "PHY1201 Quiz 6（刚体转动动力学）已出分 10/10，满分。",
-      "body": "Canvas 通知：PHY1201 General Physics I 的「Quiz 6: Dynamics of Rotation」（刚体转动动力学）已批改，评分时间 2026-10-16 17:27。经 Canvas API 核实：得分 10/10（满分 10），状态 graded，2026-10-16 提交，第 1 次作答即完成。CampusDesk 的 assignments 中该记录此前为「已提交、成绩未出」，本次已补 score=10 并更新备注。此件为成绩通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-16T18:27:31+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3651",
-      "id": "e52"
-    },
-    {
-      "id": "e47",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "CS1302 Introduction to Computer Programming",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Submission Posted: Assignment 1 - Number Conversion, CS1302 Introduction to Computer Programming (1159)",
-      "snippet": "CS1302 作业1（进制转换）已出分 10/10，10/15 10:46 完成批改。",
-      "body": "Canvas 通知：CS1302 Introduction to Computer Programming 的「Assignment 1 - Number Conversion」（进制转换）已发布成绩与批注，评分时间 2026-10-15 10:46。经 Canvas API 核实：得分 10/10（满分 10），状态 graded，于 2026-10-11 提交、未迟交。CampusDesk 的 assignments 中 cs1302 该记录此前未记分数，本次已补为 10。可到 Canvas 查看教师批注。此件为成绩通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-16T00:11:49+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3473"
-    },
-    {
       "id": "e46",
       "category": "activity",
       "needsReply": false,
@@ -841,21 +781,6 @@
       "time": "报名截止 2026年10月19日（周一）12:00；活动 10/23 广州、10/25–26 东莞",
       "receivedAt": "2026-10-14T16:36:55+08:00",
       "mailUrl": "#"
-    },
-    {
-      "id": "e43",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 大学生国家安全教育课 National Security Education Course",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 经济安全测试题 / 金融安全测试题 / 文化安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 经济/金融/文化安全测试题已出分，各 10/10（10/13 批改）。",
-      "body": "Canvas 通知：GE1632 大学生国家安全教育课三份测试题已评分 —— 经济安全测试题（2026-10-13 16:57 批改）、金融安全测试题（2026-10-13 17:00 批改）、文化安全测试题（2026-10-13 17:02 批改）。经 Canvas API 核实：三项得分均为 10/10（满分 10），状态 graded，均未迟交。CampusDesk 的 assignments 中三项对应记录的分数已为 10，无需再改；可到 Canvas 查看批注。此件为成绩通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-13T18:03:28+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3620"
     },
     {
       "id": "e42",
@@ -1466,10 +1391,10 @@
       "points": 10,
       "questionCount": 9,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1200",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-16T09:27:06Z",
       "questions": []
     },
     {
@@ -1480,10 +1405,10 @@
       "points": 10,
       "questionCount": 10,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1201",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-16T11:08:38Z",
       "questions": []
     },
     {
@@ -1534,8 +1459,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-16",
-  "canvasSyncedTs": "2026-10-16T13:02:10+08:00",
+  "canvasSyncedAt": "2026-10-17",
+  "canvasSyncedTs": "2026-10-17T09:35:43+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
