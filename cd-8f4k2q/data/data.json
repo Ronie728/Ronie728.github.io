@@ -453,12 +453,14 @@
       "title": "Quiz 6: Dynamics of Rotation",
       "due": "2026-10-23T23:59:59+08:00",
       "dueTime": "23:59",
-      "status": "pending",
+      "status": "submitted",
       "points": 10,
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3651",
       "requirement": "要你做什么：在线小测，覆盖刚体转动动力学（Dynamics of Rotation）。Canvas 原文只给出计分与答题规则，未附题目范围之外的说明。\n\n答题规则：每题 3 次尝试机会；开始作答后有 3 天（4320 分钟）时限，超时 Canvas 会自动提交；到截止时间仍未手动提交，Canvas 也会自动提交。数值答案不要带单位；允许 ±5% 容差，最多填 4 位小数（多填会被自动四舍五入）。\n\n什么时候交：Canvas 截止 2026-10-23 23:59。\n\n分值：占期末总成绩 1%（Canvas 原文：This quiz is worth 1% of your final grade）。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 6: Dynamics of Rotation"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 6: Dynamics of Rotation",
+      "note": "2026-10-16 完成并出分 10/10（满分）；截止 2026-10-23 23:59（Quiz 6：刚体转动动力学）。",
+      "score": 10
     },
     {
       "id": "cv_3652",
@@ -466,12 +468,14 @@
       "title": "Quiz 7: Mechanical Waves",
       "due": "2026-10-23T23:59:59+08:00",
       "dueTime": "23:59",
-      "status": "pending",
+      "status": "submitted",
       "points": 10,
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3652",
       "requirement": "要你做什么：在线小测，覆盖机械波（Mechanical Waves）。Canvas 原文只给出计分与答题规则，未附题目范围之外的说明。\n\n答题规则：每题 3 次尝试机会；开始作答后有 3 天（4320 分钟）时限，超时 Canvas 会自动提交；到截止时间仍未手动提交，Canvas 也会自动提交。数值答案不要带单位；允许 ±5% 容差，最多填 4 位小数（多填会被自动四舍五入）。\n\n什么时候交：Canvas 截止 2026-10-23 23:59。\n\n分值：占期末总成绩 1%（Canvas 原文：This quiz is worth 1% of your final grade）。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 7: Mechanical Waves"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 7: Mechanical Waves",
+      "note": "2026-10-16 完成并出分 10/10（满分）；截止 2026-10-23 23:59（Quiz 7：机械波）。",
+      "score": 10
     },
     {
       "id": "cv_3643",
@@ -484,7 +488,8 @@
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3643",
       "requirement": "①要你做什么：从题池中自选 3 道题，手写在纸上完成。题池范围为第 11 章全部（Chapter 11: All），扫描版习题页 Exercise_Chapter_11 见 Canvas 本作业页。\n\n②交付什么：手写解答，每题须标明章节与习题号，写出推理与计算过程（不能只写最终答案），字迹要能看清，必须独立完成；多页时建议合并成单个 PDF，电子提交需保证每页清晰、方向正确。\n\n③交到哪、什么时候交：2026-10-23 23:59 前，可当堂直接交给老师或助教，也可扫描/拍照后通过 Canvas 本作业提交。\n\n④额外要求：占期末总成绩 1%；手写作业主要检查完成度与认真程度而非逐行精批，仍鼓励认真作答；邮寄或无人代投风险自负，事后声称已交但老师未收到的一律不受理，迟交/缺交按课程通用作业政策处理。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 7: Mechanical Waves"
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 7: Mechanical Waves",
+      "note": "已于 2026-10-16 提交（成绩未出，满分 10）"
     },
     {
       "id": "cv_3634",
@@ -702,6 +707,81 @@
     }
   ],
   "emails": [
+    {
+      "category": "activity",
+      "needsReply": false,
+      "sender": "Library 图书馆",
+      "senderEmail": "library@cityu-dg.edu.cn",
+      "subject": "  3D Printing Workshop No.4 | 3D打印专题培训第4期活动通知",
+      "snippet": "图书馆 3D 打印培训第 4 期 10/19 10:00，报名截止 10/18，限 35 人。",
+      "body": "图书馆通知：第 4 期 3D 打印专题培训将于 2026 年 10 月 19 日（周一）10:00 举行，时长约 40 分钟，地点为图书馆 2 楼大厅 & 创意空间（Lobby & Creative Space）。\n\n报名方式：即日起至 10 月 18 日，扫描邮件内二维码报名；面向全校学生与教职工，限 35 人，先到先得。现场需签到，报名后未按时到场且未提前取消者扣 1 积分。\n\n两点提醒：① 报名人数达 25 人及以上才如期举行，不足 25 人则取消并另择期；② 已参加过上期培训的师生无需重复报名，把名额留给其他人。\n\n与学业/设备的关系：须先完成本次培训，才具备预约使用 3D 打印机的资格；参训者同时获得创意空间预约资格。属自愿报名，截止 10/18，需自行决定是否扫码报名。",
+      "eventTime": "2026-10-19T10:00:00+08:00",
+      "location": "图书馆 2 楼大厅 & 创意空间",
+      "time": "2026年10月19日（周一）10:00，约40分钟（报名截止 10/18）",
+      "receivedAt": "2026-10-16T10:31:10+08:00",
+      "mailUrl": "#",
+      "id": "e48"
+    },
+    {
+      "category": "activity",
+      "needsReply": false,
+      "sender": "College_Student 学院及学术辅助部门",
+      "senderEmail": "college_student@cityu-dg.edu.cn",
+      "subject": " 【正式报名开启】上海・杭州科技研学营报名通知【Registration Now Open】Notice of Shanghai & Hangzhou Technology Study Tour",
+      "snippet": "沪杭研学营正式报名：12/23–29 共 7 天，自费约 4 千，截止 10/21 17:30。",
+      "body": "学院及学术辅助部门通知：上海・杭州科技研学营已由「预报名」转入「正式报名」。\n\n时间：2026 年 12 月 23–29 日，共 7 天（含往返）。地点：杭州 + 上海。\n行程：走访浙江大学、上海交通大学；参访阿里巴巴、宇树科技、云深处、特斯拉等企业；安排知名教授现场授课；完成研学可获浙江大学颁发的结业证书（官网可查）。\n费用：约 8 千元，学校承担 50%，学生自费约 4 千元（以实际支付为准）；含交通、住宿与培训相关费用，不含个人餐饮。\n\n报名：https://v.wjx.cn/vm/e0nQHcn.aspx# （或扫邮件内二维码）。报名截止 2026 年 10 月 21 日（周三）17:30。名额有限，优先未参加过研学的同学。\n联系人：刘宏浩（Honghao LIU）。具体行程以实际出发为准，详见邮件附件。\n\n说明：本条为 9 月那封「预报名通知」（CampusDesk 既有条目 e33）之后的正式报名阶段，报名入口与截止时间以此件为准；同日另有两封同主题重复通知（14:58、15:05），内容一致未重复入库。属自愿报名，需在 10/21 17:30 前决定。",
+      "eventTime": "2026-12-23T00:00:00+08:00",
+      "location": "杭州 + 上海",
+      "time": "2026年12月23–29日（7天，含往返）",
+      "receivedAt": "2026-10-16T15:36:09+08:00",
+      "mailUrl": "https://v.wjx.cn/vm/e0nQHcn.aspx#",
+      "id": "e49"
+    },
+    {
+      "category": "notice",
+      "needsReply": false,
+      "sender": "infohub 校园电子通讯",
+      "senderEmail": "infohub@cityu-dg.edu.cn",
+      "subject": "香港城市大学（东莞）电子通讯第100期 / CityUHK (DG) Newsletter Issue 100",
+      "snippet": "电子通讯100期：3D打印培训10/19、HK Tech 300决赛10/21、心理活动至11/1。",
+      "body": "学校电子通讯第 100 期，本期「活动预告」列出三项：\n① 心理成长中心十月活动：2026 年 10 月 1 日–11 月 1 日，地点校内；\n② 3D 打印专题培训第 4 期：2026 年 10 月 19 日（周一）10:00–11:00，图书馆 2 楼大厅；\n③ 第四届 HK Tech 300 全国创新创业千万大赛（东莞赛区）决赛：2026 年 10 月 21 日（周三）08:30–17:20，学术楼五座陈梓红报告厅 AC5-102。\n\n另含「大学要闻」「媒体报道」栏目（如本校 41 位学者入选 2026 年全球前 2% 顶尖科学家榜单等），属资讯汇总。3D 打印培训的报名细节另见图书馆同日发出的专项通知（已单独入库）。本期为周期性通讯，无单次活动日期，故不设 eventTime。无需回复。",
+      "eventTime": "",
+      "location": "校内 / 图书馆2楼大厅 / 学术楼五座 AC5-102",
+      "time": "",
+      "receivedAt": "2026-10-16T18:02:13+08:00",
+      "mailUrl": "#",
+      "id": "e50"
+    },
+    {
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Quiz 7: Mechanical Waves, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 Quiz 7（机械波）已出分 10/10，满分。",
+      "body": "Canvas 通知：PHY1201 General Physics I 的「Quiz 7: Mechanical Waves」（机械波）已批改，评分时间 2026-10-16 19:08。经 Canvas API 核实：得分 10/10（满分 10），状态 graded，2026-10-16 提交，第 1 次作答即完成。CampusDesk 的 assignments 中该记录此前为「已提交、成绩未出」，本次已补 score=10 并更新备注。此件为成绩通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-16T20:09:07+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3652",
+      "id": "e51"
+    },
+    {
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 General Physics I",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Quiz 6: Dynamics of Rotation, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 Quiz 6（刚体转动动力学）已出分 10/10，满分。",
+      "body": "Canvas 通知：PHY1201 General Physics I 的「Quiz 6: Dynamics of Rotation」（刚体转动动力学）已批改，评分时间 2026-10-16 17:27。经 Canvas API 核实：得分 10/10（满分 10），状态 graded，2026-10-16 提交，第 1 次作答即完成。CampusDesk 的 assignments 中该记录此前为「已提交、成绩未出」，本次已补 score=10 并更新备注。此件为成绩通知，无需回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-16T18:27:31+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3651",
+      "id": "e52"
+    },
     {
       "id": "e47",
       "category": "notice",
