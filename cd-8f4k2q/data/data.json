@@ -744,21 +744,6 @@
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3643"
     },
     {
-      "id": "e52",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "CS1302 Introduction to Computer Programming",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Created - Mock Midterm Test Upload, CS1302 Introduction to Computer Programming (1159)",
-      "snippet": "CS1302 期中模拟上传已开放，无固定截止，考前务必先试传一次。",
-      "body": "Canvas 每周汇总（覆盖至 10 月 17 日）通知里，CS1302 Introduction to Computer Programming 有两项与期中相关的上传任务：\n①「Mock Midterm Test Upload」——期中考试模拟上传入口，邮件标注为无截止日期；\n②「Mock Midterm Upload (Not graded, just to make sure there are no issues)」——不计分，仅用于确认上传流程没有问题，邮件标注截止 2026 年 10 月 14 日 13:00，现已过期。\n说明：查询 Canvas API 当前未列出这两个作业（应已归档或删除），因此没有可用的确切截止时间，也未查到 CS1302 期中的正式考试时间。\n建议：真正的期中考试前，先在 Canvas 用模拟入口试传一次文件，确认文件格式、页数与网络都没问题，避免正式考试时上传失败。此件为课程通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-17T15:49:29+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/898/assignments"
-    },
-    {
       "category": "activity",
       "needsReply": false,
       "sender": "Library 图书馆",
@@ -1510,8 +1495,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-18",
-  "canvasSyncedTs": "2026-10-18T13:06:08+08:00",
+  "canvasSyncedAt": "2026-10-19",
+  "canvasSyncedTs": "2026-10-19T09:38:21+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
