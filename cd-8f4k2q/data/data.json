@@ -699,6 +699,21 @@
   ],
   "emails": [
     {
+      "id": "e53",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "EN1002 English Enhancement Course",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Room for today's class CHANGE: EN1002 English Enhancement Course for Bachelor's degree Students (1080)",
+      "snippet": "EN1002 英语课今日改到 AC3-213 上课，按通知前往。",
+      "body": "Canvas 课程公告（EN1002 English Enhancement Course for Bachelor's degree Students，section 1080）：今日（2026-10-19 周一）的英语课教室有变更，教师要求同学改到学术楼三座 213 室（AC3 room 213）上课。\n邮件未写明原教室是哪一间，也未写明具体上课时间，请以课程表上的上课时段为准。距离上课时间很近，出门前请直接按新地点确认，避免走错。\n此件为课程公告，无需回复；若已错过本节，可到 Canvas 公告页查看教师是否补充了后续安排。",
+      "eventTime": "",
+      "location": "学术楼三座 213 室（AC3-213）",
+      "time": "2026年10月19日（周一）今日课堂，具体上课时间见课程表",
+      "receivedAt": "2026-10-19T08:33:38+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/884/announcements"
+    },
+    {
       "id": "e50",
       "category": "notice",
       "needsReply": true,
