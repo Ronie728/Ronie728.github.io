@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -516,7 +516,7 @@
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → IP1901 → Assignments → 课堂参与一",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/936/assignments/3319",
-      "note": ""
+      "note": "已于 2026-10-15 提交（成绩未出，满分 30）"
     },
     {
       "id": "cv_3320",
