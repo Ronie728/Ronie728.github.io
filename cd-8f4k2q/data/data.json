@@ -688,12 +688,12 @@
       "postedAt": "2026-10-10"
     },
     {
-      "id": "note:email_sync:20261019",
+      "id": "note:email_sync:20261020",
       "type": "notice",
-      "title": "Email sync unavailable on Oct 19",
+      "title": "Email sync unavailable on Oct 20",
       "summary": "QQ Mail offline - reconnect to sync campus mail",
       "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 19, 2026",
+      "meta": "Oct 20, 2026",
       "source": "CampusDesk afternoon sync"
     }
   ],
@@ -1540,8 +1540,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-19",
-  "canvasSyncedTs": "2026-10-19T13:01:56+08:00",
+  "canvasSyncedAt": "2026-10-20",
+  "canvasSyncedTs": "2026-10-20T13:01:51+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
