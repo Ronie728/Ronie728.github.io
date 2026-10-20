@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-20",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -742,21 +742,6 @@
       "time": "2026年10月23日 23:59 截止",
       "receivedAt": "2026-10-17T15:49:29+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3643"
-    },
-    {
-      "category": "activity",
-      "needsReply": false,
-      "sender": "Library 图书馆",
-      "senderEmail": "library@cityu-dg.edu.cn",
-      "subject": "  3D Printing Workshop No.4 | 3D打印专题培训第4期活动通知",
-      "snippet": "图书馆 3D 打印培训第 4 期 10/19 10:00，报名截止 10/18，限 35 人。",
-      "body": "图书馆通知：第 4 期 3D 打印专题培训将于 2026 年 10 月 19 日（周一）10:00 举行，时长约 40 分钟，地点为图书馆 2 楼大厅 & 创意空间（Lobby & Creative Space）。\n\n报名方式：即日起至 10 月 18 日，扫描邮件内二维码报名；面向全校学生与教职工，限 35 人，先到先得。现场需签到，报名后未按时到场且未提前取消者扣 1 积分。\n\n两点提醒：① 报名人数达 25 人及以上才如期举行，不足 25 人则取消并另择期；② 已参加过上期培训的师生无需重复报名，把名额留给其他人。\n\n与学业/设备的关系：须先完成本次培训，才具备预约使用 3D 打印机的资格；参训者同时获得创意空间预约资格。属自愿报名，截止 10/18，需自行决定是否扫码报名。",
-      "eventTime": "2026-10-19T10:00:00+08:00",
-      "location": "图书馆 2 楼大厅 & 创意空间",
-      "time": "2026年10月19日（周一）10:00，约40分钟（报名截止 10/18）",
-      "receivedAt": "2026-10-16T10:31:10+08:00",
-      "mailUrl": "#",
-      "id": "e48"
     },
     {
       "category": "activity",
