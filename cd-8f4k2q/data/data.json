@@ -516,6 +516,16 @@
       "canvasPath": "Canvas → GE1632 → Assignments → 金融安全测试题"
     },
     {
+      "id": "cv_3683",
+      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
+      "title": "Midterm",
+      "due": "",
+      "points": 100,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3683",
+      "dueTime": ""
+    },
+    {
       "id": "cv_3468",
       "course": "PHY 1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
@@ -547,15 +557,6 @@
     }
   ],
   "notes": [
-    {
-      "id": "note:email_sync:20261020",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 20",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 20, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
     {
       "id": "cv:938:4251",
       "type": "notice",
@@ -632,6 +633,15 @@
       "source": "Canvas · CS1302",
       "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
       "postedAt": "2026-10-10"
+    },
+    {
+      "id": "note:email_sync:20261021",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 21",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 21, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1505,7 +1515,7 @@
     }
   ],
   "canvasSyncedAt": "2026-10-21",
-  "canvasSyncedTs": "2026-10-21T11:07:17+08:00",
+  "canvasSyncedTs": "2026-10-21T13:01:42+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
