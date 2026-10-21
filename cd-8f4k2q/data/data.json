@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-07",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     "l01",
@@ -281,6 +281,66 @@
       "note": "已于 2026-10-10 提交（成绩未出，满分 10）"
     },
     {
+      "id": "cv_3659",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "社会安全测试题",
+      "due": "2026-10-20T17:20:00+08:00",
+      "dueTime": "17:20",
+      "status": "submitted",
+      "points": 17,
+      "requirement": "①要做：完成课程「社会安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 社会安全测试题，2026-10-20 17:20 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 社会安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3659",
+      "note": "已于 2026-10-20 提交（得分 15/17）",
+      "score": 15
+    },
+    {
+      "id": "cv_3658",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "科技安全测试题",
+      "due": "2026-10-20T17:20:00+08:00",
+      "dueTime": "17:20",
+      "status": "submitted",
+      "points": 10,
+      "requirement": "①要做：完成课程「科技安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 科技安全测试题，2026-10-20 17:20 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 科技安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3658",
+      "note": "已于 2026-10-20 提交（得分 10/10）",
+      "score": 10
+    },
+    {
+      "id": "cv_3660",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "粮食安全测试题",
+      "due": "2026-10-20T17:20:00+08:00",
+      "dueTime": "17:20",
+      "status": "submitted",
+      "points": 10,
+      "requirement": "①要做：完成课程「粮食安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 粮食安全测试题，2026-10-20 17:20 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 粮食安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3660",
+      "note": "已于 2026-10-20 提交（得分 8/10）",
+      "score": 8
+    },
+    {
+      "id": "cv_3551",
+      "course": "CS 1302 · Introduction to Computer Programming",
+      "title": "Midterm Exam (Coding Part)",
+      "due": "2026-10-21T10:20:00+08:00",
+      "dueTime": "10:20",
+      "status": "submitted",
+      "points": 25,
+      "requirement": "①要做：完成 CS1302 期中考试的编程部分，在给定的 Jupyter notebook 中逐题填写答案，并在每题下方运行测试单元格确认无报错（无报错即该题满分，有错则 0 分，全部题目无部分分）。②交付：一个 .ipynb Jupyter notebook 文件；只能在指定答题区写代码，先删掉模板里的 pass，并确保提交的是正确、未损坏的版本（错误或损坏文件记 0 分）。③交到：Canvas → CS1302 → Assignments → Midterm Exam (Coding Part)，2026-10-21 10:20 截止，逾期提交记 0 分。④额外要求：可参考在线资料，但直接复制他人（含 AI）代码属抄袭，提供者与抄袭者双方均记 0 分；除答题区外不得改动 notebook 任何内容，被改动的题目记 0 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "CS1302 Introduction to Computer Programming → Assignments → Midterm Exam (Coding Part)",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3551",
+      "note": "已于 2026-10-21 提交（成绩未出，满分 25）",
+      "score": null
+    },
+    {
       "id": "cv_3651",
       "course": "PHY 1201 · General Physics I",
       "title": "Quiz 6: Dynamics of Rotation",
@@ -484,66 +544,6 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
-    },
-    {
-      "id": "cv_3551",
-      "course": "CS 1302 · Introduction to Computer Programming",
-      "title": "Midterm Exam (Coding Part)",
-      "due": "2026-10-21T10:20:00+08:00",
-      "dueTime": "10:20",
-      "status": "submitted",
-      "points": 25,
-      "requirement": "①要做：完成 CS1302 期中考试的编程部分，在给定的 Jupyter notebook 中逐题填写答案，并在每题下方运行测试单元格确认无报错（无报错即该题满分，有错则 0 分，全部题目无部分分）。②交付：一个 .ipynb Jupyter notebook 文件；只能在指定答题区写代码，先删掉模板里的 pass，并确保提交的是正确、未损坏的版本（错误或损坏文件记 0 分）。③交到：Canvas → CS1302 → Assignments → Midterm Exam (Coding Part)，2026-10-21 10:20 截止，逾期提交记 0 分。④额外要求：可参考在线资料，但直接复制他人（含 AI）代码属抄袭，提供者与抄袭者双方均记 0 分；除答题区外不得改动 notebook 任何内容，被改动的题目记 0 分。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "CS1302 Introduction to Computer Programming → Assignments → Midterm Exam (Coding Part)",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3551",
-      "note": "已于 2026-10-21 提交（成绩未出，满分 25）",
-      "score": null
-    },
-    {
-      "id": "cv_3658",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "科技安全测试题",
-      "due": "2026-10-20T17:20:00+08:00",
-      "dueTime": "17:20",
-      "status": "submitted",
-      "points": 10,
-      "requirement": "①要做：完成课程「科技安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 科技安全测试题，2026-10-20 17:20 截止。④额外要求：Canvas 原文未说明额外要求。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 科技安全测试题",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3658",
-      "note": "已于 2026-10-20 提交（得分 10/10）",
-      "score": 10
-    },
-    {
-      "id": "cv_3659",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "社会安全测试题",
-      "due": "2026-10-20T17:20:00+08:00",
-      "dueTime": "17:20",
-      "status": "submitted",
-      "points": 17,
-      "requirement": "①要做：完成课程「社会安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 社会安全测试题，2026-10-20 17:20 截止。④额外要求：Canvas 原文未说明额外要求。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 社会安全测试题",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3659",
-      "note": "已于 2026-10-20 提交（得分 15/17）",
-      "score": 15
-    },
-    {
-      "id": "cv_3660",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "粮食安全测试题",
-      "due": "2026-10-20T17:20:00+08:00",
-      "dueTime": "17:20",
-      "status": "submitted",
-      "points": 10,
-      "requirement": "①要做：完成课程「粮食安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 粮食安全测试题，2026-10-20 17:20 截止。④额外要求：Canvas 原文未说明额外要求。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 粮食安全测试题",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3660",
-      "note": "已于 2026-10-20 提交（得分 8/10）",
-      "score": 8
     }
   ],
   "notes": [
@@ -1039,6 +1039,48 @@
       "score": 0,
       "status": "pending_review",
       "submittedAt": "2026-09-16T13:03:24Z",
+      "questions": []
+    },
+    {
+      "id": "q1204",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "科技安全测试题",
+      "due": "2026-10-20T09:20:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1204",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-20T09:08:23Z",
+      "questions": []
+    },
+    {
+      "id": "q1205",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "社会安全测试题",
+      "due": "2026-10-20T09:20:00Z",
+      "points": 17,
+      "questionCount": 17,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1205",
+      "attempted": true,
+      "score": 15,
+      "status": "complete",
+      "submittedAt": "2026-10-20T09:06:04Z",
+      "questions": []
+    },
+    {
+      "id": "q1206",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "粮食安全测试题",
+      "due": "2026-10-20T09:20:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1206",
+      "attempted": true,
+      "score": 8,
+      "status": "complete",
+      "submittedAt": "2026-10-20T09:10:43Z",
       "questions": []
     },
     {
@@ -1552,8 +1594,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-20",
-  "canvasSyncedTs": "2026-10-20T13:01:51+08:00",
+  "canvasSyncedAt": "2026-10-21",
+  "canvasSyncedTs": "2026-10-21T11:07:17+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
