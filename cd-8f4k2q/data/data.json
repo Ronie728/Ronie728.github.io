@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     "l01",
@@ -341,6 +341,22 @@
       "score": null
     },
     {
+      "id": "cv_3687",
+      "course": "DSC 1001 · Introduction to Data Science",
+      "title": "In-Class Quiz 3",
+      "due": "2026-10-21T21:15:00+08:00",
+      "dueTime": "21:15",
+      "status": "submitted",
+      "points": 18,
+      "score": 2,
+      "submittedAt": "2026-10-21T21:12:35+08:00",
+      "requirement": "要你做什么：第三次随堂测验（In-Class Quiz 3），课上在 Canvas 在线作答，考查数据科学课程内容；Canvas 该作业页未附文字说明。\n\n交付什么：Canvas 在线测验作答，无需上传文件。\n\n交到哪、什么时候交：Canvas → DSC1001 → Assignments → In-Class Quiz 3，截止 2026-10-21 21:15。\n\n分值：18 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → DSC1001 → Assignments → In-Class Quiz 3",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/790/assignments/3687",
+      "note": "已于 2026-10-21 提交（得分 2/18）。"
+    },
+    {
       "id": "cv_3651",
       "course": "PHY 1201 · General Physics I",
       "title": "Quiz 6: Dynamics of Rotation",
@@ -396,6 +412,19 @@
       "requirement": "要你做什么：阅读案例材料，运用总体国家安全观的相关知识，简要说明内部安全与外部安全之间是如何相互影响的；结合修例风波、香港国安法、涉疆对外斗争的案例，谈谈我国应当如何统筹好内部安全和外部安全。\n\n交付什么：上传到 Canvas 提交（online upload）；需使用课程提供的模板「总体国家安全观案例分析作业.docx」，可参考「分档评价参考-1.docx」的评分分档。\n\n什么时候交：2026-10-31 23:59（Canvas 显示）。满分 100 分。\n\n额外要求（Canvas 原文）：1. 理论联系材料案例，厉清内外安全之间的逻辑关系，避免单纯复述材料；2. 对策部分要有现实针对性，忌空泛口号，提出的建议需要具备可行性；3. 可结合总体国家安全观其他重要维度（政治安全、非传统安全、共同安全等）展开；4. 作答以题干给定材料为依据，不使用网络非官方来源信息；5. 字数不少于 800 字。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → GE1632 → Assignments → 总体国家安全观案例分析作业"
+    },
+    {
+      "id": "cv_3674",
+      "course": "CS 1302 · Introduction to Computer Programming",
+      "title": "Assignment 2 - Mastermind",
+      "due": "2026-11-04T08:30:00+08:00",
+      "dueTime": "08:30",
+      "status": "pending",
+      "points": 10,
+      "requirement": "要你做什么：完成 Assignment 2 - Mastermind 编程题。先下载全部作业文件，只允许在 Jupyter notebook 中标注「#your code here.」的位置写代码；写出答案后删掉占位的 pass；不得修改、增删或复制其他单元格与文字，否则该题 0 分。想额外测试请把代码复制到另一个 notebook 里跑，提交文件内不要夹带多余代码。\n\n交付什么：把完成后的这个 Jupyter notebook 文件上传到 Canvas（在线上传，无需其他格式）。\n\n交到哪、什么时候交：Canvas → Assignments → Assignment 2，截止 2026-11-04 08:30；迟交一律 0 分。\n（Canvas 原文末句误写为 Assignment 1，实际对应本作业。）\n\n额外要求：每题写完必须运行其下方 # tests 测试单元格，无报错才算对；本题无部分分（每题全对才得分），批改时另加隐藏测试用例，只过公开用例仍可能 0 分；可参考网上资料，但直接复制他人（含 AI）代码属抄袭，抄袭者与被抄者均 0 分。总分 10 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → CS1302 → Assignments → Assignment 2 - Mastermind",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3674"
     },
     {
       "id": "cv_3319",
@@ -523,7 +552,11 @@
       "points": 100,
       "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3683",
-      "dueTime": ""
+      "dueTime": "",
+      "requirement": "要你做什么：MA1300 期中考试（Midterm），Canvas 类型为纸质考试（on_paper），作业页描述只有「10/20 Tuesday 18:30-20:30」，无其他文字要求。\n\n交付什么：现场纸质答卷，无需在 Canvas 上传任何文件。\n\n交到哪、什么时候交：2026-10-20（周二）18:30–20:30 现场考试；Canvas 未设统一截止时间。\n\n分值：100 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → MA1300 → Assignments → Midterm",
+      "note": "已于 2026-10-20 参加考试（得分 85/100）。"
     },
     {
       "id": "cv_3468",
@@ -642,6 +675,15 @@
       "source": "Canvas · CS1302",
       "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
       "postedAt": "2026-10-10"
+    },
+    {
+      "id": "note:ge2134-argument-map:20261022",
+      "type": "notice",
+      "title": "GE2134 in-class argument map task today",
+      "summary": "Oct 22: GE2134 in-class argument map task; review sample",
+      "detail": "GE2134 Critical and Creative Thinking 的课堂内作业（in-class assignment）安排在 2026-10-22（周四），形式与老师上传到 Week 5 文件夹的 argument map 范例相近（范例议论文题为「School Day Should Not Be Lengthened」）。建议课前先熟悉 argument map 的写法与范例结构；具体上课时间以课程表／Canvas 公告为准，邮件未给出。",
+      "meta": "Oct 22, 2026",
+      "source": "Canvas 公告（GE2134）"
     }
   ],
   "emails": [
