@@ -1035,6 +1035,20 @@
       "questions": []
     },
     {
+      "id": "q1208",
+      "course": "DSC 1001 · Introduction to Data Science",
+      "title": "In-Class Quiz 3",
+      "due": "2026-10-21T13:15:00Z",
+      "points": 18,
+      "questionCount": 15,
+      "url": "https://cityu-dg.instructure.com/courses/790/quizzes/1208",
+      "attempted": true,
+      "score": 2,
+      "status": "pending_review",
+      "submittedAt": "2026-10-21T13:12:35Z",
+      "questions": []
+    },
+    {
       "id": "q1204",
       "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "科技安全测试题",
@@ -1587,8 +1601,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-21",
-  "canvasSyncedTs": "2026-10-21T13:01:42+08:00",
+  "canvasSyncedAt": "2026-10-22",
+  "canvasSyncedTs": "2026-10-22T10:51:15+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
