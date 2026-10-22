@@ -556,7 +556,8 @@
       "requirement": "要你做什么：MA1300 期中考试（Midterm），Canvas 类型为纸质考试（on_paper），作业页描述只有「10/20 Tuesday 18:30-20:30」，无其他文字要求。\n\n交付什么：现场纸质答卷，无需在 Canvas 上传任何文件。\n\n交到哪、什么时候交：2026-10-20（周二）18:30–20:30 现场考试；Canvas 未设统一截止时间。\n\n分值：100 分。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → MA1300 → Assignments → Midterm",
-      "note": "已于 2026-10-20 参加考试（得分 85/100）。"
+      "note": "已于 2026-10-20 参加考试；2026-10-21 12:58 批改完成，得分 85/100（Canvas 已同步）。",
+      "score": 85
     },
     {
       "id": "cv_3468",
@@ -687,6 +688,36 @@
     }
   ],
   "emails": [
+    {
+      "id": "e65",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "MA1300 课程组",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Midterm, MA1300 Enhanced Calculus and Linear Algebra I (1227)",
+      "snippet": "MA1300 期中已评分：85/100",
+      "body": "来龙去脉：MA1300 期中考试（10/20 18:30–20:30，纸质卷）已于 10/21 12:58 完成批改，Canvas 发出评分通知，成绩记录为 85/100。\n\n要你做什么：登录 Canvas → MA1300 → Assignments → Midterm 查看逐题批改与评语，确认是否有可申诉或需补交的部分；本次分数已同步进作业记录，无需额外操作。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-21T13:58:37+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3683"
+    },
+    {
+      "id": "e66",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "学生发展处（SDO）职业发展",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": " 【往返大巴报名】粤港澳大湾区人才高质量发展大会 | Round-Trip Shuttle Bus Arrangements for HTDC",
+      "snippet": "湾区人才大会 10/25–26，往返大巴报名 10/23 09:00 截止",
+      "body": "来龙去脉：粤港澳大湾区人才高质量发展大会（HTDC）10 月 25–26 日在湾区大学（东莞）举行，10/25 14:30–17:00、10/26 9:00–12:30，面向全体学生，现场同期有大型招聘会。学生发展处提供往返大巴，名额 80 人，报名满 15 人才发车。\n\n要你做什么：想坐大巴必须在 10/23（周五）9:00 前报名 —— 学生生活系统 → 日常事务 → 问卷，或企业微信扫码。先到先得，成功者提前 2 天建群，未进群视为未入选；自行前往则无需报名（此前已报名 10/25 招聘会大巴的同学不用重复报）。大巴当天为整天行程，需预留全天时间。",
+      "eventTime": "2026-10-25T14:30:00+08:00",
+      "location": "湾区大学（东莞）Great Bay University (Dongguan)",
+      "time": "2026年10月25日 14:30–17:00、10月26日 9:00–12:30；大巴报名截止 10月23日（周五）9:00",
+      "receivedAt": "2026-10-21T12:42:20+08:00",
+      "mailUrl": "#"
+    },
     {
       "id": "e59",
       "category": "notice",
