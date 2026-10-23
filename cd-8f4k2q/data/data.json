@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     "l01",
@@ -592,6 +592,24 @@
   ],
   "notes": [
     {
+      "id": "note:ge2134-argument-map:20261022",
+      "type": "notice",
+      "title": "GE2134 in-class argument map task today",
+      "summary": "Oct 22: GE2134 in-class argument map task; review sample",
+      "detail": "GE2134 Critical and Creative Thinking 的课堂内作业（in-class assignment）安排在 2026-10-22（周四），形式与老师上传到 Week 5 文件夹的 argument map 范例相近（范例议论文题为「School Day Should Not Be Lengthened」）。建议课前先熟悉 argument map 的写法与范例结构；具体上课时间以课程表／Canvas 公告为准，邮件未给出。",
+      "meta": "Oct 22, 2026",
+      "source": "Canvas 公告（GE2134）"
+    },
+    {
+      "id": "note:email_sync:20261022",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 22",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 22, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:938:4251",
       "type": "notice",
       "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
@@ -667,27 +685,24 @@
       "source": "Canvas · CS1302",
       "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
       "postedAt": "2026-10-10"
-    },
-    {
-      "id": "note:ge2134-argument-map:20261022",
-      "type": "notice",
-      "title": "GE2134 in-class argument map task today",
-      "summary": "Oct 22: GE2134 in-class argument map task; review sample",
-      "detail": "GE2134 Critical and Creative Thinking 的课堂内作业（in-class assignment）安排在 2026-10-22（周四），形式与老师上传到 Week 5 文件夹的 argument map 范例相近（范例议论文题为「School Day Should Not Be Lengthened」）。建议课前先熟悉 argument map 的写法与范例结构；具体上课时间以课程表／Canvas 公告为准，邮件未给出。",
-      "meta": "Oct 22, 2026",
-      "source": "Canvas 公告（GE2134）"
-    },
-    {
-      "id": "note:email_sync:20261022",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 22",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 22, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
+    {
+      "id": "e67",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "校园运维处（Campus Operation Office）",
+      "senderEmail": "operation@cityu-dg.edu.cn",
+      "subject": " 【校园运维处】关于举办校园食品安全知识科普活动的通知 | [COO] Notice on Campus Food Safety Activities",
+      "snippet": "今日 10/23 16:00–19:30 宿舍三、四座间空地，食安游园会含抽奖",
+      "body": "松山湖商务与投资促进局主办、校园运维处转发的「校园食品安全知识科普活动」，面向全校师生开放，无需报名。\n时间：2026 年 10 月 23 日（周五）16:00–19:30；地点：学生宿舍三座与四座之间空地。\n内容：美食体验、趣味互动游园环节与惊喜抽奖；详细规则见原文推文链接。\n要你做什么：想去就直接在活动时段到现场，无报名门槛；如需了解摊位与抽奖规则，点开 mailUrl 的推文原文查看。有疑问可联系校园运维处（联系方式见原文邮件）。",
+      "eventTime": "2026-10-23T16:00:00+08:00",
+      "location": "学生宿舍三座与四座之间空地",
+      "time": "10月23日（周五）16:00–19:30",
+      "receivedAt": "2026-10-22T11:01:07+08:00",
+      "mailUrl": "https://mp.weixin.qq.com/s/okTnk0OYaLJwfcvvjmpi6g"
+    },
     {
       "id": "e65",
       "category": "notice",
@@ -1616,7 +1631,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "DSC1001",
@@ -1629,7 +1644,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "EN1002",
@@ -1642,7 +1657,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "GE1632",
@@ -1655,7 +1670,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "GE2134",
@@ -1668,7 +1683,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "IP1901",
@@ -1683,7 +1698,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "MA1300",
@@ -1701,7 +1716,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "ME1921",
@@ -1714,7 +1729,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "code": "PHY1201",
@@ -1733,7 +1748,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     }
   ],
   "canvasEvents": [
@@ -1938,6 +1953,17 @@
       "est": false
     },
     {
+      "id": "cv-ev:1210:2026-10-30",
+      "date": "2026-10-30",
+      "time": "23:59",
+      "title": "Quiz 8: Sound",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
       "id": "cv-ev:cal:759:2026-11-03Lab Session 6: Smart Cart - Conservation of Energy",
       "date": "2026-11-03",
       "time": "10:30",
@@ -1971,6 +1997,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-22",
-  "canvasInsightsSyncedTs": "2026-10-22T10:48:17+08:00"
+  "canvasInsightsSyncedAt": "2026-10-23",
+  "canvasInsightsSyncedTs": "2026-10-23T08:41:56+08:00"
 }
