@@ -401,13 +401,44 @@
       "note": "已于 2026-10-16 提交（成绩未出，满分 10）"
     },
     {
+      "id": "cv_3699",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 8: Sound",
+      "due": "2026-10-30T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3699",
+      "requirement": "在线测验（Canvas Quiz），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 8: Sound",
+      "note": "",
+      "score": null,
+      "type": "online_quiz"
+    },
+    {
+      "id": "cv_3698",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 8: Mechanical Waves and Sound",
+      "due": "2026-10-30T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3698",
+      "requirement": "①从第 11 章题池自选 3 题（与 WA7 题池相同，须选与上次不同的题），最后一题 Exercise 11.9 必做；②手写作答，每题标明章节与题号、写出推理与计算过程（不只写答案），字迹可辨认、独立完成，主要检查完成度与真实努力；③10 月 30 日 23:59 前，可下节课/答疑时当面交老师或 TA，或拍照/扫描经本 Canvas 作业上传（多页优先合并单个 PDF，页面清晰正向）；④禁止邮寄或无人值守投递（风险自负）；迟交按课程作业政策处理，占期末 1%。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 8: Mechanical Waves and Sound",
+      "note": "",
+      "type": "online_upload"
+    },
+    {
       "id": "cv_3634",
       "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观案例分析作业",
       "due": "2026-10-31T23:59:59+08:00",
       "dueTime": "23:59",
       "points": 100,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3634",
       "requirement": "要你做什么：阅读案例材料，运用总体国家安全观的相关知识，简要说明内部安全与外部安全之间是如何相互影响的；结合修例风波、香港国安法、涉疆对外斗争的案例，谈谈我国应当如何统筹好内部安全和外部安全。\n\n交付什么：上传到 Canvas 提交（online upload）；需使用课程提供的模板「总体国家安全观案例分析作业.docx」，可参考「分档评价参考-1.docx」的评分分档。\n\n什么时候交：2026-10-31 23:59（Canvas 显示）。满分 100 分。\n\n额外要求（Canvas 原文）：1. 理论联系材料案例，厉清内外安全之间的逻辑关系，避免单纯复述材料；2. 对策部分要有现实针对性，忌空泛口号，提出的建议需要具备可行性；3. 可结合总体国家安全观其他重要维度（政治安全、非传统安全、共同安全等）展开；4. 作答以题干给定材料为依据，不使用网络非官方来源信息；5. 字数不少于 800 字。",
       "requirementSource": "Canvas 同步",
@@ -420,7 +451,7 @@
       "title": "Assignment 2 - Mastermind",
       "due": "2026-11-04T08:30:00+08:00",
       "dueTime": "08:30",
-      "status": "pending",
+      "status": "submitted",
       "points": 10,
       "requirement": "要你做什么：完成 Assignment 2 - Mastermind 编程题。先下载全部作业文件，只允许在 Jupyter notebook 中标注「#your code here.」的位置写代码；写出答案后删掉占位的 pass；不得修改、增删或复制其他单元格与文字，否则该题 0 分。想额外测试请把代码复制到另一个 notebook 里跑，提交文件内不要夹带多余代码。\n\n交付什么：把完成后的这个 Jupyter notebook 文件上传到 Canvas（在线上传，无需其他格式）。\n\n交到哪、什么时候交：Canvas → Assignments → Assignment 2，截止 2026-11-04 08:30；迟交一律 0 分。\n（Canvas 原文末句误写为 Assignment 1，实际对应本作业。）\n\n额外要求：每题写完必须运行其下方 # tests 测试单元格，无报错才算对；本题无部分分（每题全对才得分），批改时另加隐藏测试用例，只过公开用例仍可能 0 分；可参考网上资料，但直接复制他人（含 AI）代码属抄袭，抄袭者与被抄者均 0 分。总分 10 分。",
       "requirementSource": "Canvas 同步",
@@ -590,37 +621,6 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
-    },
-    {
-      "id": "cv_3698",
-      "course": "PHY 1201 · General Physics I",
-      "title": "Written Assignment 8: Mechanical Waves and Sound",
-      "due": "2026-10-30T23:59:59+08:00",
-      "dueTime": "23:59",
-      "status": "pending",
-      "points": 10,
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3698",
-      "requirement": "①从第 11 章题池自选 3 题（与 WA7 题池相同，须选与上次不同的题），最后一题 Exercise 11.9 必做；②手写作答，每题标明章节与题号、写出推理与计算过程（不只写答案），字迹可辨认、独立完成，主要检查完成度与真实努力；③10 月 30 日 23:59 前，可下节课/答疑时当面交老师或 TA，或拍照/扫描经本 Canvas 作业上传（多页优先合并单个 PDF，页面清晰正向）；④禁止邮寄或无人值守投递（风险自负）；迟交按课程作业政策处理，占期末 1%。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 8: Mechanical Waves and Sound",
-      "note": "",
-      "type": "online_upload"
-    },
-    {
-      "id": "cv_3699",
-      "course": "PHY 1201 · General Physics I",
-      "title": "Quiz 8: Sound",
-      "due": "2026-10-30T23:59:59+08:00",
-      "dueTime": "23:59",
-      "status": "pending",
-      "points": 10,
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3699",
-      "requirement": "在线测验（Canvas Quiz），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 8: Sound",
-      "note": "",
-      "score": null,
-      "type": "online_quiz"
     }
   ],
   "notes": [
@@ -737,21 +737,6 @@
       "mailUrl": "https://mp.weixin.qq.com/s/okTnk0OYaLJwfcvvjmpi6g"
     },
     {
-      "id": "e65",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "MA1300 课程组",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Midterm, MA1300 Enhanced Calculus and Linear Algebra I (1227)",
-      "snippet": "MA1300 期中已评分：85/100",
-      "body": "来龙去脉：MA1300 期中考试（10/20 18:30–20:30，纸质卷）已于 10/21 12:58 完成批改，Canvas 发出评分通知，成绩记录为 85/100。\n\n要你做什么：登录 Canvas → MA1300 → Assignments → Midterm 查看逐题批改与评语，确认是否有可申诉或需补交的部分；本次分数已同步进作业记录，无需额外操作。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-21T13:58:37+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3683"
-    },
-    {
       "id": "e66",
       "category": "activity",
       "needsReply": true,
@@ -795,36 +780,6 @@
       "time": "截止 10月26日 17:00",
       "receivedAt": "2026-10-20T11:41:50+08:00",
       "mailUrl": "https://v.wjx.cn/vm/rmduUEL.aspx"
-    },
-    {
-      "id": "e63",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 课程组",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 科技安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "科技安全测试题已评分：10/10 满分",
-      "body": "GE1632 大学生国家安全教育课：作业「科技安全测试题」已完成评分。\n得分：10 / 10（满分）。评分时间：2026 年 10 月 20 日 17:08。\n可在 Canvas 作业页查看批改详情。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-20T18:08:59+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/grades"
-    },
-    {
-      "id": "e64",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 课程组",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 粮食安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "粮食安全测试题已评分：8/10",
-      "body": "GE1632 大学生国家安全教育课：作业「粮食安全测试题」已完成评分。\n得分：8 / 10。评分时间：2026 年 10 月 20 日 17:10。\n可在 Canvas 作业页查看批改详情与错题。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-20T18:11:13+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/grades"
     },
     {
       "id": "e53",
@@ -1587,6 +1542,20 @@
       "questions": []
     },
     {
+      "id": "q1210",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 8: Sound",
+      "due": "2026-10-30T15:59:59Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1210",
+      "attempted": false,
+      "score": null,
+      "status": "unsubmitted",
+      "submittedAt": "",
+      "questions": []
+    },
+    {
       "id": "q1173",
       "course": "PHY 1201 · General Physics I",
       "title": "Concept Questions on Work and Energy",
@@ -1634,8 +1603,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-22",
-  "canvasSyncedTs": "2026-10-22T13:02:06+08:00",
+  "canvasSyncedAt": "2026-10-23",
+  "canvasSyncedTs": "2026-10-23T08:52:30+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
