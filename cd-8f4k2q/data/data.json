@@ -722,6 +722,21 @@
   ],
   "emails": [
     {
+      "id": "e67",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "香港城市大学（东莞）教育基金会 Foundation",
+      "senderEmail": "foundation@cityu-dg.edu.cn",
+      "subject": " 【活动邀请】森拓建设集团有限公司 · 黎建波先生捐赠仪式 | Invitation to the Donation Ceremony in Recognition of Sentuo Construction Group Co., Ltd. and Mr. Li Jianbo",
+      "snippet": "捐赠仪式 10/30 16:00 图书馆二楼大厅，报名截止 10/27 23:59",
+      "body": "来龙去脉：教育基金会 10/23 下午发来邀请，10 月 30 日（周五）下午为森拓建设集团有限公司与黎建波先生的捐赠举行答谢仪式。现场可提前看到本次捐赠支持的「未来智能中心」，并在仪式后与企业嘉宾、老师同学交流；16:00–16:15 嘉宾签到，16:15–17:15 仪式环节。\n\n要你做什么：想参加需通过邮件内的企业微信表单报名（邮件里附有 doc.weixin.qq.com 表单链接，已填进本站入口），截止 10 月 27 日（周二）23:59，名额有限先到先得。对智能制造方向感兴趣的话，这是提前接触「未来智能中心」和企业方的一个低成本机会。如有疑问可联系基金会老师（联系方式见原邮件，不在此重复）。",
+      "eventTime": "2026-10-30T16:00:00+08:00",
+      "location": "图书馆二楼大厅",
+      "time": "2026年10月30日（周五）16:00–17:15；报名截止 10月27日（周二）23:59",
+      "receivedAt": "2026-10-23T17:53:09+08:00",
+      "mailUrl": "https://doc.weixin.qq.com/forms/AGIAXgeqAE0AcoAzQb6ACkCNs1jr5fkjf?page=1"
+    },
+    {
       "id": "e66",
       "category": "activity",
       "needsReply": true,
