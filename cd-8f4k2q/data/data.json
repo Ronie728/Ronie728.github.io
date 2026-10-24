@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-24",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     "l01",
@@ -634,6 +634,15 @@
       "source": "Canvas 公告（GE2134）"
     },
     {
+      "id": "note:email_sync:20261023",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 23",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 23, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:938:4251",
       "type": "notice",
       "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
@@ -709,33 +718,9 @@
       "source": "Canvas · CS1302",
       "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
       "postedAt": "2026-10-10"
-    },
-    {
-      "id": "note:email_sync:20261023",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 23",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 23, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
-    {
-      "id": "e67",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "校园运维处（Campus Operation Office）",
-      "senderEmail": "operation@cityu-dg.edu.cn",
-      "subject": " 【校园运维处】关于举办校园食品安全知识科普活动的通知 | [COO] Notice on Campus Food Safety Activities",
-      "snippet": "今日 10/23 16:00–19:30 宿舍三、四座间空地，食安游园会含抽奖",
-      "body": "松山湖商务与投资促进局主办、校园运维处转发的「校园食品安全知识科普活动」，面向全校师生开放，无需报名。\n时间：2026 年 10 月 23 日（周五）16:00–19:30；地点：学生宿舍三座与四座之间空地。\n内容：美食体验、趣味互动游园环节与惊喜抽奖；详细规则见原文推文链接。\n要你做什么：想去就直接在活动时段到现场，无报名门槛；如需了解摊位与抽奖规则，点开 mailUrl 的推文原文查看。有疑问可联系校园运维处（联系方式见原文邮件）。",
-      "eventTime": "2026-10-23T16:00:00+08:00",
-      "location": "学生宿舍三座与四座之间空地",
-      "time": "10月23日（周五）16:00–19:30",
-      "receivedAt": "2026-10-22T11:01:07+08:00",
-      "mailUrl": "https://mp.weixin.qq.com/s/okTnk0OYaLJwfcvvjmpi6g"
-    },
     {
       "id": "e66",
       "category": "activity",
@@ -854,21 +839,6 @@
       "location": "线上（微信公众号/小程序：广东青少年体育）",
       "time": "2026年10月1日–12月31日（共92天，每日3公里打卡）",
       "receivedAt": "2026-10-15T11:05:32+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e45",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "StudentUnion 学生会",
-      "senderEmail": "su@cityu-dg.edu.cn",
-      "subject": " 2026年松山湖“食安校园”大学生食品安全知识科普宣传活动志愿者招募 | Volunteer Recruitment for the 2026 Songshan Lake Food Safety on Campus Awareness Event for University Students",
-      "snippet": "食品安全科普志愿招募14人（10/23 16:00–19:00），报名截止 10/17 17:00。",
-      "body": "校学生会招募：面向本校同学招募 14 名志愿者，协助松山湖商务与投资促进局开展 2026 年松山湖「食安校园」大学生食品安全知识科普宣传活动。服务时间 2026 年 10 月 23 日（周五）16:00–19:00，地点在香港城市大学（东莞）宿舍楼下区域，每人预计服务 3 小时。岗位及人数：签到岗 2 人、兑奖岗 2 人、游戏岗 8 人、科普岗 2 人。报名截止 2026 年 10 月 17 日（周六）17:00，需扫描邮件内二维码报名；若尚未注册为服务队志愿者，需先按注册指引（公众号推文）完成注册再报名。注意：英文版说明中提到报名图片上标注的起始时间为 15:00，与正文 16:00 不一致，以正文 16:00–19:00 为准。活动联系人及电话见原邮件。属自愿报名，需在截止前决定。",
-      "eventTime": "2026-10-23T16:00:00+08:00",
-      "location": "香港城市大学（东莞）宿舍楼下区域",
-      "time": "2026年10月23日（周五）16:00–19:00",
-      "receivedAt": "2026-10-15T08:41:43+08:00",
       "mailUrl": "#"
     },
     {
@@ -1618,7 +1588,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "DSC1001",
@@ -1631,7 +1601,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "EN1002",
@@ -1644,7 +1614,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "GE1632",
@@ -1657,7 +1627,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "GE2134",
@@ -1670,7 +1640,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "IP1901",
@@ -1685,7 +1655,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "MA1300",
@@ -1703,7 +1673,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "ME1921",
@@ -1716,7 +1686,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "code": "PHY1201",
@@ -1735,7 +1705,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     }
   ],
   "canvasEvents": [
@@ -1984,6 +1954,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-23",
-  "canvasInsightsSyncedTs": "2026-10-23T08:41:56+08:00"
+  "canvasInsightsSyncedAt": "2026-10-24",
+  "canvasInsightsSyncedTs": "2026-10-24T12:51:48+08:00"
 }
