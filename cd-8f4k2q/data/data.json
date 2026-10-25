@@ -722,6 +722,36 @@
   ],
   "emails": [
     {
+      "id": "e68",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "体育教学组 PE Teaching Team",
+      "senderEmail": "peteam@cityu-dg.edu.cn",
+      "subject": " 【关于2026年香港城市大学（东莞）首届“本垒打王”争霸赛报名的通知】 Notice of the 2026 Inaugural Home Run Derby, City University of Hong Kong (Dongguan)",
+      "snippet": "本垒打王争霸赛报名，11/06 12:00 截止，11 月周日足球场比赛",
+      "body": "来龙去脉：体育教学组 10 月 25 日中午通知，学校首届「本垒打王」争霸赛开始报名。个人赛，严格分男子组与女子组；选手在指定击球区击打 T 座上的棒球，球具由主办方统一提供，每人 2 次击球、两次得分相加排名，男女各前 10 名进决赛，决赛并列则一球决胜。预赛决赛同一天连续进行，比赛预计 11 月某个周日在学校足球场举行，具体时间在赛事群内通知；等候与比赛期间不得擅自离席，叫号不到视为无成绩。\n\n要你做什么：报名截止 2026 年 11 月 6 日（周五）12:00，需扫描原邮件内的报名二维码填写信息，并加入赛事群（二维码过期可联系体育组负责老师入群，联系方式见原邮件）。参赛须穿运动服与运动鞋、提前 10 分钟到场签到，比赛开始未到视为弃权。男女子组冠军成绩将计入校记录并赛后公示。不打算参加可忽略。",
+      "eventTime": "",
+      "location": "学校足球场",
+      "time": "报名截止 2026年11月6日 12:00；比赛预计 11 月某个周日（具体见赛事群，未定单一日程）",
+      "receivedAt": "2026-10-25T13:59:38+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e69",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Instructure Canvas",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Recent Canvas Notifications",
+      "snippet": "Canvas 周报 10/24：6 条作业提醒，均已在看板跟踪",
+      "body": "来龙去脉：Canvas 每周汇总（覆盖至 10 月 24 日）列出 6 条作业提醒——GE1632 社会安全测试题（10/20 17:30）、CS1302 Midterm Exam 编程部分（10/21 10:20）、MA1300 Midterm（无截止日期）、CS1302 Assignment 2 – Mastermind（11/4 08:30）、DSC1001 In-Class Quiz 3（10/21 21:15）、MA1300 10/23 作业（10/23 09:45）。\n\n要你做什么：这 6 条在作业看板均已有完整记录——社会安全测试题 15/17、DSC1001 Quiz 3 2/18、MA1300 Midterm 85/100 均已出分；CS1302 编程期中已于 10/21 提交（满分 25，待评分）；Assignment 2 Mastermind 已于 10/22 提交（满分 10，待评分）。本轮无需新增作业、无需改分，仅作留档，不必回复。",
+      "eventTime": "",
+      "location": "",
+      "time": "最近一项截止：2026年11月4日 08:30（CS1302 Assignment 2 Mastermind，已提前提交）",
+      "receivedAt": "2026-10-24T16:30:49+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3674"
+    },
+    {
       "id": "e67",
       "category": "activity",
       "needsReply": true,
