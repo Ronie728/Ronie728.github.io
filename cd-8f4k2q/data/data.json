@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     "l01",
@@ -718,6 +718,15 @@
       "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
       "meta": "Oct 25, 2026",
       "source": "CampusDesk afternoon sync"
+    },
+    {
+      "id": "note:coo-survey:20261026",
+      "type": "notice",
+      "title": "Campus property services survey closes today 17:00",
+      "summary": "Oct 26 17:00: COO campus property survey closes today",
+      "detail": "The Campus Operations Office satisfaction questionnaire on property services closes today at 17:00. It was sent to student mailboxes on Oct 20. Complete it before the deadline if you have not yet responded.",
+      "meta": "Oct 26, 2026",
+      "source": "campus mail e61 (COO notice, Oct 20)"
     }
   ],
   "emails": [
@@ -765,21 +774,6 @@
       "time": "2026年10月30日（周五）16:00–17:15；报名截止 10月27日（周二）23:59",
       "receivedAt": "2026-10-23T17:53:09+08:00",
       "mailUrl": "https://doc.weixin.qq.com/forms/AGIAXgeqAE0AcoAzQb6ACkCNs1jr5fkjf?page=1"
-    },
-    {
-      "id": "e66",
-      "category": "activity",
-      "needsReply": true,
-      "sender": "学生发展处（SDO）职业发展",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": " 【往返大巴报名】粤港澳大湾区人才高质量发展大会 | Round-Trip Shuttle Bus Arrangements for HTDC",
-      "snippet": "湾区人才大会 10/25–26，往返大巴报名 10/23 09:00 截止",
-      "body": "来龙去脉：粤港澳大湾区人才高质量发展大会（HTDC）10 月 25–26 日在湾区大学（东莞）举行，10/25 14:30–17:00、10/26 9:00–12:30，面向全体学生，现场同期有大型招聘会。学生发展处提供往返大巴，名额 80 人，报名满 15 人才发车。\n\n要你做什么：想坐大巴必须在 10/23（周五）9:00 前报名 —— 学生生活系统 → 日常事务 → 问卷，或企业微信扫码。先到先得，成功者提前 2 天建群，未进群视为未入选；自行前往则无需报名（此前已报名 10/25 招聘会大巴的同学不用重复报）。大巴当天为整天行程，需预留全天时间。",
-      "eventTime": "2026-10-25T14:30:00+08:00",
-      "location": "湾区大学（东莞）Great Bay University (Dongguan)",
-      "time": "2026年10月25日 14:30–17:00、10月26日 9:00–12:30；大巴报名截止 10月23日（周五）9:00",
-      "receivedAt": "2026-10-21T12:42:20+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e59",
