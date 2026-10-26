@@ -878,15 +878,6 @@
       "postedAt": "2026-10-10"
     },
     {
-      "id": "note:email_sync:20261025",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 25",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 25, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "note:coo-survey:20261026",
       "type": "notice",
       "title": "Campus property services survey closes today 17:00",
@@ -894,6 +885,15 @@
       "detail": "The Campus Operations Office satisfaction questionnaire on property services closes today at 17:00. It was sent to student mailboxes on Oct 20. Complete it before the deadline if you have not yet responded.",
       "meta": "Oct 26, 2026",
       "source": "campus mail e61 (COO notice, Oct 20)"
+    },
+    {
+      "id": "note:email_sync:20261026",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 26",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 26, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1780,7 +1780,7 @@
     }
   ],
   "canvasSyncedAt": "2026-10-26",
-  "canvasSyncedTs": "2026-10-26T10:32:30+08:00",
+  "canvasSyncedTs": "2026-10-26T13:23:33+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
