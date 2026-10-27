@@ -1018,21 +1018,6 @@
       "mailUrl": "#"
     },
     {
-      "id": "e61",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "校园运维处（Campus Operation Office）",
-      "senderEmail": "operation@cityu-dg.edu.cn",
-      "subject": " 【校园运维处】物业服务满意度调查 | [COO] Satisfaction Questionnaire on Campus Property Services",
-      "snippet": "物业服务满意度问卷，10/26 17:00 截止，抽 20 人送文创",
-      "body": "校园运维处开展 2026 年 8 月至 10 月季度物业服务满意度问卷调查，意见将作为改进校园物业服务的参考。\n参与方式：点击问卷链接（见 mailUrl）或扫描原文邮件中的二维码。\n截止时间：2026 年 10 月 26 日 17:00。\n参与奖励：从参与者中随机抽取 20 人赠送校园文创纪念品（棒球帽 5 个、帆布袋 10 个、水杯 5 个）。",
-      "eventTime": "2026-10-26T17:00:00+08:00",
-      "location": "线上问卷",
-      "time": "截止 10月26日 17:00",
-      "receivedAt": "2026-10-20T11:41:50+08:00",
-      "mailUrl": "https://v.wjx.cn/vm/rmduUEL.aspx"
-    },
-    {
       "id": "e53",
       "category": "notice",
       "needsReply": false,
