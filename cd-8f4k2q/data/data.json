@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -1725,10 +1725,10 @@
       "points": 10,
       "questionCount": 10,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1210",
-      "attempted": false,
+      "attempted": true,
       "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
+      "status": "untaken",
+      "submittedAt": "2026-10-26T05:50:40Z",
       "questions": []
     },
     {
@@ -1779,8 +1779,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-26",
-  "canvasSyncedTs": "2026-10-26T13:23:33+08:00",
+  "canvasSyncedAt": "2026-10-27",
+  "canvasSyncedTs": "2026-10-27T10:48:16+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
