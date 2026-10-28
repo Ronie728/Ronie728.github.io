@@ -217,21 +217,6 @@
       "note": "已于 2026-09-15 提交（得分未出，满分 2）。"
     },
     {
-      "id": "cv_3724",
-      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
-      "title": "10/27",
-      "due": "2026-10-27T16:00:00+08:00",
-      "dueTime": "16:00",
-      "status": "submitted",
-      "points": 2,
-      "submittedAt": "2026-09-15T15:52:35+08:00",
-      "requirement": "① 完成 MA1300 10/27 课次布置的课后习题（题目见讲义/课件）。② 手写解答后拍照或扫描为 PDF/图片上传（保持字迹清晰、题号对齐）。③ 提交到 Canvas 本作业页，截止 2026-10-27 16:00（已提交）。④ 每次作业 2 分，属平时作业计分项，不可跨次补交。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → MA1300 → Assignments → 10/27",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3724",
-      "note": "已于 2026-10-27 提交（成绩未出，满分 2）"
-    },
-    {
       "id": "cv_3458",
       "course": "DSC 1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
@@ -583,6 +568,53 @@
       "note": "已于 2026-10-16 提交（成绩未出，满分 10）"
     },
     {
+      "id": "cv_3724",
+      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
+      "title": "10/27",
+      "due": "2026-10-27T16:00:00+08:00",
+      "dueTime": "16:00",
+      "status": "submitted",
+      "points": 2,
+      "submittedAt": "2026-09-15T15:52:35+08:00",
+      "requirement": "① 完成 MA1300 10/27 课次布置的课后习题（题目见讲义/课件）。② 手写解答后拍照或扫描为 PDF/图片上传（保持字迹清晰、题号对齐）。③ 提交到 Canvas 本作业页，截止 2026-10-27 16:00（已提交）。④ 每次作业 2 分，属平时作业计分项，不可跨次补交。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → MA1300 → Assignments → 10/27",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3724",
+      "note": "已于 2026-10-27 提交（成绩未出，满分 2）"
+    },
+    {
+      "id": "cv_3720",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "核安全测试题",
+      "due": "2026-10-27T17:50:00+08:00",
+      "dueTime": "17:50",
+      "status": "submitted",
+      "points": 10,
+      "requirement": "①要做：完成课程「核安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 核安全测试题，2026-10-27 17:50 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 核安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3720",
+      "note": "已于 2026-10-27 提交（得分 10/10）",
+      "score": 10,
+      "type": "online_quiz"
+    },
+    {
+      "id": "cv_3721",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "资源安全测试题",
+      "due": "2026-10-27T17:50:00+08:00",
+      "dueTime": "17:50",
+      "status": "submitted",
+      "points": 10,
+      "requirement": "①要做：完成课程「资源安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 资源安全测试题，2026-10-27 17:50 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 资源安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3721",
+      "note": "已于 2026-10-27 提交（得分 10/10）",
+      "score": 10,
+      "type": "online_quiz"
+    },
+    {
       "id": "cv_3699",
       "course": "PHY 1201 · General Physics I",
       "title": "Quiz 8: Sound",
@@ -604,7 +636,7 @@
       "title": "Written Assignment 8: Mechanical Waves and Sound",
       "due": "2026-10-30T23:59:59+08:00",
       "dueTime": "23:59",
-      "status": "pending",
+      "status": "submitted",
       "points": 10,
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3698",
       "requirement": "①从第 11 章题池自选 3 题（与 WA7 题池相同，须选与上次不同的题），最后一题 Exercise 11.9 必做；②手写作答，每题标明章节与题号、写出推理与计算过程（不只写答案），字迹可辨认、独立完成，主要检查完成度与真实努力；③10 月 30 日 23:59 前，可下节课/答疑时当面交老师或 TA，或拍照/扫描经本 Canvas 作业上传（多页优先合并单个 PDF，页面清晰正向）；④禁止邮寄或无人值守投递（风险自负）；迟交按课程作业政策处理，占期末 1%。",
@@ -803,38 +835,6 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
-    },
-    {
-      "id": "cv_3720",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "核安全测试题",
-      "due": "2026-10-27T17:50:00+08:00",
-      "dueTime": "17:50",
-      "status": "submitted",
-      "points": 10,
-      "requirement": "①要做：完成课程「核安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 核安全测试题，2026-10-27 17:50 截止。④额外要求：Canvas 原文未说明额外要求。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 核安全测试题",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3720",
-      "note": "已于 2026-10-27 提交（得分 10/10）",
-      "score": 10,
-      "type": "online_quiz"
-    },
-    {
-      "id": "cv_3721",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "资源安全测试题",
-      "due": "2026-10-27T17:50:00+08:00",
-      "dueTime": "17:50",
-      "status": "submitted",
-      "points": 10,
-      "requirement": "①要做：完成课程「资源安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 资源安全测试题，2026-10-27 17:50 截止。④额外要求：Canvas 原文未说明额外要求。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 资源安全测试题",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3721",
-      "note": "已于 2026-10-27 提交（得分 10/10）",
-      "score": 10,
-      "type": "online_quiz"
     }
   ],
   "notes": [
@@ -960,66 +960,6 @@
       "mailUrl": "https://mp.weixin.qq.com/s/ycDmokcPoDthNm1Jf5DLIQ"
     },
     {
-      "id": "e75",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "安全、健康及环境处 SHEO",
-      "senderEmail": "sheo@cityu-dg.edu.cn",
-      "subject": " 关于加强校内机动车驾驶停放规范的通知Notice on Strengthening the Regulation of Motor Vehicle Driving and Parking on Campus",
-      "snippet": "校内限速 30km/h、须入位停车，违规可暂停入校权限",
-      "body": "来龙去脉：安全、健康及环境处 10 月 27 日通报，近期校内出现车辆违规占道停放，依《香港城市大学（东莞）机动车辆停放服务收费管理规定（试行）》重申三点：校内限速 30 公里/小时、按标志路线行驶并礼让行人（公交停靠会车时注意车身前后盲区）；机动车必须停在划线车位或指定位置，禁占主干道与禁停区；禁鸣笛、超车、急转弯、闯禁行、超速，夜间禁远光。违规车辆将被警告、暂停校内停车权限或限制入校。\n\n要你做什么：步行或骑行不受限制，但过路口、公交站要留意盲区；若有电动车或机动车进校，按上述规则停放。属长期规范，无固定截止日期。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-27T14:37:26+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e76",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · GE1632",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 核安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 核安全测试题 10/10 满分，已批改",
-      "body": "来龙去脉：Canvas 10 月 27 日 18:33 推送，GE1632 国家安全教育课的「核安全测试题」已于当天 17:32 批改，得分 10/10（满分 10），属该课系列测试题第 10 份。\n\n要你做什么：无需操作。另注意「总体国家安全观案例分析作业」10 月 31 日 23:59 截止。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-27T18:33:28+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3720"
-    },
-    {
-      "id": "e77",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · GE1632",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 资源安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 资源安全测试题 10/10 满分，已批改",
-      "body": "来龙去脉：Canvas 10 月 27 日 18:30 推送，GE1632 的「资源安全测试题」当天 17:30 批改，得分 10/10（满分 10），与核安全测试题同时批完。\n\n要你做什么：无需操作；这两份均为满分，国家安全教育课的客观题部分已全部完成，剩下的是 10 月 31 日截止的案例分析作业。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-27T18:30:55+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3721"
-    },
-    {
-      "id": "e78",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · PHY1201",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Quiz 8: Sound, PHY1201 General Physics I (1240)",
-      "snippet": "PHY1201 Quiz 8 Sound 10/10 满分，已提前批改",
-      "body": "来龙去脉：Canvas 10 月 27 日 13:19 推送，PHY1201 的 Quiz 8: Sound 当天 12:18 批改，10/10 满分。该测验原定 10 月 30 日 23:59 截止，属提前批改。\n\n要你做什么：无需操作。同期 Written Assignment 8（机械波与声学）10 月 30 日 23:59 截止且状态仍是未提交，优先处理这一份。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-27T13:19:30+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3699"
-    },
-    {
       "id": "e71",
       "category": "activity",
       "needsReply": true,
@@ -1048,21 +988,6 @@
       "time": "2026年11月6日（周五）15:30–16:30；报名 10月27日 9:00 – 11月1日 23:59",
       "receivedAt": "2026-10-27T09:00:57+08:00",
       "mailUrl": "#"
-    },
-    {
-      "id": "e73",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Apple",
-      "senderEmail": "appleid@id.apple.com",
-      "subject": "Apple 账户密码已重设",
-      "snippet": "Apple 账户密码 10/26 晚已重设，非本人操作需立即改密",
-      "body": "来龙去脉：10 月 26 日 20:40 收到 Apple 通知，账户密码已被重置；同一分钟 iPhone 上的「查找」也被停用。两件事同时发生，通常是本人在新设备或新密码流程里主动操作的结果。\n\n要你做什么：若是你自己改的就无需处理。若不是你改的，立即到 iforgot.apple.com 重设密码，再登录 account.apple.com 检查受信任设备与登录记录，并开启双重认证。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-26T20:40:00+08:00",
-      "mailUrl": "https://account.apple.com"
     },
     {
       "id": "e68",
@@ -1404,6 +1329,34 @@
       "score": 8,
       "status": "complete",
       "submittedAt": "2026-10-20T09:10:43Z",
+      "questions": []
+    },
+    {
+      "id": "q1212",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "核安全测试题",
+      "due": "2026-10-27T09:50:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1212",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-27T09:32:56Z",
+      "questions": []
+    },
+    {
+      "id": "q1213",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "资源安全测试题",
+      "due": "2026-10-27T09:50:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1213",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-10-27T09:30:36Z",
       "questions": []
     },
     {
@@ -1931,8 +1884,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-27",
-  "canvasSyncedTs": "2026-10-27T13:01:31+08:00",
+  "canvasSyncedAt": "2026-10-28",
+  "canvasSyncedTs": "2026-10-28T09:00:19+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
