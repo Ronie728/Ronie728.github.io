@@ -217,6 +217,21 @@
       "note": "已于 2026-09-15 提交（得分未出，满分 2）。"
     },
     {
+      "id": "cv_3724",
+      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
+      "title": "10/27",
+      "due": "2026-10-27T16:00:00+08:00",
+      "dueTime": "16:00",
+      "status": "submitted",
+      "points": 2,
+      "submittedAt": "2026-09-15T15:52:35+08:00",
+      "requirement": "① 完成 MA1300 10/27 课次布置的课后习题（题目见讲义/课件）。② 手写解答后拍照或扫描为 PDF/图片上传（保持字迹清晰、题号对齐）。③ 提交到 Canvas 本作业页，截止 2026-10-27 16:00（已提交）。④ 每次作业 2 分，属平时作业计分项，不可跨次补交。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → MA1300 → Assignments → 10/27",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3724",
+      "note": "已于 2026-10-27 提交（成绩未出，满分 2）"
+    },
+    {
       "id": "cv_3458",
       "course": "DSC 1001 · Introduction to Data Science",
       "title": "In-Class Quiz 1",
@@ -579,7 +594,7 @@
       "requirement": "在线测验（Canvas Quiz），无文字说明。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 8: Sound",
-      "note": "2026-10-27 批改，得分 10/10",
+      "note": "已于 2026-10-27 提交（得分 10/10）",
       "score": 10,
       "type": "online_quiz"
     },
@@ -595,7 +610,7 @@
       "requirement": "①从第 11 章题池自选 3 题（与 WA7 题池相同，须选与上次不同的题），最后一题 Exercise 11.9 必做；②手写作答，每题标明章节与题号、写出推理与计算过程（不只写答案），字迹可辨认、独立完成，主要检查完成度与真实努力；③10 月 30 日 23:59 前，可下节课/答疑时当面交老师或 TA，或拍照/扫描经本 Canvas 作业上传（多页优先合并单个 PDF，页面清晰正向）；④禁止邮寄或无人值守投递（风险自负）；迟交按课程作业政策处理，占期末 1%。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Written Assignment 8: Mechanical Waves and Sound",
-      "note": "",
+      "note": "已于 2026-10-27 提交（成绩未出，满分 10）",
       "type": "online_upload"
     },
     {
@@ -1003,21 +1018,6 @@
       "time": "",
       "receivedAt": "2026-10-27T13:19:30+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3699"
-    },
-    {
-      "id": "e70",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "学生事务处 College_Student",
-      "senderEmail": "college_student@cityu-dg.edu.cn",
-      "subject": " 【讲座邀请】大学生情商管理：情绪调控与人际关系经营专题讲座｜【Lecture Invitation 】Students’ EQ Management: Emotion Regulation and Interpersonal Relationship Building",
-      "snippet": "情商管理讲座今天 14:30 AC5-411，提前 10 分钟到场",
-      "body": "来龙去脉：学生事务处于 10 月 26 日上午发来讲座邀请，主题为「大学生情商管理：情绪调控与人际关系经营」，主讲人潘业喜（GCDF 全球职业规划师、企业人才赋能培训师）。讲座分情绪管理与人际经营两大模块：情绪的发生机制、情绪管理五个层级、情绪调节实操方法；借压力曲线讲压力本质与释放策略；用五行识人体系辨识性格特质，再结合乔哈里视窗、三明治沟通法则等讲不同性格对象的沟通策略与交际雷区。中文授课，兼顾理论与校园场景。\n\n要你做什么：今天（10 月 27 日周二）14:30–17:00 在 AC5-411，无需报名，提前 10 分钟到场、手机静音即可。若下午有课或想留给作业，可以只去前半段。",
-      "eventTime": "2026-10-27T14:30:00+08:00",
-      "location": "AC5-411",
-      "time": "2026年10月27日（周二）14:30–17:00；建议提前 10 分钟到场",
-      "receivedAt": "2026-10-26T11:46:01+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e71",
