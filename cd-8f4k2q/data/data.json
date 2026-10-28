@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -579,8 +579,8 @@
       "requirement": "在线测验（Canvas Quiz），无文字说明。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → PHY1201 → Assignments → Quiz 8: Sound",
-      "note": "",
-      "score": null,
+      "note": "2026-10-27 批改，得分 10/10",
+      "score": 10,
       "type": "online_quiz"
     },
     {
@@ -788,6 +788,38 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
+    },
+    {
+      "id": "cv_3720",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "核安全测试题",
+      "due": "2026-10-27T17:50:00+08:00",
+      "dueTime": "17:50",
+      "status": "submitted",
+      "points": 10,
+      "requirement": "①要做：完成课程「核安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 核安全测试题，2026-10-27 17:50 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 核安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3720",
+      "note": "已于 2026-10-27 提交（得分 10/10）",
+      "score": 10,
+      "type": "online_quiz"
+    },
+    {
+      "id": "cv_3721",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "资源安全测试题",
+      "due": "2026-10-27T17:50:00+08:00",
+      "dueTime": "17:50",
+      "status": "submitted",
+      "points": 10,
+      "requirement": "①要做：完成课程「资源安全」专题的在线测试题。②交付：在 Canvas 在线测验内直接作答，无需上传文件（Canvas 未提供文字说明）。③交到：Canvas → GE1632 → Assignments → 资源安全测试题，2026-10-27 17:50 截止。④额外要求：Canvas 原文未说明额外要求。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "GE1632 大学生国家安全教育课 → Assignments → 资源安全测试题",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3721",
+      "note": "已于 2026-10-27 提交（得分 10/10）",
+      "score": 10,
+      "type": "online_quiz"
     }
   ],
   "notes": [
@@ -897,6 +929,81 @@
     }
   ],
   "emails": [
+    {
+      "id": "e74",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "体育教学组 PE Teaching Team",
+      "senderEmail": "peteam@cityu-dg.edu.cn",
+      "subject": " 【活动招募】关于组织参加2026东莞城市慈善徒步活动的通知Notice on Organizing Participation in the 2026 Dongguan City Charity Walk",
+      "snippet": "慈善徒步 11/7 8:00 黄旗山 8.6km，报名截止 10/30 12:00",
+      "body": "来龙去脉：体育教学组 10 月 27 日下午发出招募，2026 东莞城市慈善徒步 11 月 7 日（周六）8:00–12:00 在黄旗山森林公园举行，全程约 8.6 公里。名额限 30 人，报满即止；成功报名的前 10 名可得主办方参赛包，其余入选同学需穿学校文化衫。学校统一购买保险并安排大巴往返，不接受单独行动。\n\n要你做什么：10 月 30 日（周五）12:00 前扫原邮件附件二维码加群，按加群先后筛 30 人，进群即视为确认全程参加。活动对体能要求较高，有基础疾病或时间不匹配就别占名额；详情见微信推文。",
+      "eventTime": "2026-11-07T08:00:00+08:00",
+      "location": "黄旗山森林公园",
+      "time": "2026年11月7日（周六）8:00–12:00；报名截止 10月30日（周五）12:00",
+      "receivedAt": "2026-10-27T14:38:46+08:00",
+      "mailUrl": "https://mp.weixin.qq.com/s/ycDmokcPoDthNm1Jf5DLIQ"
+    },
+    {
+      "id": "e75",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "安全、健康及环境处 SHEO",
+      "senderEmail": "sheo@cityu-dg.edu.cn",
+      "subject": " 关于加强校内机动车驾驶停放规范的通知Notice on Strengthening the Regulation of Motor Vehicle Driving and Parking on Campus",
+      "snippet": "校内限速 30km/h、须入位停车，违规可暂停入校权限",
+      "body": "来龙去脉：安全、健康及环境处 10 月 27 日通报，近期校内出现车辆违规占道停放，依《香港城市大学（东莞）机动车辆停放服务收费管理规定（试行）》重申三点：校内限速 30 公里/小时、按标志路线行驶并礼让行人（公交停靠会车时注意车身前后盲区）；机动车必须停在划线车位或指定位置，禁占主干道与禁停区；禁鸣笛、超车、急转弯、闯禁行、超速，夜间禁远光。违规车辆将被警告、暂停校内停车权限或限制入校。\n\n要你做什么：步行或骑行不受限制，但过路口、公交站要留意盲区；若有电动车或机动车进校，按上述规则停放。属长期规范，无固定截止日期。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-27T14:37:26+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e76",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Canvas · GE1632",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: 核安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
+      "snippet": "GE1632 核安全测试题 10/10 满分，已批改",
+      "body": "来龙去脉：Canvas 10 月 27 日 18:33 推送，GE1632 国家安全教育课的「核安全测试题」已于当天 17:32 批改，得分 10/10（满分 10），属该课系列测试题第 10 份。\n\n要你做什么：无需操作。另注意「总体国家安全观案例分析作业」10 月 31 日 23:59 截止。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-27T18:33:28+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3720"
+    },
+    {
+      "id": "e77",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Canvas · GE1632",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: 资源安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
+      "snippet": "GE1632 资源安全测试题 10/10 满分，已批改",
+      "body": "来龙去脉：Canvas 10 月 27 日 18:30 推送，GE1632 的「资源安全测试题」当天 17:30 批改，得分 10/10（满分 10），与核安全测试题同时批完。\n\n要你做什么：无需操作；这两份均为满分，国家安全教育课的客观题部分已全部完成，剩下的是 10 月 31 日截止的案例分析作业。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-27T18:30:55+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3721"
+    },
+    {
+      "id": "e78",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Canvas · PHY1201",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Quiz 8: Sound, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 Quiz 8 Sound 10/10 满分，已提前批改",
+      "body": "来龙去脉：Canvas 10 月 27 日 13:19 推送，PHY1201 的 Quiz 8: Sound 当天 12:18 批改，10/10 满分。该测验原定 10 月 30 日 23:59 截止，属提前批改。\n\n要你做什么：无需操作。同期 Written Assignment 8（机械波与声学）10 月 30 日 23:59 截止且状态仍是未提交，优先处理这一份。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-10-27T13:19:30+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3699"
+    },
     {
       "id": "e70",
       "category": "activity",
