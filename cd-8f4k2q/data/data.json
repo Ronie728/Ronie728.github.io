@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -944,6 +944,81 @@
     }
   ],
   "emails": [
+    {
+      "id": "e79",
+      "category": "reply",
+      "needsReply": true,
+      "sender": "宿舍导师 Hall Tutor",
+      "senderEmail": "hall.tutor@cityu-dg.edu.cn",
+      "subject": " 【问卷调查|Survey】关于学生宿舍1-4座公共洗衣机使用习惯与使用意愿的调查|Shared Washing Machine Usage Habits and Preferences in Student Residence Hall 1-4",
+      "snippet": "洗衣房公约问卷：内衣袜子能否机洗，11/1 21:00 前填",
+      "body": "来龙去脉：宿舍导师 10 月 29 日上午发来问卷，起因是有同学反馈在每层公共洗衣机里洗内衣、袜子。为推进洗衣房学生自治管理、制定洗衣房公约，现征集两项意见：是否接受在公共洗衣机内清洗内衣袜子；是否接受把四座宿舍楼下的部分公共洗衣机设为专用机（可洗袜子、内衣与日常衣物）。\n\n要你做什么：约 2 分钟线上问卷，须在 11 月 1 日（周日）21:00 前扫原邮件二维码提交。未提交视为自动放弃表决权，问卷结果将作为公约条款定稿依据——想影响楼下洗衣房规则就得填这一份。",
+      "eventTime": "2026-11-01T21:00:00+08:00",
+      "location": "线上问卷（扫原邮件二维码）",
+      "time": "截止 2026年11月1日（周日）21:00",
+      "receivedAt": "2026-10-29T11:30:38+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e80",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "学生事务处（职业发展）SDO Career",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": " 【Career Event Notice】Company Visit Series（Nov. 2026）| 企业参访系列活动（2026年11月）",
+      "snippet": "11月企业参访腾讯/徐福记/OPPO/小鹏，报名 10/30 18:00–11/1",
+      "body": "来龙去脉：学生事务处（职业发展）推出 11 月企业参访系列活动，一次报名覆盖 4 家企业：腾讯（深圳）11 月 5 日 12:45–16:00，50 人，含校招分享与简历辅导；徐福记（东莞）11 月 9 日 13:30–16:00，40 人，看沙琪玛与酥心糖车间；OPPO 总部（东莞）11 月 10 日 12:45–16:30，60 人，含滨海湾园区与校招互动；小鹏（广州）11 月 18 日 13:00–16:30，40 人，含飞行汽车展厅。\n\n要你做什么：报名窗口 10 月 30 日（周五）18:00 至 11 月 1 日（周日）23:59，走学生事务系统→日常事务→学生活动，或企业微信扫原邮件二维码。名额有限，报名成功名单会提交企业备案，爽约会计入诚信管理名单。对智能制造/机器人方向来说，OPPO 与小鹏两场最对口，建议优先抢。",
+      "eventTime": "2026-11-05T12:45:00+08:00",
+      "location": "腾讯（深圳）、徐福记（东莞）、OPPO 总部（东莞）、小鹏（广州）",
+      "time": "报名 10月30日 18:00–11月1日 23:59；腾讯 11/5、徐福记 11/9、OPPO 11/10、小鹏 11/18",
+      "receivedAt": "2026-10-28T15:52:02+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e81",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "学生事务处 SDO",
+      "senderEmail": "sdo@cityu-dg.edu.cn",
+      "subject": " 关于参加“全国大学生市场调查与分析大赛”的通知 | Notice Regarding Registration for \"National College Student Market Survey and Analysis Competition\"",
+      "snippet": "市场调查大赛校内报名至 11/5，知识赛网考 11/1 起，自费",
+      "body": "来龙去脉：第十七届全国大学生市场调查与分析大赛（「正大杯」）已由中国商业统计学会启动，学校统一组织报名。关键节点：校内报名截止 11 月 5 日（已向主办方申请延后）；知识赛模拟考 10 月 20 日–11 月 10 日，每人限一次；知识赛正式网考 11 月 1 日–11 月 20 日，60 分及格，可考 1–2 次取最高分；实践赛命题 11 月 17 日公布；校赛 2027 年 3 月 22 日前完成。\n\n要你做什么：3–5 人一队、须同校，可跨专业组队，需扫码进参赛交流群并完成网考报名（院校代码见原邮件）。参赛费用自费、学校不报销。赛事在 Active Learning 竞赛名单内，获奖可认证 ALP 竞赛积分——想攒 ALP 又愿意做数据分析的话性价比不错。",
+      "eventTime": "2026-11-05T23:59:00+08:00",
+      "location": "",
+      "time": "校内报名截止 2026年11月5日；知识赛正式网考 11月1日–11月20日",
+      "receivedAt": "2026-10-28T16:14:47+08:00",
+      "mailUrl": "http://www.china-cssc.org/list-60-1.html"
+    },
+    {
+      "id": "e82",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "学生事务处（职业发展）SDO Career",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": " [Career Event Notice] AUCA Further Study Education Fair | AUCA 海外高校驻华联盟升学教育展",
+      "snippet": "8 所海外院校升学展 11/4 16:30 AC5，宣讲需报名",
+      "body": "来龙去脉：学校 11 月 4 日（周三）16:30–19:00 在学术楼五座办 AUCA 海外高校驻华联盟升学教育展，八所院校招生代表到场：昆山杜克、中欧 Global MiM、伊利诺伊理工、理海、东北、上海纽约、罗切斯特、圣路易斯华盛顿（能源环境与化工系）。16:30–17:00 与 17:40–19:00 是 AC5 一楼大厅展位咨询（硕博项目，免报名）；17:00–17:40 在 AC5-102 陈梓红报告厅做硕士项目宣讲。\n\n要你做什么：展位随便逛，宣讲会是 Active Learning 活动可拿积分，需经学生事务系统→日常事务→学生活动报名，或企业微信扫原邮件二维码。想去问硕博申请与科研机会的话，展位环节不用报名、成本最低。",
+      "eventTime": "2026-11-04T16:30:00+08:00",
+      "location": "学术楼五座（AC5）一楼大厅 / AC5-102 陈梓红报告厅",
+      "time": "2026年11月4日（周三）16:30–19:00",
+      "receivedAt": "2026-10-29T09:21:38+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e83",
+      "category": "activity",
+      "needsReply": true,
+      "sender": "学生事务处（职业发展）SDO Career",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": " 【竞赛通知】第四届全国大学生职业规划大赛 | [Career Competition Notice] The Fourth National College Students' Career Planning Competition",
+      "snippet": "职业规划大赛报名至 11/30，平台 zgs.chsi.com.cn",
+      "body": "来龙去脉：教育部主办的第四届全国大学生职业规划大赛 2026 年 10 月至 2027 年 4 月举行，分成长赛道与就业赛道（方案见原邮件附件）。赛程：报名 2026 年 10 月–11 月 30 日；校赛省赛 2026 年 10 月–2027 年 3 月上旬，各省须在 2027 年 3 月 15 日前完成；全国总决赛 2027 年 4 月现场比。校赛期间平台开放生涯闯关与职业适配度测评功能。\n\n要你做什么：在 zgs.chsi.com.cn 注册报名，截止 11 月 30 日，操作手册在平台登录页可下载。晋级总决赛后指导教师、目标职业与行业不得修改，所以选题前最好先想清楚方向（ITME / 智能制造相关岗位是个自然的落点）。",
+      "eventTime": "2026-11-30T23:59:00+08:00",
+      "location": "",
+      "time": "报名截止 2026年11月30日；校赛省赛 2027年3月15日前；总决赛 2027年4月",
+      "receivedAt": "2026-10-28T15:18:51+08:00",
+      "mailUrl": "https://zgs.chsi.com.cn"
+    },
     {
       "id": "e74",
       "category": "activity",
