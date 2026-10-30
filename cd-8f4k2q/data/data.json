@@ -839,15 +839,6 @@
   ],
   "notes": [
     {
-      "id": "note:ge2134-argument-map:20261022",
-      "type": "notice",
-      "title": "GE2134 in-class argument map task today",
-      "summary": "Oct 22: GE2134 in-class argument map task; review sample",
-      "detail": "GE2134 Critical and Creative Thinking 的课堂内作业（in-class assignment）安排在 2026-10-22（周四），形式与老师上传到 Week 5 文件夹的 argument map 范例相近（范例议论文题为「School Day Should Not Be Lengthened」）。建议课前先熟悉 argument map 的写法与范例结构；具体上课时间以课程表／Canvas 公告为准，邮件未给出。",
-      "meta": "Oct 22, 2026",
-      "source": "Canvas 公告（GE2134）"
-    },
-    {
       "id": "note:coo-survey:20261026",
       "type": "notice",
       "title": "Campus property services survey closes today 17:00",
@@ -855,15 +846,6 @@
       "detail": "The Campus Operations Office satisfaction questionnaire on property services closes today at 17:00. It was sent to student mailboxes on Oct 20. Complete it before the deadline if you have not yet responded.",
       "meta": "Oct 26, 2026",
       "source": "campus mail e61 (COO notice, Oct 20)"
-    },
-    {
-      "id": "note:email_sync:20261029",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 29",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 29, 2026",
-      "source": "CampusDesk afternoon sync"
     },
     {
       "id": "cv:938:4251",
@@ -941,6 +923,15 @@
       "source": "Canvas · CS1302",
       "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
       "postedAt": "2026-10-10"
+    },
+    {
+      "id": "note:email_sync:20261030",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 30",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 30, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1959,8 +1950,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-10-29",
-  "canvasSyncedTs": "2026-10-29T20:07:01+08:00",
+  "canvasSyncedAt": "2026-10-30",
+  "canvasSyncedTs": "2026-10-30T13:03:24+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
