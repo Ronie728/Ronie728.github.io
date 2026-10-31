@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -848,6 +848,15 @@
       "source": "campus mail e61 (COO notice, Oct 20)"
     },
     {
+      "id": "note:email_sync:20261030",
+      "type": "notice",
+      "title": "Email sync unavailable on Oct 30",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Oct 30, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:938:4251",
       "type": "notice",
       "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
@@ -921,17 +930,8 @@
       "detail": "Dear All, The tutorial next week we will be going over the format of the midterm exam and looking at some practice questions, so it is very important that you attend. This is a reminder that the first assignment is due BEFORE class on Wednesday. Many have already submitted but there are still quiet a few who have not. Again, please remember when submitting the assignment to make sure to only write the code where you are supposed to without changing anything else in the notebook. Please make sure you: 1) Do not change the function names 2) Do not have test code in your submission. Espeically do not have inputs or calling the test functions with your solution (see image below of what not to do). 3) Check edge cases and make sure you aren't trying to add an int and str together in all possible cases. Check indentation, typos, missing operators, etc. Good luck and see you in class next Wedne",
       "meta": "CS1302",
       "source": "Canvas · CS1302",
-      "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/898/discussion_topics/4134",
       "postedAt": "2026-10-10"
-    },
-    {
-      "id": "note:email_sync:20261030",
-      "type": "notice",
-      "title": "Email sync unavailable on Oct 30",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Oct 30, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1161,21 +1161,6 @@
       "mailUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3674"
     },
     {
-      "id": "e67",
-      "category": "activity",
-      "needsReply": true,
-      "sender": "香港城市大学（东莞）教育基金会 Foundation",
-      "senderEmail": "foundation@cityu-dg.edu.cn",
-      "subject": " 【活动邀请】森拓建设集团有限公司 · 黎建波先生捐赠仪式 | Invitation to the Donation Ceremony in Recognition of Sentuo Construction Group Co., Ltd. and Mr. Li Jianbo",
-      "snippet": "捐赠仪式 10/30 16:00 图书馆二楼大厅，报名截止 10/27 23:59",
-      "body": "来龙去脉：教育基金会 10/23 下午发来邀请，10 月 30 日（周五）下午为森拓建设集团有限公司与黎建波先生的捐赠举行答谢仪式。现场可提前看到本次捐赠支持的「未来智能中心」，并在仪式后与企业嘉宾、老师同学交流；16:00–16:15 嘉宾签到，16:15–17:15 仪式环节。\n\n要你做什么：想参加需通过邮件内的企业微信表单报名（邮件里附有 doc.weixin.qq.com 表单链接，已填进本站入口），截止 10 月 27 日（周二）23:59，名额有限先到先得。对智能制造方向感兴趣的话，这是提前接触「未来智能中心」和企业方的一个低成本机会。如有疑问可联系基金会老师（联系方式见原邮件，不在此重复）。",
-      "eventTime": "2026-10-30T16:00:00+08:00",
-      "location": "图书馆二楼大厅",
-      "time": "2026年10月30日（周五）16:00–17:15；报名截止 10月27日（周二）23:59",
-      "receivedAt": "2026-10-23T17:53:09+08:00",
-      "mailUrl": "https://doc.weixin.qq.com/forms/AGIAXgeqAE0AcoAzQb6ACkCNs1jr5fkjf?page=1"
-    },
-    {
       "id": "e59",
       "category": "notice",
       "needsReply": false,
@@ -1279,21 +1264,6 @@
       "time": "报名截止 2026年10月19日（周一）12:00；活动 10/23 广州、10/25–26 东莞",
       "receivedAt": "2026-10-14T16:36:55+08:00",
       "mailUrl": "#"
-    },
-    {
-      "id": "e41",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Instructure Canvas",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Recent Canvas Notifications",
-      "snippet": "PHY1201 WA6（刚体转动）10/16 23:59 截止，已于 10/10 提交待评分。",
-      "body": "Canvas 每周汇总（覆盖至 10 月 10 日）通知：PHY1201 General Physics I 新增作业「Written Assignment 6: Dynamics of Rotation」（刚体转动动力学），满分 10 分，截止 2026 年 10 月 16 日 23:59。经 Canvas API 核实：该作业状态为已提交（submitted，提交时间 2026-10-10）、尚未评分，未迟交。CampusDesk 的 assignments 已有对应记录，无需新增。建议：留意批改结果；若发现提交内容有误，需在 10/16 23:59 前重新提交。此件为课程通知，无需回复。",
-      "eventTime": "",
-      "location": "",
-      "time": "2026年10月16日 23:59 截止",
-      "receivedAt": "2026-10-10T17:06:08+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3615"
     },
     {
       "id": "e40",
@@ -2040,7 +2010,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "DSC1001",
@@ -2053,7 +2023,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "EN1002",
@@ -2066,7 +2036,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "GE1632",
@@ -2079,7 +2049,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "GE2134",
@@ -2092,7 +2062,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "IP1901",
@@ -2107,7 +2077,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "MA1300",
@@ -2125,7 +2095,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "ME1921",
@@ -2138,7 +2108,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     },
     {
       "code": "PHY1201",
@@ -2157,7 +2127,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-10-31"
     }
   ],
   "canvasEvents": [
@@ -2428,6 +2398,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-10-30",
-  "canvasInsightsSyncedTs": "2026-10-30T08:32:41+08:00"
+  "canvasInsightsSyncedAt": "2026-10-31",
+  "canvasInsightsSyncedTs": "2026-10-31T10:50:47+08:00"
 }
