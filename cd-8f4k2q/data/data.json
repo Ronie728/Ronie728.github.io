@@ -985,21 +985,6 @@
       "mailUrl": "#"
     },
     {
-      "id": "e88",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "国际交流处 Global Engagement Office",
-      "senderEmail": "geo@cityu-dg.edu.cn",
-      "subject": " 因公、因私出国（境）出行安全提示 / Safety Guidelines for Official and Personal Overseas Trips",
-      "snippet": "出国（境）安全提示：证件备份、登记领事热线",
-      "body": "来龙去脉：国际交流处面向因公、因私出国（境）的师生发安全提示，属长期有效的常规提醒，无固定截止日期。\n\n要你做什么：不用回复，出行前照做即可——查外交部境外安全提醒、评估目的地治安与法规风险；护照通行证签证留电子备份；存好当地紧急电话与中国驻外使领馆领保电话，外交部全球领事保护热线 24 小时可用；在外注意人身财产与网络信息安全，警惕电信诈骗。遇到困难可直接联系国际交流处（geo@cityu-dg.edu.cn）。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-10-30T10:51:08+08:00",
-      "mailUrl": "#"
-    },
-    {
       "id": "e79",
       "category": "reply",
       "needsReply": true,
