@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-11-01",
   "source": "桌面端 Agent 检索 · 智能制造 / 数字孪生 · 双周更新",
   "items": [
+    {
+      "id": "mg_2026-10-19_siemens_nvidia-autonomous-factory-erlangen",
+      "title": "Siemens partners with NVIDIA to advance AI-driven, autonomous factories",
+      "titleZh": "西门子携手NVIDIA推进AI驱动的自主工厂",
+      "source": "Siemens",
+      "category": "manufacturing",
+      "date": "2026-10-19",
+      "url": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories",
+      "abstract": "西门子10月19日在德国爱尔兰根电子工厂发布与NVIDIA联合开发的工业AI方案，把这座工厂推向AI驱动自主制造的样板。一是全虚拟化生产准备：过去质检准备要等物理样板出来才能训练视觉系统，耗时数周；现在AI直接从PCB组件的数字孪生生成逼真图像训练检测模型，工程投入削减最多85%，上市周期缩短最多40%。二是基于智能体的生产规划：新订单到达时自动生成多套方案并按KPI展示影响，先在整厂数字孪生中验证再落地，可节省成本最多20%。技术栈包括NVIDIA Cosmos世界模型、Factory Operations Blueprint与Omniverse库。该厂已投用100多种AI算法，年生产率提升约7%。",
+      "keywords": [
+        "digital twin",
+        "autonomous factory",
+        "industrial AI",
+        "NVIDIA Omniverse",
+        "AI agent"
+      ],
+      "readTime": 8,
+      "thumb": ""
+    },
     {
       "id": "mg_2026-09-17_delta_ai-digital-twin-nvidia",
       "title": "Delta Showcases AI-Driven Smart Manufacturing and Digital Twin Solutions featuring NVIDIA Technologies at SEMICON India 2026",
