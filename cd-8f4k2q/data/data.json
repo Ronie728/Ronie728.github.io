@@ -849,15 +849,6 @@
   ],
   "notes": [
     {
-      "id": "note:coo-survey:20261026",
-      "type": "notice",
-      "title": "Campus property services survey closes today 17:00",
-      "summary": "Oct 26 17:00: COO campus property survey closes today",
-      "detail": "The Campus Operations Office satisfaction questionnaire on property services closes today at 17:00. It was sent to student mailboxes on Oct 20. Complete it before the deadline if you have not yet responded.",
-      "meta": "Oct 26, 2026",
-      "source": "campus mail e61 (COO notice, Oct 20)"
-    },
-    {
       "id": "note:email_sync:20261101",
       "type": "notice",
       "title": "Email sync unavailable on Nov 1",
