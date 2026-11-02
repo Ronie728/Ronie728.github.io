@@ -852,15 +852,6 @@
   ],
   "notes": [
     {
-      "id": "note:email_sync:20261101",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 1",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 1, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:938:4251",
       "type": "notice",
       "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
@@ -925,6 +916,15 @@
       "source": "Canvas · GE2134",
       "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/909/discussion_topics/4160",
       "postedAt": "2026-10-11"
+    },
+    {
+      "id": "note:email_sync:20261102",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 2",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 2, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1808,7 +1808,7 @@
     }
   ],
   "canvasSyncedAt": "2026-11-02",
-  "canvasSyncedTs": "2026-11-02T11:09:19+08:00",
+  "canvasSyncedTs": "2026-11-02T13:05:42+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
