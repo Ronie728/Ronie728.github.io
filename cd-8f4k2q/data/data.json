@@ -925,6 +925,36 @@
   ],
   "emails": [
     {
+      "id": "e88",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "学术规章与记录处 ARRO",
+      "senderEmail": "classattd@cityu-dg.edu.cn",
+      "subject": "Notification Of Absence",
+      "snippet": "GE1632 国家安全教育课缺勤率 37.5%，已超 30% 警戒线",
+      "body": "来龙去脉：ARRO 的出勤系统自动发出这封缺勤预警。GE1632 大学生国家安全教育课 National Security Education Course 本学期要求出勤 8 次，你已缺 3 次，缺勤率 37.5%，超过 30% 的警戒线。按学校《课堂出勤试行规定》，缺勤率过线可能影响该门课的考核资格甚至成绩认定，这不是普通通知，属于学业风险预警。\n\n要你做什么：先去学生出勤系统（PC 版，需连校园网，或在企业微信工作台找对应入口）核对那 3 次缺勤记录是否记错——有些课是签到漏扫、代点名或请假未销假导致误记。如果记录有误，带证据尽快去 ARRO 服务中心（AC4-122）申诉更正；如果确实缺了，剩下的课务必全勤，把缺勤率压回 30% 以下。官方规定原文见邮件里的 arro.cityu-dg.edu.cn 链接。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-11-02T09:13:27+08:00",
+      "mailUrl": "https://arro.cityu-dg.edu.cn/regulation-guidelines/regulation-on-class-attendance-trial/"
+    },
+    {
+      "id": "e89",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Apple",
+      "senderEmail": "appleid@id.apple.com",
+      "subject": "Apple 账户信息已更新",
+      "snippet": "Apple 账户密码 11/1 22:44 被修改，非本人操作需立刻改密",
+      "body": "来龙去脉：Apple 在 11 月 1 日（周日）22:44 通知，账户的「密码」这一项发生了更改。这类改动通知只要不是你自己动的手，就意味着有人拿到了你的 Apple ID 并改了密码。\n\n要你做什么：先回忆 11/1 晚上有没有自己改过密码（比如换新 iPhone、重设密码）。如果没改过，立刻去 account.apple.com 改密码，并顺手做两件事：开启双重认证、在「设备」列表里踢掉不认识的设备；同时检查这个 Apple ID 绑定的备用邮箱和受信任电话号码有没有被替换。Apple ID 一旦被拿走，绑定的支付方式、iCloud 备份和「查找」都会被牵连。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-11-01T22:44:51+08:00",
+      "mailUrl": "https://account.apple.com"
+    },
+    {
       "id": "e84",
       "category": "reply",
       "needsReply": true,
