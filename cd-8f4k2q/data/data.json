@@ -679,12 +679,15 @@
       "title": "Quiz 9: Temperature and Heat",
       "due": "2026-11-08T23:59:59+08:00",
       "points": 10,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3751",
       "dueTime": "23:59",
       "requirement": "在线测验（Canvas Quiz），无文字说明。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY 1201 → Assignments → Quiz 9: Temperature and Heat"
+      "canvasPath": "Canvas → PHY 1201 → Assignments → Quiz 9: Temperature and Heat",
+      "score": 10,
+      "submittedAt": "2026-11-02T18:17:48+08:00",
+      "note": "已于 2026-11-02 18:17 提交并当场批改，得分 10/10（满分）；截止 2026-11-08 23:59（Quiz 9：温度与热）。"
     },
     {
       "id": "cv_3319",
@@ -928,6 +931,21 @@
     }
   ],
   "emails": [
+    {
+      "id": "e89",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "PHY1201 课程 · Canvas",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Quiz 9: Temperature and Heat, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 Quiz 9 温度与热已批改，10/10 满分",
+      "body": "来龙去脉：Canvas 在 11 月 2 日 19:18 发出批改通知，PHY1201 General Physics I 的 Quiz 9: Temperature and Heat 已出分。你的作答在当天 18:17 提交，随即被判分，最终 10/10（满分），与前面 Quiz 1–8 一样保持全对。这门课的每个 Quiz 各占总评 1%，这次满分意味着这 1% 已经稳稳拿到，物理小测至今没有掉分。\n\n要你做什么：不需要任何操作，纯粹是成绩通知。如果想看错题或复核，可以进 Canvas 的 PHY1201 → Assignments → Quiz 9 页面查看作答记录；不过既然已经满分，没有复核的必要。真正要盯的是 11 月 8 日 23:59 之前的下一批任务（Quiz 10 与 Written Assignment 9 一类的进度），别被这门课的满分节奏麻痹。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-11-02T19:18:18+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3751"
+    },
     {
       "id": "e88",
       "category": "notice",
