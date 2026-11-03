@@ -1756,10 +1756,10 @@
       "points": 10,
       "questionCount": 10,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1216",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-11-02T10:17:48Z",
       "questions": []
     },
     {
@@ -1810,8 +1810,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-02",
-  "canvasSyncedTs": "2026-11-02T13:05:42+08:00",
+  "canvasSyncedAt": "2026-11-03",
+  "canvasSyncedTs": "2026-11-03T08:56:25+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
