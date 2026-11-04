@@ -660,6 +660,51 @@
       "note": "已于 2026-10-22 提交（成绩未出，满分 100）"
     },
     {
+      "id": "cv_3778",
+      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
+      "title": "11/03",
+      "due": "2026-11-03T15:50:00+08:00",
+      "points": 2,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3778",
+      "dueTime": "15:50",
+      "requirement": "① 完成 MA1300 于 2026-11-03 课堂布置的课后作业（标题即日期「11/03」）。② 交付物：上传文件（online_upload），Canvas 未说明具体格式，推测为手写解答拍照或 PDF。③ 交到 Canvas → MA1300 → Assignments → 11/03，截止 2026-11-03 15:50。④ 满分 2 分，Canvas 原文无附加要求（无字数/查重/小组要求）。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → MA1300 → Assignments → 11/03",
+      "note": "已于 2026-11-03 提交（成绩未出，满分 2）",
+      "score": null
+    },
+    {
+      "id": "cv_3759",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "太空安全测试题",
+      "due": "2026-11-03T17:50:00+08:00",
+      "dueTime": "17:50",
+      "status": "submitted",
+      "score": 10,
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3759",
+      "requirement": "在线测试（Canvas Quiz），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 太空安全测试题",
+      "note": "已于 2026-11-03 提交（得分 10/10）"
+    },
+    {
+      "id": "cv_3760",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "海外利益安全测试题",
+      "due": "2026-11-03T17:50:00+08:00",
+      "dueTime": "17:50",
+      "status": "submitted",
+      "score": 9.75,
+      "points": 10,
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3760",
+      "requirement": "在线测试（Canvas Quiz），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 海外利益安全测试题",
+      "note": "已于 2026-11-03 提交（得分 9.75/10）"
+    },
+    {
       "id": "cv_3776",
       "course": "CS 1302 · Introduction to Computer Programming",
       "title": "Midterm Grade",
@@ -865,51 +910,6 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
-    },
-    {
-      "id": "cv_3759",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "太空安全测试题",
-      "due": "2026-11-03T17:50:00+08:00",
-      "dueTime": "17:50",
-      "status": "submitted",
-      "score": 10,
-      "points": 10,
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3759",
-      "requirement": "在线测试（Canvas Quiz），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 太空安全测试题",
-      "note": "已于 2026-11-03 提交（得分 10/10）"
-    },
-    {
-      "id": "cv_3760",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "海外利益安全测试题",
-      "due": "2026-11-03T17:50:00+08:00",
-      "dueTime": "17:50",
-      "status": "submitted",
-      "score": 9.75,
-      "points": 10,
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3760",
-      "requirement": "在线测试（Canvas Quiz），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 海外利益安全测试题",
-      "note": "已于 2026-11-03 提交（得分 9.75/10）"
-    },
-    {
-      "id": "cv_3778",
-      "course": "MA 1300 · Enhanced Calculus and Linear Algebra I",
-      "title": "11/03",
-      "due": "2026-11-03T15:50:00+08:00",
-      "points": 2,
-      "status": "submitted",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/938/assignments/3778",
-      "dueTime": "15:50",
-      "requirement": "① 完成 MA1300 于 2026-11-03 课堂布置的课后作业（标题即日期「11/03」）。② 交付物：上传文件（online_upload），Canvas 未说明具体格式，推测为手写解答拍照或 PDF。③ 交到 Canvas → MA1300 → Assignments → 11/03，截止 2026-11-03 15:50。④ 满分 2 分，Canvas 原文无附加要求（无字数/查重/小组要求）。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → MA1300 → Assignments → 11/03",
-      "note": "已于 2026-11-03 提交（成绩未出，满分 2）",
-      "score": null
     }
   ],
   "notes": [
@@ -1451,6 +1451,34 @@
       "questions": []
     },
     {
+      "id": "q1218",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "太空安全测试题",
+      "due": "2026-11-03T09:50:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1218",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-11-03T09:36:57Z",
+      "questions": []
+    },
+    {
+      "id": "q1219",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "海外利益安全测试题",
+      "due": "2026-11-03T09:50:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1219",
+      "attempted": true,
+      "score": 9.75,
+      "status": "complete",
+      "submittedAt": "2026-11-03T09:39:09Z",
+      "questions": []
+    },
+    {
       "id": "q1170",
       "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
       "title": "总体国家安全观测试题",
@@ -1989,8 +2017,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-03",
-  "canvasSyncedTs": "2026-11-03T13:08:14+08:00",
+  "canvasSyncedAt": "2026-11-04",
+  "canvasSyncedTs": "2026-11-04T09:05:23+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
