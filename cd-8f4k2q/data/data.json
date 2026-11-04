@@ -669,7 +669,9 @@
       "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3776",
       "dueTime": "23:59",
       "requirement": "① 无需提交任何文件：Canvas 未设提交类型（TYPES: none），标题为「Midterm Grade」，是 CS1302 期中成绩的发布条目。② 交付物：无。③ 位置/时间：Canvas → CS1302 → Assignments → Midterm Grade，显示截止 2026-11-03 23:59（对本条通常不适用）。④ 满分 60 分；目前未显示得分，成绩以教师公布为准。Canvas 原文无文字说明，若与课堂说明不一致请以课程公告为准。",
-      "requirementSource": "Canvas 同步"
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas -> CS1302 -> Assignments -> Midterm Grade",
+      "note": "Grade posting entry, no submission needed"
     },
     {
       "id": "cv_3674",
