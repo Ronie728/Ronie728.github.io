@@ -740,7 +740,11 @@
       "points": 20,
       "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/790/assignments/3804",
-      "dueTime": "21:35"
+      "dueTime": "21:35",
+      "requirement": "在线测验（Canvas Quiz），随堂进行，无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → DSC 1001 · Introduction to Data Science → Assignments → In-Class Quiz 5",
+      "note": "已于 2026-11-04 提交（得分 0/20，In-Class Quiz；请核对 Canvas 批改状态）"
     },
     {
       "id": "cv_3751",
@@ -766,7 +770,10 @@
       "points": 10,
       "status": "pending",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3799",
-      "dueTime": "23:59"
+      "dueTime": "23:59",
+      "requirement": "在线测验（Canvas Quiz），占期末总评 1%。每题 3 次尝试；数值答案按题目要求 units，不要在答案中带单位；数值容差 ±5%，最多输入 4 位小数。开始作答后须在 3 天（4320 分钟）内完成，超时 Canvas 自动提交。截止 2026-11-15 23:59。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY 1201 · General Physics I → Assignments → Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas"
     },
     {
       "id": "cv_3797",
@@ -776,7 +783,10 @@
       "points": 20,
       "status": "pending",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3797",
-      "dueTime": "23:59"
+      "dueTime": "23:59",
+      "requirement": "从题池中自选 6 题用纸笔手写作答（注意本次为双份作业 double assignment）。截止 2026-11-15 23:59，占期末总评 2%，Canvas 上传提交。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY 1201 · General Physics I → Assignments → Written Assignment 9&10: Temperature, Heat and Thermal Property of Matter"
     },
     {
       "id": "cv_3791",
@@ -786,7 +796,11 @@
       "points": 10,
       "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3791",
-      "dueTime": "10:00"
+      "dueTime": "10:00",
+      "requirement": "下载 Assignment 3 文件，只在 Jupyter notebook 中标注 #your code here 的位置写代码；不得增删/复制单元格或改动文字与其他代码，违者该题 0 分。作答时删除占位的 `pass`，不要提交额外代码（需加测可复制到另一 notebook 运行）。每题写完须运行其下方 # tests 测试单元，无报错即得满分；全部题目无部分分，总分 10 分。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → CS 1302 · Introduction to Computer Programming → Assignments → Assignment 3 - Information Theory",
+      "note": "已于 2026-11-04 提交（成绩未出，满分 10）"
     },
     {
       "id": "cv_3319",
