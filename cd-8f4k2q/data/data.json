@@ -924,6 +924,15 @@
   ],
   "notes": [
     {
+      "id": "note:email_sync:20261104",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 4",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 4, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:790:4388",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
@@ -988,15 +997,6 @@
       "source": "Canvas · MA1300",
       "href": "https://cityu-dg.instructure.com/courses/938/discussion_topics/4242",
       "postedAt": "2026-10-19"
-    },
-    {
-      "id": "note:email_sync:20261104",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 4",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 4, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -2042,7 +2042,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "DSC1001",
@@ -2055,7 +2055,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "EN1002",
@@ -2068,7 +2068,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "GE1632",
@@ -2081,7 +2081,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "GE2134",
@@ -2094,7 +2094,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "IP1901",
@@ -2109,7 +2109,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "MA1300",
@@ -2127,7 +2127,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "ME1921",
@@ -2140,7 +2140,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "code": "PHY1201",
@@ -2159,7 +2159,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     }
   ],
   "canvasEvents": [
@@ -2430,6 +2430,17 @@
       "est": false
     },
     {
+      "id": "cv-ev:1221:2026-11-04",
+      "date": "2026-11-04",
+      "time": "21:35",
+      "title": "In-Class Quiz 5",
+      "course": "DSC1001",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
+    },
+    {
       "id": "cv-ev:1216:2026-11-08",
       "date": "2026-11-08",
       "time": "23:59",
@@ -2441,17 +2452,17 @@
       "est": false
     },
     {
-      "id": "cv-ev:cal:759:2026-11-10Lab Session 7: Simple Harmonic Motion",
-      "date": "2026-11-10",
-      "time": "10:30",
-      "title": "Lab Session 7: Simple Harmonic Motion",
+      "id": "cv-ev:q:1220",
+      "date": "2026-11-15",
+      "time": "23:59",
+      "title": "Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas",
       "course": "PHY1201",
-      "kind": "lab",
-      "source": "Canvas · calendar",
+      "kind": "quiz",
+      "source": "Canvas",
       "url": "",
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-11-04",
-  "canvasInsightsSyncedTs": "2026-11-04T08:41:11+08:00"
+  "canvasInsightsSyncedAt": "2026-11-05",
+  "canvasInsightsSyncedTs": "2026-11-05T09:40:31+08:00"
 }
