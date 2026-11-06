@@ -1148,21 +1148,6 @@
       "mailUrl": "#"
     },
     {
-      "id": "e99",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "宿舍导师 Hall Tutor",
-      "senderEmail": "hall.tutor@cityu-dg.edu.cn",
-      "subject": " 【决议通报| Resolution Notice】2026年秋季学期学生社区工作座谈会| Autumn Semester 2026 Symposium on Student Community Work",
-      "snippet": "座谈会决议：禁外部人员住宿舍、加严禁烟、混洗三级处罚",
-      "body": "来龙去脉：10 月 26 日学校召开秋季学期学生社区工作座谈会，学生事务处、校园运维处、安全健康及环境处、副校长（学术）办公室、校学生会、Hall Tutor、各座舍监、物业与学生代表参加，围绕三件事形成决议。一、校外人员住宿：近期校外培训人员入住学生宿舍引发问题，学校已调整住宿安排并复盘流程，明确严禁非学生身份人员入住学生宿舍，校外人员活动住宿一律安排到非学生住宿区；确需使用学生住宿区的仅限经批准的大中小学研学活动参加者及监护人或带队教师，并实行校园运维处初审、学生事务处复核、房卡由宿管统一发放的「三重核验」。二、校园禁烟：宿舍周边、食堂、篮球场违规吸烟屡禁不止且以往只有口头警告，将改为分类管控——第三方人员按合同扣保证金或通报批评，师生建立违规记录档案，多次违规者限制进入特定区域或取消住宿资格；后续由安全、健康及环境处发通知明确除指定吸烟点外全面禁烟。三、公共洗衣机混洗：建立逐级警告制度，首次警告并脱敏处理、二次列入设备黑名单禁止扫码洗衣、三次按社区规定退宿；物业在每个洗衣房增设脏衣篓，并开通中英双语短信提醒。\n\n要你做什么：这条是通报，不需要回复。但三件事都落在日常：宿舍楼里遇到非学生住客可直接反馈；抽烟只去指定吸烟点；洗衣别再混洗，第二次被查到就直接失去扫码洗衣权限。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-11-04T17:39:18+08:00",
-      "mailUrl": "#"
-    },
-    {
       "id": "e90",
       "category": "notice",
       "needsReply": true,
@@ -1193,21 +1178,6 @@
       "mailUrl": "https://bxstu.cscse.edu.cn/"
     },
     {
-      "id": "e92",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "书院学生事务 College Student Affairs",
-      "senderEmail": "college_student@cityu-dg.edu.cn",
-      "subject": " 【讲座邀请】别让你的想法输在不会表达：跳出技巧陷阱，用逻辑改变听众认知｜【Lecture Invitation】 Don’t Let Your Ideas Fail for Poor Expression: Escape Skill‑based Traps and Reshape Audience Perception with Logic",
-      "snippet": "今日 17:30 AC5-411 演讲表达讲座，提前 10 分钟到场",
-      "body": "来龙去脉：全人发展讲座系列第 3 讲，主题是「别让你的想法输在不会表达」，主讲人顾宇是北京大学经济学院讲席教授、国家主任播音员。内容源自 MIT 的经典课程《How to Speak》，核心不是练口才技巧，而是建立「听众为中心」的表达逻辑：黄金 30 秒开场怎么设计、观点怎么植入听众记忆（命名效应、高级重复、对比、画面化）、PPT 该当视觉锚点而不是讲稿、告知型与说服型演讲的结构差异，以及怎么收尾才不烂尾。现场有练习和小组演练。\n\n要你做什么：今天（11 月 4 日，周三）17:30–20:00 在 AC5-411，中文，无需报名，提前 10 分钟到场、手机静音即可。这门课对课程答辩、竞赛路演（比如你手上的竞赛投递）都有直接用处，尤其你现在要练项目陈述，值得去。",
-      "eventTime": "2026-11-04T17:30:00+08:00",
-      "location": "AC5-411",
-      "time": "2026年11月4日（周三）17:30–20:00",
-      "receivedAt": "2026-11-03T16:06:26+08:00",
-      "mailUrl": "#"
-    },
-    {
       "id": "e93",
       "category": "notice",
       "needsReply": true,
@@ -1236,81 +1206,6 @@
       "time": "报名截止 2026年11月30日 23:59；初赛 2026年12月",
       "receivedAt": "2026-11-03T17:33:25+08:00",
       "mailUrl": "https://e.huawei.com/cn/talent/#/ict/innovation-details?zoneCode=027425&zoneId=98269700&compId=85132021&divisionName=%E4%B8%AD%E5%9B%BD%E5%8C%BA&type=C002&isCollectGender=N&enrollmentDeadline=2026-11-30%2023%3A59%3A59"
-    },
-    {
-      "id": "e95",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "DSC1001 课程 · Canvas",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "In-Class Quiz Reminder: DSC1001 Introduction to Data Science (1072)",
-      "snippet": "DSC1001 第 5 次课堂小测今日课上，闭卷带满电笔记本",
-      "body": "来龙去脉：DSC1001 任课老师 Bowen Tan 发公告提醒第 5 次课堂小测。考的是用 Python 做简单数据探索分析，以及机器学习模型的训练与评估，题目风格与之前的 tutorial 和课件类似，闭卷。\n\n要你做什么：带一台充满电的笔记本到课，并提前确认电脑能跑 Python、能打开 .csv / .xlsx 文件——这是硬性要求，现场没设备就没法作答。时间上注意：邮件原文写「明天的课（Nov. 3rd）」，但这封公告的发出时间是 11 月 3 日 23:21，且 Canvas 上尚未建立 Quiz 5，实际小测应在 11 月 4 日（周三）课上，请以课程页/老师通知为准。复习重点放在 pandas 读写与基本统计、sklearn 的 train/test 划分与模型评估指标上。",
-      "eventTime": "2026-11-04T00:00:00+08:00",
-      "location": "",
-      "time": "11月4日（周三）课上；原文写「明天课（Nov. 3rd）」",
-      "receivedAt": "2026-11-03T23:21:27+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/790"
-    },
-    {
-      "id": "e96",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 课程 · Canvas",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 太空安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 太空安全测试题 10/10 满分",
-      "body": "来龙去脉：Canvas 在 11 月 3 日 18:37 发出批改通知，GE1632 的「太空安全测试题」已出分。你的作答在当天 17:36 提交，随即被判分，得分 10/10 满分。这是本课程系列专题测试里又一项满分，前面经济、金融、文化等专题也都拿满。\n\n要你做什么：无需操作，纯成绩通知。想复盘可进 Canvas → GE1632 → Assignments → 太空安全测试题看作答记录。该题已同步进 CampusDesk 的作业列表。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-11-03T18:37:39+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3759"
-    },
-    {
-      "id": "e97",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "GE1632 课程 · Canvas",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 海外利益安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 海外利益安全测试题 9.75/10，扣 0.25",
-      "body": "来龙去脉：Canvas 在 11 月 3 日 18:39 发出批改通知，GE1632 的「海外利益安全测试题」已出分。你在当天 17:39 提交，得分 9.75/10，扣了 0.25 分。这是该课程系列专题测试中第一次没拿满分。\n\n要你做什么：不需要重做，成绩已定。想挽回这 0.25 分就进 Canvas → GE1632 → Assignments → 海外利益安全测试题，点开看作答与批注，找出错在哪一题——这类专题测试的题型会重复出现，弄清考点对期末更有用。该题已同步进 CampusDesk 的作业列表。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-11-03T18:39:48+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3760"
-    },
-    {
-      "id": "e89",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "PHY1201 课程 · Canvas",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Quiz 9: Temperature and Heat, PHY1201 General Physics I (1240)",
-      "snippet": "PHY1201 Quiz 9 温度与热已批改，10/10 满分",
-      "body": "来龙去脉：Canvas 在 11 月 2 日 19:18 发出批改通知，PHY1201 General Physics I 的 Quiz 9: Temperature and Heat 已出分。你的作答在当天 18:17 提交，随即被判分，最终 10/10（满分），与前面 Quiz 1–8 一样保持全对。这门课的每个 Quiz 各占总评 1%，这次满分意味着这 1% 已经稳稳拿到，物理小测至今没有掉分。\n\n要你做什么：不需要任何操作，纯粹是成绩通知。如果想看错题或复核，可以进 Canvas 的 PHY1201 → Assignments → Quiz 9 页面查看作答记录；不过既然已经满分，没有复核的必要。真正要盯的是 11 月 8 日 23:59 之前的下一批任务（Quiz 10 与 Written Assignment 9 一类的进度），别被这门课的满分节奏麻痹。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-11-02T19:18:18+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3751"
-    },
-    {
-      "id": "e88",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "学术规章与记录处 ARRO",
-      "senderEmail": "classattd@cityu-dg.edu.cn",
-      "subject": "Notification Of Absence",
-      "snippet": "GE1632 国家安全教育课缺勤率 37.5%，已超 30% 警戒线",
-      "body": "来龙去脉：ARRO 的出勤系统自动发出这封缺勤预警。GE1632 大学生国家安全教育课 National Security Education Course 本学期要求出勤 8 次，你已缺 3 次，缺勤率 37.5%，超过 30% 的警戒线。按学校《课堂出勤试行规定》，缺勤率过线可能影响该门课的考核资格甚至成绩认定，这不是普通通知，属于学业风险预警。\n\n要你做什么：先去学生出勤系统（PC 版，需连校园网，或在企业微信工作台找对应入口）核对那 3 次缺勤记录是否记错——有些课是签到漏扫、代点名或请假未销假导致误记。如果记录有误，带证据尽快去 ARRO 服务中心（AC4-122）申诉更正；如果确实缺了，剩下的课务必全勤，把缺勤率压回 30% 以下。官方规定原文见邮件里的 arro.cityu-dg.edu.cn 链接。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-11-02T09:13:27+08:00",
-      "mailUrl": "https://arro.cityu-dg.edu.cn/regulation-guidelines/regulation-on-class-attendance-trial/"
     },
     {
       "id": "e84",
@@ -1358,51 +1253,6 @@
       "mailUrl": "https://mp.weixin.qq.com/s/CSDqggcvhkiq3EgYWOxScw"
     },
     {
-      "id": "e80",
-      "category": "activity",
-      "needsReply": true,
-      "sender": "学生事务处（职业发展）SDO Career",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": " 【Career Event Notice】Company Visit Series（Nov. 2026）| 企业参访系列活动（2026年11月）",
-      "snippet": "11月企业参访腾讯/徐福记/OPPO/小鹏，报名 10/30 18:00–11/1",
-      "body": "来龙去脉：学生事务处（职业发展）推出 11 月企业参访系列活动，一次报名覆盖 4 家企业：腾讯（深圳）11 月 5 日 12:45–16:00，50 人，含校招分享与简历辅导；徐福记（东莞）11 月 9 日 13:30–16:00，40 人，看沙琪玛与酥心糖车间；OPPO 总部（东莞）11 月 10 日 12:45–16:30，60 人，含滨海湾园区与校招互动；小鹏（广州）11 月 18 日 13:00–16:30，40 人，含飞行汽车展厅。\n\n要你做什么：报名窗口 10 月 30 日（周五）18:00 至 11 月 1 日（周日）23:59，走学生事务系统→日常事务→学生活动，或企业微信扫原邮件二维码。名额有限，报名成功名单会提交企业备案，爽约会计入诚信管理名单。对智能制造/机器人方向来说，OPPO 与小鹏两场最对口，建议优先抢。",
-      "eventTime": "2026-11-05T12:45:00+08:00",
-      "location": "腾讯（深圳）、徐福记（东莞）、OPPO 总部（东莞）、小鹏（广州）",
-      "time": "报名 10月30日 18:00–11月1日 23:59；腾讯 11/5、徐福记 11/9、OPPO 11/10、小鹏 11/18",
-      "receivedAt": "2026-10-28T15:52:02+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e81",
-      "category": "activity",
-      "needsReply": true,
-      "sender": "学生事务处 SDO",
-      "senderEmail": "sdo@cityu-dg.edu.cn",
-      "subject": " 关于参加“全国大学生市场调查与分析大赛”的通知 | Notice Regarding Registration for \"National College Student Market Survey and Analysis Competition\"",
-      "snippet": "市场调查大赛校内报名至 11/5，知识赛网考 11/1 起，自费",
-      "body": "来龙去脉：第十七届全国大学生市场调查与分析大赛（「正大杯」）已由中国商业统计学会启动，学校统一组织报名。关键节点：校内报名截止 11 月 5 日（已向主办方申请延后）；知识赛模拟考 10 月 20 日–11 月 10 日，每人限一次；知识赛正式网考 11 月 1 日–11 月 20 日，60 分及格，可考 1–2 次取最高分；实践赛命题 11 月 17 日公布；校赛 2027 年 3 月 22 日前完成。\n\n要你做什么：3–5 人一队、须同校，可跨专业组队，需扫码进参赛交流群并完成网考报名（院校代码见原邮件）。参赛费用自费、学校不报销。赛事在 Active Learning 竞赛名单内，获奖可认证 ALP 竞赛积分——想攒 ALP 又愿意做数据分析的话性价比不错。",
-      "eventTime": "2026-11-05T23:59:00+08:00",
-      "location": "",
-      "time": "校内报名截止 2026年11月5日；知识赛正式网考 11月1日–11月20日",
-      "receivedAt": "2026-10-28T16:14:47+08:00",
-      "mailUrl": "http://www.china-cssc.org/list-60-1.html"
-    },
-    {
-      "id": "e82",
-      "category": "activity",
-      "needsReply": true,
-      "sender": "学生事务处（职业发展）SDO Career",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": " [Career Event Notice] AUCA Further Study Education Fair | AUCA 海外高校驻华联盟升学教育展",
-      "snippet": "8 所海外院校升学展 11/4 16:30 AC5，宣讲需报名",
-      "body": "来龙去脉：学校 11 月 4 日（周三）16:30–19:00 在学术楼五座办 AUCA 海外高校驻华联盟升学教育展，八所院校招生代表到场：昆山杜克、中欧 Global MiM、伊利诺伊理工、理海、东北、上海纽约、罗切斯特、圣路易斯华盛顿（能源环境与化工系）。16:30–17:00 与 17:40–19:00 是 AC5 一楼大厅展位咨询（硕博项目，免报名）；17:00–17:40 在 AC5-102 陈梓红报告厅做硕士项目宣讲。\n\n要你做什么：展位随便逛，宣讲会是 Active Learning 活动可拿积分，需经学生事务系统→日常事务→学生活动报名，或企业微信扫原邮件二维码。想去问硕博申请与科研机会的话，展位环节不用报名、成本最低。",
-      "eventTime": "2026-11-04T16:30:00+08:00",
-      "location": "学术楼五座（AC5）一楼大厅 / AC5-102 陈梓红报告厅",
-      "time": "2026年11月4日（周三）16:30–19:00",
-      "receivedAt": "2026-10-29T09:21:38+08:00",
-      "mailUrl": "#"
-    },
-    {
       "id": "e83",
       "category": "activity",
       "needsReply": true,
@@ -1431,21 +1281,6 @@
       "time": "2026年11月7日（周六）8:00–12:00；报名截止 10月30日（周五）12:00",
       "receivedAt": "2026-10-27T14:38:46+08:00",
       "mailUrl": "https://mp.weixin.qq.com/s/ycDmokcPoDthNm1Jf5DLIQ"
-    },
-    {
-      "id": "e71",
-      "category": "activity",
-      "needsReply": true,
-      "sender": "学生事务处 SDO",
-      "senderEmail": "sdo@cityu-dg.edu.cn",
-      "subject": " 活动报名｜“品鉴岭南” 中国著名作家东莞行主题沙龙活动Event Registration | \"Appreciating Lingnan\" ‑ Dongguan Tour by Renowned Chinese Writers",
-      "snippet": "品鉴岭南作家沙龙 11/5 16:20 图书馆，报名截止 10/30 10:00",
-      "body": "来龙去脉：香港商报年度文化品牌活动「品鉴岭南」中国著名作家东莞行走进本校，11 月 5 日（周四）16:20–17:40 在图书馆二层大厅办主题沙龙，四位文学名家到场分享并设现场互动——南帆（鲁迅文学奖得主、中国文艺理论学会会长）、王剑冰（中国散文学会副会长）、林那北（福建省作协副主席）、衣向东（著名作家、编剧）。参与可认证 ALP 时长，到场还赠作家签名书。名额共 80 个，报满即止。\n\n要你做什么：报名截止 10 月 30 日（周五）10:00，点本站入口进学生生活系统填问卷，成功提交即算报名成功（咨询老师联系方式见原邮件，不在此重复）。想拿 ALP 时长或对文学有兴趣就尽早报，80 个名额容易满。",
-      "eventTime": "2026-11-05T16:20:00+08:00",
-      "location": "图书馆二层大厅",
-      "time": "2026年11月5日（周四）16:20–17:40；报名截止 10月30日（周五）10:00",
-      "receivedAt": "2026-10-26T11:08:15+08:00",
-      "mailUrl": "https://portal.cityu-dg.edu.cn/xsfw/sys/swmxshdapp/*default/index.do?THEME=purpleJb#/fxhdSave?hddm=1b53059226e94f928df05c67e47b3ccf"
     },
     {
       "id": "e72",
@@ -2217,8 +2052,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-05",
-  "canvasSyncedTs": "2026-11-05T13:01:18+08:00",
+  "canvasSyncedAt": "2026-11-06",
+  "canvasSyncedTs": "2026-11-06T09:04:53+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
