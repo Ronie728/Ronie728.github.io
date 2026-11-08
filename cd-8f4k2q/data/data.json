@@ -970,15 +970,6 @@
   ],
   "notes": [
     {
-      "id": "note:email_sync:20261106",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 6",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 6, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1083,6 +1074,15 @@
       "detail": "The Student Union is backfilling volunteer service hours into the i-Volunteer record. Go to the ground floor of dorm 12A before the end of today (Nov 8) to check your name and sign the sheet yourself - the desk is unattended, so no one will remind you.",
       "meta": "Nov 8, 2026",
       "source": "School email"
+    },
+    {
+      "id": "note:email_sync:20261108",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 8",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 8, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1992,7 +1992,7 @@
     }
   ],
   "canvasSyncedAt": "2026-11-08",
-  "canvasSyncedTs": "2026-11-08T15:04:40+08:00",
+  "canvasSyncedTs": "2026-11-08T15:07:24+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
