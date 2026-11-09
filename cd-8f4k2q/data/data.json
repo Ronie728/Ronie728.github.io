@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -970,6 +970,33 @@
   ],
   "notes": [
     {
+      "id": "note:laundry-convention:20261108",
+      "type": "notice",
+      "title": "Laundry Room Convention draft: feedback closes tonight",
+      "summary": "Tonight 24:00: send feedback on the laundry room convention",
+      "detail": "The Hall Tutor office has released the Laundry Room Convention (draft) together with the questionnaire results, and is collecting student feedback until 24:00 tonight (Nov 8). Read the draft in the original email and send your comments through the channel given there if you want the rules changed.",
+      "meta": "Nov 8, 2026",
+      "source": "School email"
+    },
+    {
+      "id": "note:volunteer-hours-sign:20261108",
+      "type": "notice",
+      "title": "Volunteer-hour backfill: sign the sheet today",
+      "summary": "By today: sign volunteer-hour backfill sheet at 12A lobby",
+      "detail": "The Student Union is backfilling volunteer service hours into the i-Volunteer record. Go to the ground floor of dorm 12A before the end of today (Nov 8) to check your name and sign the sheet yourself - the desk is unattended, so no one will remind you.",
+      "meta": "Nov 8, 2026",
+      "source": "School email"
+    },
+    {
+      "id": "note:email_sync:20261108",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 8",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 8, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1025,17 +1052,6 @@
       "postedAt": "2026-10-20"
     },
     {
-      "id": "cv:884:4228",
-      "type": "course_change",
-      "title": "Room for today's class CHANGE",
-      "summary": "Please come to AC3 room 213 for class today.",
-      "detail": "Please come to AC3 room 213 for class today. Thanks!",
-      "meta": "EN1002",
-      "source": "Canvas · EN1002",
-      "href": "https://cityu-dg.instructure.com/courses/884/discussion_topics/4228",
-      "postedAt": "2026-10-19"
-    },
-    {
       "id": "cv:898:4235",
       "type": "notice",
       "title": "Reminder about Midterm on October 21st",
@@ -1043,7 +1059,18 @@
       "detail": "Dear all, This is a reminder that the midterm will take place on Oct 21 in AC1-201 . Please arrive at 8:30 am and find your seat according to the seating plan posted outside the door on the day of the exam. The midterm has two parts: a written part and a computer-based part. Please bring writing utensils for the written part and make sure to write your name and student ID on the exam paper. For the computer-based part, you will complete it on the lab computers. Please make sure you can log into Canvas to upload the final file, so please verify your username and password before the exam. This exam is closed book. You may not access the internet except to upload the coding part to Canvas at the end of the exam. Phones should be off and put away. No messaging, email, AI tools, or other websites are permitted. Read each question carefully. Follow the instructions exactly and make sure your o",
       "meta": "CS1302",
       "source": "Canvas · CS1302",
-      "href": "https://cityu-dg.instructure.com/courses/898/discussion_topics/4235",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/898/discussion_topics/4235",
+      "postedAt": "2026-10-19"
+    },
+    {
+      "id": "cv:884:4228",
+      "type": "course_change",
+      "title": "Room for today's class CHANGE",
+      "summary": "Please come to AC3 room 213 for class today.",
+      "detail": "Please come to AC3 room 213 for class today. Thanks!",
+      "meta": "EN1002",
+      "source": "Canvas · EN1002",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/884/discussion_topics/4228",
       "postedAt": "2026-10-19"
     },
     {
@@ -1054,35 +1081,8 @@
       "detail": "Dear all, Tomorrow morning’s class will be held as usual as a review session. Tomorrow afternoon’s class is cancelled, because the time has been rescheduled to the evening for the exam. The exam will take place in two rooms: AC5-515 and AC5-417 . I am still waiting for the Academic Affairs Office to confirm which students will be assigned to which room. They are still making the arrangements and I will let you know as soon as I receive the details. Please stay tuned for further updates. Best regards, Xuan",
       "meta": "MA1300",
       "source": "Canvas · MA1300",
-      "href": "https://cityu-dg.instructure.com/courses/938/discussion_topics/4242",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/938/discussion_topics/4242",
       "postedAt": "2026-10-19"
-    },
-    {
-      "id": "note:laundry-convention:20261108",
-      "type": "notice",
-      "title": "Laundry Room Convention draft: feedback closes tonight",
-      "summary": "Tonight 24:00: send feedback on the laundry room convention",
-      "detail": "The Hall Tutor office has released the Laundry Room Convention (draft) together with the questionnaire results, and is collecting student feedback until 24:00 tonight (Nov 8). Read the draft in the original email and send your comments through the channel given there if you want the rules changed.",
-      "meta": "Nov 8, 2026",
-      "source": "School email"
-    },
-    {
-      "id": "note:volunteer-hours-sign:20261108",
-      "type": "notice",
-      "title": "Volunteer-hour backfill: sign the sheet today",
-      "summary": "By today: sign volunteer-hour backfill sheet at 12A lobby",
-      "detail": "The Student Union is backfilling volunteer service hours into the i-Volunteer record. Go to the ground floor of dorm 12A before the end of today (Nov 8) to check your name and sign the sheet yourself - the desk is unattended, so no one will remind you.",
-      "meta": "Nov 8, 2026",
-      "source": "School email"
-    },
-    {
-      "id": "note:email_sync:20261108",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 8",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 8, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1130,21 +1130,6 @@
       "time": "11月15日 23:59 截止",
       "receivedAt": "2026-11-05T14:58:56+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/759/quizzes/1220"
-    },
-    {
-      "id": "e98",
-      "category": "reply",
-      "needsReply": true,
-      "sender": "宿舍导师 Hall Tutor",
-      "senderEmail": "hall.tutor@cityu-dg.edu.cn",
-      "subject": " 关于《洗衣房公约（意见稿）》征求意见的通知（附问卷结果公示）| Notice on Soliciting Opinions on the \"Laundry Room Convention (Draft)\" (With Questionnaire Results Published)",
-      "snippet": "11/8 24:00 前可就洗衣房公约意见稿提反馈",
-      "body": "来龙去脉：宿舍公共洗衣机使用意愿问卷已结束，共回收 232 份有效问卷。结果显示 79.7% 的同学不接受内衣裤、袜子与他人衣物同机清洗，58.6% 支持在楼下划出专用「混洗区」；处罚方面 80.2% 完全同意「三次警告—退宿」的三级机制，二次违规拉黑时长意见分散（30 天 34.5%、7 天 29.3%）。据此拟出《洗衣房公约（意见稿）》：各楼层洗衣房 9:00—22:30，仅四座一楼公共洗衣房 24 小时开放；混洗区只设在四座一楼（女生 2 台、男生 4 台，均有标识），其他楼层与非混洗区严禁混洗；违规三级处罚为首次口头警告加群内匿名公示、二次正式邮件警告加拉黑洗衣 App 绑定账号 30 天、累计三次启动退宿程序；衣物洗烘完超过 24 小时由宿管代收，超一周无人认领予以清理，因口袋杂物损坏机器需赔偿。\n\n要你做什么：11 月 8 日（周日）24:00 前，如对条款有意见或修改建议，通过宿舍导师公邮反馈（地址见邮件原文），反馈时注明对应条款编号和具体建议，便于精准修订。不打算提意见的话，记住两条新规就够了：混洗只能去四座一楼混洗区，洗完及时取回别超过 24 小时。",
-      "eventTime": "2026-11-08T23:59:00+08:00",
-      "location": "",
-      "time": "反馈截止 2026年11月8日 24:00",
-      "receivedAt": "2026-11-04T18:04:34+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e90",
@@ -1205,21 +1190,6 @@
       "time": "报名截止 2026年11月30日 23:59；初赛 2026年12月",
       "receivedAt": "2026-11-03T17:33:25+08:00",
       "mailUrl": "https://e.huawei.com/cn/talent/#/ict/innovation-details?zoneCode=027425&zoneId=98269700&compId=85132021&divisionName=%E4%B8%AD%E5%9B%BD%E5%8C%BA&type=C002&isCollectGender=N&enrollmentDeadline=2026-11-30%2023%3A59%3A59"
-    },
-    {
-      "id": "e85",
-      "category": "reply",
-      "needsReply": true,
-      "sender": "学生会 Student Union",
-      "senderEmail": "su@cityu-dg.edu.cn",
-      "subject": " 关于志愿服务时长补录签字的通知 | Notice on Signing for Volunteer Service Hours Backfill",
-      "snippet": "11/8 前到 12A 楼下核对并签字，补录 i志愿时长",
-      "body": "来龙去脉：学生会要把既往志愿服务时长补录进广东省 i志愿系统，签字确认是最后一环。覆盖 9 项活动：2025 迎新晚会、2025 CNA、2025 松山湖半程马拉松、耀跑校园定向赛、2026 植树、红十字救护员培训、2026 ACP、8/28 校园劳动、9/6 百团大战。\n\n要你做什么：如果你参加过上面任一项且已申请补录，须在 11 月 8 日（含）前本人到 12A 宿舍楼下核对姓名、学号、活动日期与服务时长后签字。现场无人值守、自主签字。记录有误、或要补录清单外的活动，须在 11 月 8 日前回复该邮件说明（附招募通知作佐证）。逾期既没签字也没回邮件，视为放弃本次 i 志愿补录；不属于志愿服务的时长可转记 Active Learning 的 Service Learning 模块。",
-      "eventTime": "2026-11-08T23:59:00+08:00",
-      "location": "12A 宿舍楼下（自主签字，无人值守）",
-      "time": "签字截止 2026年11月8日（含）",
-      "receivedAt": "2026-10-30T15:57:52+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e86",
@@ -2006,7 +1976,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "DSC1001",
@@ -2019,7 +1989,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "EN1002",
@@ -2032,7 +2002,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "GE1632",
@@ -2045,7 +2015,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "GE2134",
@@ -2058,7 +2028,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "IP1901",
@@ -2073,7 +2043,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "MA1300",
@@ -2091,7 +2061,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "ME1921",
@@ -2104,7 +2074,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "code": "PHY1201",
@@ -2123,7 +2093,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     }
   ],
   "canvasEvents": [
@@ -2427,6 +2397,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-11-08",
-  "canvasInsightsSyncedTs": "2026-11-08T15:00:57+08:00"
+  "canvasInsightsSyncedAt": "2026-11-09",
+  "canvasInsightsSyncedTs": "2026-11-09T11:08:26+08:00"
 }
