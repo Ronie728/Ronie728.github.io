@@ -796,11 +796,11 @@
       "id": "cv_3791",
       "course": "CS 1302 · Introduction to Computer Programming",
       "title": "Assignment 3 - Information Theory",
-      "due": "2026-11-18T10:00:00+08:00",
+      "due": "2026-11-18T11:30:00+08:00",
       "points": 10,
       "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/898/assignments/3791",
-      "dueTime": "10:00",
+      "dueTime": "11:30",
       "requirement": "下载 Assignment 3 文件，只在 Jupyter notebook 中标注 #your code here 的位置写代码；不得增删/复制单元格或改动文字与其他代码，违者该题 0 分。作答时删除占位的 `pass`，不要提交额外代码（需加测可复制到另一 notebook 运行）。每题写完须运行其下方 # tests 测试单元，无报错即得满分；全部题目无部分分，总分 10 分。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → CS 1302 · Introduction to Computer Programming → Assignments → Assignment 3 - Information Theory",
@@ -2009,7 +2009,7 @@
     }
   ],
   "canvasSyncedAt": "2026-11-09",
-  "canvasSyncedTs": "2026-11-09T11:12:30+08:00",
+  "canvasSyncedTs": "2026-11-09T16:23:34+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
