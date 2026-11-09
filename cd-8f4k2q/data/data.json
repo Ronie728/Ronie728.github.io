@@ -785,7 +785,7 @@
       "title": "Written Assignment 9&10: Temperature, Heat and Thermal Property of Matter",
       "due": "2026-11-15T23:59:59+08:00",
       "points": 20,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3797",
       "dueTime": "23:59",
       "requirement": "从题池中自选 6 题用纸笔手写作答（注意本次为双份作业 double assignment）。截止 2026-11-15 23:59，占期末总评 2%，Canvas 上传提交。",
@@ -1132,21 +1132,6 @@
       "time": "",
       "receivedAt": "2026-11-09T09:33:14+08:00",
       "mailUrl": "#"
-    },
-    {
-      "id": "e108",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · PHY1201（Michael Cao）",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas, PHY1201 General Physics I (1240)",
-      "snippet": "PHY1201 Quiz 10 已出分 10/10，满分",
-      "body": "来龙去脉：PHY1201 的 Quiz 10（理想气体方程与分子动理论模型）于 11 月 8 日 16:29 完成批改并发布成绩。这次测验此前因数据集生成错误被老师重置过、要求全部重做，你重做后提交的版本已正常判分。\n\n要你做什么：无需操作。已按 Canvas API 核对真实得分 10/10（满分），CampusDesk 里该条记录分数与状态已同步更新为已提交、10 分。若想复盘错题可进 Canvas 查看作答详情。",
-      "eventTime": "",
-      "location": "",
-      "time": "",
-      "receivedAt": "2026-11-08T17:29:37+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3799"
     },
     {
       "id": "e100",
@@ -1969,10 +1954,10 @@
       "points": 10,
       "questionCount": 10,
       "url": "https://cityu-dg.instructure.com/courses/759/quizzes/1220",
-      "attempted": false,
-      "score": null,
-      "status": "unsubmitted",
-      "submittedAt": "",
+      "attempted": true,
+      "score": 10,
+      "status": "complete",
+      "submittedAt": "2026-11-08T08:29:14Z",
       "questions": []
     },
     {
@@ -2023,8 +2008,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-08",
-  "canvasSyncedTs": "2026-11-08T15:07:24+08:00",
+  "canvasSyncedAt": "2026-11-09",
+  "canvasSyncedTs": "2026-11-09T11:12:30+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
