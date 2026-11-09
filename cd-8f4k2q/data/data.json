@@ -770,12 +770,14 @@
       "title": "Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas",
       "due": "2026-11-15T23:59:59+08:00",
       "points": 10,
-      "status": "pending",
+      "status": "submitted",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3799",
       "dueTime": "23:59",
       "requirement": "在线测验（Canvas Quiz），占期末总评 1%。每题 3 次尝试；数值答案按题目要求 units，不要在答案中带单位；数值容差 ±5%，最多输入 4 位小数。开始作答后须在 3 天（4320 分钟）内完成，超时 Canvas 自动提交。截止 2026-11-15 23:59。",
       "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → PHY 1201 · General Physics I → Assignments → Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas"
+      "canvasPath": "Canvas → PHY 1201 · General Physics I → Assignments → Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas",
+      "score": 10,
+      "note": "已于 2026-11-08 重做并提交（数据集重置后）；2026-11-08 16:29 出分 10/10（满分）。"
     },
     {
       "id": "cv_3797",
@@ -1086,6 +1088,66 @@
     }
   ],
   "emails": [
+    {
+      "id": "e105",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "教务处 ARRO · classattd",
+      "senderEmail": "classattd@cityu-dg.edu.cn",
+      "subject": "Notification Of Absence",
+      "snippet": "GE1632 缺勤率 33.33% 已超 30%：应出勤 9 次、缺 3 次，需尽快处理",
+      "body": "来龙去脉：教务与学籍处（ARRO）的课堂出勤系统自动发出预警——你本学期 GE1632 大学生国家安全教育课 National Security Education Course 的出勤记录已达到「应出勤 9 次、缺勤 3 次、缺勤率 33.33%」，超过学校规定的 30% 阈值。这不是普通提醒：按学校《课堂出勤试行规定》，缺勤率超标可能直接影响该课程的考试资格与成绩评定，属于学业风险类通知，越早处理越有回旋余地。\n\n要你做什么：先登录学生出勤系统（PC 版，需连校园网或从企业微信工作台进入）逐条核对这 3 次缺勤记录是否属实——若其中有已请假、迟到被误记、或课程调整导致的误判，尽快带证明材料到学术楼四座 122 室（AC4-122）ARRO 服务中心申诉更正。若记录属实，立刻确认该课剩余课时还能补多少出勤、以及是否已触发考试资格限制，并主动联系任课老师说明情况。规定原文见邮件内 ARRO 规章链接。",
+      "eventTime": "",
+      "location": "ARRO 服务中心 AC4-122",
+      "time": "",
+      "receivedAt": "2026-11-09T09:13:39+08:00",
+      "mailUrl": "https://arro.cityu-dg.edu.cn/regulation-guidelines/regulation-on-class-attendance-trial/"
+    },
+    {
+      "id": "e106",
+      "category": "reply",
+      "needsReply": true,
+      "sender": "赵翔宇教授 Prof. Xiangyu ZHAO（CS1302）",
+      "senderEmail": "xiangyu.zhao@cityu-dg.edu.cn",
+      "subject": "Discussion on the last coding question in CS1302 Midterm",
+      "snippet": "赵教授约今天到办公室聊 CS1302 期中最后一题：11:30 前或 13:00–14:00",
+      "body": "来龙去脉：你就 CS1302 期中考试最后一道编程题的判分/解法发信问了赵翔宇教授，今早 08:01 他回信说可以当面短聊，最好今天办公时间过来，他整个上午都在办公室；你 10:18 回复说下午 2 点前都有空并问具体时间，10:26 他再回：现在就可以直接来办公室，他会待到 11:30，若赶不上则 13:00–14:00 也可以。也就是时间窗口已经给死，只剩这两个时段。\n\n要你做什么：带好期中卷子/代码截图和你想问的具体点（是判分标准、边界条件还是最后一题的思路），按他给的时间去办公室当面谈——11:30 前随时可去，赶不上就 13:00–14:00。出发前建议先回一封简短邮件确认你选哪个时段，避免他临时离开。谈完把结论记下来，若涉及改分当场问清后续流程。",
+      "eventTime": "2026-11-09T13:00:00+08:00",
+      "location": "赵翔宇教授办公室",
+      "time": "今日 11:30 前 或 13:00–14:00",
+      "receivedAt": "2026-11-09T10:26:10+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e107",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "学生事务处（职业发展）SDO Career",
+      "senderEmail": "sdo.career@cityu-dg.edu.cn",
+      "subject": "实习机会推荐 | Internship Opportunities",
+      "snippet": "鹏晨投资实习内推（深圳/上海），滚动招募招满即止，需按格式投简历",
+      "body": "来龙去脉：学生事务处职业发展组转发了一个内推实习岗位——鹏晨投资（Pengchenvc），工作地点深圳、上海，具体岗位职责与要求写在邮件附件里（附件未在正文展开）。招聘方按简历滚动筛选，招满即止，没有固定截止日，所以越早投越有优势。邮件特别注明这是内推信息，不要对外传播。\n\n要你做什么：先打开附件看岗位方向是否与智能制造/数据分析相关，再决定投不投。若投：简历按「投递岗位+姓名+专业+电话+港城莞」命名，用 PDF，发到邮件里指定的投递邮箱（正文已给，这里不重复）；邮件主题同样按该格式写，正文两三句说明可实习时间与地点偏好。因为滚动招募，建议 3 天内投出；投完在 CampusDesk 记一笔，方便跟进。",
+      "eventTime": "",
+      "location": "深圳 / 上海",
+      "time": "",
+      "receivedAt": "2026-11-09T09:33:14+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e108",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Canvas · PHY1201（Michael Cao）",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Assignment Graded: Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas, PHY1201 General Physics I (1240)",
+      "snippet": "PHY1201 Quiz 10 已出分 10/10，满分",
+      "body": "来龙去脉：PHY1201 的 Quiz 10（理想气体方程与分子动理论模型）于 11 月 8 日 16:29 完成批改并发布成绩。这次测验此前因数据集生成错误被老师重置过、要求全部重做，你重做后提交的版本已正常判分。\n\n要你做什么：无需操作。已按 Canvas API 核对真实得分 10/10（满分），CampusDesk 里该条记录分数与状态已同步更新为已提交、10 分。若想复盘错题可进 Canvas 查看作答详情。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-11-08T17:29:37+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3799"
+    },
     {
       "id": "e100",
       "category": "activity",
