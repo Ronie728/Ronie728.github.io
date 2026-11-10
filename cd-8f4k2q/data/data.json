@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -1071,111 +1071,6 @@
       "mailUrl": "#"
     },
     {
-      "id": "e111",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "学生事务处（职业发展）SDO Career",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": "升学咨询上线｜杰出校友一对一咨询（试运行一个月）Further Study Consultation Now Available – Distinguished Alumni Advisor (One-Month Pilot)",
-      "snippet": "杰出校友一对一升学咨询开放预约，可约未来 30 天，试运行至 11/30",
-      "body": "来龙去脉：学生事务处职业发展组（SDO）推出「杰出校友顾问」一对一升学咨询，试运行一个月，截至 11 月 30 日。驻校顾问是港城大 2020 级资讯工程校友，拿过普林斯顿 CS 博士、UCSD CS 博士、港中文工业工程博士、港科大 CS 博士、港大 CS 硕士等多份录取，属于申请经验很硬的那类人。可咨询的问题包括：怎么选适合自己目标的项目、申请时间线怎么排、个人陈述怎么写得出彩、学术与专业背景怎么补强，以及面试准备。\n\n要你做什么：如果你打算大二进 ITME 后走「本科—研究型硕士/直博」这条路，这次值得占一个名额——通过邮件内的预约表单填表（可约即日起 30 天内时段），预约成功后会另外发确认邮件告知地点或线上链接，记得留意收件箱。务必准时到场并提前准备 3–5 个具体问题（例如：智能制造/机器人方向该优先补数学还是编程、本科生怎么找研究组、PS 里项目经历怎么讲）；若临时去不了，一定提前用同一链接取消，无故缺席可能被记入诚信/行为记录。",
-      "eventTime": "",
-      "location": "预约确认后邮件通知",
-      "time": "即日起可约未来 30 天（试运行至 11/30）",
-      "receivedAt": "2026-11-09T17:25:00+08:00",
-      "mailUrl": "https://yuyue.wjx.com/vm/Oy3jw8K.aspx#"
-    },
-    {
-      "id": "e112",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · EN1002 英语提升课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "New Discussion - Week 10 Homework 1: EN1002 English Enhancement Course for Bachelor's degree Students (1080)",
-      "snippet": "EN1002 第10周作业1：讨论区发一个优秀演讲链接，第11周课上讲好在哪",
-      "body": "来龙去脉：EN1002 英语提升课老师在 Canvas 讨论区开了「Week 10 Homework 1」话题，要求每人分享一个自己认为做得好的短演讲链接，并准备在第 11 周课堂上说明理由。这是课堂表现的一部分，帖子本身也是作业凭证。\n\n要你做什么：挑一个 3–5 分钟、结构清晰的英文演讲（TED 片段即可，主题最好跟你感兴趣的方向沾边，比如工程、AI、制造），把链接发到该讨论区帖子下；同时在笔记里写 2–3 条「好在哪」——开场怎么抓人、结构怎么收、语速与停顿怎么配合，第 11 周课上直接用这几条讲，别临场想。",
-      "eventTime": "",
-      "location": "Canvas 讨论区",
-      "time": "第 11 周课堂口头说明",
-      "receivedAt": "2026-11-09T12:35:23+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e113",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · EN1002 英语提升课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "New Discussion - Week 10 Homework 2: EN1002 English Enhancement Course for Bachelor's degree Students (1080)",
-      "snippet": "EN1002 第10周作业2：让 AI 按 PPT 大纲写讲稿，交 prompt+讲稿并课上演示",
-      "body": "来龙去脉：同一位老师在讨论区开了「Week 10 Homework 2」：把自己的 slides、演讲大纲和时长喂给 AI，让它生成一份带「有效停顿、重音、语调」标注的讲稿，然后把用的 prompt 和生成的讲稿一起发到讨论区，并准备在课堂上按这份讲稿讲一遍，同时要能解释 AI 在这件事上帮到了什么、哪里没帮上。\n\n要你做什么：先把第 10 周那套 slides 定稿（大纲 + 每页要点 + 总时长），写一条明确 prompt（角色、听众、时长、要求标出停顿/重音/语调起伏），把 AI 输出和 prompt 一起贴进讨论区；随后自己出声试讲一遍，把 AI 写得别扭、停顿不自然的地方改掉——课上老师很可能会追问「为什么这么改」，这部分才是真正得分点。可以和作业 1 的演讲分析一起准备。",
-      "eventTime": "",
-      "location": "Canvas 讨论区",
-      "time": "第 11 周课堂演示",
-      "receivedAt": "2026-11-09T12:37:22+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e114",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · EN1002 英语提升课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "New Discussion - Week 10 City U Dongguan Promotional slide: EN1002 English Enhancement Course for Bachelor's degree Students (1080)",
-      "snippet": "EN1002 讨论区另 3 帖：给城大东莞宣传页配 PPT 页、加图片并提交",
-      "body": "来龙去脉：EN1002 第 10 周讨论区还连着开了三个与「城大东莞宣传页（CityU Dongguan Promotional slide）」相关的话题：ADD A PPT（为宣传页做一页幻灯片）、ADD A PICTURE（给该页配图）、City U Dongguan Promotional slide（本话题为宣传页主帖）。三帖都要求以回复形式把成品贴进讨论区，具体版式、字数与图片要求写在各自原帖里，没有单独设截止时间，随第 10–11 周课堂推进。\n\n要你做什么：进 Canvas 该课 Discussion 逐个打开这三帖看清要求，先定一页宣传页的主题（建议挑校园生活或实验室资源这种你能配到真实照片的角度），做好 PPT 页并导出图片，再按帖子要求分别回复：一帖放幻灯片文件/截图，一帖放配图并说明为什么选这张，主帖放完整宣传页；同组如果有分工，先确认自己负责哪一页，避免和组员重复。",
-      "eventTime": "",
-      "location": "Canvas 讨论区",
-      "time": "",
-      "receivedAt": "2026-11-09T12:33:00+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e105",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "教务处 ARRO · classattd",
-      "senderEmail": "classattd@cityu-dg.edu.cn",
-      "subject": "Notification Of Absence",
-      "snippet": "GE1632 缺勤率 33.33% 已超 30%：应出勤 9 次、缺 3 次，需尽快处理",
-      "body": "来龙去脉：教务与学籍处（ARRO）的课堂出勤系统自动发出预警——你本学期 GE1632 大学生国家安全教育课 National Security Education Course 的出勤记录已达到「应出勤 9 次、缺勤 3 次、缺勤率 33.33%」，超过学校规定的 30% 阈值。这不是普通提醒：按学校《课堂出勤试行规定》，缺勤率超标可能直接影响该课程的考试资格与成绩评定，属于学业风险类通知，越早处理越有回旋余地。\n\n要你做什么：先登录学生出勤系统（PC 版，需连校园网或从企业微信工作台进入）逐条核对这 3 次缺勤记录是否属实——若其中有已请假、迟到被误记、或课程调整导致的误判，尽快带证明材料到学术楼四座 122 室（AC4-122）ARRO 服务中心申诉更正。若记录属实，立刻确认该课剩余课时还能补多少出勤、以及是否已触发考试资格限制，并主动联系任课老师说明情况。规定原文见邮件内 ARRO 规章链接。",
-      "eventTime": "",
-      "location": "ARRO 服务中心 AC4-122",
-      "time": "",
-      "receivedAt": "2026-11-09T09:13:39+08:00",
-      "mailUrl": "https://arro.cityu-dg.edu.cn/regulation-guidelines/regulation-on-class-attendance-trial/"
-    },
-    {
-      "id": "e106",
-      "category": "reply",
-      "needsReply": true,
-      "sender": "赵翔宇教授 Prof. Xiangyu ZHAO（CS1302）",
-      "senderEmail": "xiangyu.zhao@cityu-dg.edu.cn",
-      "subject": "Discussion on the last coding question in CS1302 Midterm",
-      "snippet": "赵教授约今天到办公室聊 CS1302 期中最后一题：11:30 前或 13:00–14:00",
-      "body": "来龙去脉：你就 CS1302 期中考试最后一道编程题的判分/解法发信问了赵翔宇教授，今早 08:01 他回信说可以当面短聊，最好今天办公时间过来，他整个上午都在办公室；你 10:18 回复说下午 2 点前都有空并问具体时间，10:26 他再回：现在就可以直接来办公室，他会待到 11:30，若赶不上则 13:00–14:00 也可以。也就是时间窗口已经给死，只剩这两个时段。\n\n要你做什么：带好期中卷子/代码截图和你想问的具体点（是判分标准、边界条件还是最后一题的思路），按他给的时间去办公室当面谈——11:30 前随时可去，赶不上就 13:00–14:00。出发前建议先回一封简短邮件确认你选哪个时段，避免他临时离开。谈完把结论记下来，若涉及改分当场问清后续流程。",
-      "eventTime": "2026-11-09T13:00:00+08:00",
-      "location": "赵翔宇教授办公室",
-      "time": "今日 11:30 前 或 13:00–14:00",
-      "receivedAt": "2026-11-09T10:26:10+08:00",
-      "mailUrl": "#"
-    },
-    {
-      "id": "e107",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "学生事务处（职业发展）SDO Career",
-      "senderEmail": "sdo.career@cityu-dg.edu.cn",
-      "subject": "实习机会推荐 | Internship Opportunities",
-      "snippet": "鹏晨投资实习内推（深圳/上海），滚动招募招满即止，需按格式投简历",
-      "body": "来龙去脉：学生事务处职业发展组转发了一个内推实习岗位——鹏晨投资（Pengchenvc），工作地点深圳、上海，具体岗位职责与要求写在邮件附件里（附件未在正文展开）。招聘方按简历滚动筛选，招满即止，没有固定截止日，所以越早投越有优势。邮件特别注明这是内推信息，不要对外传播。\n\n要你做什么：先打开附件看岗位方向是否与智能制造/数据分析相关，再决定投不投。若投：简历按「投递岗位+姓名+专业+电话+港城莞」命名，用 PDF，发到邮件里指定的投递邮箱（正文已给，这里不重复）；邮件主题同样按该格式写，正文两三句说明可实习时间与地点偏好。因为滚动招募，建议 3 天内投出；投完在 CampusDesk 记一笔，方便跟进。",
-      "eventTime": "",
-      "location": "深圳 / 上海",
-      "time": "",
-      "receivedAt": "2026-11-09T09:33:14+08:00",
-      "mailUrl": "#"
-    },
-    {
       "id": "e100",
       "category": "activity",
       "needsReply": false,
@@ -2050,8 +1945,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-09",
-  "canvasSyncedTs": "2026-11-09T16:23:34+08:00",
+  "canvasSyncedAt": "2026-11-10",
+  "canvasSyncedTs": "2026-11-10T08:56:54+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
