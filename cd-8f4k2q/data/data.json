@@ -1021,17 +1021,6 @@
       "postedAt": "2026-11-05"
     },
     {
-      "id": "cv:790:4388",
-      "type": "quiz",
-      "title": "In-Class Quiz Reminder",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
-      "postedAt": "2026-11-03"
-    },
-    {
       "id": "cv:790:4261",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
