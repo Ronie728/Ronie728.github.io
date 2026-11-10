@@ -990,6 +990,15 @@
       "source": "School email"
     },
     {
+      "id": "note:email_sync:20261109",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 9",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 9, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1023,17 +1032,6 @@
       "postedAt": "2026-11-03"
     },
     {
-      "id": "cv:938:4251",
-      "type": "notice",
-      "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
-      "summary": "Students are required to bring their student ID card or…",
-      "detail": "Students are required to bring their student ID card or national ID card (or another government-issued photo ID) to the midterm exam. A valid ID must be presented upon request. Students without proper identification may not be permitted to take the exam. Please make sure to bring your ID. Thank you for your cooperation.",
-      "meta": "MA1300",
-      "source": "Canvas · MA1300",
-      "href": "https://cityu-dg.instructure.com/courses/938/discussion_topics/4251",
-      "postedAt": "2026-10-20"
-    },
-    {
       "id": "cv:790:4261",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
@@ -1045,46 +1043,15 @@
       "postedAt": "2026-10-20"
     },
     {
-      "id": "cv:898:4235",
+      "id": "cv:938:4251",
       "type": "notice",
-      "title": "Reminder about Midterm on October 21st",
-      "summary": "Dear all, This is a reminder that the midterm will take…",
-      "detail": "Dear all, This is a reminder that the midterm will take place on Oct 21 in AC1-201 . Please arrive at 8:30 am and find your seat according to the seating plan posted outside the door on the day of the exam. The midterm has two parts: a written part and a computer-based part. Please bring writing utensils for the written part and make sure to write your name and student ID on the exam paper. For the computer-based part, you will complete it on the lab computers. Please make sure you can log into Canvas to upload the final file, so please verify your username and password before the exam. This exam is closed book. You may not access the internet except to upload the coding part to Canvas at the end of the exam. Phones should be off and put away. No messaging, email, AI tools, or other websites are permitted. Read each question carefully. Follow the instructions exactly and make sure your o",
-      "meta": "CS1302",
-      "source": "Canvas · CS1302",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/898/discussion_topics/4235",
-      "postedAt": "2026-10-19"
-    },
-    {
-      "id": "cv:884:4228",
-      "type": "course_change",
-      "title": "Room for today's class CHANGE",
-      "summary": "Please come to AC3 room 213 for class today.",
-      "detail": "Please come to AC3 room 213 for class today. Thanks!",
-      "meta": "EN1002",
-      "source": "Canvas · EN1002",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/884/discussion_topics/4228",
-      "postedAt": "2026-10-19"
-    },
-    {
-      "id": "cv:938:4242",
-      "type": "notice",
-      "title": "Tomorrow’s Class and Exam Arrangements",
-      "summary": "Dear all, Tomorrow morning’s class will be held as usual…",
-      "detail": "Dear all, Tomorrow morning’s class will be held as usual as a review session. Tomorrow afternoon’s class is cancelled, because the time has been rescheduled to the evening for the exam. The exam will take place in two rooms: AC5-515 and AC5-417 . I am still waiting for the Academic Affairs Office to confirm which students will be assigned to which room. They are still making the arrangements and I will let you know as soon as I receive the details. Please stay tuned for further updates. Best regards, Xuan",
+      "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
+      "summary": "Students are required to bring their student ID card or…",
+      "detail": "Students are required to bring their student ID card or national ID card (or another government-issued photo ID) to the midterm exam. A valid ID must be presented upon request. Students without proper identification may not be permitted to take the exam. Please make sure to bring your ID. Thank you for your cooperation.",
       "meta": "MA1300",
       "source": "Canvas · MA1300",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/938/discussion_topics/4242",
-      "postedAt": "2026-10-19"
-    },
-    {
-      "id": "note:email_sync:20261109",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 9",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 9, 2026",
-      "source": "CampusDesk afternoon sync"
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/938/discussion_topics/4251",
+      "postedAt": "2026-10-20"
     }
   ],
   "emails": [
@@ -2098,7 +2065,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "DSC1001",
@@ -2111,7 +2078,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "EN1002",
@@ -2124,7 +2091,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "GE1632",
@@ -2137,7 +2104,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "GE2134",
@@ -2150,7 +2117,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "IP1901",
@@ -2165,7 +2132,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "MA1300",
@@ -2183,7 +2150,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "ME1921",
@@ -2196,7 +2163,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "PHY1201",
@@ -2215,7 +2182,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-10"
     }
   ],
   "canvasEvents": [
@@ -2519,6 +2486,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-11-09",
-  "canvasInsightsSyncedTs": "2026-11-09T11:08:26+08:00"
+  "canvasInsightsSyncedAt": "2026-11-10",
+  "canvasInsightsSyncedTs": "2026-11-10T08:56:00+08:00"
 }
