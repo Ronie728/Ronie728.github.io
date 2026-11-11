@@ -765,6 +765,51 @@
       "note": "已于 2026-11-02 18:17 提交并当场批改，得分 10/10（满分）；截止 2026-11-08 23:59（Quiz 9：温度与热）。"
     },
     {
+      "id": "cv_3839",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "极地安全测试题",
+      "due": "2026-11-10T17:50:00+08:00",
+      "points": 10,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3839",
+      "dueTime": "17:50",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 极地安全测试题",
+      "note": "极地安全测试题已出分 9/10（Canvas API 核实，评分时间 2026-11-10）。",
+      "score": 9
+    },
+    {
+      "id": "cv_3837",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "生物安全测试题",
+      "due": "2026-11-10T17:50:00+08:00",
+      "points": 12,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3837",
+      "dueTime": "17:50",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 生物安全测试题",
+      "note": "生物安全测试题已出分 10.75/12（Canvas API 核实，评分时间 2026-11-10）。",
+      "score": 10.75
+    },
+    {
+      "id": "cv_3838",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "深海安全测试题",
+      "due": "2026-11-10T17:55:00+08:00",
+      "points": 15,
+      "status": "submitted",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3838",
+      "dueTime": "17:55",
+      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE1632 → Assignments → 深海安全测试题",
+      "note": "深海安全测试题已出分 12.08/15（Canvas API 核实，评分时间 2026-11-10）。",
+      "score": 12.08
+    },
+    {
       "id": "cv_3799",
       "course": "PHY 1201 · General Physics I",
       "title": "Quiz 10: Ideal Gas Equation and the Kinetic-Molecular Model of an Ideal Gas",
@@ -833,6 +878,16 @@
       "canvasPath": "Canvas → IP1901 → Assignments → 课堂参与二",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/936/assignments/3320",
       "note": ""
+    },
+    {
+      "id": "cv_3836",
+      "course": "ME 1921 · Freshman Workshop II",
+      "title": "军事理论课第二次作业",
+      "due": "2026-12-04T23:59:59+08:00",
+      "points": 10,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/750/assignments/3836",
+      "dueTime": "23:59"
     },
     {
       "id": "cv_3543",
@@ -968,51 +1023,6 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
-    },
-    {
-      "id": "cv_3839",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "极地安全测试题",
-      "due": "",
-      "points": 10,
-      "status": "submitted",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3839",
-      "dueTime": "",
-      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 极地安全测试题",
-      "note": "极地安全测试题已出分 9/10（Canvas API 核实，评分时间 2026-11-10）。",
-      "score": 9
-    },
-    {
-      "id": "cv_3838",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "深海安全测试题",
-      "due": "",
-      "points": 15,
-      "status": "submitted",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3838",
-      "dueTime": "",
-      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 深海安全测试题",
-      "note": "深海安全测试题已出分 12.08/15（Canvas API 核实，评分时间 2026-11-10）。",
-      "score": 12.08
-    },
-    {
-      "id": "cv_3837",
-      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
-      "title": "生物安全测试题",
-      "due": "",
-      "points": 12,
-      "status": "submitted",
-      "canvasUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3837",
-      "dueTime": "",
-      "requirement": "在线测试（Canvas 外部工具），无文字说明。",
-      "requirementSource": "Canvas 同步",
-      "canvasPath": "Canvas → GE1632 → Assignments → 生物安全测试题",
-      "note": "生物安全测试题已出分 10.75/12（Canvas API 核实，评分时间 2026-11-10）。",
-      "score": 10.75
     }
   ],
   "notes": [
@@ -1035,15 +1045,6 @@
       "source": "School email"
     },
     {
-      "id": "note:email_sync:20261110",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 10",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 10, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1053,28 +1054,6 @@
       "source": "Canvas · EN1002",
       "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/884/discussion_topics/4418",
       "postedAt": "None"
-    },
-    {
-      "id": "cv:790:4470",
-      "type": "quiz",
-      "title": "In-Class Quiz Reminder",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our 6th in-class quiz tomorrow (11th). The quiz will be distributed in the lecture (i.e., printed questions). The quiz will cover NumPy arrays and part of tomorrow's lecture material in the first hour. The quiz consists of 10 multiple-choice questions, and the duration is 30 minutes. The quiz will be closed-book, and all answers must be in English. best, Bowen Tan",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/4470",
-      "postedAt": "2026-11-10"
-    },
-    {
-      "id": "cv:909:4465",
-      "type": "course_change",
-      "title": "GE2134 Assessments Schedule",
-      "summary": "Dear GE2134 family, A quick update on the GE2134…",
-      "detail": "Dear GE2134 family, A quick update on the GE2134 schedule: Following the course coordinator’s latest arrangement due to class size constraints, all groups will present in Week 11. Week 12 will be allocated for the final quiz. This unified schedule is set to ensure all students enrolled in GE2134 have the equal amount of time to prepare for both assessments. You will have some class time this Thursday to prepare for the presentation. If you have any questions, please don’t hesitate to reach out. Best, Bingyao",
-      "meta": "GE2134",
-      "source": "Canvas · GE2134",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/909/discussion_topics/4465",
-      "postedAt": "2026-11-10"
     },
     {
       "id": "cv:759:4406",
@@ -1088,17 +1067,6 @@
       "postedAt": "2026-11-05"
     },
     {
-      "id": "cv:790:4388",
-      "type": "quiz",
-      "title": "In-Class Quiz Reminder",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
-      "postedAt": "2026-11-03"
-    },
-    {
       "id": "cv:790:4261",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
@@ -1106,8 +1074,28 @@
       "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our third in-class quiz in tomorrow's class (21st). This quiz will test your skills using Python and Excel (or equivalent spreadsheet software) for simple data exploratory analysis tasks. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may follow this instruction to install Microsoft 365 for free, or use WPS spreadsheet . You may expect questions similar to those you found in previous tutorials. Note that this quiz is closed book. best, Bowen Tan",
       "meta": "DSC1001",
       "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/4261",
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4261",
       "postedAt": "2026-10-20"
+    },
+    {
+      "id": "cv:938:4251",
+      "type": "notice",
+      "title": "Midterm Exam Reminder: Bring Your Student ID or National ID",
+      "summary": "Students are required to bring their student ID card or…",
+      "detail": "Students are required to bring their student ID card or national ID card (or another government-issued photo ID) to the midterm exam. A valid ID must be presented upon request. Students without proper identification may not be permitted to take the exam. Please make sure to bring your ID. Thank you for your cooperation.",
+      "meta": "MA1300",
+      "source": "Canvas · MA1300",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/938/discussion_topics/4251",
+      "postedAt": "2026-10-20"
+    },
+    {
+      "id": "note:email_sync:20261110",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 10",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 10, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -1157,21 +1145,6 @@
       "mailUrl": "#"
     },
     {
-      "id": "e118",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · DSC1001 数据科学导论",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "In-Class Quiz Reminder: DSC1001 Introduction to Data Science (1072)",
-      "snippet": "今天课上第6次随堂测：NumPy 数组，10题30分钟闭卷全英文",
-      "body": "来龙去脉：DSC1001 助教 Bowen Tan 在 Canvas 发公告，第 6 次随堂测就在今天（11 月 11 日）的课上，题目会以纸质卷形式当场发。范围是 NumPy 数组，加上今天第一小时要讲的新内容；10 道选择题，30 分钟，闭卷，答案必须用英文写。\n\n要你做什么：上课前把 NumPy 那部分的数组创建、索引/切片、广播、常用聚合（sum/mean/std/axis）快速过一遍，尤其是 axis 方向和广播规则的判断；带好笔（可能要涂卡或写选项），别迟到——随堂测通常开课就发。",
-      "eventTime": "2026-11-11T00:00:00+08:00",
-      "location": "DSC1001 课堂",
-      "time": "今日（11/11）课上，30 分钟",
-      "receivedAt": "2026-11-10T23:44:41+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/790"
-    },
-    {
       "id": "e119",
       "category": "notice",
       "needsReply": false,
@@ -1185,36 +1158,6 @@
       "time": "第 11 周小组汇报 / 第 12 周期末 quiz",
       "receivedAt": "2026-11-10T15:39:13+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/909"
-    },
-    {
-      "id": "e120",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "Canvas · GE1632 国家安全教育课",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Assignment Graded: 极地安全测试题 / 生物安全测试题 / 深海安全测试题, GE1632 大学生国家安全教育课 National Security Education Course (1195)",
-      "snippet": "GE1632 三题出分：极地 9/10、深海 12.08/15、生物 10.75/12",
-      "body": "来龙去脉：GE1632 昨晚 17:31–17:38 连续批完三份安全测试题，Canvas 发了三封出分通知。已用 Canvas API 核实真实分数：极地安全测试题 9/10、深海安全测试题 12.08/15、生物安全测试题 10.75/12（三份都是满分制不同，深海 15 分、生物 12 分，别按 10 分制误判）。这三份作业本地的作业列表里原先没有，已按 Canvas 数据补进 GE1632 作业清单并写了分数。\n\n要你做什么：不用操作。按错题去 Canvas 里点开对应测试题看哪几道错了——极地那题丢了 1 分、深海丢了近 3 分，比例上深海最值得复盘；这类题库题型的错法通常会在后面的综合测试里重演。",
-      "eventTime": "",
-      "location": "Canvas",
-      "time": "",
-      "receivedAt": "2026-11-10T18:38:34+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/783/assignments/3839"
-    },
-    {
-      "id": "e110",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "校园运维处 Campus Operation Office",
-      "senderEmail": "operation@cityu-dg.edu.cn",
-      "subject": "【校园运维处】关于生活水箱清洗的通知 | [COO] Notice Regarding the Cleaning of Domestic Water Tanks",
-      "snippet": "今日 08:00–18:00 清洗一期校园生活水箱，不停水，水浑浊先放一会儿",
-      "body": "来龙去脉：校园运维处通知，物业将于今天（11 月 10 日，周二）08:00–18:00 对一期校园生活水箱做全面清洗消毒。关键一点：清洗期间校园供水不受影响，不需要提前储水；但如果发现自来水变浑浊，属于清洗后的正常现象，把水放一会儿就会恢复清澈。\n\n要你做什么：基本不用特意准备。今天白天如果宿舍或洗手间出水发白、发浑，先放水 1–2 分钟再使用，别直接饮用浑水；若长时间放不干净或水压明显异常，打物业 24 小时服务热线 0769-21183199 报修。",
-      "eventTime": "2026-11-10T08:00:00+08:00",
-      "location": "一期校园",
-      "time": "今日 08:00–18:00",
-      "receivedAt": "2026-11-09T16:50:21+08:00",
-      "mailUrl": "#"
     },
     {
       "id": "e100",
@@ -1350,21 +1293,6 @@
       "time": "报名截止 2026年11月30日；校赛省赛 2027年3月15日前；总决赛 2027年4月",
       "receivedAt": "2026-10-28T15:18:51+08:00",
       "mailUrl": "https://zgs.chsi.com.cn"
-    },
-    {
-      "id": "e59",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "副校长（学术）办公室 OVPAC",
-      "senderEmail": "ovpac@cityu-dg.edu.cn",
-      "subject": "Call for Parallel Forum Presentations | 6th Annual Conference and University Presidents’ Forum of the DCCE",
-      "snippet": "DCCE 平行论坛征稿，校内截止延至 11/11，入选可获 ALP 积分",
-      "body": "副校长（学术）办公室转发第六届跨境合作办学分会（DCCE）年会暨大学校长论坛的平行论坛征稿通知。会议于 2026 年 12 月 12 日在香港城市大学（东莞）举行。\n征稿主题：合作办学的治理与协同管理；「引进来」与「走出去」的实践路径；十五五期间学科专业规划与人才培养创新；AI 赋能高等教育创新发展；跨文化教与学及国际化人才培养。\n提交材料：演讲题目、摘要及相关材料；邮件主题写「学校名称 + 演讲人姓名 + 平行论坛投稿」。投稿邮箱见原文邮件。\n关键时间：校内投稿截止由 10 月 25 日延期至 2026 年 11 月 11 日。\n激励：入选并在平行论坛演讲的学生可获得 Active Learning Point，具体细则将在学生生活系统公布。",
-      "eventTime": "2026-11-11T00:00:00+08:00",
-      "location": "香港城市大学（东莞）（会议地点）",
-      "time": "校内投稿截止 11月11日（原 10月25日，已延期）；会议 12月12日",
-      "receivedAt": "2026-10-20T21:27:40+08:00",
-      "mailUrl": "#"
     },
     {
       "category": "activity",
@@ -1536,6 +1464,48 @@
       "score": 9.75,
       "status": "complete",
       "submittedAt": "2026-11-03T09:39:09Z",
+      "questions": []
+    },
+    {
+      "id": "q1224",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "生物安全测试题",
+      "due": "2026-11-10T09:50:00Z",
+      "points": 12,
+      "questionCount": 12,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1224",
+      "attempted": true,
+      "score": 10.75,
+      "status": "complete",
+      "submittedAt": "2026-11-10T09:35:18Z",
+      "questions": []
+    },
+    {
+      "id": "q1226",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "极地安全测试题",
+      "due": "2026-11-10T09:50:00Z",
+      "points": 10,
+      "questionCount": 10,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1226",
+      "attempted": true,
+      "score": 9,
+      "status": "complete",
+      "submittedAt": "2026-11-10T09:38:15Z",
+      "questions": []
+    },
+    {
+      "id": "q1225",
+      "course": "GE 1632 · 大学生国家安全教育课 National Security Education Course",
+      "title": "深海安全测试题",
+      "due": "2026-11-10T09:55:00Z",
+      "points": 15,
+      "questionCount": 15,
+      "url": "https://cityu-dg.instructure.com/courses/783/quizzes/1225",
+      "attempted": true,
+      "score": 12.08333333333333,
+      "status": "complete",
+      "submittedAt": "2026-11-10T09:31:18Z",
       "questions": []
     },
     {
@@ -2091,8 +2061,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-10",
-  "canvasSyncedTs": "2026-11-10T14:20:03+08:00",
+  "canvasSyncedAt": "2026-11-11",
+  "canvasSyncedTs": "2026-11-11T09:21:00+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
@@ -2106,7 +2076,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "DSC1001",
@@ -2119,7 +2089,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "EN1002",
@@ -2132,7 +2102,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "GE1632",
@@ -2145,7 +2115,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "GE2134",
@@ -2158,7 +2128,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "IP1901",
@@ -2173,7 +2143,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "MA1300",
@@ -2191,7 +2161,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "ME1921",
@@ -2204,7 +2174,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     },
     {
       "code": "PHY1201",
@@ -2223,7 +2193,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-10"
     }
   ],
   "canvasEvents": [
@@ -2516,39 +2486,6 @@
       "est": false
     },
     {
-      "id": "cv-ev:q:1226",
-      "date": "2026-11-10",
-      "time": "17:50",
-      "title": "极地安全测试题",
-      "course": "GE1632",
-      "kind": "quiz",
-      "source": "Canvas",
-      "url": "",
-      "est": false
-    },
-    {
-      "id": "cv-ev:q:1225",
-      "date": "2026-11-10",
-      "time": "17:55",
-      "title": "深海安全测试题",
-      "course": "GE1632",
-      "kind": "quiz",
-      "source": "Canvas",
-      "url": "",
-      "est": false
-    },
-    {
-      "id": "cv-ev:q:1224",
-      "date": "2026-11-10",
-      "time": "17:50",
-      "title": "生物安全测试题",
-      "course": "GE1632",
-      "kind": "quiz",
-      "source": "Canvas",
-      "url": "",
-      "est": false
-    },
-    {
       "id": "cv-ev:q:1220",
       "date": "2026-11-15",
       "time": "23:59",
@@ -2560,6 +2497,6 @@
       "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-11-11",
-  "canvasInsightsSyncedTs": "2026-11-11T09:20:40+08:00"
+  "canvasInsightsSyncedAt": "2026-11-10",
+  "canvasInsightsSyncedTs": "2026-11-10T08:56:00+08:00"
 }
