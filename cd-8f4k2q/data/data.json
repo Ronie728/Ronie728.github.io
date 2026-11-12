@@ -1048,15 +1048,6 @@
       "source": "School email"
     },
     {
-      "id": "note:email_sync:20261111",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 11",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 11, 2026",
-      "source": "CampusDesk afternoon sync"
-    },
-    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1110,6 +1101,15 @@
       "source": "Canvas · PHY1201",
       "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/4406",
       "postedAt": "2026-11-05"
+    },
+    {
+      "id": "note:email_sync:20261112",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 12",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 12, 2026",
+      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -2031,7 +2031,7 @@
     }
   ],
   "canvasSyncedAt": "2026-11-12",
-  "canvasSyncedTs": "2026-11-12T09:05:29+08:00",
+  "canvasSyncedTs": "2026-11-12T13:40:08+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
