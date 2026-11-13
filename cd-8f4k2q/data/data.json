@@ -852,6 +852,16 @@
       "note": "已于 2026-11-04 提交（成绩未出，满分 10）"
     },
     {
+      "id": "cv_3862",
+      "course": "GE 2134 · Critical and Creative Thinking",
+      "title": "Group Project Slides",
+      "due": "2026-11-19T23:59:59+08:00",
+      "points": 0,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/909/assignments/3862",
+      "dueTime": "23:59"
+    },
+    {
       "id": "cv_3319",
       "course": "IP 1901 · 习近平新时代中国特色社会主义思想概论",
       "title": "课堂参与一",
@@ -871,7 +881,7 @@
       "title": "课堂参与二",
       "due": "2026-12-04T23:59:59+08:00",
       "dueTime": "23:59",
-      "status": "pending",
+      "status": "submitted",
       "points": 30,
       "requirement": "与「课堂参与一」要求相同：从四种形式中选两种（两学期合计完成两次，本次为第二次）。四种形式与要求：\n① 文献报告（选一篇实证论文，围绕五问给出评论，需 PPT，报告 15–20 分钟，课后上传 PPT）；\n②「谁不说俺家乡好」（用中国式现代化理论分析家乡的一个变化案例，需 PPT，15–20 分钟，课后上传 PPT）；\n③ 辩论赛（题目：人工智能发展是加剧还是缓解了社会不平等？提交辩词总结 Word）；\n④ 无领导小组讨论（50 分钟，提交讨论内容总结 Word）。\n\n什么时候交：Canvas 截止 2026-12-04 23:59。\n\n分值：30 分。\n\n提醒：两次课堂参与形式不能重复，建议早选题目、早排展示时间。",
       "requirementSource": "Canvas 同步",
@@ -2015,8 +2025,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-12",
-  "canvasSyncedTs": "2026-11-12T13:40:08+08:00",
+  "canvasSyncedAt": "2026-11-13",
+  "canvasSyncedTs": "2026-11-13T09:09:32+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
