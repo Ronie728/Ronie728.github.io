@@ -859,7 +859,11 @@
       "points": 0,
       "status": "pending",
       "canvasUrl": "https://cityu-dg.instructure.com/courses/909/assignments/3862",
-      "dueTime": "23:59"
+      "dueTime": "23:59",
+      "requirement": "任务：小组项目展示幻灯片——把小组项目成果做成 PPT 并提交到本作业。交付物：展示幻灯片（PPT 文件）；Canvas 允许上传文件、粘贴文本链接或提交 URL。交到哪里、何时：通过 Canvas 在本作业页提交，截止 2026-11-19 23:59。额外要求：小组作业，每组只需一名成员提交（其余成员无需重复上传）；该项为 0 分条目。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → GE2134 → Assignments → Group Project Slides",
+      "note": ""
     },
     {
       "id": "cv_3319",
