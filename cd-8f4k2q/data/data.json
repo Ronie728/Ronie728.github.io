@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-15",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -1040,6 +1040,34 @@
       "note": "已于 2026-10-08 提交（成绩未出，满分 30）。",
       "dueAssumed": "2026-10-13T12:20:00+08:00",
       "dueAssumedBasis": "推算：本人实验课 2026-09-29（周二）10:30–12:20，课程要求报告在实验后 2 周内提交 → 2026-10-13 12:20（按实验结束时刻严格计）。Canvas 上没有设置截止时间，不同同学实验日不同。"
+    },
+    {
+      "id": "cv_3877",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Written Assignment 11: The First Law of Thermodynamics",
+      "due": "2026-11-22T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "submittedAt": "2026-09-14T22:46:16+08:00",
+      "requirement": "① 从 Canvas 题池中自选 6 道题，手写在纸上作答（题池为 Chapter 13 全部习题，可用官方扫描版 Exercise_Chapter_13 参考）；② 每题须写明章节与题号、展示推导与计算过程（不只写最终答案）、字迹清晰可辨，必须本人独立完成；③ 交到：下节课/辅导课直接交给老师或助教，或拍照/扫描后从 Canvas 本作业页面上交；截止 2026-11-22 23:59（HKT）；④ 本次为 double assignment，占期末成绩 2%；主要按是否认真完成、有真实作答检查，不逐行细批；迟交或缺交按课程作业总则处理，投递/无人看管投放风险自负。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY 1201 · General Physics I → Assignments → Written Assignment 11",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3877"
+    },
+    {
+      "id": "cv_3883",
+      "course": "PHY 1201 · General Physics I",
+      "title": "Quiz 11: The First Law of Thermodynamics",
+      "due": "2026-11-22T23:59:59+08:00",
+      "dueTime": "23:59",
+      "status": "pending",
+      "points": 10,
+      "submittedAt": "2026-09-14T22:46:16+08:00",
+      "requirement": "① 在线完成 Canvas Quiz：热力学第一定律（The First Law of Thermodynamics）；② 无纸面交付物，直接在 Canvas 内作答；③ 截止 2026-11-22 23:59（HKT），占期末成绩 1%；④ 每题 3 次作答机会；数值答案不要写单位（题目会标明所需单位），允许 ±5% 误差，最多填 4 位小数（超出 Canvas 自动四舍五入）；开始作答后限时 3 天（4320 分钟），超时 Canvas 自动提交；若到截止时仍未手动提交，Canvas 会在截止时刻自动提交已开始的作答。",
+      "requirementSource": "Canvas 同步",
+      "canvasPath": "Canvas → PHY 1201 · General Physics I → Assignments → Quiz 11",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3883"
     }
   ],
   "notes": [
@@ -1084,15 +1112,15 @@
       "postedAt": "2026-11-11"
     },
     {
-      "id": "cv:790:4470",
+      "id": "cv:790:4388",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
       "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our 6th in-class quiz tomorrow (11th). The quiz will be distributed in the lecture (i.e., printed questions). The quiz will cover NumPy arrays and part of tomorrow's lecture material in the first hour. The quiz consists of 10 multiple-choice questions, and the duration is 30 minutes. The quiz will be closed-book, and all answers must be in English. best, Bowen Tan",
+      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
       "meta": "DSC1001",
       "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/4470",
-      "postedAt": "2026-11-10"
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
+      "postedAt": "2026-11-03"
     },
     {
       "id": "cv:909:4465",
@@ -1117,17 +1145,6 @@
       "postedAt": "2026-11-05"
     },
     {
-      "id": "cv:790:4388",
-      "type": "quiz",
-      "title": "In-Class Quiz Reminder",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
-      "postedAt": "2026-11-03"
-    },
-    {
       "id": "note:email_sync:20261113",
       "type": "notice",
       "title": "Email sync unavailable on Nov 13",
@@ -1138,21 +1155,6 @@
     }
   ],
   "emails": [
-    {
-      "id": "e122",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "IT 服务处（IT Service Desk）",
-      "senderEmail": "it.servicedesk@cityu-dg.edu.cn",
-      "subject": "关于校园网 NCE-Campus TLS 证书更新维护的通知 / Notice of Scheduled NCE-Campus TLS Certificate Renewal Maintenance",
-      "snippet": "11/14 周六 00:00–02:00 校园网认证中断，之后或需信任证书",
-      "body": "IT 服务处通知：为保障校园网稳定运行，学校将进行 NCE-Campus TLS 证书例行更新维护。\n维护时间：2026 年 11 月 14 日（周六）00:00–02:00，预计约 2 小时。\n影响范围：维护期间校园网认证服务中断，无法完成网络登录认证（宿舍与教学区 Wi-Fi 都会受影响）。\n要你做什么：这段时间别安排必须联网的事（例如 00:00 后交作业、看录播）；维护完成后若设备弹出证书校验提示，点「信任」证书或重新输入账号密码即可恢复上网。如仍连不上，联系 IT 服务处（联系方式见原邮件）。\n备注：这是计划内维护，不是网络故障。",
-      "eventTime": "2026-11-14T00:00:00+08:00",
-      "location": "校园网 NCE-Campus 认证服务（全校）",
-      "time": "11月14日（周六）00:00–02:00",
-      "receivedAt": "2026-11-12T11:23:23+08:00",
-      "mailUrl": "#"
-    },
     {
       "id": "e123",
       "category": "activity",
@@ -1197,21 +1199,6 @@
       "time": "11月12日 早课（具体时间见课表）",
       "receivedAt": "2026-11-11T10:47:30+08:00",
       "mailUrl": "https://cityu-dg.instructure.com/courses/1213"
-    },
-    {
-      "id": "e101",
-      "category": "activity",
-      "needsReply": false,
-      "sender": "国际交流处 Global Engagement Office",
-      "senderEmail": "geoosp@cityu-dg.edu.cn",
-      "subject": "  [Info Session] UC Berkeley Summer and Visiting Student Programmes | 【项目说明会】 加州大学伯克利分校夏校及学期/学年访问生项目",
-      "snippet": "11/13 12:40 AC5-515 伯克利项目说明会，座位有限需先报名",
-      "body": "来龙去脉：国际交流处办加州大学伯克利分校项目说明会，由伯克利校方代表主讲，内容是夏校（Summer Session）与学期/学年访问生（Visiting Student）两类项目的课程安排、申请流程、费用与选拔要求。这类项目通常提前半年到一年申请，说明会是拿到一手申请门槛信息的机会。\n\n要你做什么：11 月 13 日（周五）12:40–13:50 到学术楼五座 515 室（AC5-515）。现场座位有限，务必先通过报名问卷 https://wj.qq.com/s2/28537153/3iiq/ 登记，并准时到场；午间场次建议提前吃饭或带简餐。",
-      "eventTime": "2026-11-13T12:40:00+08:00",
-      "location": "学术楼五座 515 室（AC5-515）",
-      "time": "11月13日 12:40–13:50",
-      "receivedAt": "2026-11-05T13:34:02+08:00",
-      "mailUrl": "https://wj.qq.com/s2/28537153/3iiq/"
     },
     {
       "id": "e104",
