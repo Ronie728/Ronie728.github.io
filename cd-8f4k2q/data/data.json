@@ -1090,6 +1090,15 @@
       "source": "School email"
     },
     {
+      "id": "note:email_sync:20261113",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 13",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 13, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1112,15 +1121,15 @@
       "postedAt": "2026-11-11"
     },
     {
-      "id": "cv:790:4388",
+      "id": "cv:790:4470",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
       "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
+      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our 6th in-class quiz tomorrow (11th). The quiz will be distributed in the lecture (i.e., printed questions). The quiz will cover NumPy arrays and part of tomorrow's lecture material in the first hour. The quiz consists of 10 multiple-choice questions, and the duration is 30 minutes. The quiz will be closed-book, and all answers must be in English. best, Bowen Tan",
       "meta": "DSC1001",
       "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
-      "postedAt": "2026-11-03"
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/4470",
+      "postedAt": "2026-11-10"
     },
     {
       "id": "cv:909:4465",
@@ -1145,16 +1154,48 @@
       "postedAt": "2026-11-05"
     },
     {
-      "id": "note:email_sync:20261113",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 13",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 13, 2026",
-      "source": "CampusDesk afternoon sync"
+      "id": "cv:790:4388",
+      "type": "quiz",
+      "title": "In-Class Quiz Reminder",
+      "summary": "Dear students, I hope this email finds you well!",
+      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
+      "meta": "DSC1001",
+      "source": "Canvas · DSC1001",
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
+      "postedAt": "2026-11-03"
     }
   ],
   "emails": [
+    {
+      "id": "e125",
+      "category": "activity",
+      "needsReply": false,
+      "sender": "体育课程组（PE Teaching Team）",
+      "senderEmail": "peteam@cityu-dg.edu.cn",
+      "subject": "【关于组建校田径集训队参加2026年广东省大学生田径锦标赛的通知】Notice on Forming the University Track and Field Training Team for the 2026 Guangdong Provincial University Track and Field Championships",
+      "snippet": "校田径集训队选拔报名，11/18 23:59 截止，需达省赛前八成绩",
+      "body": "体育课程组面向全校在籍学生公开选拔校田径集训队，备战 2026 年 12 月 24–27 日在华南理工大学（五山校区）举行的广东省大学生田径锦标赛。\n\n选拔项目：男/女 100m、200m、400m、800m、1500m、5000m，110m 栏（女子 100m 栏）、400m 栏，跳远、三级跳远、跳高，铅球、标枪、铁饼，按甲 B 组标准执行。\n\n门槛条件：两年内所报项目个人最好成绩须达到 2025 年广东省大学生田径锦标赛甲 B 组前八名标准（标准为电计时成绩，原邮件以表格图片给出，具体数值见原文图片，此处不转述）。优先条件：个人最好成绩达国家二级运动员标准，或曾参加省级及以上田径比赛。另需身体健康、无不宜剧烈运动的疾病或伤病，能遵守集训纪律并服从训练与参赛安排。\n\n报名：即日起至 2026 年 11 月 18 日 23:59，扫描原文二维码添加微信，备注「田径选拔+姓名+参赛项目」；报名信息须真实，成绩弄虚作假取消资格。\n\n要你做什么：若你练过上述任一项目且成绩接近门槛，在 11/18 23:59 前扫码报名；有心脏病、高血压等不宜剧烈运动疾病或近期运动损伤未愈则不要报名。",
+      "eventTime": "",
+      "location": "",
+      "time": "报名截止 11月18日 23:59；比赛 12月24–27日（华南理工大学五山校区）",
+      "receivedAt": "2026-11-14T17:11:21+08:00",
+      "mailUrl": "#"
+    },
+    {
+      "id": "e126",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "Instructure Canvas",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Recent Canvas Notifications",
+      "snippet": "Canvas 周报：4 项作业变动，最近 11/18 11:30 信息论作业截止",
+      "body": "Canvas 每周通知汇总（截至 11 月 14 日当周），共 4 条作业变动：\n\n1) CS 1302 Introduction to Computer Programming：Assignment 3 - Information Theory 截止时间变更，现为 11 月 18 日 11:30（该作业已于 11-04 提交，成绩未出）。\n2) ME 1921 Freshman Workshop II：新建作业「军事理论课第二次作业」，截止 12 月 4 日 23:59。\n3) GE 2134 Critical and Creative Thinking：新建作业「Group Project Slides」（小组项目展示 PPT，每组一人提交），截止 11 月 19 日 23:59。\n4) PHY 1201 General Physics I：新建作业「Written Assignment 11: The First Law of Thermodynamics」，截止 11 月 22 日 23:59。\n\n要你做什么：这 4 项在作业列表中均已存在且截止时间一致，无需另行登记；重点是 11/18 11:30 的信息论作业（已交，留意成绩）、11/19 23:59 的 GE2134 小组 PPT，以及 11/22 的热力学书面作业。",
+      "eventTime": "",
+      "location": "",
+      "time": "",
+      "receivedAt": "2026-11-14T16:25:03+08:00",
+      "mailUrl": "#"
+    },
     {
       "id": "e123",
       "category": "activity",
@@ -2087,7 +2128,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/898/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "DSC1001",
@@ -2100,7 +2141,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/790/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "EN1002",
@@ -2113,7 +2154,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/884/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "GE1632",
@@ -2126,7 +2167,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/783/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "GE2134",
@@ -2139,7 +2180,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/909/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "IP1901",
@@ -2154,7 +2195,7 @@
       "hash": "50baa231e1fa928b",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/936/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "MA1300",
@@ -2172,7 +2213,7 @@
       "hash": "39f9bcc8b21d35af",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/938/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "ME1921",
@@ -2185,7 +2226,7 @@
       "hash": "da39a3ee5e6b4b0d",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/750/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     },
     {
       "code": "PHY1201",
@@ -2204,7 +2245,7 @@
       "hash": "905dc0bd4dd9f94e",
       "stale": false,
       "sourceUrl": "https://cityu-dg.instructure.com/courses/759/assignments/syllabus",
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-15"
     }
   ],
   "canvasEvents": [
@@ -2539,8 +2580,19 @@
       "source": "Canvas",
       "url": "",
       "est": false
+    },
+    {
+      "id": "cv-ev:q:1236",
+      "date": "2026-11-22",
+      "time": "23:59",
+      "title": "Quiz 11: The First Law of Thermodynamics",
+      "course": "PHY1201",
+      "kind": "quiz",
+      "source": "Canvas",
+      "url": "",
+      "est": false
     }
   ],
-  "canvasInsightsSyncedAt": "2026-11-13",
-  "canvasInsightsSyncedTs": "2026-11-13T09:22:42+08:00"
+  "canvasInsightsSyncedAt": "2026-11-15",
+  "canvasInsightsSyncedTs": "2026-11-15T00:52:29+08:00"
 }
