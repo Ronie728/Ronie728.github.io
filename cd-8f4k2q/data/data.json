@@ -1178,6 +1178,21 @@
   ],
   "emails": [
     {
+      "id": "e126",
+      "category": "notice",
+      "needsReply": false,
+      "sender": "EN1002 课程（Canvas 公告）",
+      "senderEmail": "notifications@instructure.com",
+      "subject": "Homework 1 & 2 for this week: EN1002 English Enhancement Course for Bachelor's degree Students (1080)",
+      "snippet": "EN1002 本周 Homework 1&2，11/16 周一 14:00 上课前完成",
+      "body": "EN1002 English Enhancement Course 任课教师在 Canvas 发布课程公告（11 月 15 日周日上午），要求本周的 Homework 1 与 Homework 2 在「下次上课前」完成，公告原文只有一句：Please complete the homework tasks before class tomorrow。\n\n该课程在 Canvas 上没有对应作业条目（作业列表为空），说明这两份作业是课堂/教材任务，不需要在 Canvas 在线提交，也没有在线截止时间戳。\n\n时间：EN1002 每周一 14:00–16:50 上课，课室 AC3-314，因此「明天上课前」即 11 月 16 日（周一）14:00 前。\n\n要你做什么：今晚或明早把 Homework 1、Homework 2 做完并带去课上；公告未写具体题号与范围，若不确定范围，可在课前向任课教师 Jennifer Hirst 确认。",
+      "eventTime": "2026-11-16T14:00:00+08:00",
+      "location": "AC3-314（EN1002 周一课室）",
+      "time": "11月16日（周一）14:00 上课前完成",
+      "receivedAt": "2026-11-15T11:50:00+08:00",
+      "mailUrl": "https://cityu-dg.instructure.com/courses/884/discussion_topics/4521"
+    },
+    {
       "id": "e125",
       "category": "activity",
       "needsReply": false,
