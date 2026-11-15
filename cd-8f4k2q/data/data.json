@@ -1090,6 +1090,15 @@
       "source": "School email"
     },
     {
+      "id": "note:email_sync:20261115",
+      "type": "notice",
+      "title": "Email sync unavailable on Nov 15",
+      "summary": "QQ Mail offline - reconnect to sync campus mail",
+      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
+      "meta": "Nov 15, 2026",
+      "source": "CampusDesk afternoon sync"
+    },
+    {
       "id": "cv:884:4418",
       "type": "notice",
       "title": "Next Class",
@@ -1099,6 +1108,17 @@
       "source": "Canvas · EN1002",
       "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/884/discussion_topics/4418",
       "postedAt": "None"
+    },
+    {
+      "id": "cv:884:4521",
+      "type": "notice",
+      "title": "Homework 1 & 2 for this week",
+      "summary": "Please complete the homework tasks before class tomorrow",
+      "detail": "Please complete the homework tasks before class tomorrow",
+      "meta": "EN1002",
+      "source": "Canvas · EN1002",
+      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/884/discussion_topics/4521",
+      "postedAt": "2026-11-15"
     },
     {
       "id": "cv:936:4474",
@@ -1154,15 +1174,6 @@
       "source": "Canvas · DSC1001",
       "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
       "postedAt": "2026-11-03"
-    },
-    {
-      "id": "note:email_sync:20261115",
-      "type": "notice",
-      "title": "Email sync unavailable on Nov 15",
-      "summary": "QQ Mail offline - reconnect to sync campus mail",
-      "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 15, 2026",
-      "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
@@ -2578,5 +2589,5 @@
     }
   ],
   "canvasInsightsSyncedAt": "2026-11-15",
-  "canvasInsightsSyncedTs": "2026-11-15T00:52:29+08:00"
+  "canvasInsightsSyncedTs": "2026-11-15T12:31:17+08:00"
 }
