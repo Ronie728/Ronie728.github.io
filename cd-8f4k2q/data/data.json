@@ -1072,24 +1072,6 @@
   ],
   "notes": [
     {
-      "id": "note:laundry-convention:20261108",
-      "type": "notice",
-      "title": "Laundry Room Convention draft: feedback closes tonight",
-      "summary": "Tonight 24:00: send feedback on the laundry room convention",
-      "detail": "The Hall Tutor office has released the Laundry Room Convention (draft) together with the questionnaire results, and is collecting student feedback until 24:00 tonight (Nov 8). Read the draft in the original email and send your comments through the channel given there if you want the rules changed.",
-      "meta": "Nov 8, 2026",
-      "source": "School email"
-    },
-    {
-      "id": "note:volunteer-hours-sign:20261108",
-      "type": "notice",
-      "title": "Volunteer-hour backfill: sign the sheet today",
-      "summary": "By today: sign volunteer-hour backfill sheet at 12A lobby",
-      "detail": "The Student Union is backfilling volunteer service hours into the i-Volunteer record. Go to the ground floor of dorm 12A before the end of today (Nov 8) to check your name and sign the sheet yourself - the desk is unattended, so no one will remind you.",
-      "meta": "Nov 8, 2026",
-      "source": "School email"
-    },
-    {
       "id": "note:email_sync:20261115",
       "type": "notice",
       "title": "Email sync unavailable on Nov 15",
@@ -1132,15 +1114,15 @@
       "postedAt": "2026-11-11"
     },
     {
-      "id": "cv:790:4470",
+      "id": "cv:790:4388",
       "type": "quiz",
       "title": "In-Class Quiz Reminder",
       "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! This is a kind reminder that we will have our 6th in-class quiz tomorrow (11th). The quiz will be distributed in the lecture (i.e., printed questions). The quiz will cover NumPy arrays and part of tomorrow's lecture material in the first hour. The quiz consists of 10 multiple-choice questions, and the duration is 30 minutes. The quiz will be closed-book, and all answers must be in English. best, Bowen Tan",
+      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
       "meta": "DSC1001",
       "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.comhttps://cityu-dg.instructure.com/courses/790/discussion_topics/4470",
-      "postedAt": "2026-11-10"
+      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
+      "postedAt": "2026-11-03"
     },
     {
       "id": "cv:909:4465",
@@ -1163,17 +1145,6 @@
       "source": "Canvas · PHY1201",
       "href": "https://cityu-dg.instructure.com/courses/759/discussion_topics/4406",
       "postedAt": "2026-11-05"
-    },
-    {
-      "id": "cv:790:4388",
-      "type": "quiz",
-      "title": "In-Class Quiz Reminder",
-      "summary": "Dear students, I hope this email finds you well!",
-      "detail": "Dear students, I hope this email finds you well! I am writing to remind you that we will have our fifth in-class quiz in tomorrow's class (Nov. 3rd). This quiz will test your skills using Python for simple data exploratory analysis tasks and machine learning training and evaluation. Please bring your fully-charged laptop to class, and make sure you can run Python code and open .csv/.xlsx file on your laptop. You may expect questions similar to those you found in previous tutorials and slides. Note that this quiz is closed book. best, Bowen Tan",
-      "meta": "DSC1001",
-      "source": "Canvas · DSC1001",
-      "href": "https://cityu-dg.instructure.com/courses/790/discussion_topics/4388",
-      "postedAt": "2026-11-03"
     }
   ],
   "emails": [
