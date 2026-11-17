@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "source": "lectures: SIS View My Classes (Semester A 2026/27) 逐条核对；assignments: Canvas cityu-dg.instructure.com API 真实同步；emails: QQ 邮箱学校账号摘要；files/quizzes: Canvas API 真实同步（课程文件 + 测验）",
   "lectures": [
     {
@@ -894,6 +894,16 @@
       "canvasUrl": "https://cityu-dg.instructure.com/courses/759/assignments/3877"
     },
     {
+      "id": "cv_3145",
+      "course": "EN 1002 · English Enhancement Course for Bachelor's degree Students",
+      "title": "Final Presentation",
+      "due": "2026-11-29T23:59:59+08:00",
+      "points": 45,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/884/assignments/3145",
+      "dueTime": "23:59"
+    },
+    {
       "id": "cv_3319",
       "course": "IP 1901 · 习近平新时代中国特色社会主义思想概论",
       "title": "课堂参与一",
@@ -933,6 +943,16 @@
       "requirement": "任选一种信息化作战平台（如歼-20、055 驱逐舰等），简述其主要信息化装备，并说明这些信息化能力对作战带来的改变。要求：认真阅读答题要求、按时上传作业；要点齐全、逻辑通顺、分析有深度。以文件上传方式提交至 Canvas，截止 2026-12-04 23:59。",
       "requirementSource": "Canvas 同步",
       "canvasPath": "Canvas → ME1921 → Assignments → 军事理论课第二次作业"
+    },
+    {
+      "id": "cv_3144",
+      "course": "EN 1002 · English Enhancement Course for Bachelor's degree Students",
+      "title": "Reflective Report",
+      "due": "2026-12-06T23:59:59+08:00",
+      "points": 15,
+      "status": "pending",
+      "canvasUrl": "https://cityu-dg.instructure.com/courses/884/assignments/3144",
+      "dueTime": "23:59"
     },
     {
       "id": "cv_3543",
@@ -1138,31 +1158,16 @@
       "postedAt": "2026-11-05"
     },
     {
-      "id": "note:email_sync:20261116",
+      "id": "note:email_sync:20261117",
       "type": "notice",
-      "title": "Email sync unavailable on Nov 16",
+      "title": "Email sync unavailable on Nov 17",
       "summary": "QQ Mail offline - reconnect to sync campus mail",
       "detail": "This afternoon's campus mail check did not run because the QQ Mail connector is not connected; only the agent mailbox was reachable and it holds no campus mail. Canvas assignments and quizzes were synced normally. Reconnect the QQ Mail account in the connector settings and re-run the sync to pick up new school email.",
-      "meta": "Nov 16, 2026",
+      "meta": "Nov 17, 2026",
       "source": "CampusDesk afternoon sync"
     }
   ],
   "emails": [
-    {
-      "id": "e126",
-      "category": "notice",
-      "needsReply": false,
-      "sender": "EN1002 课程（Canvas 公告）",
-      "senderEmail": "notifications@instructure.com",
-      "subject": "Homework 1 & 2 for this week: EN1002 English Enhancement Course for Bachelor's degree Students (1080)",
-      "snippet": "EN1002 本周 Homework 1&2，11/16 周一 14:00 上课前完成",
-      "body": "EN1002 English Enhancement Course 任课教师在 Canvas 发布课程公告（11 月 15 日周日上午），要求本周的 Homework 1 与 Homework 2 在「下次上课前」完成，公告原文只有一句：Please complete the homework tasks before class tomorrow。\n\n该课程在 Canvas 上没有对应作业条目（作业列表为空），说明这两份作业是课堂/教材任务，不需要在 Canvas 在线提交，也没有在线截止时间戳。\n\n时间：EN1002 每周一 14:00–16:50 上课，课室 AC3-314，因此「明天上课前」即 11 月 16 日（周一）14:00 前。\n\n要你做什么：今晚或明早把 Homework 1、Homework 2 做完并带去课上；公告未写具体题号与范围，若不确定范围，可在课前向任课教师 Jennifer Hirst 确认。",
-      "eventTime": "2026-11-16T14:00:00+08:00",
-      "location": "AC3-314（EN1002 周一课室）",
-      "time": "11月16日（周一）14:00 上课前完成",
-      "receivedAt": "2026-11-15T11:50:00+08:00",
-      "mailUrl": "https://cityu-dg.instructure.com/courses/884/discussion_topics/4521"
-    },
     {
       "id": "e125",
       "category": "activity",
@@ -1339,7 +1344,7 @@
       "questionCount": 5,
       "url": "https://cityu-dg.instructure.com/courses/790/quizzes/1171",
       "attempted": true,
-      "score": 0,
+      "score": null,
       "status": "pending_review",
       "submittedAt": "2026-09-16T13:03:24Z",
       "questions": []
@@ -1353,7 +1358,7 @@
       "questionCount": 15,
       "url": "https://cityu-dg.instructure.com/courses/790/quizzes/1208",
       "attempted": true,
-      "score": 2,
+      "score": null,
       "status": "pending_review",
       "submittedAt": "2026-10-21T13:12:35Z",
       "questions": []
@@ -1367,7 +1372,7 @@
       "questionCount": 9,
       "url": "https://cityu-dg.instructure.com/courses/790/quizzes/1221",
       "attempted": true,
-      "score": 0,
+      "score": null,
       "status": "pending_review",
       "submittedAt": "2026-11-04T13:27:06Z",
       "questions": []
@@ -2079,8 +2084,8 @@
       ]
     }
   ],
-  "canvasSyncedAt": "2026-11-16",
-  "canvasSyncedTs": "2026-11-16T13:20:44+08:00",
+  "canvasSyncedAt": "2026-11-17",
+  "canvasSyncedTs": "2026-11-17T13:02:32+08:00",
   "canvasTokenExpiresAt": "2026-12-14",
   "syllabus": [
     {
